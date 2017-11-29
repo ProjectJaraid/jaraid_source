@@ -144,7 +144,8 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <tei:change when="2016-11-11">Added the <tei:att>xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+         <change when="2017-10-30" who="#pTG" type="xml">Added a new column with automatically generated <gi>biblStruct</gi> containing structured bibliographic data that can be used for further processing to every row.</change>
+         <tei:change when="2016-11-11" who="#pTG" type="xml">Added the <tei:att>xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2015-07-21" who="#pTG" type="xml" xml:lang="en">Made corrections to the TEI and moved all introductory material to the <gi xml:lang="en">front</gi>.</change>
          <change when="2015-05-21" who="#pTG" xml:lang="en">added digital holdings for <ref target="#t1r379" xml:lang="en">t1r379</ref>
          </change>
