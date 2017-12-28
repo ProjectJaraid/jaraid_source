@@ -18369,6 +18369,27 @@
                   <cell n="9" xml:lang="en">
                      <rs ref="#hBNF" xml:lang="en">BnF</rs>.</cell>
                </row>
+							 <row xml:id="t1r861" n="xxx" resp="#pAM" role="data" xml:lang="en">
+  						 		<cell n="1">
+     								<date when="1339">1339</date>
+  								</cell>
+  								<cell n="2"></cell>
+  								<cell n="3"><date when="1339">1339</date></cell>
+  								<cell n="4">
+     								<name>Al-Ḥaqq Yaʿlū</name>
+  								</cell>
+  								<cell n="5">
+     								<placeName>Maʿn,</placeName><placeName> ʿAmmān </placeName/>
+  								</cell>
+  								<cell n="6">
+     								<persName>ʿAbd al-Laṭīf Shukr</persName>
+  								</cell>
+  								<cell n="7"> handwritten; only six issues</cell>
+  								<cell n="8">issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
+										fī ʿAhd al-Imāra, 1921-1946” PhD thesis, Jāmiʿat al-Qaddīs Yūsuf, Beirut, 1999</cell>
+  								<cell n="9">
+										<rs ref="#hUJ" xml:lang="en">UJ</rs> (one issue, 27 Jumādī al-Thānī 1339).</cell>
+								</row>
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
