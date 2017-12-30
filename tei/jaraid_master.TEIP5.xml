@@ -19186,6 +19186,14 @@
                      </choice>. Provides access to inter-library loan of microfilms as well as
                      digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3" xml:lang="en">collection</ref> is restricted to
                      member institutions.</p>
+                  <p xml:id="hUJ" xml:lang="en">
+                     <note xml:lang="en">
+                        <date when="2017-12-30"/>added</note>
+                     <choice xml:lang="en">
+                        <abbr xml:lang="en">UJ</abbr>
+                        <expan xml:lang="en">University of Jordan Main Library</expan>
+                     </choice>
+                  </p>
                </div>
             </div>
          </div>
