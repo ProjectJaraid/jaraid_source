@@ -141,6 +141,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2017-12-31" who="#pAM" xml:lang="en">adds holding institution DMW </change>
          <change when="2017-12-30" who="#pAM" xml:lang="en">adds holding institution UJ </change>
          <change when="2017-12-29" who="#pAM" xml:lang="en">adds <ref target="#t1r861" xml:lang="en">t1r861</ref></change>
 				<change when="2017-12-10" who="#pAM" xml:lang="en">adds HARV holdings for <ref target="#t1r100" xml:lang="en">t1r100</ref></change>
