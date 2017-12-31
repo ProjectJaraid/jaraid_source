@@ -19195,6 +19195,14 @@
                         <expan xml:lang="en">University of Jordan Main Library</expan>
                      </choice>
                   </p>
+                  <p xml:id="hDMW" xml:lang="en">
+                     <note xml:lang="en">
+                        <date when="2017-12-31"/>added</note>
+                     <choice xml:lang="en">
+                        <abbr xml:lang="en">DMW</abbr>
+                        <expan xml:lang="en">Dāʾirat al-Maktaba al-Waṭaniyya, al-Urdun (Administration of National Library, Jordan)</expan>
+                     </choice>
+                  </p>
                </div>
             </div>
          </div>
