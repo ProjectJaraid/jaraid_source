@@ -2542,7 +2542,7 @@
                   <cell n="9" xml:lang="en">
                      <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>,
                         <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hDKQM" xml:lang="en">DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4"/>
-                     </rs>, <rs ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hPUL" xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>
+                        </rs>, <rs ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hDMW" xml:lang="en">DMW</rs>: 1877-1930s (with gaps), <rs ref="#hPUL" xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>
                   </cell>
                </row>
                <row n="106" role="data" xml:id="t1r106" xml:lang="en">
