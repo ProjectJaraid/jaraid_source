@@ -141,6 +141,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2018-01-04" who="#pAM" xml:lang="en"> adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
          <change when="2017-12-31" who="#pAM" xml:lang="en">adds holding institution DMW </change>
          <change when="2017-12-30" who="#pAM" xml:lang="en">adds holding institution UJ </change>
          <change when="2017-12-29" who="#pAM" xml:lang="en">adds <ref target="#t1r861" xml:lang="en">t1r861</ref></change>
@@ -2470,7 +2471,7 @@
                   <cell n="8"/>
                   <cell n="9" xml:lang="en">
                      <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: full collection (almost complete), <rs ref="#hBNF" xml:lang="en">BnF</rs> (1881-1883; 1938-), <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hTET" xml:lang="en">Tet</rs>, <rs ref="#hBNA" xml:lang="en">BnA</rs>, <rs ref="#hLOC" xml:lang="en">LoC</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>:
-                     holdings unclear; <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1889-1893, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hHARV" xml:lang="en">Harv: 1876-1939 microfilm</rs>
+                     holdings unclear; <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1889-1893, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1876-1939 microfilm, <rs ref="#hBIBAL" xml:lang="en">BIBAL</rs>: microfilm full collection.
                   </cell>
                </row>
                <row n="102" role="data" xml:id="t1r102" xml:lang="en">
@@ -8219,7 +8220,7 @@
                   </cell>
                   <cell n="9" xml:lang="en">
                      <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?,
-                        <rs ref="#hLOC" xml:lang="en">LOC</rs>, available as digitized copy on CD at <rs ref="#hBIBAL" xml:lang="en">BibAlex</rs>, and at <ref target="http://catalog.hathitrust.org/Record/000638242" xml:lang="en">HathiTrust</ref>.</cell>
+                     <rs ref="#hLOC" xml:lang="en">LOC</rs>,  <rs ref="#hDMW" xml:lang="en">DMW</rs>, available as digitized copy on CD at <rs ref="#hBIBAL" xml:lang="en">BibAlex</rs>, and at <ref target="http://catalog.hathitrust.org/Record/000638242" xml:lang="en">HathiTrust</ref>.</cell>
                </row>
                <row n="376" role="data" xml:id="t1r376" xml:lang="en">
                   <cell n="1" xml:lang="en">
