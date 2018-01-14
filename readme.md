@@ -39,3 +39,8 @@ Notes:
 
 One can quickly view the most current data using <rawgit.com> and XSLT 1 transformations in a web browser. To do so click [here](https://rawgit.com/ProjectJaraid/jaraid_source/master/tei/jaraid_master.TEIP5.xml).
 
+---
+author: Adam Mestyan
+date: 2018-01-13
+---
+Documentation of changes within the source file is not necessary since github commits document the changes. Agreed between Adam Mestyan and Till Grallert in January 2018.
