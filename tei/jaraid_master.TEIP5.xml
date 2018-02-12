@@ -18378,7 +18378,7 @@
                   <cell n="9" xml:lang="en">
                      <rs ref="#hBNF" xml:lang="en">BnF</rs>.</cell>
                </row>
-							 <row xml:id="t1r861" n="xxx" resp="#pAM" role="data" xml:lang="en">
+							 <row xml:id="t1r861" n="861" resp="#pAM" role="data" xml:lang="en">
   						 		<cell n="1">
      								<date when="1920">1920</date>
   								</cell>
@@ -18400,6 +18400,26 @@
   								<cell n="9">
 										<rs ref="#hUJ" xml:lang="en">UJ</rs> (one issue, 27 Jumādī al-Thānī 1339).</cell>
 								</row>
+               <row xml:id="t1r862" n="862" role="data" resp="#pAM">
+                  <cell n="1">
+                     <date when="1900">1900</date>
+                  </cell>
+                  <cell n="2">September/11</cell>
+                  <cell n="3"><date when="?">?</date></cell>
+                  <cell n="4">
+                     <name>Heliopolis - ʿAyn Shams</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Cairo</placeName>
+                  </cell>
+                  <cell n="6">
+                     ed. by <persName>Claudius J. Labib</persName>
+                  </cell>
+                  <cell n="7">Coptic journal, Arabic, Coptic, English</cell>
+                  <cell n="8">source</cell>
+                  <cell n="9">
+                     <rs ref="#hBL" xml:lang="en">BL</rs> </cell>
+               </row>
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
