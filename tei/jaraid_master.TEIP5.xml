@@ -145,6 +145,21 @@
                </list></p>
          </editorialDecl>
       </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="ar">Arabic</language>
+            <language ident="ar-Latn">Arabic in Latin (IJMES) transliteration</language>
+            <language ident="tr">Turkish</language>
+            <language ident="ota">Ottoman Turkish</language>
+            <language ident="ota-Latn">Ottoman Turkish in Latin (IJMES) transliteration</language>
+            <language ident="pr">Persian</language>
+            <language ident="pr-Latn">Persian in Latin (IJMES) transliteration</language>
+            <language ident="gr">German</language>
+            <language ident="fr">French</language>
+            <language ident="it">Italian</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
          <change when="2018-01-04" who="#pAM" xml:lang="en"> adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
          <change when="2017-12-31" who="#pAM" xml:lang="en">adds holding institution DMW </change>
