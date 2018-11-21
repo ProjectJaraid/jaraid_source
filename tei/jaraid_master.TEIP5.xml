@@ -854,13 +854,12 @@
                   <cell n="6" xml:lang="en">
                      <orgName xml:lang="en">Al-Jamʿiyya al-Sūriyya li’l-Iktisāb al-ʿUlūm wa’l-Funūn</orgName>
                   </cell>
-                  <cell n="7"/>
-                  <cell n="8" xml:lang="en">
-                     <add resp="#pHA" xml:lang="en">later changed into <orgName xml:lang="en">al-Jam'iyya al-Sūriyya li'l-funūn
-                           wa'l-ʿulūm</orgName>, officers were elected on 6 January 1852, the first
-                        volume was later printed at the American Board of Commissioners for Foreign
-                        Missions' press in Beirut</add>
-                  </cell>
+                  <cell n="7"><add resp="#pHA" xml:lang="en">later changed into <orgName
+                                    xml:lang="en">al-Jam'iyya al-Sūriyya li'l-funūn
+                                    wa'l-ʿulūm</orgName>, officers were elected on 6 January 1852,
+                                the first volume was later printed at the American Board of
+                                Commissioners for Foreign Missions' press in Beirut</add></cell>
+                  <cell n="8" xml:lang="en"> </cell>
                   <cell n="9" xml:lang="en">
                      <rs ref="#hBL" xml:lang="en">BL</rs>?, 1852, 1868-79 issues reprinted by <bibl xml:lang="en">Yusuf Q. Khuri
                         (Beirut: Dar al-Hamra',1990)</bibl>, <add resp="#pHA" xml:lang="en">
