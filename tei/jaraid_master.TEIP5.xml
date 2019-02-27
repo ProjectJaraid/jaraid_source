@@ -122,8 +122,7 @@
                from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
-            <p xml:lang="en">For transscribing the Arabic titles of periodicals and the names of the publishers
-               etc., the IJMES paradigm was used.</p>
+            <p xml:lang="en">This project uses the IJMES standards for Arabic transccription.</p>
             <p xml:lang="en">New entries should be made using copies of the model entry at the end of the first
                table (<tag xml:lang="en">table xml:id="t1"</tag>).</p>
             <p xml:lang="en">All changes, additions, etc. should be marked with <att xml:lang="en">resp</att> and a reference to
@@ -161,7 +160,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-01-04" who="#pAM" xml:lang="en"> adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
+         <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
+         <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
          <change when="2017-12-31" who="#pAM" xml:lang="en">adds holding institution DMW </change>
          <change when="2017-12-30" who="#pAM" xml:lang="en">adds holding institution UJ </change>
          <change when="2017-12-29" who="#pAM" xml:lang="en">adds <ref target="#t1r861" xml:lang="en">t1r861</ref></change>
@@ -1169,31 +1169,7 @@
                      <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hNEST" xml:lang="en">NEST: 1863-66</rs>
                   </cell>
                </row>
-               <row n="32" role="data" xml:id="t1r32" xml:lang="en">
-                  <cell n="1" xml:lang="en">
-                     <date when="1863" xml:lang="en">1863</date>
-                  </cell>
-                  <cell n="2"/>
-                  <cell n="3" xml:lang="en">
-                     <date when="1871" xml:lang="en">1871</date>
-                  </cell>
-                  <cell n="4" xml:lang="en">
-                     <name xml:lang="en">Ha Dôver</name>
-                  </cell>
-                  <cell n="5" xml:lang="en">
-                     <placeName xml:lang="en">Baghdad</placeName>
-                  </cell>
-                  <cell n="6" xml:lang="en">
-                     <persName xml:lang="en">Rabbi Barūch Mosheh Mizraḥī</persName>
-                  </cell>
-                  <cell n="7" xml:lang="en">
-                     <lang xml:lang="en">Judeo-Arabic</lang>
-                  </cell>
-                  <cell n="8" xml:lang="en">
-                     <rs ref="#ags" xml:lang="en">S</rs>
-                  </cell>
-                  <cell n="9"/>
-               </row>
+             
                <row n="33" role="data" xml:id="t1r33" xml:lang="en">
                   <cell n="1" xml:lang="en">
                      <date when="1863" xml:lang="en">1863</date>
@@ -1959,13 +1935,14 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en">
-                     <name xml:lang="en">Al-Nafʿ al-ʿAzīm li-Ahl hadha ’l-Iqlīm</name>
+                     <name xml:lang="en">Al-Nafʿ al-ʿAzīm li-Ahl hādha ’l-Iqlīm</name>
                   </cell>
                   <cell n="5" xml:lang="en">
                      <placeName xml:lang="en">Lahore</placeName>
                   </cell>
-                  <cell n="6"/>
-                  <cell n="7" xml:lang="en">1873?</cell>
+                  <cell n="6">
+                     <persName xml:lang="en">Shams al-Dīn, al-Shaykh al-Malwī Muqarrib ‘Alī</persName>,<persName xml:lang="en"> Dr G.W. Leitner </persName></cell> 
+                  <cell n="7" xml:lang="en">1873</cell>
                   <cell n="8" xml:lang="en">
                      <rs ref="#ags" xml:lang="en">S</rs>
                   </cell>
@@ -3947,25 +3924,7 @@
                   </cell>
                   <cell n="9"/>
                </row>
-               <row n="170" role="data" xml:id="t1r170" xml:lang="en">
-                  <cell n="1" xml:lang="en">
-                     <date when="1880" xml:lang="en">1880</date>
-                  </cell>
-                  <cell n="2"/>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="en">
-                     <name xml:lang="en">Al-Nafʿ al-ʿAzīm</name>
-                  </cell>
-                  <cell n="5" xml:lang="en">
-                     <placeName xml:lang="en">Punjab</placeName>
-                  </cell>
-                  <cell n="6" xml:lang="en">
-                     <persName xml:lang="en">Dr. Layntz</persName>
-                  </cell>
-                  <cell n="7"/>
-                  <cell n="8"/>
-                  <cell n="9"/>
-               </row>
+
                <row n="171" role="data" xml:id="t1r171" xml:lang="en">
                   <cell n="1" xml:lang="en">
                      <date when="1880-12-31" xml:lang="en">1880</date>
@@ -11899,7 +11858,7 @@
                      <name xml:lang="en">Maguid Micharim</name>
                   </cell>
                   <cell n="5" xml:lang="en">
-                     <placeName xml:lang="en">Wahran, <placeName xml:lang="en">
+                     <placeName xml:lang="en">Oran, <placeName xml:lang="en">
                            <country xml:lang="en">Algeria</country>
                         </placeName>
                      </placeName>
@@ -18368,7 +18327,7 @@
                   <cell n="8"/>
                   <cell n="9"/>
                </row>
-               <row n="850" resp="#pDN #pAM" role="data" when="2015-01-24" xml:id="t1r850" xml:lang="en">
+               <row n="850" resp="#pDN #pAM" role="data" xml:id="t1r850" xml:lang="en">
                   <cell n="1" xml:lang="en">
                      <date notAfter="1861-08-31" notBefore="1860-08-01" xml:lang="en">1860</date>
                   </cell>
@@ -18431,9 +18390,104 @@
                      ed. by <persName>Claudius J. Labib</persName>
                   </cell>
                   <cell n="7">Coptic journal, Arabic, Coptic, English</cell>
-                  <cell n="8">source</cell>
+                  <cell n="8"></cell>
                   <cell n="9">
                      <rs ref="#hBL" xml:lang="en">BL</rs> </cell>
+               </row>
+               <row xml:id="t1r863" n="863" role="data" resp="#pAM" when="27-02-2019">
+                  <cell n="1">
+                     <date when="1878">1878</date>
+                  </cell>
+                  <cell n="2"></cell>
+                  <cell n="3"><date when="1878">?</date></cell>
+                  <cell n="4">
+                     <name>Ḥadīqat al-Akhbār</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Bombay</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName>?</persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">S</cell>
+                  <cell n="9">?</cell>
+               </row>
+               <row xml:id="t1r864" n="864" role="data" resp="#pAM" when="27-02-2019">
+                  <cell n="1">
+                     <date when="1881">1881</date>
+                  </cell>
+                  <cell n="2"></cell>
+                  <cell n="3">?</cell>
+                  <cell n="4">
+                     <name>Shams al-Akhbār</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Madras</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName>?</persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">S</cell>
+                  <cell n="9"></cell>
+               </row>
+               <row xml:id="t1r865" n="865" role="data" resp="#pAM" when="27-02-2019">
+                  <cell n="1">
+                     <date when="1895">1895</date>
+                  </cell>
+                  <cell n="2"></cell>
+                  <cell n="3"></cell>
+                  <cell n="4">
+                     <name>Zaynat al-Nisāʾ</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>India</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName></persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">S</cell>
+                  <cell n="9"></cell>
+               </row>
+               <row xml:id="t1r866" n="866" role="data" resp="#pAM" when="27-02-2019">
+                  <cell n="1">
+                     <date when="1875">1875</date>
+                  </cell>
+                  <cell n="2"></cell>
+                  <cell n="3"><date when="1887">1887</date></cell>
+                  <cell n="4">
+                     <name> Shifāʾ al-udūr</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Lahore</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName>Mawlānā Fayḍ al-Ḥasan Sahāranpūrī</persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">S</cell>
+                  <cell n="9"></cell>
+               </row>
+               <row xml:id="t1r867" n="867" role="data" resp="#pAM" when="27-02-2019">
+                  <cell n="1">
+                     <date when="1875">1875</date>
+                  </cell>
+                  <cell n="2"></cell>
+                  <cell n="3"></cell>
+                  <cell n="4">
+                     <name>Maẓla‘ al-‘Ulūm wa-Manba‘ Akhbār al-Hind wa’l-Rūm</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Bombay</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName>?</persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">S</cell>
+                  <cell n="9"></cell>
                </row>
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
