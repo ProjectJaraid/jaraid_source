@@ -150,13 +150,13 @@
          <langUsage>
             <language ident="en">English</language>
             <language ident="ar">Arabic</language>
-            <language ident="ar-Latn">Arabic in Latin (IJMES) transliteration</language>
+            <language ident="ar-Latn-x-ijmes">Arabic in Latin (IJMES) transliteration</language>
             <language ident="tr">Turkish</language>
             <language ident="ota">Ottoman Turkish</language>
-            <language ident="ota-Latn">Ottoman Turkish in Latin (IJMES) transliteration</language>
-            <language ident="pr">Persian</language>
-            <language ident="pr-Latn">Persian in Latin (IJMES) transliteration</language>
-            <language ident="gr">German</language>
+            <language ident="ota-Latn-x-ijmes">Ottoman Turkish in Latin (IJMES) transliteration</language>
+            <language ident="fa">Persian</language>
+            <language ident="fa-Latn-x-ijmes">Persian in Latin (IJMES) transliteration</language>
+            <language ident="de">German</language>
             <language ident="fr">French</language>
             <language ident="it">Italian</language>
          </langUsage>
