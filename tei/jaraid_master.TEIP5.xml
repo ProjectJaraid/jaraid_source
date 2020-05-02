@@ -96,7 +96,7 @@
                <persName xml:id="pNH" xml:lang="en">
                   <forename xml:lang="en">Nicole</forename>
                   <surname xml:lang="en">Khayat</surname>
-               
+               </persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
 
