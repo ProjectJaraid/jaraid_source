@@ -18472,6 +18472,28 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
+               <row xml:id="t1r868" n="868" role="data" resp="#pAM" when="2020-05-01">
+                  <cell n="1">
+                     <date when="1919">1919</date>
+                  </cell>
+                  <cell n="2">February 17</cell>
+                  <cell n="3"><date when="">1921</date></cell>
+                  <cell n="4">
+                     <name>Al-ʿĀṣima</name>
+                  </cell>
+                  <cell n="5">
+                     <placeName>Damascus</placeName>
+                  </cell>
+                  <cell n="6">
+                     <persName>?, (from mid-1919) Muḥibb al-Dīn al-Khatīb</persName>
+                  </cell>
+                  <cell n="7"></cell>
+                  <cell n="8">based on n.1.</cell>
+                  <cell n="9"><rs ref="#hAUB" xml:lang="en">AUB</rs></cell>
+               
+               
+               
+               
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
