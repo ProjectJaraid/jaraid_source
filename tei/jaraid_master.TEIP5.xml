@@ -32,6 +32,7 @@
                <persName xml:lang="en">Rana Issa</persName>
                <persName xml:lang="en">Rogier Visser</persName>
                <persName xml:lang="en">Marina Demetriadou</persName>
+               <persName xml:lang="en">Nicole Khayat</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -92,6 +93,9 @@
                   <forename xml:lang="en">Marina</forename>
                   <surname xml:lang="en">Demetriadou</surname>
                </persName>
+               <persName xml:id="pNH" xml:lang="en">
+                  <forename xml:lang="en">Nicole</forename>
+                  <surname xml:lang="en">Khayat</surname>
                
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
@@ -159,6 +163,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
             <change who="#pTG" when="2018-11-21">Deleted duplicate entry for <title level="j"
@@ -300,8 +305,8 @@
             <head xml:lang="en">A Research Tool</head>
 
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
-            <p xml:lang="en">and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
-               Issa, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Ola Seif, and
+            <p xml:lang="en">and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Nicole Hayat, Rana
+               Issa, Nicole Khayat, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Ola Seif, and
                Rogier Visser</p>
             <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:lang="en">TEI XML-Markup, digital publication, concept and design of the website by Till
@@ -1856,7 +1861,7 @@
                   <cell n="8" xml:lang="en">
                      <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>
                   </cell>
-                  <cell n="9" xml:lang="en">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>
+                  <cell n="9" xml:lang="en">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <ref target="https://books.google.co.il/books?id=j7pUAAAAcAAJ&printsec=frontcover&dq=Rau%E1%B8%8Dat+al-mad%C4%81ris&hl=en&sa=X&ved=0ahUKEwj56cihqIrcAhWFsxQKHaOCCnMQ6AEIJTAA#v=onepage&q=Rau%E1%B8%8Dat%20al-mad%C4%81ris&f=false">online vols.3-4</ref>
                   </cell>
                </row>
                <row n="68" role="data" xml:id="t1r68" xml:lang="en">
@@ -1881,7 +1886,7 @@
                      <rs ref="#ags" xml:lang="en">S</rs>
                   </cell>
                   <cell n="9" xml:lang="en">
-                     <rs ref="#hAUB" xml:lang="en">AUB</rs>
+                     <rs ref="#hAUB" xml:lang="en">AUB</rs>, <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101073251066;view=1up;seq=1">Hathitrust online</ref>
                   </cell>
                </row>
                <row n="70" role="data" xml:id="t1r70" xml:lang="en">
@@ -5369,7 +5374,7 @@
                   </cell>
                   <cell n="7"/>
                   <cell n="8"/>
-                  <cell n="9"/>
+                  <cell n="9"/> <rs ref="#hAUB">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/S50T11v1/index.html" xml:lang="eng">online</ref>
                </row>
                <row n="241" role="data" xml:id="t1r241" xml:lang="en">
                   <cell n="1" xml:lang="en">
@@ -6025,7 +6030,7 @@
                      <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>
                   </cell>
                   <cell n="9" xml:lang="en">
-                     <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
+                     <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/al-shifa/index.html" xm:lang="en">online</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
                         <rs ref="#hBS" xml:lang="en">BS</rs>: 1886-1888, <rs ref="#hAUC" xml:lang="en">AUC</rs>
                   </cell>
                </row>
@@ -8270,7 +8275,7 @@
                   <cell n="9" xml:lang="en">
                      <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hNYPL" xml:lang="en">NYPL</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBL" xml:lang="en">BL:
-                        1895</rs>, <rs ref="#hCRL" xml:lang="en">CRL: 1892-1896 <ref target="https://dds.crl.edu/crldelivery/19879" xml:lang="en">online</ref>
+                           1895</rs>, <rs xml:lang="en"> also <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/51" xml:lang="en">online</ref>
                      </rs>
                   </cell>
                </row>
@@ -14226,7 +14231,7 @@
                      <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs>
                   </cell>
                   <cell n="9" xml:lang="en">
-                     <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?</cell>
+                     <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, BnF: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/58" xml:lang="en">online</ref></cell>
                </row>
                <row n="661" role="data" xml:id="t1r661" xml:lang="en">
                   <cell n="1" xml:lang="en">
