@@ -151,13 +151,13 @@
          <langUsage>
             <language ident="en">English</language>
             <language ident="ar">Arabic</language>
-            <language ident="ar-Latn">Arabic in Latin (IJMES) transliteration</language>
+            <language ident="ar-Latn-x-ijmes">Arabic in Latin (IJMES) transliteration</language>
             <language ident="tr">Turkish</language>
             <language ident="ota">Ottoman Turkish</language>
-            <language ident="ota-Latn">Ottoman Turkish in Latin (IJMES) transliteration</language>
-            <language ident="pr">Persian</language>
-            <language ident="pr-Latn">Persian in Latin (IJMES) transliteration</language>
-            <language ident="gr">German</language>
+            <language ident="ota-Latn-x-ijmes">Ottoman Turkish in Latin (IJMES) transliteration</language>
+            <language ident="fa">Persian</language>
+            <language ident="fa-Latn-x-ijmes">Persian in Latin (IJMES) transliteration</language>
+            <language ident="de">German</language>
             <language ident="fr">French</language>
             <language ident="it">Italian</language>
          </langUsage>
@@ -18377,7 +18377,7 @@
                   <cell n="9">
                      <rs ref="#hBL" xml:lang="en">BL</rs> </cell>
                </row>
-               <row xml:id="t1r863" n="863" role="data" resp="#pAM" when="27-02-2019">
+               <row xml:id="t1r863" n="863" role="data" resp="#pAM" when="2019-02-27">
                   <cell n="1">
                      <date when="1878">1878</date>
                   </cell>
@@ -18396,7 +18396,7 @@
                   <cell n="8">S</cell>
                   <cell n="9">?</cell>
                </row>
-               <row xml:id="t1r864" n="864" role="data" resp="#pAM" when="27-02-2019">
+               <row xml:id="t1r864" n="864" role="data" resp="#pAM" when="2019-02-27">
                   <cell n="1">
                      <date when="1881">1881</date>
                   </cell>
@@ -18415,7 +18415,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
-               <row xml:id="t1r865" n="865" role="data" resp="#pAM" when="27-02-2019">
+               <row xml:id="t1r865" n="865" role="data" resp="#pAM" when="2019-02-27">
                   <cell n="1">
                      <date when="1895">1895</date>
                   </cell>
@@ -18434,14 +18434,14 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
-               <row xml:id="t1r866" n="866" role="data" resp="#pAM" when="27-02-2019">
+               <row xml:id="t1r866" n="866" role="data" resp="#pAM" when="2019-02-27">
                   <cell n="1">
                      <date when="1875">1875</date>
                   </cell>
                   <cell n="2"></cell>
                   <cell n="3"><date when="1887">1887</date></cell>
                   <cell n="4">
-                     <name> Shifāʾ al-udūr</name>
+                     <name>Shifāʾ al-udūr</name>
                   </cell>
                   <cell n="5">
                      <placeName>Lahore</placeName>
@@ -18453,7 +18453,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
-               <row xml:id="t1r867" n="867" role="data" resp="#pAM" when="27-02-2019">
+               <row xml:id="t1r867" n="867" role="data" resp="#pAM" when="2019-02-27">
                   <cell n="1">
                      <date when="1875">1875</date>
                   </cell>
