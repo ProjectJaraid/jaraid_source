@@ -18475,6 +18475,7 @@
                <row xml:id="t1r868" n="868" role="data" resp="#pAM" when="2020-05-01">
                   <cell n="1">
                      <date when="1919">1919</date>
+                     
                   </cell>
                   <cell n="2">February 17</cell>
                   <cell n="3"><date when="">1921</date></cell>
@@ -18490,7 +18491,26 @@
                   <cell n="7"></cell>
                   <cell n="8">based on n.1.</cell>
                   <cell n="9"><rs ref="#hAUB" xml:lang="en">AUB</rs></cell>
-               
+                  
+                  <row xml:id="t1869" n="869" role="data" resp="#AM" when="2020-05-02">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">April 24</cell>
+                     <cell n="3"><date when="">1916</date></cell>
+                     <cell n="4">
+                        <name>Majallat al-Aḥkām al-Sharʿiyya</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName></persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">based on vol.1, n.1 </cell>
+                     <cell n="9"><rs ref="#hPUL" xml:lang="en">Prin</rs></cell>
+                  </row>
                
                
                
