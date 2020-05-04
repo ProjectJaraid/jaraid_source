@@ -18512,7 +18512,25 @@
                      <cell n="9"><rs ref="#hPUL" xml:lang="en">Prin</rs></cell>
                   </row>
                
-               
+                  <row xml:id="t1r870" n="870" role="data" resp="#AM" when="2020-05-03">
+                     <cell n="1">
+                        <date when="">1901</date>
+                     </cell>
+                     <cell n="2">January/2</cell>
+                     <cell n="3"><date when="">?</date></cell>
+                     <cell n="4">
+                        <name>Ṣadā Lubnān</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>, from 1910 in <placeName>Jūniyya</placeNameJūniyya>
+                     </cell>
+                     <cell n="6">
+                        <persName>Sijʿān ʿĀrij</persName>
+                     </cell>
+                     <cell n="7">published until WWI?</cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"><rs ref="#hAUB" xml:lang="en">AUB</rs> (year 1913)</cell>
+                  </row>
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
