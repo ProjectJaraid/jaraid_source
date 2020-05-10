@@ -18795,6 +18795,345 @@
                      <cell n="9"></cell>
                   </row>
                   
+                  <row xml:id="t1r884" n="884" role="data" resp="#AM" when="2020-05-09">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">January/?</cell>
+                     <cell n="3"><date when="">?</date></cell>
+                     <cell n="4">
+                        <name>Al-Sihām</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Jūrj Isḥāq Yārid</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r885" n="885" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2"></cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Ṣūq al-ʿAṣr</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Aḥmad ʿAbbās</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r886" n="886" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">February/20</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Abū Zayd</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Jūrj Aṭānsiyādī</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r887" n="887" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">March/6</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Muṣawwar</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Khalīl Zaynīyya</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r888" n="888" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">March/16</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-ʿAjāʾib</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Amīn Fawzī</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r889" n="889" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">March/16</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-ʿUmrān</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>ʿAbd al-Masīḥ al-Anṭākī</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r890" n="890" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">April</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Rashīd</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Ibrāhīm Fahmī</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r891" n="891" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">May/9</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Ṣayyād</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Sayyid Aḥmad Muṣṭafā</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r892" n="892" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">June/1</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Maqsūd</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>ʿAbd al-Majīd Kāmil</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r893" n="893" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">July</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Taymz al-Miṣrī</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Sālim Sīdhum Tādrus</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r894" n="894" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">August/15</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Ḥaqāʾiq</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Qāsim Muḥammad</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r895" n="895" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">November</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Barīd al-Aḥad</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Yūsuf al-Khāzin</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r896" n="896" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">November/3</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Iksibrīs</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Tawfīq Ḥabīb</persName>
+                     </cell>
+                     <cell n="7">Al-Express</cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                  </row>
+                  
+                  <row xml:id="t1r897" n="897" role="data" resp="#AM" when="2020-05-09"">
+                     <cell n="1">
+                        <date when="">1902</date>
+                     </cell>
+                     <cell n="2">November/20</cell>
+                     <cell n="3"><date when=""></date></cell>
+                     <cell n="4">
+                        <name>Al-Kalima al-Ḥurra</name>
+                     </cell>
+                     <cell n="5">
+                        <placeName>Cairo</placeName>
+                     </cell>
+                     <cell n="6">
+                        <persName>Ibrāhīm Salīm Najjār</persName>
+                     </cell>
+                     <cell n="7"></cell>
+                     <cell n="8">Ṭ</cell>
+                     <cell n="9"></cell>
+                     
+                     <row xml:id="t1r898" n="898" role="data" resp="#AM" when="2020-05-09"">
+                        <cell n="1">
+                           <date when="">1902</date>
+                        </cell>
+                        <cell n="2">December/2</cell>
+                        <cell n="3"><date when=""></date></cell>
+                        <cell n="4">
+                           <name>Al-Ḥawādith</name>
+                        </cell>
+                        <cell n="5">
+                           <placeName>Cairo</placeName>
+                        </cell>
+                        <cell n="6">
+                           <persName>Amīn ʿAwwād</persName>
+                        </cell>
+                        <cell n="7"></cell>
+                        <cell n="8">Ṭ</cell>
+                        <cell n="9"></cell>
+                        
+                        <row xml:id="t1r899" n="899" role="data" resp="#AM" when="2020-05-09"">
+                           <cell n="1">
+                              <date when="">1902</date>
+                           </cell>
+                           <cell n="2">December</cell>
+                           <cell n="3"><date when=""></date></cell>
+                           <cell n="4">
+                              <name>Al-Farīq</name>
+                           </cell>
+                           <cell n="5">
+                              <placeName>Cairo</placeName>
+                           </cell>
+                           <cell n="6">
+                              <persName>ʿAlī ʿAlawī</persName>
+                           </cell>
+                           <cell n="7"></cell>
+                           <cell n="8">Ṭ</cell>
+                           <cell n="9"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r900" n="900" role="data" resp="#AM" when="2020-05-09"">
+                           <cell n="1">
+                              <date when="">1902</date>
+                           </cell>
+                           <cell n="2">December</cell>
+                           <cell n="3"><date when=""></date></cell>
+                           <cell n="4">
+                              <name>Al-Ḥurrīya</name>
+                           </cell>
+                           <cell n="5">
+                              <placeName>Cairo</placeName>
+                           </cell>
+                           <cell n="6">
+                              <persName>Maḥmūd Fahmī</persName>
+                           </cell>
+                           <cell n="7"></cell>
+                           <cell n="8">Ṭ</cell>
+                           <cell n="9"></cell>
+                        </row>
+                        
+                  
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
