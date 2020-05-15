@@ -18797,7 +18797,7 @@
                   
                   <row xml:id="t1r884" n="884" role="data" resp="#AM" when="2020-05-09">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">January/?</cell>
                      <cell n="3"><date when="">?</date></cell>
@@ -18817,7 +18817,7 @@
                   
                   <row xml:id="t1r885" n="885" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2"></cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18837,7 +18837,7 @@
                   
                   <row xml:id="t1r886" n="886" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">February/20</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18857,7 +18857,7 @@
                   
                   <row xml:id="t1r887" n="887" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">March/6</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18877,7 +18877,7 @@
                   
                   <row xml:id="t1r888" n="888" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">March/16</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18897,7 +18897,7 @@
                   
                   <row xml:id="t1r889" n="889" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">March/16</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18917,7 +18917,7 @@
                   
                   <row xml:id="t1r890" n="890" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">April</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18937,7 +18937,7 @@
                   
                   <row xml:id="t1r891" n="891" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">May/9</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18957,7 +18957,7 @@
                   
                   <row xml:id="t1r892" n="892" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">June/1</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18977,7 +18977,7 @@
                   
                   <row xml:id="t1r893" n="893" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">July</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -18997,7 +18997,7 @@
                   
                   <row xml:id="t1r894" n="894" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">August/15</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -19017,7 +19017,7 @@
                   
                   <row xml:id="t1r895" n="895" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">November</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -19037,7 +19037,7 @@
                   
                   <row xml:id="t1r896" n="896" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">November/3</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -19057,7 +19057,7 @@
                   
                   <row xml:id="t1r897" n="897" role="data" resp="#AM" when="2020-05-09"">
                      <cell n="1">
-                        <date when="">1902</date>
+                        <date when="1902">1902</date>
                      </cell>
                      <cell n="2">November/20</cell>
                      <cell n="3"><date when=""></date></cell>
@@ -19076,7 +19076,7 @@
                      
                      <row xml:id="t1r898" n="898" role="data" resp="#AM" when="2020-05-09"">
                         <cell n="1">
-                           <date when="">1902</date>
+                           <date when="1902">1902</date>
                         </cell>
                         <cell n="2">December/2</cell>
                         <cell n="3"><date when=""></date></cell>
@@ -19095,7 +19095,7 @@
                         
                         <row xml:id="t1r899" n="899" role="data" resp="#AM" when="2020-05-09"">
                            <cell n="1">
-                              <date when="">1902</date>
+                              <date when="1902">1902</date>
                            </cell>
                            <cell n="2">December</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19115,7 +19115,7 @@
                         
                         <row xml:id="t1r900" n="900" role="data" resp="#AM" when="2020-05-09"">
                            <cell n="1">
-                              <date when="">1902</date>
+                              <date when="1903">1902</date>
                            </cell>
                            <cell n="2">December</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19135,7 +19135,7 @@
                         
                         <row xml:id="t1r901" n="901" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">January</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19155,7 +19155,7 @@
                   
                         <row xml:id="t1r902" n="902" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">February/6</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19175,7 +19175,7 @@
                         
                         <row xml:id="t1r903" n="903" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19195,7 +19195,7 @@
                         
                         <row xml:id="t1r904" n="904" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">March</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19215,7 +19215,7 @@
                         
                         <row xml:id="t1r905" n="905" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">March</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19235,7 +19235,7 @@
                         
                         <row xml:id="t1r906" n="906" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">April/13</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19255,7 +19255,7 @@
                         
                         <row xml:id="t1r907" n="907" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">June/28</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19275,7 +19275,7 @@
                         
                         <row xml:id="t1r908" n="908" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">August</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19295,7 +19295,7 @@
                         
                         <row xml:id="t1r909" n="909" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">October/14</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19315,7 +19315,7 @@
                         
                         <row xml:id="t1r910" n="910" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">October/24</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19335,7 +19335,7 @@
                         
                         <row xml:id="t1r911" n="911" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">November/29</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19355,7 +19355,7 @@
                         
                         <row xml:id="t1r912" n="912" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19375,7 +19375,7 @@
                         
                         <row xml:id="t1r913" n="913" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">December/15</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19395,7 +19395,7 @@
                         
                         <row xml:id="t1r914" n="914" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">December/20</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19415,7 +19415,7 @@
                         
                         <row xml:id="t1r915" n="915" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2">December/20</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19435,7 +19435,7 @@
                         
                         <row xml:id="t1r916" n="916" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1903</date>
+                              <date when="1903">1903</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19455,7 +19455,7 @@
                         
                         <row xml:id="t1r917" n="917" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">January</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19475,7 +19475,7 @@
                         
                         <row xml:id="t1r918" n="918" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19495,7 +19495,7 @@
                         
                         <row xml:id="t1r919" n="919" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">January/31</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19515,7 +19515,7 @@
                         
                         <row xml:id="t1r920" n="920" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">February/26</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19535,7 +19535,7 @@
                         
                         <row xml:id="t1r921" n="921" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">March/1</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19555,7 +19555,7 @@
                         
                         <row xml:id="t1r922" n="922" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">March/16</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19575,7 +19575,7 @@
                         
                         <row xml:id="t1r923" n="923" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">March/18</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19595,7 +19595,7 @@
                         
                         <row xml:id="t1r924" n="924" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">April</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19615,7 +19615,7 @@
                         
                         <row xml:id="t1r925" n="925" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19635,7 +19635,7 @@
                         
                         <row xml:id="t1r926" n="926" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">April/23</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19655,7 +19655,7 @@
                         
                         <row xml:id="t1r927" n="927" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">May/22</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19675,7 +19675,7 @@
                         
                         <row xml:id="t1r928" n="928" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">May/29</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19695,7 +19695,7 @@
                         
                         <row xml:id="t1r929" n="929" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">July/8</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19715,7 +19715,7 @@
                         
                         <row xml:id="t1r930" n="930" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">July</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19735,7 +19735,7 @@
                         
                         <row xml:id="t1r931" n="931" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">August</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19755,7 +19755,7 @@
                         
                         <row xml:id="t1r932" n="932" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">September/4</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19775,7 +19775,7 @@
                         
                         <row xml:id="t1r933" n="933" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19795,7 +19795,7 @@
                         
                         <row xml:id="t1r934" n="934" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2">September</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19815,7 +19815,7 @@
                         
                         <row xml:id="t1r935" n="935" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19835,7 +19835,7 @@
                         
                         <row xml:id="t1r936" n="936" role="data" resp="#AM" when="2020-05-11"">
                            <cell n="1">
-                              <date when="">1904</date>
+                              <date when="1904">1904</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19855,7 +19855,7 @@
                         
                         <row xml:id="t1r937" n="937" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">January/5</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19875,7 +19875,7 @@
                         
                         <row xml:id="t1r938" n="938" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">January/8</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19895,7 +19895,7 @@
                         
                         <row xml:id="t1r939" n="939" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">February</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19915,7 +19915,7 @@
                         
                         <row xml:id="t1r940" n="940" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">February</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19935,7 +19935,7 @@
                         
                         <row xml:id="t1r941" n="941" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19955,7 +19955,7 @@
                         
                         <row xml:id="t1r942" n="942" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19975,7 +19975,7 @@
                         
                         <row xml:id="t1r943" n="943" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">April</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -19995,7 +19995,7 @@
                         
                         <row xml:id="t1r944" n="944" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20015,7 +20015,7 @@
                         
                         <row xml:id="t1r945" n="945" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">May/5</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20035,7 +20035,7 @@
                         
                         <row xml:id="t1r945" n="945" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20055,7 +20055,7 @@
                         
                         <row xml:id="t1r946" n="946" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">June/9</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20075,7 +20075,7 @@
                         
                         <row xml:id="t1r947" n="947" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20095,7 +20095,7 @@
                         
                         <row xml:id="t1r948" n="948" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">September/1</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20115,7 +20115,7 @@
                         
                         <row xml:id="t1r949" n="949" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">October/1</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20135,7 +20135,7 @@
                         
                         <row xml:id="t1r950" n="950" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">October/10</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20156,7 +20156,7 @@
                         
                         <row xml:id="t1r951" n="951" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">October/31</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20176,7 +20176,7 @@
                         
                         <row xml:id="t1r952" n="952" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2">November/28</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20196,7 +20196,7 @@
                         
                         <row xml:id="t1r953" n="953" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1905</date>
+                              <date when="1905">1905</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20209,14 +20209,14 @@
                            <cell n="6">
                               <persName>Qusṭandī Qusṭa</persName>
                            </cell>
-                           <cell n="7">cf. < xml:id:"t1r913">t1r913 </cell>
+                           <cell n="7">cf. <ref xml:id:"t1r913">t1r913</ref></cell>
                            <cell n="8">Ṭ</cell>
                            <cell n="9"></cell>
                         </row>
                         
                         <row xml:id="t1r954" n="954" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2">January/1</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20236,7 +20236,7 @@
                         
                         <row xml:id="t1r955" n="955" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2">January/1</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20256,7 +20256,7 @@
                        
                         <row xml:id="t1r956" n="956" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20276,7 +20276,7 @@
                         
                         <row xml:id="t1r957" n="957" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20296,7 +20296,7 @@
                         
                         <row xml:id="t1r958" n="958" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20316,7 +20316,7 @@
                         
                         <row xml:id="t1r959" n="959" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20336,7 +20336,7 @@
                         
                         <row xml:id="t1r960" n="960" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2">July</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20356,7 +20356,7 @@
                         
                         <row xml:id="t1r961" n="961" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2">July</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20376,7 +20376,7 @@
                         
                         <row xml:id="t1r962" n="962" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20396,7 +20396,7 @@
                         
                         <row xml:id="t1r962" n="962" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20416,7 +20416,7 @@
                         
                         <row xml:id="t1r963" n="963" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20436,7 +20436,7 @@
                         
                         <row xml:id="t1r964" n="964" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2"></cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20456,7 +20456,7 @@
                         
                         <row xml:id="t1r965" n="965" role="data" resp="#AM" when="2020-05-12"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906">1906</date>
                            </cell>
                            <cell n="2">December/23</cell>
                            <cell n="3"><date when=""></date></cell>
@@ -20474,28 +20474,366 @@
                            <cell n="9"></cell>
                         </row>
                         
-                        <row xml:id="t1r966" n="966" role="data" resp="#AM" when="2020-05-12"">
+                        <row xml:id="t1r966" n="966" role="data" resp="#AM" when="2020-05-12" xml:lang="en"">
                            <cell n="1">
-                              <date when="">1906</date>
+                              <date when="1906" xml:lang="en">1906</date>
                            </cell>
-                           <cell n="2">December/23</cell>
-                           <cell n="3"><date when=""></date></cell>
-                           <cell n="4">
-                              <name>Al-Kawkab al-Miṣrī</name>
+                           <cell n="2" xml:lang="en">December/23</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Kawkab al-Miṣrī</name>
                            </cell>
-                           <cell n="5">
-                              <placeName>Cairo</placeName>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
                            </cell>
-                           <cell n="6">
+                           <cell n="6" xml:lang="en">
                               <persName>George Nilkun de Wildberg</persName>
                            </cell>
-                           <cell n="7"></cell>
-                           <cell n="8">Ṭ</cell>
-                           <cell n="9"></cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
                         </row>
                         
                         
+                        <row xml:id="t1r967" n="967" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en"></cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Būrṣa</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>George Nilkun de Wildberg</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
                         
+                        <row xml:id="t1r968" n="968" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">January/17</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Dunyā al-Jadīda</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Aḥmad Nadīm</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r969" n="969" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en"></cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Ḥaqq al-Ṣarāḥ</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>ʿAbd al-ʿAzīz Mūsā</persName> and <persName>Maḥmūd Mūsā</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r970" n="970" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">January/31</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Shūrā al-ʿUthmānī</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Jamʿiyyat al-Shūrā al-ʿUthmānī</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r971" n="971" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">February</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Sharq</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Muḥammad Ḥilmī</persName> and <persName>Najīb Zakī</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r972" n="972" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">March/8</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Hā Hā Hā</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Muḥammad Masʿūd</persName> and <persName>Ḥāfiẓ ʿAwaḍ</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r973" n="973" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">March/9</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Jarīda</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Aḥmad Luṭfī al-Sayyid</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r974" n="974" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">April/6</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Timsāḥ</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>ʿAlī Shawqī</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r975" n="975" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en"></cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Dīk</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Fathī ʿAzmī</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r976" n="976" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">June/7</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Mirʾāt Turkiyā</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Muḥammad Ṣafā</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r977" n="977" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">August/10</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Ṣabʿa wa-Dhimmatuhā</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>ʿAlī Abū Zayd</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r978" n="978" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">August/12</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Asad al-Islāmī</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Sulaymān al-Bārūnī</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en">Al-Bārūnī is from Ṭrāblus Gharb, later MP in Ottoman parliament</cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r979" n="979" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en"></cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Khayyāl al-Ẓill</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Aḥmad Ḥāfiẓ ʿAwaḍ</persName> 
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r980" n="980" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">October</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Jāmiʿa al-Miṣriyya</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Mursī Muḥammad</persName> and <persName>Aḥmad Rāshid</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r981" n="981" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">November</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Siyāsa al-Muṣawwara</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>ʿAbd al-Ḥamīd Zakī</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en">Ṭ: from 1910 in Bologna</cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r982" n="982" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1907" xml:lang="en">1907</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">November</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Dustūr</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Muḥammad Farīd Wajdī</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
+                        
+                        <row xml:id="t1r983" n="983" role="data" resp="#AM" when="2020-05-14" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1908" xml:lang="en">1908</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">January</cell>
+                           <cell n="3" xml:lang="en"><date when="">1908</date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Nahḍa</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Cairo</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName>Ismāʿīl Ghaṣbarinskī</persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"><persName>Ismail Ghasparinski, Ṭ: journal existed only for two months</persName></cell>
+                           <cell n="8" xml:lang="en">Ṭ</cell>
+                           <cell n="9" xml:lang="en"></cell>
+                        </row>
                         
                         
                         
