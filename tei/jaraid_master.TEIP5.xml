@@ -163,6 +163,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2020-05-22" who="#pAm" xml:lang="en">AM added transliterated data of Cairo journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4: pp 178-213 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterated the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
          <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
