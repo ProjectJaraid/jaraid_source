@@ -18397,7 +18397,7 @@
                   <cell n="8">S</cell>
                   <cell n="9">?</cell>
                </row>
-               <row xml:id="t1r864" n="864" role="data" resp="#pAM" when="2019-02-27">
+               <row xml:id="t1r864" n="864" role="data" resp="#pAM" change="2019-02-27">
                   <cell n="1">
                      <date when="1881">1881</date>
                   </cell>
@@ -18416,7 +18416,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
-               <row xml:id="t1r865" n="865" role="data" resp="#pAM" when="2019-02-27">
+               <row xml:id="t1r865" n="865" role="data" resp="#pAM" change="2019-02-27">
                   <cell n="1">
                      <date when="1895">1895</date>
                   </cell>
@@ -18435,7 +18435,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"></cell>
                </row>
-               <row xml:id="t1r866" n="866" role="data" resp="#pAM" when="2019-02-27">
+               <row xml:id="t1r866" n="866" role="data" resp="#pAM" change="2019-02-27">
                   <cell n="1">
                      <date when="1875">1875</date>
                   </cell>
@@ -26134,7 +26134,7 @@
                            <cell n="9" xml:lang="en"> </ref></cell>
                         </row>
                         
-                        <row xml:id="t1r1238" n="1238" role="data" resp="#AM" when="2020-05-23" xml:lang="en"">
+                        <row xml:id="t1r1238" n="1238" role="data" resp="#AM" change="2020-05-23" xml:lang="en"">
                            <cell n="1">
                               <date when="1929" xml:lang="en">1929</date>
                            </cell>
@@ -26155,6 +26155,26 @@
                         </row>
                         
                         
+                        
+                        <row xml:id="t1r1239" n="1239" role="data" resp="#AM" change="2020-05-27" xml:lang="en"">
+                           <cell n="1">
+                              <date when="1910" xml:lang="en">1910</date>
+                           </cell>
+                           <cell n="2" xml:lang="en">?</cell>
+                           <cell n="3" xml:lang="en"><date when=""></date></cell>
+                           <cell n="4" xml:lang="en">
+                              <name xml:lang="en">Al-Qiṣāṣ</name>
+                           </cell>
+                           <cell n="5" xml:lang="en">
+                              <placeName xml:lang="en">Paris</placeName>
+                           </cell>
+                           <cell n="6" xml:lang="en">
+                              <persName xml:lang="en"></persName>
+                           </cell>
+                           <cell n="7" xml:lang="en"></cell>
+                           <cell n="8" xml:lang="en"></cell>
+                           <cell n="9" xml:lang="en"><rs ref="#hBnF" xml:lang="en">BnF: 1914</rs></cell>
+                        </row>
                         
                         
                         
