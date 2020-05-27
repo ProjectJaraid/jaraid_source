@@ -1862,7 +1862,7 @@
                   <cell n="8" xml:lang="en">
                      <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>
                   </cell>
-                  <cell n="9" xml:lang="en">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <ref target="https://books.google.co.il/books?id=j7pUAAAAcAAJ&printsec=frontcover&dq=Rau%E1%B8%8Dat+al-mad%C4%81ris&hl=en&sa=X&ved=0ahUKEwj56cihqIrcAhWFsxQKHaOCCnMQ6AEIJTAA#v=onepage&q=Rau%E1%B8%8Dat%20al-mad%C4%81ris&f=false">online vols.3-4</ref>
+                  <cell n="9" xml:lang="en">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <ref target="https://books.google.com/books/about/Rau%E1%B8%8Dat_al_mad%C4%81ris_al_mi%E1%B9%A3r%C4%ABya.html?id=j7pUAAAAcAAJ">online vols.3-4</ref>
                   </cell>
                </row>
                <row n="68" role="data" xml:id="t1r68" xml:lang="en">
@@ -5375,7 +5375,7 @@
                   </cell>
                   <cell n="7"/>
                   <cell n="8"/>
-                  <cell n="9"/> <rs ref="#hAUB">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/S50T11v1/index.html" xml:lang="eng">online</ref>
+                  <cell n="9"><rs ref="#hAUB">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/S50T11v1/index.html" xml:lang="eng">online</ref></cell> 
                </row>
                <row n="241" role="data" xml:id="t1r241" xml:lang="en">
                   <cell n="1" xml:lang="en">
@@ -6031,7 +6031,7 @@
                      <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>
                   </cell>
                   <cell n="9" xml:lang="en">
-                     <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/al-shifa/index.html" xm:lang="en">online</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
+                     <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/al-shifa/index.html" xml:lang="en">online</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
                         <rs ref="#hBS" xml:lang="en">BS</rs>: 1886-1888, <rs ref="#hAUC" xml:lang="en">AUC</rs>
                   </cell>
                </row>
@@ -18363,7 +18363,7 @@
                      <date when="1900">1900</date>
                   </cell>
                   <cell n="2">September/11</cell>
-                  <cell n="3"><date when="?">?</date></cell>
+                  <cell n="3"><date>?</date></cell>
                   <cell n="4">
                      <name>Heliopolis - ʿAyn Shams</name>
                   </cell>
