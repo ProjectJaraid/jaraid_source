@@ -9910,7 +9910,7 @@
                   <cell n="8"/>
                   <cell n="9"> <rs ref="#hBL" xml:lang="en">BL</rs> </cell>
                </row>
-               <row n="863" resp="#pAM" role="data" when="2019-02-27" xml:id="t1r863">
+               <row n="863" resp="#pAM" role="data" xml:id="t1r863">
                   <cell n="1"> <date when="1878">1878</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date when="1878">?</date></cell>
@@ -9954,7 +9954,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"/>
                </row>
-               <row n="867" resp="#pAM" role="data" when="2019-02-27" xml:id="t1r867">
+               <row n="867" resp="#pAM" role="data" xml:id="t1r867">
                   <cell n="1"> <date when="1875">1875</date> </cell>
                   <cell n="2"/>
                   <cell n="3"/>
@@ -9965,7 +9965,7 @@
                   <cell n="8">S</cell>
                   <cell n="9"/>
                </row>
-               <row n="868" resp="#pAM" role="data" when="2020-05-01" xml:id="t1r868">
+               <row n="868" resp="#pAM" role="data" xml:id="t1r868">
                   <cell n="1"> <date when="1919">1919</date> </cell>
                   <cell n="2">February 17</cell>
                   <cell n="3"><date>1921</date></cell>
@@ -9977,7 +9977,7 @@
                   <cell n="8">based on n.1.</cell>
                   <cell n="9"><rs ref="#hAUB" xml:lang="en">AUB</rs></cell>
                </row>
-               <row n="869" resp="#AM" role="data" when="2020-05-02" xml:id="t1r869">
+               <row n="869" resp="#AM" role="data" xml:id="t1r869">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">April 24</cell>
                   <cell n="3"><date>1916</date></cell>
@@ -9988,7 +9988,7 @@
                   <cell n="8">based on vol.1, n.1 </cell>
                   <cell n="9"><rs ref="#hPUL" xml:lang="en">Prin</rs></cell>
                </row>
-               <row n="870" resp="#AM" role="data" when="2020-05-03" xml:id="t1r870">
+               <row n="870" resp="#AM" role="data" xml:id="t1r870">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">January/2</cell>
                   <cell n="3"><date>?</date></cell>
@@ -9999,7 +9999,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"><rs ref="#hAUB" xml:lang="en">AUB</rs> (year 1913)</cell>
                </row>
-               <row n="871" resp="#AM" role="data" when="2020-05-05" xml:id="t1r871">
+               <row n="871" resp="#AM" role="data" xml:id="t1r871">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">January/13</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10010,7 +10010,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="872" resp="#AM" role="data" when="2020-05-05" xml:id="t1r872">
+               <row n="872" resp="#AM" role="data" xml:id="t1r872">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">June/?</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10021,7 +10021,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9">?</cell>
                </row>
-               <row n="873" resp="#AM" role="data" when="2020-05-05" xml:id="t1r873">
+               <row n="873" resp="#AM" role="data" xml:id="t1r873">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">August/9</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10032,7 +10032,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="874" resp="#AM" role="data" when="2020-05-05" xml:id="t1r874">
+               <row n="874" resp="#AM" role="data" xml:id="t1r874">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">August/12</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10043,7 +10043,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="875" resp="#AM" role="data" when="2020-05-05" xml:id="t1r875">
+               <row n="875" resp="#AM" role="data" xml:id="t1r875">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">October/27</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10054,7 +10054,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="876" resp="#AM" role="data" when="2020-05-05" xml:id="t1r876">
+               <row n="876" resp="#AM" role="data" xml:id="t1r876">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">November/1</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10065,7 +10065,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="877" resp="#AM" role="data" when="2020-05-05" xml:id="t1r877">
+               <row n="877" resp="#AM" role="data" xml:id="t1r877">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">November/17</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10076,7 +10076,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="878" resp="#AM" role="data" when="2020-05-05" xml:id="t1r878">
+               <row n="878" resp="#AM" role="data" xml:id="t1r878">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/2</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10087,7 +10087,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="879" resp="#AM" role="data" when="2020-05-05" xml:id="t1r879">
+               <row n="879" resp="#AM" role="data" xml:id="t1r879">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/5</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10098,7 +10098,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="880" resp="#AM" role="data" when="2020-05-05" xml:id="t1r880">
+               <row n="880" resp="#AM" role="data" xml:id="t1r880">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/?</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10109,7 +10109,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="881" resp="#AM" role="data" when="2020-05-05" xml:id="t1r881">
+               <row n="881" resp="#AM" role="data" xml:id="t1r881">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/12</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10120,7 +10120,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="882" resp="#AM" role="data" when="2020-05-05" xml:id="t1r882">
+               <row n="882" resp="#AM" role="data" xml:id="t1r882">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/20</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10131,7 +10131,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="883" resp="#AM" role="data" when="2020-05-05" xml:id="t1r883">
+               <row n="883" resp="#AM" role="data" xml:id="t1r883">
                   <cell n="1"> <date when="1901">1901</date> </cell>
                   <cell n="2">December/21</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10142,7 +10142,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="884" resp="#AM" role="data" when="2020-05-09" xml:id="t1r884">
+               <row n="884" resp="#AM" role="data" xml:id="t1r884">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">January/?</cell>
                   <cell n="3"><date>?</date></cell>
@@ -10153,7 +10153,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="885" resp="#AM" role="data" when="2020-05-09" xml:id="t1r885">
+               <row n="885" resp="#AM" role="data" xml:id="t1r885">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10164,7 +10164,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="886" resp="#AM" role="data" when="2020-05-09" xml:id="t1r886">
+               <row n="886" resp="#AM" role="data" xml:id="t1r886">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">February/20</cell>
                   <cell n="3"><date/></cell>
@@ -10175,7 +10175,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="887" resp="#AM" role="data" when="2020-05-09" xml:id="t1r887">
+               <row n="887" resp="#AM" role="data" xml:id="t1r887">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">March/6</cell>
                   <cell n="3"><date/></cell>
@@ -10186,7 +10186,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="888" resp="#AM" role="data" when="2020-05-09" xml:id="t1r888">
+               <row n="888" resp="#AM" role="data" xml:id="t1r888">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">March/16</cell>
                   <cell n="3"><date/></cell>
@@ -10197,7 +10197,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="889" resp="#AM" role="data" when="2020-05-09" xml:id="t1r889">
+               <row n="889" resp="#AM" role="data" xml:id="t1r889">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">March/16</cell>
                   <cell n="3"><date/></cell>
@@ -10208,7 +10208,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="890" resp="#AM" role="data" when="2020-05-09" xml:id="t1r890">
+               <row n="890" resp="#AM" role="data" xml:id="t1r890">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"><date/></cell>
@@ -10219,7 +10219,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="891" resp="#AM" role="data" when="2020-05-09" xml:id="t1r891">
+               <row n="891" resp="#AM" role="data" xml:id="t1r891">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">May/9</cell>
                   <cell n="3"><date/></cell>
@@ -10230,7 +10230,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="892" resp="#AM" role="data" when="2020-05-09" xml:id="t1r892">
+               <row n="892" resp="#AM" role="data" xml:id="t1r892">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">June/1</cell>
                   <cell n="3"><date/></cell>
@@ -10241,7 +10241,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="893" resp="#AM" role="data" when="2020-05-09" xml:id="t1r893">
+               <row n="893" resp="#AM" role="data" xml:id="t1r893">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"><date/></cell>
@@ -10252,7 +10252,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="894" resp="#AM" role="data" when="2020-05-09" xml:id="t1r894">
+               <row n="894" resp="#AM" role="data" xml:id="t1r894">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">August/15</cell>
                   <cell n="3"><date/></cell>
@@ -10263,7 +10263,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="895" resp="#AM" role="data" when="2020-05-09" xml:id="t1r895">
+               <row n="895" resp="#AM" role="data" xml:id="t1r895">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">November</cell>
                   <cell n="3"><date/></cell>
@@ -10274,7 +10274,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="896" resp="#AM" role="data" when="2020-05-09" xml:id="t1r896">
+               <row n="896" resp="#AM" role="data" xml:id="t1r896">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">November/3</cell>
                   <cell n="3"><date/></cell>
@@ -10285,7 +10285,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="897" resp="#AM" role="data" when="2020-05-09" xml:id="t1r897">
+               <row n="897" resp="#AM" role="data" xml:id="t1r897">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">November/20</cell>
                   <cell n="3"><date/></cell>
@@ -10296,7 +10296,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="898" resp="#AM" role="data" when="2020-05-09" xml:id="t1r898">
+               <row n="898" resp="#AM" role="data" xml:id="t1r898">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">December/2</cell>
                   <cell n="3"><date/></cell>
@@ -10307,7 +10307,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="899" resp="#AM" role="data" when="2020-05-09" xml:id="t1r899">
+               <row n="899" resp="#AM" role="data" xml:id="t1r899">
                   <cell n="1"> <date when="1902">1902</date> </cell>
                   <cell n="2">December</cell>
                   <cell n="3"><date/></cell>
@@ -10318,7 +10318,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="900" resp="#AM" role="data" when="2020-05-09" xml:id="t1r900">
+               <row n="900" resp="#AM" role="data" xml:id="t1r900">
                   <cell n="1"> <date when="1903">1902</date> </cell>
                   <cell n="2">December</cell>
                   <cell n="3"><date/></cell>
@@ -10329,7 +10329,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="901" resp="#AM" role="data" when="2020-05-11" xml:id="t1r901">
+               <row n="901" resp="#AM" role="data" xml:id="t1r901">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">January</cell>
                   <cell n="3"><date/></cell>
@@ -10340,7 +10340,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="902" resp="#AM" role="data" when="2020-05-11" xml:id="t1r902">
+               <row n="902" resp="#AM" role="data" xml:id="t1r902">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">February/6</cell>
                   <cell n="3"><date/></cell>
@@ -10351,7 +10351,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="903" resp="#AM" role="data" when="2020-05-11" xml:id="t1r903">
+               <row n="903" resp="#AM" role="data" xml:id="t1r903">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10362,7 +10362,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="904" resp="#AM" role="data" when="2020-05-11" xml:id="t1r904">
+               <row n="904" resp="#AM" role="data" xml:id="t1r904">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">March</cell>
                   <cell n="3"><date/></cell>
@@ -10373,7 +10373,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="905" resp="#AM" role="data" when="2020-05-11" xml:id="t1r905">
+               <row n="905" resp="#AM" role="data" xml:id="t1r905">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">March</cell>
                   <cell n="3"><date/></cell>
@@ -10384,7 +10384,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="906" resp="#AM" role="data" when="2020-05-11" xml:id="t1r906">
+               <row n="906" resp="#AM" role="data" xml:id="t1r906">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">April/13</cell>
                   <cell n="3"><date/></cell>
@@ -10395,7 +10395,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="907" resp="#AM" role="data" when="2020-05-11" xml:id="t1r907">
+               <row n="907" resp="#AM" role="data" xml:id="t1r907">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">June/28</cell>
                   <cell n="3"><date/></cell>
@@ -10406,7 +10406,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="908" resp="#AM" role="data" when="2020-05-11" xml:id="t1r908">
+               <row n="908" resp="#AM" role="data" xml:id="t1r908">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">August</cell>
                   <cell n="3"><date/></cell>
@@ -10417,7 +10417,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="909" resp="#AM" role="data" when="2020-05-11" xml:id="t1r909">
+               <row n="909" resp="#AM" role="data" xml:id="t1r909">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">October/14</cell>
                   <cell n="3"><date/></cell>
@@ -10428,7 +10428,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="910" resp="#AM" role="data" when="2020-05-11" xml:id="t1r910">
+               <row n="910" resp="#AM" role="data" xml:id="t1r910">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">October/24</cell>
                   <cell n="3"><date/></cell>
@@ -10439,7 +10439,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="911" resp="#AM" role="data" when="2020-05-11" xml:id="t1r911">
+               <row n="911" resp="#AM" role="data" xml:id="t1r911">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">November/29</cell>
                   <cell n="3"><date/></cell>
@@ -10450,7 +10450,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="912" resp="#AM" role="data" when="2020-05-11" xml:id="t1r912">
+               <row n="912" resp="#AM" role="data" xml:id="t1r912">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10461,7 +10461,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="913" resp="#AM" role="data" when="2020-05-11" xml:id="t1r913">
+               <row n="913" resp="#AM" role="data" xml:id="t1r913">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">December/15</cell>
                   <cell n="3"><date/></cell>
@@ -10472,7 +10472,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="914" resp="#AM" role="data" when="2020-05-11" xml:id="t1r914">
+               <row n="914" resp="#AM" role="data" xml:id="t1r914">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">December/20</cell>
                   <cell n="3"><date/></cell>
@@ -10483,7 +10483,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="915" resp="#AM" role="data" when="2020-05-11" xml:id="t1r915">
+               <row n="915" resp="#AM" role="data" xml:id="t1r915">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2">December/20</cell>
                   <cell n="3"><date/></cell>
@@ -10494,7 +10494,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="916" resp="#AM" role="data" when="2020-05-11" xml:id="t1r916">
+               <row n="916" resp="#AM" role="data" xml:id="t1r916">
                   <cell n="1"> <date when="1903">1903</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10505,7 +10505,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="917" resp="#AM" role="data" when="2020-05-11" xml:id="t1r917">
+               <row n="917" resp="#AM" role="data" xml:id="t1r917">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">January</cell>
                   <cell n="3"><date/></cell>
@@ -10516,7 +10516,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="918" resp="#AM" role="data" when="2020-05-11" xml:id="t1r918">
+               <row n="918" resp="#AM" role="data" xml:id="t1r918">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10527,7 +10527,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="919" resp="#AM" role="data" when="2020-05-11" xml:id="t1r919">
+               <row n="919" resp="#AM" role="data" xml:id="t1r919">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">January/31</cell>
                   <cell n="3"><date/></cell>
@@ -10538,7 +10538,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="920" resp="#AM" role="data" when="2020-05-11" xml:id="t1r920">
+               <row n="920" resp="#AM" role="data" xml:id="t1r920">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">February/26</cell>
                   <cell n="3"><date/></cell>
@@ -10549,7 +10549,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="921" resp="#AM" role="data" when="2020-05-11" xml:id="t1r921">
+               <row n="921" resp="#AM" role="data" xml:id="t1r921">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">March/1</cell>
                   <cell n="3"><date/></cell>
@@ -10560,7 +10560,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="922" resp="#AM" role="data" when="2020-05-11" xml:id="t1r922">
+               <row n="922" resp="#AM" role="data" xml:id="t1r922">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">March/16</cell>
                   <cell n="3"><date/></cell>
@@ -10571,7 +10571,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="923" resp="#AM" role="data" when="2020-05-11" xml:id="t1r923">
+               <row n="923" resp="#AM" role="data" xml:id="t1r923">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">March/18</cell>
                   <cell n="3"><date/></cell>
@@ -10582,7 +10582,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="924" resp="#AM" role="data" when="2020-05-11" xml:id="t1r924">
+               <row n="924" resp="#AM" role="data" xml:id="t1r924">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"><date/></cell>
@@ -10593,7 +10593,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="925" resp="#AM" role="data" when="2020-05-11" xml:id="t1r925">
+               <row n="925" resp="#AM" role="data" xml:id="t1r925">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10604,7 +10604,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="926" resp="#AM" role="data" when="2020-05-11" xml:id="t1r926">
+               <row n="926" resp="#AM" role="data" xml:id="t1r926">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">April/23</cell>
                   <cell n="3"><date/></cell>
@@ -10615,7 +10615,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="927" resp="#AM" role="data" when="2020-05-11" xml:id="t1r927">
+               <row n="927" resp="#AM" role="data" xml:id="t1r927">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">May/22</cell>
                   <cell n="3"><date/></cell>
@@ -10626,7 +10626,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="928" resp="#AM" role="data" when="2020-05-11" xml:id="t1r928">
+               <row n="928" resp="#AM" role="data" xml:id="t1r928">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">May/29</cell>
                   <cell n="3"><date/></cell>
@@ -10637,7 +10637,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="929" resp="#AM" role="data" when="2020-05-11" xml:id="t1r929">
+               <row n="929" resp="#AM" role="data" xml:id="t1r929">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">July/8</cell>
                   <cell n="3"><date/></cell>
@@ -10648,7 +10648,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="930" resp="#AM" role="data" when="2020-05-11" xml:id="t1r930">
+               <row n="930" resp="#AM" role="data" xml:id="t1r930">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"><date/></cell>
@@ -10659,7 +10659,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="931" resp="#AM" role="data" when="2020-05-11" xml:id="t1r931">
+               <row n="931" resp="#AM" role="data" xml:id="t1r931">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">August</cell>
                   <cell n="3"><date/></cell>
@@ -10670,7 +10670,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="932" resp="#AM" role="data" when="2020-05-11" xml:id="t1r932">
+               <row n="932" resp="#AM" role="data" xml:id="t1r932">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">September/4</cell>
                   <cell n="3"><date/></cell>
@@ -10681,7 +10681,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="933" resp="#AM" role="data" when="2020-05-11" xml:id="t1r933">
+               <row n="933" resp="#AM" role="data" xml:id="t1r933">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10692,7 +10692,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="934" resp="#AM" role="data" when="2020-05-11" xml:id="t1r934">
+               <row n="934" resp="#AM" role="data" xml:id="t1r934">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2">September</cell>
                   <cell n="3"><date/></cell>
@@ -10703,7 +10703,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="935" resp="#AM" role="data" when="2020-05-11" xml:id="t1r935">
+               <row n="935" resp="#AM" role="data" xml:id="t1r935">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10714,7 +10714,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="936" resp="#AM" role="data" when="2020-05-11" xml:id="t1r936">
+               <row n="936" resp="#AM" role="data" xml:id="t1r936">
                   <cell n="1"> <date when="1904">1904</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10725,7 +10725,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="937" resp="#AM" role="data" when="2020-05-12" xml:id="t1r937">
+               <row n="937" resp="#AM" role="data" xml:id="t1r937">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">January/5</cell>
                   <cell n="3"><date/></cell>
@@ -10736,7 +10736,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="938" resp="#AM" role="data" when="2020-05-12" xml:id="t1r938">
+               <row n="938" resp="#AM" role="data" xml:id="t1r938">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">January/8</cell>
                   <cell n="3"><date/></cell>
@@ -10747,7 +10747,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="939" resp="#AM" role="data" when="2020-05-12" xml:id="t1r939">
+               <row n="939" resp="#AM" role="data" xml:id="t1r939">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">February</cell>
                   <cell n="3"><date/></cell>
@@ -10758,7 +10758,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="940" resp="#AM" role="data" when="2020-05-12" xml:id="t1r940">
+               <row n="940" resp="#AM" role="data" xml:id="t1r940">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">February</cell>
                   <cell n="3"><date/></cell>
@@ -10769,7 +10769,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="941" resp="#AM" role="data" when="2020-05-12" xml:id="t1r941">
+               <row n="941" resp="#AM" role="data" xml:id="t1r941">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10780,7 +10780,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="942" resp="#AM" role="data" when="2020-05-12" xml:id="t1r942">
+               <row n="942" resp="#AM" role="data" xml:id="t1r942">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10791,7 +10791,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="943" resp="#AM" role="data" when="2020-05-12" xml:id="t1r943">
+               <row n="943" resp="#AM" role="data" xml:id="t1r943">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"><date/></cell>
@@ -10802,7 +10802,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="944" resp="#AM" role="data" when="2020-05-12" xml:id="t1r944">
+               <row n="944" resp="#AM" role="data" xml:id="t1r944">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10813,7 +10813,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="945" resp="#AM" role="data" when="2020-05-12" xml:id="t1r945">
+               <row n="945" resp="#AM" role="data" xml:id="t1r945">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">May/5</cell>
                   <cell n="3"><date/></cell>
@@ -10824,7 +10824,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="945" resp="#AM" role="data" when="2020-05-12" xml:id="t1r945">
+               <row n="945" resp="#AM" role="data" xml:id="t1r945">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10835,7 +10835,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="946" resp="#AM" role="data" when="2020-05-12" xml:id="t1r946">
+               <row n="946" resp="#AM" role="data" xml:id="t1r946">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">June/9</cell>
                   <cell n="3"><date/></cell>
@@ -10846,7 +10846,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="947" resp="#AM" role="data" when="2020-05-12" xml:id="t1r947">
+               <row n="947" resp="#AM" role="data" xml:id="t1r947">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10857,7 +10857,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="948" resp="#AM" role="data" when="2020-05-12" xml:id="t1r948">
+               <row n="948" resp="#AM" role="data" xml:id="t1r948">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">September/1</cell>
                   <cell n="3"><date/></cell>
@@ -10868,7 +10868,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="949" resp="#AM" role="data" when="2020-05-12" xml:id="t1r949">
+               <row n="949" resp="#AM" role="data" xml:id="t1r949">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">October/1</cell>
                   <cell n="3"><date/></cell>
@@ -10879,7 +10879,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="950" resp="#AM" role="data" when="2020-05-12" xml:id="t1r950">
+               <row n="950" resp="#AM" role="data" xml:id="t1r950">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">October/10</cell>
                   <cell n="3"><date/></cell>
@@ -10890,7 +10890,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="951" resp="#AM" role="data" when="2020-05-12" xml:id="t1r951">
+               <row n="951" resp="#AM" role="data" xml:id="t1r951">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">October/31</cell>
                   <cell n="3"><date/></cell>
@@ -10901,7 +10901,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="952" resp="#AM" role="data" when="2020-05-12" xml:id="t1r952">
+               <row n="952" resp="#AM" role="data" xml:id="t1r952">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2">November/28</cell>
                   <cell n="3"><date/></cell>
@@ -10912,7 +10912,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="953" resp="#AM" role="data" when="2020-05-12" xml:id="t1r953">
+               <row n="953" resp="#AM" role="data" xml:id="t1r953">
                   <cell n="1"> <date when="1905">1905</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10923,7 +10923,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="954" resp="#AM" role="data" when="2020-05-12" xml:id="t1r954">
+               <row n="954" resp="#AM" role="data" xml:id="t1r954">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2">January/1</cell>
                   <cell n="3"><date/></cell>
@@ -10934,7 +10934,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="955" resp="#AM" role="data" when="2020-05-12" xml:id="t1r955">
+               <row n="955" resp="#AM" role="data" xml:id="t1r955">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2">January/1</cell>
                   <cell n="3"><date/></cell>
@@ -10945,7 +10945,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="956" resp="#AM" role="data" when="2020-05-12" xml:id="t1r956">
+               <row n="956" resp="#AM" role="data" xml:id="t1r956">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10956,7 +10956,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="957" resp="#AM" role="data" when="2020-05-12" xml:id="t1r957">
+               <row n="957" resp="#AM" role="data" xml:id="t1r957">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10967,7 +10967,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="958" resp="#AM" role="data" when="2020-05-12" xml:id="t1r958">
+               <row n="958" resp="#AM" role="data" xml:id="t1r958">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10978,7 +10978,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="959" resp="#AM" role="data" when="2020-05-12" xml:id="t1r959">
+               <row n="959" resp="#AM" role="data" xml:id="t1r959">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -10989,7 +10989,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="960" resp="#AM" role="data" when="2020-05-12" xml:id="t1r960">
+               <row n="960" resp="#AM" role="data" xml:id="t1r960">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"><date/></cell>
@@ -11000,7 +11000,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="961" resp="#AM" role="data" when="2020-05-12" xml:id="t1r961">
+               <row n="961" resp="#AM" role="data" xml:id="t1r961">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"><date/></cell>
@@ -11011,7 +11011,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="962" resp="#AM" role="data" when="2020-05-12" xml:id="t1r962">
+               <row n="962" resp="#AM" role="data" xml:id="t1r962">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -11022,7 +11022,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="962" resp="#AM" role="data" when="2020-05-12" xml:id="t1r962">
+               <row n="962" resp="#AM" role="data" xml:id="t1r962">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -11033,7 +11033,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="963" resp="#AM" role="data" when="2020-05-12" xml:id="t1r963">
+               <row n="963" resp="#AM" role="data" xml:id="t1r963">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -11044,7 +11044,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="964" resp="#AM" role="data" when="2020-05-12" xml:id="t1r964">
+               <row n="964" resp="#AM" role="data" xml:id="t1r964">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
                   <cell n="3"><date/></cell>
@@ -11055,7 +11055,7 @@
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
-               <row n="965" resp="#AM" role="data" when="2020-05-12" xml:id="t1r965">
+               <row n="965" resp="#AM" role="data" xml:id="t1r965">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2">December/23</cell>
                   <cell n="3"><date/></cell>
