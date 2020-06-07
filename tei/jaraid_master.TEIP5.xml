@@ -14183,7 +14183,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/> </cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Raph Cormack</cell>
                   <cell n="9" xml:lang="en"><rs ref="#hBnF" xml:lang="en">BnF: 1914</rs></cell>
                </row>
                
@@ -14195,7 +14195,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Mitrī Salīm al-Duwayrī</cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14207,7 +14207,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Khalīl Ibrāhīm</cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14219,7 +14219,7 @@
                      <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                      <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Mūsā Ḥamdī</cell>
                      <cell n="7" xml:lang="en"/>
-                     <cell n="8" xml:lang="en"/>
+                     <cell n="8" xml:lang="en">Ṭ</cell>
                      <cell n="9" xml:lang="en"><rs /></cell>
                   </row>
                
@@ -14231,7 +14231,7 @@
                         <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                         <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Amīn al-Khūrī</cell>
                         <cell n="7" xml:lang="en"/>
-                        <cell n="8" xml:lang="en"/>
+                        <cell n="8" xml:lang="en">Ṭ</cell>
                         <cell n="9" xml:lang="en"><rs /></cell>
                     </row>
                      
@@ -14243,7 +14243,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Albert Aswad</cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14255,7 +14255,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/>ʿAlī ʿAbd al-Karīm al-Miṣrī</cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14267,7 +14267,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en"/>Nasīm Malūl</cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14279,7 +14279,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Niqūlā Sābā</persName></cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14292,7 +14292,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Salīm Khalīl Faraḥ</persName></cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en"><Ṭ/cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14304,7 +14304,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥannā Jāwīsh</persName>, <persName xml:lang="en">Ṭānyūs ʿAbduh</persName></cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14316,10 +14316,179 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shāhīn al-Khāzin</persName>, <persName xml:lang="en">Nasīm al-ʿĀzār</persName></cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
+               <row  n="1251" resp="#AM" role="data" xml:id="t1r1263" xml:lang="en">
+                  <cell n="1"> <date when="1904" xml:lang="en">1904</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Hallūsa</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Amīn</persName>, <persName xml:lang="en">ʿAbd al-Raḥmān al-Hindī</persName></cell>
+                  <cell n="7" xml:lang="en"/>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1252" resp="#AM" role="data" xml:id="t1r1264" xml:lang="en">
+                  <cell n="1"> <date when="1904" xml:lang="en">1904</date> </cell>
+                  <cell n="2" xml:lang="en">May</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aksbrīs</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Maḥmūd Ibrāhīm</persName></cell>
+                  <cell n="7" xml:lang="en">Ṭ: Maḥmūd Ibrāhīm attended the Orientalists' Congress in Athens in 1912</cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1253" resp="#AM" role="data" xml:id="t1r1265" xml:lang="en">
+                  <cell n="1"> <date when="1905" xml:lang="en">1905</date> </cell>
+                  <cell n="2" xml:lang="en">June/1</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Musāʿid</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Jamʿiyyat Ḥifẓ al-ʿUhūd</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1254" resp="#AM" role="data" xml:id="t1r1266" xml:lang="en">
+                  <cell n="1"> <date when="1905" xml:lang="en">1905</date> </cell>
+                  <cell n="2" xml:lang="en">September/1</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jumhūr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Muṣṭafā al-Daramallī</persName> [Dramalı]</cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1255" resp="#AM" role="data" xml:id="t1r1267" xml:lang="en">
+                  <cell n="1"> <date when="1905" xml:lang="en">1905</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghandara</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAlī Aḥmad</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1256" resp="#AM" role="data" xml:id="t1r1268" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en">May/2</cell>
+                  <cell n="3" xml:lang="en"><date  />still in print in 1929</cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Wādī al-Nīl</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAlī Aḥmad</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1257" resp="#AM" role="data" xml:id="t1r1269" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shaʿb al-Miṣrī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad Rafʿat</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1258" resp="#AM" role="data" xml:id="t1r1270" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Buʿbuʿ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Riḍwān Farīd</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               
+               <row  n="1259" resp="#AM" role="data" xml:id="t1r1271" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">February/27</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū Nuwwās</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1260" resp="#AM" role="data" xml:id="t1r1272" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">March/21</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭanbūrah</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1261" resp="#AM" role="data" xml:id="t1r1273" xml:lang="en">
+                  <cell n="1"> <date when="1910" xml:lang="en">1910</date> </cell>
+                  <cell n="2" xml:lang="en">September/24</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Karākūz</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Waṣfī Nadīm</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1262" resp="#AM" role="data" xml:id="t1r1274" xml:lang="en">
+                  <cell n="1"> <date when="1910" xml:lang="en">1910</date> </cell>
+                  <cell n="2" xml:lang="en">October/19</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ahālī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Qādir Ḥamza</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1263" resp="#AM" role="data" xml:id="t1r1275" xml:lang="en">
+                  <cell n="1"> <date when="1911" xml:lang="en">1911</date> </cell>
+                  <cell n="2" xml:lang="en">January/6</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Hudā</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Qiss Tūmā Fannī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               
+               <row  n="1264" resp="#AM" role="data" xml:id="t1r1276" xml:lang="en">
+                  <cell n="1"> <date when="1912" xml:lang="en">1912</date> </cell>
+                  <cell n="2" xml:lang="en">April/29</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iqdām</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Walī al-Dīn Bik Yakan</persName>[Yeğen]</cell>
+                  <cell n="7" xml:lang="en">Ṭ: lived in Istanbul, was arrested in 1906 with charges of conspiracy, escaped to Switzerland, died in 1921</cell>
+                  <cell n="8" xml:lang="en">Ṭ</cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
