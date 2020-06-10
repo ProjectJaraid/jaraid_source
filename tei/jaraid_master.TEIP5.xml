@@ -79,7 +79,7 @@
                from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
-            <p xml:lang="en">This project uses the IJMES standards for Arabic transccription.</p>
+            <p xml:lang="en">This project uses the IJMES standards for Arabic transliteration.</p>
             <p xml:lang="en">New entries should be made using copies of the model entry at the end of the first
                table (<tag xml:lang="en">table xml:id="t1"</tag>).</p>
             <p xml:lang="en">All changes, additions, etc. should be marked with <att xml:lang="en">resp</att> and a reference to
