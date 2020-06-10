@@ -122,7 +122,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2020-05-22" who="#pAm" xml:lang="en"
-            >AM added transliterated data of Cairo journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4: pp 178-213 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterated the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
+            >AM added transliterated data of Cairo, Alexandria, etc journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterated the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
          <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
@@ -14775,7 +14775,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAlī Ḥasan</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14787,7 +14787,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad ʿAlī Khiṭābī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14799,7 +14799,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ṣiddīq Aḥmad</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14811,7 +14811,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAbd al-Jawwād</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14824,7 +14824,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Najīb Wilāya</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14837,7 +14837,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jūrj Faraḥ</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14849,7 +14849,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Mutawallī Suwaylim</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14861,7 +14861,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad Ḥishma ʿAmmār</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14874,7 +14874,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad al-Janbīhī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14886,7 +14886,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Tawfīq Ṭannūs</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14898,7 +14898,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad al-Sudūdī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14910,7 +14910,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAbd al-Laṭīf</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14922,7 +14922,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Fahmī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14935,7 +14935,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Ḥamīd al-Bājūrī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14947,7 +14947,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Sayyid Muṣṭafā al-Sayyid</persName>, <persName xml:lang="en">ʿAbd al-Qādir al-Sayyid</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14959,7 +14959,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Mūrīs Bitītū</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14971,7 +14971,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sulaymān Fawzī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14983,7 +14983,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jūrj Manassā</persName> [Manasse]</cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
@@ -14995,10 +14995,22 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jūrj Manassā</persName> [Manasse], <persName xml:lang="en">Ḥasan Jumʿa</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" ref="#agt" xml:lang="en">Ṭ</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
+               
+               <row  n="1307" resp="#AM" role="data" xml:id="t1r1319" xml:lang="en">
+                  <cell n="1"> <date when="1903" xml:lang="en">1903</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Rāʾid al-ʿUthmānī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Ṭanṭā</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Tawfīq al-Azharī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
                
                
                
