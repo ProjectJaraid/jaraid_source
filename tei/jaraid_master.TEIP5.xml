@@ -267,7 +267,7 @@
    <text xml:lang="en">
       <front xml:lang="en">
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
-            <head xml:lang="en">A Chronology Of Nineteenth-Century Periodicals In Arabic <hi rend="normalweight" xml:lang="en">(1800-1900)</hi>:</head>
+            <head xml:lang="en">A Chronology Of Arabic Periodicals, 1800-1929<hi rend="normalweight" xml:lang="en">(1800-1900)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:lang="en"
@@ -278,13 +278,16 @@
             <p xml:lang="en">TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
          </div>
+         <div xml:id="dCopyright" xml:lang="en">
+            <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>."</p>
+         </div>
          <div type="chapter" xml:id="dIntro" xml:lang="en">
             <head xml:lang="en">Introductory Notes</head>
-            <p xml:lang="en">This website provides a chronology of nineteenth-century periodicals in Arabic.</p>
+            <p xml:lang="en">This website provides a chronology of Arabic periodicals between 1800 and 1929</p>
             <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en"
-               >and</hi> in another language (like the usual pair of Arabic and
-               Ottoman Turkish) or in Arabic written in a different script (like Judeo-Arabic)
-               during the period from 1800 to 1900, this chronology is certainly incomplete.
+               >and</hi> in another language (such as the usual pair of Arabic and
+               Ottoman Turkish) or in Arabic written in a different script (such as Judeo-Arabic)
+               during the period from 1800 to 1929, this chronology is certainly incomplete.
                Furthermore, there remain numerous problems with dating and locating individual
                publications as well as identifying their owners, editors, or publishers. A common
                problem is that journals with different editors used the same title or the same
@@ -303,22 +306,22 @@
                editors, language(s) of publication, and available collections. In addition, we
                provide various indexes of publishers and locations, as well as a bibliography of the
                most important secondary sources and available union catalogues. To search any part
-               of the website, the browser's search function should be invoked (Ctrl-F for Windows,
+               of the website, simply the browser's search function should be invoked (Ctrl-F for Windows,
                Cmd-F for Mac OSX). Please keep in mind that unicode symbols adhering to the IJMES
                transliteration must be used.</p>
             <p xml:lang="en"
                >No part of this publication may be reproduced or transmitted in any form or by any
-               means, electronic or mechanical without permission in writing from the Zentrum
-               Moderner Orient.</p>
+               means, electronic or mechanical without permission.</p>
             <div xml:id="dAckn" xml:lang="en">
                <head xml:lang="en">Acknowledgments</head>
                <p xml:lang="en"
-                  >While preparing the final version of this list, Adam Mestyan was a 2011/2012
+                  > The first version of this database (containing  titles published between 1800-1900)was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012
                   EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
-                  enrich and correct our data.</p>
+                  enrich and correct our data.The archived version of that list (updated until 2015) can be seen <ref target="https://archiv.zmo.de/jaraid/index.html">here</ref>.</p>
+              <p xml:lang="en">The present database is a corrected and updated version. It covers the years 1900-1929. It has not received any institutional support. However, a large number of scanned issued of particular titles became publically available in many institutional or private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We welcome readers to submit links.</p>
             </div>
             <div xml:id="dTrans" xml:lang="en">
                <head xml:lang="en">I. Transliteration</head>
@@ -376,8 +379,8 @@
                <div xml:id="dMajS" xml:lang="en">
                   <head xml:lang="en">Major sources</head>
                   <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                     >Fihris al-dawriyyāt
-                        al-ʿArabiyya allatī taqtinīhā al-Dār</hi>, 2 vols. (Cairo: Maṭbaʿat Dār
+                     >Fihris al-Dawriyyāt
+                        al-ʿArabiyya allatī Taqtinīhā al-Dār</hi>, 2 vols. (Cairo: Maṭbaʿat Dār
                         al-Kutub al-Miṣriyya, 1996), vol. 1.</bibl> </p>
                   <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman periodicals<hi rend="italic" xml:lang="tr"
                      > (Osmanlı
