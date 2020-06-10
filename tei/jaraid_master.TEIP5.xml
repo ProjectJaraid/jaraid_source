@@ -8,7 +8,7 @@
       <fileDesc xml:lang="en">
          <titleStmt xml:lang="en">
             <title level="m" xml:lang="en">Project Jarāʾid</title>
-            <title level="m" xml:lang="en">A Chronology of Nineteenth-Century Periodicals in Arabic (1800-1900)</title>
+            <title level="m" xml:lang="en">A Chronology of Arabic Periodicals (1800-1929)</title>
             <title level="m" type="sub" xml:lang="en">A research tool</title>
             <respStmt xml:lang="en">
                <resp xml:lang="en">Prepared and supervised by</resp>
@@ -267,7 +267,7 @@
    <text xml:lang="en">
       <front xml:lang="en">
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
-            <head xml:lang="en">A Chronology Of Arabic Periodicals, 1800-1929<hi rend="normalweight" xml:lang="en">(1800-1900)</hi>:</head>
+            <head xml:lang="en">A Chronology Of Arabic Periodicals<hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:lang="en"
