@@ -315,13 +315,13 @@
             <div xml:id="dAckn" xml:lang="en">
                <head xml:lang="en">Acknowledgments</head>
                <p xml:lang="en"
-                  > The first version of this database (containing  titles published between 1800-1900)was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012
+                  > The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012
                   EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
-                  hosted the online publication. Finally, all our thanks should go to those
+                  hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
                   enrich and correct our data.The archived version of that list (updated until 2015) can be seen <ref target="https://archiv.zmo.de/jaraid/index.html">here</ref>.</p>
-              <p xml:lang="en">The present database is a corrected and updated version. It covers the years 1900-1929. It has not received any institutional support. However, a large number of scanned issued of particular titles became publically available in many institutional or private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We welcome readers to submit links.</p>
+              <p xml:lang="en">The present database is a corrected and updated version of the archived one at ZMO's website. It covers the years 1900-1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
             </div>
             <div xml:id="dTrans" xml:lang="en">
                <head xml:lang="en">I. Transliteration</head>
@@ -343,7 +343,7 @@
                <p xml:lang="en"
                   >A periodical here means a printed product that was established with the conscious
                   aim to distribute it to the reading public on a regular basis (daily, weekly,
-                  monthly, etc.). We did not make a distinction between newspaper (<hi
+                  monthly, etc.). We do not make a distinction between newspaper (<hi
                   rend="italic" xml:lang="en">jarīda</hi> or <hi rend="italic" xml:lang="en">ṣaḥīfa</hi>) and magazine (<hi rend="italic" xml:lang="en"
                   >majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
             </div>
@@ -382,7 +382,7 @@
                      >Fihris al-Dawriyyāt
                         al-ʿArabiyya allatī Taqtinīhā al-Dār</hi>, 2 vols. (Cairo: Maṭbaʿat Dār
                         al-Kutub al-Miṣriyya, 1996), vol. 1.</bibl> </p>
-                  <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman periodicals<hi rend="italic" xml:lang="tr"
+                  <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman Periodicals<hi rend="italic" xml:lang="tr"
                      > (Osmanlı
                         Gazeteler),</hi> Atatürk Milli Kütüphanesi, Istanbul, Turkey.</bibl> </p>
                   <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fīlīp dī Ṭarrāzī (Philip de Tarrazi), <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
