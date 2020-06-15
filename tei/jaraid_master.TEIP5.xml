@@ -53,13 +53,21 @@
                <persName xml:id="pDN" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname> </persName>
                <persName xml:id="pMD" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname> </persName>
                <persName xml:id="pNH" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
+               <persName xml:id="pHC"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">digital production: conversion into XML, mark-up, design and implementation of
+               <resp xml:lang="en">the 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
                   the website, including indexes, maps, and rss feeds</resp>
                <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
+            </respStmt>
+            <respStmt xml:lang="en">
+               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions <persName resp="#pAM">Adam Mestyan</persName> and <persName resp="#pTG">Till Grallert?</persName> </resp>
+            </respStmt>
+            
+            <respStmt xml:lang="en">
+               <resp xml:lang="en">XML and display advisor <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName></resp>
             </respStmt>
          </editionStmt>
          <publicationStmt xml:lang="en">
