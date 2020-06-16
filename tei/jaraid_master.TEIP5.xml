@@ -63,7 +63,7 @@
                <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM">Adam Mestyan</persName>, <persName resp="#pTG">Till Grallert?</persName> 
+               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM">Adam Mestyan</persName> <persName resp="#pTG">Till Grallert?</persName> 
             </respStmt>
             
             <respStmt xml:lang="en">
