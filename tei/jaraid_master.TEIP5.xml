@@ -17538,6 +17538,68 @@
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
+               <row  n="1515" resp="#AM" role="data" xml:id="t1r1527" xml:lang="en">
+                  <cell n="1"> <date when="1912" xml:lang="en">1912</date> </cell>
+                  <cell n="2" xml:lang="en">March</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Akhbār al-Maghribiyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> al-Dār al-Bayḍāʾ (Casablanca)</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Badrāwī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1516" resp="#AM" role="data" xml:id="t1r1528" xml:lang="en">
+                  <cell n="1"> <date when="1918" xml:lang="en">1918</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Taṭawān</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Spanish official journal</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               
+               
+               <row  n="1517" resp="#AM" role="data" xml:id="t1r1529" xml:lang="en">
+                  <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Junūb al-Maghribī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Taṭawān</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Hādī al-Sabʿī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1518" resp="#AM" role="data" xml:id="t1r1530" xml:lang="en">
+                  <cell n="1"> <date when="1927" xml:lang="en">1927</date> </cell>
+                  <cell n="2" xml:lang="en">March</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ittiḥād</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Taṭawān</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Spanish official journal</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1519" resp="#AM" role="data" xml:id="t1r1531" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Tilighrāf al-Rīf</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Taṭawān</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Spanish official journal</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
                
                
                
