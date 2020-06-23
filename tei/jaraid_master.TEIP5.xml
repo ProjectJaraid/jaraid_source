@@ -17453,6 +17453,90 @@
                   <cell n="9" xml:lang="en"><rs /></cell>
                </row>
                
+               <row  n="1508" resp="#AM" role="data" xml:id="t1r1520" xml:lang="en">
+                  <cell n="1"> <date when="1905" xml:lang="en">1905</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Saʿāda</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jarīda rasmīya (French government)</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1509" resp="#AM" role="data" xml:id="t1r1521" xml:lang="en">
+                  <cell n="1"> <date when="1907" xml:lang="en">1907</date> </cell>
+                  <cell n="2" xml:lang="en">Februrary/8</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Lisān al-Maghrib</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Faraj Allāh</persName>, <persName xml:lang="en">Arthūr Nammūr</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1510" resp="#AM" role="data" xml:id="t1r1522" xml:lang="en">
+                  <cell n="1"> <date when="1907" xml:lang="en">1907</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Istiqlāl al-Maghrib</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Dr. Haymans</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1511" resp="#AM" role="data" xml:id="t1r1523" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en">June/27</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fajr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Shaykh Niʿmat Allāh al-Daḥdāḥ</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1512" resp="#AM" role="data" xml:id="t1r1524" xml:lang="en">
+                  <cell n="1"> <date when="1911" xml:lang="en">1911</date> </cell>
+                  <cell n="2" xml:lang="en">January/8</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqq</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jarīda rasmīya (Spanish governmennt)</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               <row  n="1513" resp="#AM" role="data" xml:id="t1r1525" xml:lang="en">
+                  <cell n="1"> <date when="1913" xml:lang="en">1913</date> </cell>
+                  <cell n="2" xml:lang="en">April/12</cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Taraqqī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en"></persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
+               
+               
+               <row  n="1514" resp="#AM" role="data" xml:id="t1r1526" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date  /></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭāʿūn</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Fez</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Sharīf al-Idrīsī Muḥammad al-Qaṭṭānī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs /></cell>
+               </row>
                
                
                
