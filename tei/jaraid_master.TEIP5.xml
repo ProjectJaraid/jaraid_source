@@ -18279,6 +18279,42 @@
                   <cell n="9" xml:lang="en"></cell>
                </row>
                
+               <row  n="1576" resp="#AM" role="data" xml:id="t1r1588" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en">November</cell>
+                  <cell n="3" xml:lang="en"><date>1916</date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Ḥijāz</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mecca</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">government press</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs xml:lang="en">Freitag: A History of Jidda</rs></cell>
+                  <cell n="9" xml:lang="en"></cell>
+               </row>
+               
+               
+               <row  n="1577" resp="#AM" role="data" xml:id="t1r1589" xml:lang="en">
+                  <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en">November</cell>
+                  <cell n="3" xml:lang="en"><date>1909</date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Shams al-Ḥaqīqa</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mecca</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">government press</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs xml:lang="en">Freitag: A History of Jidda</rs></cell>
+                  <cell n="9" xml:lang="en"></cell>
+               </row>
+               
+               <row  n="1578" resp="#AM" role="data" xml:id="t1r1590" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">May</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ al-Ḥijāzī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jidda</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Rāghib Muṣṭafā Tawakkul</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs xml:lang="en">Freitag: A History of Jidda</rs></cell>
+                  <cell n="9" xml:lang="en"></cell>
+               </row>
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
