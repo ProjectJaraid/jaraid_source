@@ -33,6 +33,7 @@
                <persName xml:lang="en">Rogier Visser</persName>
                <persName xml:lang="en">Marina Demetriadou</persName>
                <persName xml:lang="en">Nicole Khayat</persName>
+               <persName xml:lang="en">Sinai Rusinek</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -53,7 +54,8 @@
                <persName xml:id="pDN" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname> </persName>
                <persName xml:id="pMD" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname> </persName>
                <persName xml:id="pNH" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
-               <persName xml:id="pHC"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname></persName>
+               <persName xml:id="pHC" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname></persName>
+               <persName xml:id="pSR" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
@@ -63,11 +65,11 @@
                <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM">Adam Mestyan</persName> <persName resp="#pTG">Till Grallert?</persName> 
+               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
             </respStmt>
             
             <respStmt xml:lang="en">
-               <resp xml:lang="en">XML and display advisor</resp> <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
+               <resp xml:lang="en">XML and CETEICean advisor</resp> <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
          </editionStmt>
          <publicationStmt xml:lang="en">
@@ -110,7 +112,9 @@
                      teiHeader for reference. Such a list could be compiled using the index of
                      persons produced for output on the website</item>
                <item xml:lang="en">t1r12: seems to be faulty</item>
-               </list></p>
+            </list></p>
+             <p xml:lang="en">2020 Edition is using <ref target="https://github.com/TEIC/CETEIcean" xml:lang="en">CETEICean</ref> transformation from TEI XML to HTML </p>
+              
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -130,7 +134,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2020-05-22" who="#pAm" xml:lang="en"
-            >AM added transliterated data of Cairo, Alexandria, etc journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterated the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
+            >AM adds transliterated data of Cairo, Alexandria, etc journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) some illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterates the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
          <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
@@ -277,16 +281,18 @@
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
             <head xml:lang="en">A Chronology Of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
+            <head xml:lang="en">2020 Edition</head>
+            
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:lang="en"
                >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Nicole Hayat, Rana
-               Issa, Nicole Khayat, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Ola Seif, and
-               Rogier Visser</p>
+               Issa, Nicole Khayat, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Ola Seif,
+               Rogier Visser, and Sinai Rusinek</p>
             <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
-            <p xml:lang="en"> Original 2012 Edition's TEI XML-Markup, digital publication, concept and design of the website by Till
+            <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition: Hugh Cayless</p>
-            <p xml:lang="en">Data addition, CETEICean transformation, and digital publication by Adam Mestyan and Till Grallert</p>
+            <p xml:lang="en">Advisor to 2020 Edition Hugh Cayless</p>
+            <p xml:lang="en">Data addition, CETEICean transformation, and digital publication by Adam Mestyan</p>
          </div>
         
          <div xml:id="dCopyright" xml:lang="en">
@@ -325,8 +331,7 @@
             <div xml:id="dAckn" xml:lang="en">
                <head xml:lang="en">Acknowledgments</head>
                <p xml:lang="en"
-                  > The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012
-                  EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
+                  > The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
@@ -551,7 +556,7 @@
          <div type="table" xml:id="dTables" xml:lang="en">
             <head xml:lang="en">Tables of Periodicals</head>
             <table n="1" xml:id="t1" xml:lang="en">
-               <head xml:lang="en">Chronologic Table of Dated Periodicals (1800-1900)</head>
+               <head xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head>
                <row role="label" xml:lang="en">
                   <cell n="1" xml:lang="en">Year of first issue</cell>
                   <cell n="2" xml:lang="en">Day/month of first issue</cell>
