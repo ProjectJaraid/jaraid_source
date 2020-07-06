@@ -60,12 +60,12 @@
                   and a reference to the contributor's xml:id -->
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">the 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
+               <resp xml:lang="en">The 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
                   the website, including indexes, maps, and rss feeds</resp>
-               <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
+               <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname></persName>.
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">the 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
+               <resp xml:lang="en">The 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>.
             </respStmt>
             
             <respStmt xml:lang="en">
@@ -134,7 +134,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2020-05-22" who="#pAm" xml:lang="en"
-            >AM adds transliterated data of Cairo, Alexandria, etc journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) some illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterates the Arabic there are differences compared to Ṭarrāzī's transliterated data</change>
+            >AM adds transliterated data for journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, and from other sources, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) some illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterates the Arabic there are differences compared to Ṭarrāzī's transliterated data; source of data is always indicated</change>
          <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref></change>
