@@ -300,7 +300,7 @@
             
          </div>
          
-         <div xml:lang="en" xml:id="dCeteicean">This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless et al. to display the umodified TEI file in HTML
+         <div xml:id="dCetei" xml:lang="en">This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless et al. to display the umodified TEI file in HTML
          </div>
          
          <div type="chapter" xml:id="dIntro" xml:lang="en">
