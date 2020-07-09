@@ -299,6 +299,10 @@
             <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
             
          </div>
+         
+         <div xml:lang="en" xml:id="ceteicean">This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless et al. to display the umodified TEI file in HTML
+         </div>
+         
          <div type="chapter" xml:id="dIntro" xml:lang="en">
             <head xml:lang="en">Introductory Notes</head>
             <p xml:lang="en">This website provides a chronology of Arabic periodicals between 1800 and 1929.</p>
