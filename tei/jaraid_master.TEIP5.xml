@@ -301,7 +301,7 @@
             
          </div>
          
-         <div xml:id="dCetei" xml:lang="en"><p>This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless et al. to display the umodified TEI file in HTML
+         <div xml:id="dCetei" xml:lang="en"><p>This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML
          </p></div>
          
          <div type="chapter" xml:id="dIntro" xml:lang="en">
