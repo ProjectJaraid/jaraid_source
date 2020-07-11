@@ -19268,8 +19268,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Anṭūn al-Jumayyil</persName>, <persName xml:lang="en">Amīn Taqī al-Dīn</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
+                  <cell n="9" xml:lang="en">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs></ref> </cell>
                </row>
                
                <row  n="1657" resp="#AM" role="data" xml:id="t1r1669" xml:lang="en">
