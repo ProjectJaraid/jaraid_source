@@ -22997,6 +22997,92 @@
                   <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
                </row>
                
+               <row  n="1965" resp="#AM" role="data" xml:id="t1r1977" xml:lang="en">
+                  <cell n="1"> <date when="1902" xml:lang="en">1902</date> </cell>
+                  <cell n="2" xml:lang="en">July/8</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Manṣūra</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Raʾīs Jamʿiyyat al-Saʿāda</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="1966" resp="#AM" role="data" xml:id="t1r1978" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">May/1</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Birinsis</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Fiṭnat Hānim</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="1967" resp="#AM" role="data" xml:id="t1r1979" xml:lang="en">
+                  <cell n="1"> <date when="1909" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">July/1</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Tuḥfat al-ʿAṣr bi-Mustaqbal Miṣr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Salām Imām</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               
+               <row  n="1968" resp="#AM" role="data" xml:id="t1r1980" xml:lang="en">
+                  <cell n="1"> <date when="1920" xml:lang="en">1920</date> </cell>
+                  <cell n="2" xml:lang="en">December/1</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Funūn wa-l-Ṣināʾiʿ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Aḥmad ʿUthmān al-Muhandis</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="1969" resp="#AM" role="data" xml:id="t1r1981" xml:lang="en">
+                  <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en">March/1</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣaḥīfat Madrasat al-Manṣūra al-Thānawiyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Ṭalbat al-Madrasa</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="1970" resp="#AM" role="data" xml:id="t1r1982" xml:lang="en">
+                  <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Maḥākim al-Mukhtalaṭa</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Manṣūra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Albīr Fāḍil al-Muḥāmī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="1971" resp="#AM" role="data" xml:id="t1r1983" xml:lang="en">
+                  <cell n="1"> <date when="1902" xml:lang="en">1902</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Ẓarīfat al-Maʿānī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Al-Zaqāziq</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en"></persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
