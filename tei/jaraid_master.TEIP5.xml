@@ -23587,12 +23587,49 @@
                   <cell n="2" xml:lang="en">August/3</cell>
                   <cell n="3" xml:lang="en"><date></date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Taḥqīq al-Amal</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Susa</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en"></persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
                </row>
+               
+               <row  n="2014" resp="#AM" role="data" xml:id="t1r2026" xml:lang="en">
+                  <cell n="1"> <date when="1907" xml:lang="en">1907</date> </cell>
+                  <cell n="2" xml:lang="en">February/14</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iḥyāʾ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jān Dīriyū (J. Desrayaux)</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="2015" resp="#AM" role="data" xml:id="t1r2027" xml:lang="en">
+                  <cell n="1"> <date when="1920" xml:lang="en">1920</date> </cell>
+                  <cell n="2" xml:lang="en">October/8</cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fārūq</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿUmar b. Qaddūr</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
+               <row  n="2016" resp="#AM" role="data" xml:id="t1r2028" xml:lang="en">
+                  <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date></date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shihāb</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Constantine</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Ḥamīd b. Bādīsī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9" xml:lang="en"><rs  xml:lang="en"></rs></cell>
+               </row>
+               
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
