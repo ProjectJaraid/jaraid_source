@@ -292,8 +292,9 @@
             <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition Hugh Cayless</p>
+            
             <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan</p>
+            <p xml:lang="en">Advisor to 2020 Edition Hugh Cayless</p>
          </div>
         
          <div xml:id="dCopyright" xml:lang="en">
@@ -335,13 +336,15 @@
             </div>
             <div xml:id="dVersionHist" xml:lang="en">
                <head xml:lang="en">Version History</head>
+               
+               <p xml:lang="en">The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
                <p xml:lang="en"
-                  > The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
+                  >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
                   enrich and correct our data.The archived version of that list (last updated in 2015) can be seen <ref target="https://archiv.zmo.de/jaraid/index.html">here</ref>.</p>
-              <p xml:lang="en">The present database is a corrected and updated version of the archived one at ZMO's website. It covers the years 1900-1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
+              
             </div>
             <div xml:id="dTrans" xml:lang="en">
                <head xml:lang="en">I. Transliteration</head>
