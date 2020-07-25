@@ -34,6 +34,7 @@
                <persName xml:lang="en">Marina Demetriadou</persName>
                <persName xml:lang="en">Nicole Khayat</persName>
                <persName xml:lang="en">Sinai Rusinek</persName>
+               <persName xml:lang="en">Will Hanley</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -56,6 +57,7 @@
                <persName xml:id="pNH" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
                <persName xml:id="pHC" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname></persName>
                <persName xml:id="pSR" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname></persName>
+               <persName xml:id="pWH" xml:lang="en"> <forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
@@ -65,7 +67,7 @@
                <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname></persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">The 2020 edition's digital procuction: XML mark-up, corrections and additions</resp> <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
+               <resp xml:lang="en">The 2020 edition's digital procuction: XML mark-up, corrections and additions <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName> and <persName resp="#pWH" xml:lang="en">Will Hanley</persName>, XSLT-coding by <persName resp="#pTG" xml:lang="en">Till Grallert</persName></resp>
             </respStmt>
             
             <respStmt xml:lang="en">
@@ -85,8 +87,8 @@
       <encodingDesc xml:lang="en">
          <projectDesc xml:lang="en">
             <p xml:lang="en"
-               >The TEI file was produced by Till Grallert in preparation for the on-line publication
-               from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file.</p>
+               >The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
+               from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file. The 2020 Edition was produced through Github by Adam Mestyan.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
             <p xml:lang="en">This project uses the IJMES standards for Arabic transliteration.</p>
@@ -293,7 +295,7 @@
             <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
             
-            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan</p>
+            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan and Will Hanley, XSLT-coding by Till Grallert</p>
             <p xml:lang="en">Advisor to 2020 Edition Hugh Cayless</p>
          </div>
         
