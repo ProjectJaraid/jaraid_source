@@ -22773,6 +22773,21 @@
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
+               
+               <row n="2018" resp="#AM" role="data" xml:id="t1r2030" xml:lang="en">
+                  <cell n="1"> <date xml:lang="en">1897</date> </cell>
+                  <cell n="2" xml:lang="en">December/1</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">ʿUthmānlī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Ṭarsūsizāda Munīf</persName> </cell>
+                  <cell n="7" xml:lang="en">mostly in Ottoman Turkish, also in English</cell>
+                  <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">first issue</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs xml:id="hBNF" xml:lang="en">BnF:</rs> 1897-98 <ref target="https://gallica.bnf.fr/ark:/12148/cb32830247v/date18980101">online</ref> in Gallica </cell>
+               </row>
+               
+               
+               
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
