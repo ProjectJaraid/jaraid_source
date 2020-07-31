@@ -564,7 +564,7 @@
          </div>
       </front>
       <body xml:lang="en">
-         <div xml:id="t1head" xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</div>
+         <div xml:id="t1head" xml:lang="en"><head xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head></div>
          <div type="table" xml:id="dTables" xml:lang="en">
             
             <table n="1" xml:id="t1" xml:lang="en">
