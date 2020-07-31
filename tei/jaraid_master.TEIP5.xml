@@ -565,8 +565,9 @@
       </front>
       <body xml:lang="en">
          <div type="table" xml:id="dTables" xml:lang="en">
+            <head xml:id="t1head" xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head>
             <table n="1" xml:id="t1" xml:lang="en">
-               <head xml:id="t1head" xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head>
+               
                <row role="label" xml:lang="en">
                   <cell n="1" xml:lang="en">Year of first issue</cell>
                   <cell n="2" xml:lang="en">Day/month of first issue</cell>
