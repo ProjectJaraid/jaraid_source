@@ -230,7 +230,7 @@
             5 letters</change>
          <change type="xml" when="2012-08-16" who="#pTG" xml:lang="en"
             > included the day and month of the first
-            issue (cell 2) in the @when, @notBefore, and @notAfter attributes of cell 1 through XSLT
+            issue (cell 2) in the @when, @notBefore, and @when attributes of cell 1 through XSLT
             conversion</change>
          <change when="2012-07-26" who="#pTG" xml:lang="en"> added references to the al-Aqṣā collection</change>
          <change when="2012-07-26" who="#pTG" xml:lang="en"> unified the abbreviations DKT and DKWT for the Dār
@@ -665,7 +665,7 @@
                   <cell n="9"/>
                </row>
                <row n="7" role="data" xml:id="t1r7" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1839-07-12" xml:lang="en">1839?</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1839-07-12" xml:lang="en">1839?</date> </cell>
                   <cell n="2"/>
                   <cell n="3" xml:lang="en">well into the 20th century</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">L’Akhbar</name> </cell>
@@ -707,7 +707,7 @@
                   <cell n="9"/>
                </row>
                <row n="10" role="data" xml:id="t1r10" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1848-11-30" notBefore="1848-11-01" xml:lang="en">1848</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1848-11-30" xml:lang="en">1848</date> </cell>
                   <cell n="2" xml:lang="en">? Nov.</cell>
                   <cell n="3" xml:lang="en">21 February <date when="1849" xml:lang="en">1849</date>, 13 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Taqwīm al-Akhbār ʿan al-Ḥawādith al-Tijāriyya wa’l-Iʿlānāt
@@ -843,7 +843,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL: 1858-1859</rs> </cell>
                </row>
                <row n="25" role="data" xml:id="t1r25" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1860-07-31" notBefore="1860-07-01" xml:lang="en">1860</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1860-07-31" xml:lang="en">1860</date> </cell>
                   <cell n="2" xml:lang="en">July, then <date from="1861" xml:lang="en">1861</date> </cell>
                   <cell n="3" xml:lang="en"> <date when="1884" xml:lang="en">1884</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jawāʾib</name> </cell>
@@ -1069,7 +1069,7 @@
                   <cell n="9"/>
                </row>
                <row n="49" role="data" xml:id="t1r49" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1867-07-31" notBefore="1867-07-01" xml:lang="en">1867</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1867-07-31" xml:lang="en">1867</date> </cell>
                   <cell n="2" xml:lang="en">Rabīʿ al-Awwal 1284 (July 1867)</cell>
                   <cell n="3" xml:lang="en"> <date when="1878" xml:lang="en">1878</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Wādī al-Nīl</name> </cell>
@@ -1776,7 +1776,7 @@
                      >HTU</rs>: first two years (digitized)</cell>
                </row>
                <row n="117" role="data" xml:id="t1r117" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1878" notBefore="1877" xml:lang="en">c1877</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1877" xml:lang="en">c1877</date> </cell>
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Naḥla al-Adabiyya</name> </cell>
@@ -1952,7 +1952,7 @@
                   <cell n="9"/>
                </row>
                <row n="133" role="data" xml:id="t1r133" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1878-08-31" notBefore="1878-08-01" xml:lang="en">1878</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1878-08-31" xml:lang="en">1878</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3" xml:lang="en">13 March <date when="1879" xml:lang="en">1879</date>; single issue 12 August <date when="1879" xml:lang="en">1879</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Riḥlat Abī Naẓẓāra Zarqā</name> cf. its continuation below (pseudonym for
@@ -2003,7 +2003,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs> </cell>
                </row>
                <row n="137" role="data" xml:id="t1r137" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1878-04-30" notBefore="1878-04-01" xml:lang="en">1878</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1878-04-30" xml:lang="en">1878</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en">still <date when="1880" xml:lang="en">1880</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Waqt (li-Jarīdat al-Ahrām)</name> </cell>
@@ -2046,7 +2046,7 @@
                      target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> reprint <placeName xml:lang="en">Beirut</placeName> </cell>
                </row>
                <row n="141" role="data" xml:id="t1r141" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1879-11-30" notBefore="1879-11-01" xml:lang="en">1879</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1879-11-30" xml:lang="en">1879</date> </cell>
                   <cell n="2" xml:lang="en">Nov.</cell>
                   <cell n="3" xml:lang="en">one issue</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Bustān al-Akhbār</name> </cell>
@@ -2574,7 +2574,7 @@
                   <cell n="9" resp="#pRV" xml:lang="en"> <rs ref="#hSOAS" xml:lang="en"> no copy found so far</rs> </cell>
                </row>
                <row n="189" role="data" xml:id="t1r189" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1881-10-31" notBefore="1881-10-01" xml:lang="en">1881</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1881-10-31" xml:lang="en">1881</date> </cell>
                   <cell n="2" xml:lang="en">Oct.</cell>
                   <cell n="3" xml:lang="en"> <date when="1882" xml:lang="en">1882</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Miṣr</name> </cell>
@@ -2585,7 +2585,7 @@
                   <cell n="9"/>
                </row>
                <row n="190" role="data" xml:id="t1r190" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1882" notBefore="1881" xml:lang="en">c1881</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1881" xml:lang="en">c1881</date> </cell>
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mufarriḥ al-Qulūb</name> </cell>
@@ -2712,7 +2712,7 @@
                   <cell n="9" xml:lang="en">ʿAṭṭār</cell>
                </row>
                <row n="202" role="data" xml:id="t1r202" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1882-04-30" notBefore="1882-04-01" xml:lang="en">1882</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1882-04-30" xml:lang="en">1882</date> </cell>
                   <cell n="2" xml:lang="en">c. April</cell>
                   <cell n="3" xml:lang="en">6 December <date when="1884" xml:lang="en">1884</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Abou-Naddara Zarka</name> - conceived as the continuation of
@@ -2783,7 +2783,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>: 1883?, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </cell>
                </row>
                <row n="208" role="data" xml:id="t1r208" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1882-06-30" notBefore="1882-06-01" xml:lang="en">1882</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1882-06-30" xml:lang="en">1882</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">May <date when="1883" xml:lang="en">1883</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Kawkab al-Mashriq/L’Astre d’Orient</name> </cell>
@@ -2831,7 +2831,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs> </cell>
                </row>
                <row n="212" role="data" xml:id="t1r212" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1882-06-30" notBefore="1882-06-01" xml:lang="en">1882</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1882-06-30" xml:lang="en">1882</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">May <date when="1883" xml:lang="en">1883</date>, 36 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Najm al-Mashriq/L’Astre d’Orient</name> </cell>
@@ -2904,7 +2904,7 @@
                   <cell n="9"/>
                </row>
                <row n="219" role="data" xml:id="t1r219" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1883-02-28" notBefore="1883-02-01" xml:lang="en">1883</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1883-02-28" xml:lang="en">1883</date> </cell>
                   <cell n="2" xml:lang="en">Feb. (reappeared)</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Burhān</name> </cell>
@@ -3077,7 +3077,7 @@
                   <cell n="9"/>
                </row>
                <row n="235" role="data" xml:id="t1r235" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1884-04-30" notBefore="1884-04-01" xml:lang="en">1884</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1884-04-30" xml:lang="en">1884</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date when="1941" xml:lang="en">1941</date> (?<date when="1959" xml:lang="en">1959</date>?)</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maḥrūsa</name> (reappeared) </cell>
@@ -3088,7 +3088,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: 1882-1886, <rs ref="#hAUC" xml:lang="en">AUC</rs> </cell>
                </row>
                <row n="236" role="data" xml:id="t1r236" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1884-09-30" notBefore="1884-09-01" xml:lang="en">1884</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1884-09-30" xml:lang="en">1884</date> </cell>
                   <cell n="2" xml:lang="en">Sept.</cell>
                   <cell n="3" xml:lang="en">22 April <date when="1886" xml:lang="en">1886</date>, 23 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mubashshir</name> </cell>
@@ -3143,7 +3143,7 @@
                   <cell n="9"> <rs ref="#hAUB">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/S50T11v1/index.html" xml:lang="eng">online</ref> </cell>
                </row>
                <row n="241" role="data" xml:id="t1r241" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1884-08-31" notBefore="1884-08-01" xml:lang="en">1884</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1884-08-31" xml:lang="en">1884</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tayms al-Miṣrī / The Times of Egypt</name> </cell>
@@ -3413,7 +3413,7 @@
                   <cell n="9"/>
                </row>
                <row n="266" role="data" xml:id="t1r266" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1886-09-30" notBefore="1886-09-01" xml:lang="en">1886</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1886-09-30" xml:lang="en">1886</date> </cell>
                   <cell n="2" xml:lang="en">Sept.</cell>
                   <cell n="3" xml:lang="en">20 June <date when="1887" xml:lang="en">1887</date>, 30 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mushriḥ al-Aṣdār/Machrecho Lasdar</name> </cell>
@@ -3578,7 +3578,7 @@
                   <cell n="9"/>
                </row>
                <row n="281" role="data" xml:id="t1r281" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1887-06-30" notBefore="1887-05-01" xml:lang="en">1887</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1887-06-01" xml:lang="en">1887</date> </cell>
                   <cell n="2" xml:lang="en">May/June</cell>
                   <cell n="3" xml:lang="en">one issue</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jinān/Habārdīs/Happardis</name> </cell>
@@ -3767,7 +3767,7 @@
                   <cell n="9"/>
                </row>
                <row n="298" role="data" xml:id="t1r298" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1888-07-31" notBefore="1888-07-01" xml:lang="en">1888</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1888-07-31" xml:lang="en">1888</date> </cell>
                   <cell n="2" xml:lang="en">July</cell>
                   <cell n="3" xml:lang="en">one issue</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Jurnāl Hajīn/Le Journal de la fête du grand dieul</name> </cell>
@@ -3834,7 +3834,7 @@
                   <cell n="9"/>
                </row>
                <row n="304" role="data" xml:id="t1r304" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1888-04-30" notBefore="1888-04-01" xml:lang="en">1888</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1888-01-06" xml:lang="en">1888</date> </cell>
                   <cell n="2" xml:lang="en"> 6 January </cell>
                   <cell n="3" xml:lang="en">12 May <date when="1888" xml:lang="en">1888</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Natāʾij al-Akhbār</name> </cell>
@@ -4060,7 +4060,7 @@
                   <cell n="9"/>
                </row>
                <row n="325" role="data" xml:id="t1r325" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1889-05-31" notBefore="1889-05-01" xml:lang="en">1889</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1889-05-31" xml:lang="en">1889</date> </cell>
                   <cell n="2" xml:lang="en">May?</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maghrib</name> </cell>
@@ -4137,7 +4137,7 @@
                   <cell n="9" xml:lang="en"> <add resp="#pHA" xml:lang="en"> <rs ref="#hUPEN" xml:lang="en">UPenn (call No: AP95.A6 M78): Feb 1889- Jan 1890</rs> </add> </cell>
                </row>
                <row n="331" role="data" xml:id="t1r331" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1889-01-31" notBefore="1889-01-01" xml:lang="en">1889</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1889-01-31" xml:lang="en">1889</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Usbūʿiyya ʿan al-Mawālid wa’l-Wafayāt wa’l-Amrāḍ
@@ -4160,7 +4160,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hHTU" xml:lang="en">HTU</rs> </cell>
                </row>
                <row n="333" role="data" xml:id="t1r333" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1889-11-30" notBefore="1889-11-01" xml:lang="en">1889</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1889-11-30" xml:lang="en">1889</date> </cell>
                   <cell n="2" xml:lang="en">Nov.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Qôl Yisráel / La Voix d’Israël</name> </cell>
@@ -4182,7 +4182,7 @@
                   <cell n="9"/>
                </row>
                <row n="335" role="data" xml:id="t1r335" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1889-06-30" notBefore="1889-06-01" xml:lang="en">1889</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1889-06-30" xml:lang="en">1889</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">June <date when="1890" xml:lang="en">1890</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tilighrāf</name> </cell>
@@ -4193,7 +4193,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="336" role="data" xml:id="t1r336" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1889-05-31" notBefore="1889-05-01" xml:lang="en">1889</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1889-05-31" xml:lang="en">1889</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Tôv-le-Yisra’el</name> </cell>
@@ -4228,7 +4228,7 @@
                      ref="#hIU" xml:lang="en">IÜ</rs> </cell>
                </row>
                <row n="340" role="data" xml:id="t1r340" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1890-05-31" notBefore="1890-05-01" xml:lang="en">1890</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1890-05-31" xml:lang="en">1890</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">La Jeunesse Israélite</name> </cell>
@@ -4341,7 +4341,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?</cell>
                </row>
                <row n="351" role="data" xml:id="t1r351" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1891-06-30" notBefore="1891-06-01" xml:lang="en">1891</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1891-06-30" xml:lang="en">1891</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Bêt Yisra’el / Le Peuple d’Israël</name> </cell>
@@ -4456,7 +4456,7 @@
                   <cell n="9"/>
                </row>
                <row n="361" role="data" xml:id="t1r361" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1891-02-28" notBefore="1891-02-01" xml:lang="en">1891</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1891-02-28" xml:lang="en">1891</date> </cell>
                   <cell n="2" xml:lang="en">Feb.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamra / La Lune/El-Qamra</name> </cell>
@@ -4590,7 +4590,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?</cell>
                </row>
                <row n="374" role="data" xml:id="t1r374" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1892-10-31" notBefore="1892-10-01" xml:lang="en">1892</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1892-10-31" xml:lang="en">1892</date> </cell>
                   <cell n="2" xml:lang="en">Oct.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Furṣat al-Awqāt</name> </cell>
@@ -4878,7 +4878,7 @@
                   <cell n="9" xml:lang="en">reprint <placeName xml:lang="en">Beirut</placeName> </cell>
                </row>
                <row n="399" role="data" xml:id="t1r399" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1892-10-31" notBefore="1892-10-01" xml:lang="en">1892</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1892-10-31" xml:lang="en">1892</date> </cell>
                   <cell n="2" xml:lang="en">Oct.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tūnisī/Le Tunisien</name> </cell>
@@ -4939,7 +4939,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </cell>
                </row>
                <row n="405" role="data" xml:id="t1r405" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1893-04-14" notBefore="1893-03-01" xml:lang="en">1893</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1893-04-14" xml:lang="en">1893</date> </cell>
                   <cell n="2" xml:lang="en">March/14 April</cell>
                   <cell n="3" xml:lang="en"> <date when="1897" xml:lang="en">1897</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Baṣīra/Le Clairevoyant</name> </cell>
@@ -5300,7 +5300,7 @@
                   <cell n="9"/>
                </row>
                <row n="438" role="data" xml:id="t1r438" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1894-09-30" notBefore="1894-09-01" xml:lang="en">1894</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1894-09-30" xml:lang="en">1894</date> </cell>
                   <cell n="2" xml:lang="en">Sept.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ahālī</name> </cell>
@@ -5853,7 +5853,7 @@
                   <cell n="9"/>
                </row>
                <row n="488" role="data" xml:id="t1r488" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-01-31" notBefore="1895-01-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-01-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Baṣra</name> </cell>
@@ -5875,7 +5875,7 @@
                   <cell n="9"/>
                </row>
                <row n="490" role="data" xml:id="t1r490" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-08-31" notBefore="1895-08-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-08-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3" xml:lang="en">24 July <date when="1896" xml:lang="en">1896</date>, <date when="1897" xml:lang="en">1897</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqīqa</name> </cell>
@@ -5886,7 +5886,7 @@
                   <cell n="9"/>
                </row>
                <row n="491" role="data" xml:id="t1r491" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-01-31" notBefore="1895-01-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-01-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqq</name> </cell>
@@ -5975,7 +5975,7 @@
                   <cell n="9"/>
                </row>
                <row n="499" role="data" xml:id="t1r499" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-06-30" notBefore="1897-06-01">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-06-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maʿlūmāt (ʿArabiyya)</name> </cell>
@@ -5986,7 +5986,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL</rs>: 1897-1898</cell>
                </row>
                <row n="500" role="data" xml:id="t1r500" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-03-31" notBefore="1895-03-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-03-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Manfīs / Memphis</name> </cell>
@@ -5997,7 +5997,7 @@
                   <cell n="9"/>
                </row>
                <row n="501" role="data" xml:id="t1r501" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-12-31" notBefore="1895-12-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-12-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">Dec.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Marsī</name> </cell>
@@ -6043,7 +6043,7 @@
                   <cell n="9"/>
                </row>
                <row n="505" role="data" xml:id="t1r505" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-07-31" notBefore="1895-07-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-07-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">July</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muntazah</name> </cell>
@@ -6054,7 +6054,7 @@
                   <cell n="9"/>
                </row>
                <row n="506" role="data" xml:id="t1r506" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-10-31" notBefore="1895-10-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-10-31" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">Oct.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Naḥla</name> </cell>
@@ -6134,7 +6134,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="513" role="data" xml:id="t1r513" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1895-04-30" notBefore="1895-04-01" xml:lang="en">1895</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1895-04-30" xml:lang="en">1895</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadā al-Sharq</name> </cell>
@@ -6279,7 +6279,7 @@
                   <cell n="9"/>
                </row>
                <row n="527" role="data" xml:id="t1r527" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1896-02-29" notBefore="1896-02-01" xml:lang="en">1896</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1896-02-29" xml:lang="en">1896</date> </cell>
                   <cell n="2" xml:lang="en">Feb.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAbbās</name> </cell>
@@ -6290,7 +6290,7 @@
                   <cell n="9"/>
                </row>
                <row n="528" role="data" xml:id="t1r528" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1896-12-31" notBefore="1896-12-01" xml:lang="en">1896</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1896-12-31" xml:lang="en">1896</date> </cell>
                   <cell n="2" xml:lang="en">Dec.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Adab</name> </cell>
@@ -6357,7 +6357,7 @@
                   <cell n="9"/>
                </row>
                <row n="534" role="data" xml:id="t1r534" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1896-08-31" notBefore="1896-08-01" xml:lang="en">1896</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1896-08-31" xml:lang="en">1896</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Daḥḥ</name> </cell>
@@ -6969,7 +6969,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </cell>
                </row>
                <row n="590" role="data" xml:id="t1r590" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-09-30" notBefore="1897-09-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-09-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">Sept.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bāshā</name> </cell>
@@ -7007,7 +7007,7 @@
                      </add>. </cell>
                </row>
                <row n="593" role="data" xml:id="t1r593" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-01-31" notBefore="1897-01-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-01-31" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Burhān</name> </cell>
@@ -7029,7 +7029,7 @@
                   <cell n="9"/>
                </row>
                <row n="595" role="data" xml:id="t1r595" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-06-30" notBefore="1897-06-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-06-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghirbāl</name> </cell>
@@ -7140,7 +7140,7 @@
                   <cell n="9"/>
                </row>
                <row n="605" role="data" xml:id="t1r605" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-06-30" notBefore="1897-06-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-06-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">June <date when="1903" xml:lang="en">1903</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāzit al-Muʾlin bi’l-Bashāʾir wa’l-Asrār</name> </cell>
@@ -7152,7 +7152,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hKEW" xml:lang="en">Kew</rs> </cell>
                </row>
                <row n="606" role="data" xml:id="t1r606" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-06-30" notBefore="1897-06-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-06-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">June <date when="1903" xml:lang="en">1903</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Jazīt al-Shānba / The Shamba</name> </cell>
@@ -7210,7 +7210,7 @@
                   <cell n="9"/>
                </row>
                <row n="611" role="data" xml:id="t1r611" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-06-30" notBefore="1897-06-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-06-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maʿlūmāt</name> </cell>
@@ -7367,7 +7367,7 @@
                   <cell n="9"/>
                </row>
                <row n="625" role="data" xml:id="t1r625" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-11-30" notBefore="1897-11-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-11-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">Nov.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Rassām</name> </cell>
@@ -7477,7 +7477,7 @@
                   <cell n="9"/>
                </row>
                <row n="635" role="data" xml:id="t1r635" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1897-04-30" notBefore="1897-04-01" xml:lang="en">1897</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897-04-30" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tilighrāfāt al-Jadīda</name> </cell>
@@ -8225,7 +8225,7 @@
                   <cell n="9"/>
                </row>
                <row n="701" role="data" xml:id="t1r701" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1898-04-30" notBefore="1898-04-01" xml:lang="en">1898</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1898-04-30" xml:lang="en">1898</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣadā al-Miṣrī</name> </cell>
@@ -8269,7 +8269,7 @@
                   <cell n="9"/>
                </row>
                <row n="705" role="data" xml:id="t1r705" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1898-06-30" notBefore="1898-06-01" xml:lang="en">1898</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1898-06-30" xml:lang="en">1898</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">reappeared <date when="1899" xml:lang="en">1899</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Salām</name> </cell>
@@ -8315,7 +8315,7 @@
                   <cell n="9"/>
                </row>
                <row n="709" role="data" xml:id="t1r709" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1898-04-30" notBefore="1898-04-01" xml:lang="en">1898</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1898-04-30" xml:lang="en">1898</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sūdān al-Miṣrī</name> </cell>
@@ -8653,7 +8653,7 @@
                   <cell n="9"/>
                </row>
                <row n="740" role="data" xml:id="t1r740" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-08-31" notBefore="1899-08-01" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-08-31" xml:lang="en">1899</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iʿtidāl</name> </cell>
@@ -8881,7 +8881,7 @@
                   <cell n="9"/>
                </row>
                <row n="759" role="data" xml:id="t1r759" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-06-30" notBefore="1899-06-01" xml:lang="en">1899?</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-06-30" xml:lang="en">1899?</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mustashār</name> </cell>
@@ -8947,7 +8947,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?</cell>
                </row>
                <row n="765" role="data" xml:id="t1r765" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-01-31" notBefore="1899-01-01" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-01-31" xml:lang="en">1899</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadā al-Janūb</name> </cell>
@@ -8993,7 +8993,7 @@
                      the title Resimli devr-i âlem seyahatnamesi (Strauss 2003: 73 n164)</cell>
                </row>
                <row n="769" role="data" xml:id="t1r769" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-03-31" notBefore="1899-03-01" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-03-31" xml:lang="en">1899</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en">few issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">al-Ṣubḥ</name> </cell>
@@ -9017,7 +9017,7 @@
                   <cell n="9"/>
                </row>
                <row n="771" role="data" xml:id="t1r771" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-10-31" notBefore="1899-10-01" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-10-31" xml:lang="en">1899</date> </cell>
                   <cell n="2" xml:lang="en">Oct.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tadhkār</name> </cell>
@@ -9264,7 +9264,7 @@
                   <cell n="9"/>
                </row>
                <row n="794" role="data" xml:id="t1r794" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1900-12-31" notBefore="1900-12-01" xml:lang="en">1900</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1900-12-31" xml:lang="en">1900</date> </cell>
                   <cell n="2" xml:lang="en">Dec.</cell>
                   <cell n="3" xml:lang="en">13 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Farīḍat al-Ḥajj</name> </cell>
@@ -9276,7 +9276,7 @@
                   <cell n="9"/>
                </row>
                <row n="795" role="data" xml:id="t1r795" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1900-01-31" notBefore="1900-01-01" xml:lang="en">1900</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1900-01-31" xml:lang="en">1900</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghazāla</name> </cell>
@@ -9431,7 +9431,7 @@
                   <cell n="9"/>
                </row>
                <row n="809" role="data" xml:id="t1r809" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1900-04-30" notBefore="1900-04-01" xml:lang="en">1900</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1900-04-30" xml:lang="en">1900</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Majallāt al-ʿArabiyya</name> </cell>
@@ -9701,7 +9701,7 @@
                   <cell n="9"/>
                </row>
                <row n="833" role="data" xml:id="t1r833" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1900-01-31" notBefore="1900-01-01" xml:lang="en">1900</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1900-01-31" xml:lang="en">1900</date> </cell>
                   <cell n="2" xml:lang="en">Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Subūl al-Hudā</name> </cell>
@@ -9828,7 +9828,7 @@
                         issue)</rs>?</cell>
                </row>
                <row n="844" role="data" xml:id="t1r844" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1883-02-12" xml:lang="en">1883</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1883-02-12" xml:lang="en">1883</date> </cell>
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shām: Muḥāḍarāt wa Muqtaṭafāt</name> </cell>
@@ -9853,7 +9853,7 @@
                   <cell n="9"/>
                </row>
                <row n="846" resp="#pTG" role="data" xml:id="t1r846" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1894-03-28" xml:lang="en">*1894</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1894-03-28" xml:lang="en">*1894</date> </cell>
                   <cell n="2" xml:lang="en">before 28 March</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Kawkab al-Sharq</name> </cell>
@@ -9876,7 +9876,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB: 1899</rs> </cell>
                </row>
                <row n="848" resp="#pTG" role="data" xml:id="t1r848" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1899-11-30" notBefore="1899-11-01" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1899-11-30" xml:lang="en">1899</date> </cell>
                   <cell n="2" xml:lang="en">Nov.</cell>
                   <cell n="3" xml:lang="en"> <date when="1900" xml:lang="en">1900</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Thamarāt al-Adhhān</name> </cell>
@@ -9901,7 +9901,7 @@
                   <cell n="9"/>
                </row>
                <row n="850" resp="#pDN #pAM" role="data" xml:id="t1r850" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date notAfter="1861-08-31" notBefore="1860-08-01" xml:lang="en">1860</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1861-08-31" xml:lang="en">1860</date> </cell>
                   <cell n="2" xml:lang="en">August</cell>
                   <cell n="3" xml:lang="en"> <date when="1861" xml:lang="en">1861</date>; 25 issues were published</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">L’Aigle de Paris (Birgys)</name> </cell>
@@ -10240,7 +10240,7 @@
                   <cell n="9"/>
                </row>
                <row n="890" resp="#AM" role="data" xml:id="t1r890">
-                  <cell n="1"> <date notAfter="1902-04-30" notBefore="1902-04-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-04-30" >1902</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Rashīd</name> </cell>
@@ -10273,7 +10273,7 @@
                   <cell n="9"/>
                </row>
                <row n="893" resp="#AM" role="data" xml:id="t1r893">
-                  <cell n="1"> <date notAfter="1902-07-31" notBefore="1902-07-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-07-31" >1902</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Taymz al-Miṣrī</name> </cell>
@@ -10295,7 +10295,7 @@
                   <cell n="9"/>
                </row>
                <row n="895" resp="#AM" role="data" xml:id="t1r895">
-                  <cell n="1"> <date notAfter="1902-11-30" notBefore="1902-11-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-11-30" xml:lang="en">1902</date> </cell>
                   <cell n="2">November</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Barīd al-Aḥad</name> </cell>
@@ -10339,7 +10339,7 @@
                   <cell n="9"/>
                </row>
                <row n="899" resp="#AM" role="data" xml:id="t1r899">
-                  <cell n="1"> <date notAfter="1902-12-31" notBefore="1902-12-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-12-31" xml:lang="en">1902</date> </cell>
                   <cell n="2">December</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Farīq</name> </cell>
@@ -10350,7 +10350,7 @@
                   <cell n="9"/>
                </row>
                <row n="900" resp="#AM" role="data" xml:id="t1r900">
-                  <cell n="1"> <date notAfter="1902-12-31" notBefore="1902-12-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-12-31">1902</date> </cell>
                   <cell n="2">December</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Ḥurrīya</name> </cell>
@@ -10361,7 +10361,7 @@
                   <cell n="9"/>
                </row>
                <row n="901" resp="#AM" role="data" xml:id="t1r901">
-                  <cell n="1"> <date notAfter="1903-01-31" notBefore="1903-01-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-01-31">1903</date> </cell>
                   <cell n="2">January</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Ḥamīdī</name> </cell>
@@ -10394,7 +10394,7 @@
                   <cell n="9"/>
                </row>
                <row n="904" resp="#AM" role="data" xml:id="t1r904">
-                  <cell n="1"> <date notAfter="1903-03-31" notBefore="1903-03-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-03-31" >1903</date> </cell>
                   <cell n="2">March</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Qāhira</name> </cell>
@@ -10405,7 +10405,7 @@
                   <cell n="9"/>
                </row>
                <row n="905" resp="#AM" role="data" xml:id="t1r905">
-                  <cell n="1"> <date notAfter="1903-03-31" notBefore="1903-03-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-03-31" >1903</date> </cell>
                   <cell n="2">March</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Imām</name> </cell>
@@ -10438,7 +10438,7 @@
                   <cell n="9"/>
                </row>
                <row n="908" resp="#AM" role="data" xml:id="t1r908">
-                  <cell n="1"> <date notAfter="1903-08-31" notBefore="1903-08-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-08-31">1903</date> </cell>
                   <cell n="2">August</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Ṭughrāʾ</name> </cell>
@@ -10537,7 +10537,7 @@
                   <cell n="9"/>
                </row>
                <row n="917" resp="#AM" role="data" xml:id="t1r917">
-                  <cell n="1"> <date notAfter="1904-01-31" notBefore="1904-01-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-01-31" >1904</date> </cell>
                   <cell n="2">January</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Muntazah</name> </cell>
@@ -10614,7 +10614,7 @@
                   <cell n="9"/>
                </row>
                <row n="924" resp="#AM" role="data" xml:id="t1r924">
-                  <cell n="1"> <date notAfter="1904-04-30" notBefore="1904-04-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-04-30">1904</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Musāwāt</name> </cell>
@@ -10680,7 +10680,7 @@
                   <cell n="9"/>
                </row>
                <row n="930" resp="#AM" role="data" xml:id="t1r930">
-                  <cell n="1"> <date notAfter="1904-07-31" notBefore="1904-07-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-07-31" >1904</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Gharāʾib</name> </cell>
@@ -10691,7 +10691,7 @@
                   <cell n="9"/>
                </row>
                <row n="931" resp="#AM" role="data" xml:id="t1r931">
-                  <cell n="1"> <date notAfter="1904-08-31" notBefore="1904-08-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-08-31" >1904</date> </cell>
                   <cell n="2">August</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Sayf al-ʿAddāla</name> </cell>
@@ -10724,7 +10724,7 @@
                   <cell n="9"/>
                </row>
                <row n="934" resp="#AM" role="data" xml:id="t1r934">
-                  <cell n="1"> <date notAfter="1904-09-30" notBefore="1904-09-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-09-30" >1904</date> </cell>
                   <cell n="2">September</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Munʿim</name> </cell>
@@ -10779,7 +10779,7 @@
                   <cell n="9"/>
                </row>
                <row n="939" resp="#AM" role="data" xml:id="t1r939">
-                  <cell n="1"> <date notAfter="1905-02-28" notBefore="1905-02-01">1905</date> </cell>
+                  <cell n="1"> <date when="1905-02-28" >1905</date> </cell>
                   <cell n="2">February</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Tankīt wa-l-Tabkīt</name> </cell>
@@ -10790,7 +10790,7 @@
                   <cell n="9"/>
                </row>
                <row n="940" resp="#AM" role="data" xml:id="t1r940">
-                  <cell n="1"> <date notAfter="1905-02-28" notBefore="1905-02-01">1905</date> </cell>
+                  <cell n="1"> <date when="1905-02-28" >1905</date> </cell>
                   <cell n="2">February</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Ḥijāz</name> </cell>
@@ -10823,7 +10823,7 @@
                   <cell n="9"/>
                </row>
                <row n="943" resp="#AM" role="data" xml:id="t1r943">
-                  <cell n="1"> <date notAfter="1905-04-30" notBefore="1905-04-01">1905</date> </cell>
+                  <cell n="1"> <date when="1905-04-30" >1905</date> </cell>
                   <cell n="2">April</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-ʿĀlam al-Islāmī</name> </cell>
@@ -11021,7 +11021,7 @@
                   <cell n="9"/>
                </row>
                <row n="960" resp="#AM" role="data" xml:id="t1r961">
-                  <cell n="1"> <date notAfter="1906-07-31" notBefore="1906-07-01">1906</date> </cell>
+                  <cell n="1"> <date when="1906-07-31" >1906</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Minbar</name> </cell>
@@ -11032,7 +11032,7 @@
                   <cell n="9"/>
                </row>
                <row n="961" resp="#AM" role="data" xml:id="t1r962">
-                  <cell n="1"> <date notAfter="1906-07-31" notBefore="1906-07-01">1906</date> </cell>
+                  <cell n="1"> <date when="1906-07-31" >1906</date> </cell>
                   <cell n="2">July</cell>
                   <cell n="3"> <date/> </cell>
                   <cell n="4"> <name>Al-Asitāna</name> </cell>
@@ -11153,7 +11153,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="971" resp="#AM" role="data" xml:id="t1r973" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-02-28" notBefore="1907-02-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-02-28" >1907</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sharq</name> </cell>
@@ -11252,7 +11252,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="980" resp="#AM" role="data" xml:id="t1r982" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-10-31" notBefore="1907-10-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-10-31" >1907</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāmiʿa al-Miṣriyya</name> </cell>
@@ -11263,7 +11263,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="981" resp="#AM" role="data" xml:id="t1r983" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-11-30" notBefore="1907-11-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-11-30" >1907</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Siyāsa al-Muṣawwara</name> </cell>
@@ -11274,7 +11274,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="982" resp="#AM" role="data" xml:id="t1r984" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-11-30" notBefore="1907-11-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-11-30" >1907</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Dustūr</name> </cell>
@@ -11285,7 +11285,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="983" resp="#AM" role="data" xml:id="t1r985" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-01-31" notBefore="1908-01-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-01-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date>1908</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nahḍa</name> </cell>
@@ -11318,7 +11318,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="986" resp="#AM" role="data" xml:id="t1r988" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-03-31" notBefore="1908-03-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-03-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ḍiyāʾ al-Sharq</name> </cell>
@@ -11529,7 +11529,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1004" resp="#AM" role="data" xml:id="t1r1007" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-12-31" notBefore="1908-12-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-12-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Miṣr al-Fatāt</name> </cell>
@@ -11540,7 +11540,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1005" resp="#AM" role="data" xml:id="t1r1008" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-12-31" notBefore="1908-12-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-12-31">1908</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭalba</name> </cell>
@@ -11551,7 +11551,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1005" resp="#AM" role="data" xml:id="t1r1009" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-12-31" notBefore="1908-12-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-12-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭalba</name> </cell>
@@ -11608,7 +11608,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1010" resp="#AM" role="data" xml:id="t1r1014" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-01-31" notBefore="1909-01-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-01-31" >1909</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bahlūl</name> </cell>
@@ -11686,7 +11686,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1017" resp="#AM" role="data" xml:id="t1r1021" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-04-30" notBefore="1909-04-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-04-30" >1909</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Liwāʾ al-Muṣawwar</name> </cell>
@@ -11697,7 +11697,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1018" resp="#AM" role="data" xml:id="t1r1022" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-06-30" notBefore="1909-06-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-06-30" >1909</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shajāʿa</name> </cell>
@@ -11752,7 +11752,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1023" resp="#AM" role="data" xml:id="t1r1027" xml:lang="en">
-                  <cell n="1"> <date notAfter="1910-01-31" notBefore="1910-01-01">1910</date> </cell>
+                  <cell n="1"> <date when="1910-01-31" >1910</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ādāb</name> </cell>
@@ -11785,7 +11785,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1026" resp="#AM" role="data" xml:id="t1r1030" xml:lang="en">
-                  <cell n="1"> <date notAfter="1910-03-31" notBefore="1910-03-01">1910</date> </cell>
+                  <cell n="1"> <date when="1910-03-31" >1910</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shaʿb</name> </cell>
@@ -12150,7 +12150,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1057" resp="#AM" role="data" xml:id="t1r1063" xml:lang="en">
-                  <cell n="1"> <date notAfter="1916-11-30" notBefore="1916-11-01">1916</date> </cell>
+                  <cell n="1"> <date when="1916-11-30" >1916</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ</name> </cell>
@@ -12249,7 +12249,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1066" resp="#AM" role="data" xml:id="t1r1072" xml:lang="en">
-                  <cell n="1"> <date notAfter="1919-08-31" notBefore="1919-08-01">1919</date> </cell>
+                  <cell n="1"> <date when="1919-08-31" >1919</date> </cell>
                   <cell n="2" xml:lang="en">August</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Afkār</name> </cell>
@@ -12480,7 +12480,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1087" resp="#AM" role="data" xml:id="t1r1093" xml:lang="en">
-                  <cell n="1"> <date notAfter="1921-01-31" notBefore="1921-01-01">1921</date> </cell>
+                  <cell n="1"> <date when="1921-01-31" >1921</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Akhbār al-Māsūniyya</name> </cell>
@@ -12667,7 +12667,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1104" resp="#AM" role="data" xml:id="t1r1110" xml:lang="en">
-                  <cell n="1"> <date notAfter="1922-04-30" notBefore="1922-04-01">1922</date> </cell>
+                  <cell n="1"> <date when="1922-04-30" >1922</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Rijāʾ</name> </cell>
@@ -12964,7 +12964,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1131" resp="#AM" role="data" xml:id="t1r1137" xml:lang="en">
-                  <cell n="1"> <date notAfter="1923-10-31" notBefore="1923-10-01">1923</date> </cell>
+                  <cell n="1"> <date when="1923-10-31" >1923</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥawādith al-Muṣawwara</name> </cell>
@@ -12975,7 +12975,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1132" resp="#AM" role="data" xml:id="t1r1138" xml:lang="en">
-                  <cell n="1"> <date notAfter="1923-11-30" notBefore="1923-11-01">1923</date> </cell>
+                  <cell n="1"> <date when="1923-11-30" >1923</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nafīr</name> </cell>
@@ -13404,7 +13404,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1169" resp="#AM" role="data" xml:id="t1r1177" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-12-31" notBefore="1924-12-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-12-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥisāb</name> </cell>
@@ -13712,7 +13712,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1196" resp="#AM" role="data" xml:id="t1r1205" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-02-28" notBefore="1926-02-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-02-28" >1926</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Minhāj</name> </cell>
@@ -13745,7 +13745,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1199" resp="#AM" role="data" xml:id="t1r1208" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-04-30" notBefore="1926-04-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-04-30" >1926</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAlam</name> </cell>
@@ -13822,7 +13822,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1205" resp="#AM" role="data" xml:id="t1r1215" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-09-30" notBefore="1926-09-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-09-30" >1926</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣādirāt wa-l-Wāridāt</name> </cell>
@@ -13921,7 +13921,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1213" resp="#AM" role="data" xml:id="t1r1225" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-01-31" notBefore="1927-01-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-01-31" >1927</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Kulliyat al-Ādāb wa-l-ʿUlūm</name> </cell>
@@ -13998,7 +13998,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1220" resp="#AM" role="data" xml:id="t1r1232" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-09-30" notBefore="1927-09-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-09-30" >1927</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ẓāhir</name> </cell>
@@ -14042,7 +14042,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1224" resp="#AM" role="data" xml:id="t1r1236" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-12-31" notBefore="1927-12-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-12-31" >1927</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mustaqbal</name> </cell>
@@ -14251,7 +14251,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1243" resp="#AM" role="data" xml:id="t1r1255" xml:lang="en">
-                  <cell n="1"> <date notAfter="1902-03-31" notBefore="1902-03-01">1902</date> </cell>
+                  <cell n="1"> <date when="1902-03-31" >1902</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iʿlān</name> </cell>
@@ -14295,7 +14295,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1247" resp="#AM" role="data" xml:id="t1r1259" xml:lang="en">
-                  <cell n="1"> <date notAfter="1903-01-31" notBefore="1903-01-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-01-31">1903</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jarīda al-Māsūniyya</name> </cell>
@@ -14350,7 +14350,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1252" resp="#AM" role="data" xml:id="t1r1264" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-05-31" notBefore="1904-05-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-05-31" >1904</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aksbrīs</name> </cell>
@@ -14790,7 +14790,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1292" resp="#AM" role="data" xml:id="t1r1304" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-09-30" notBefore="1925-09-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-09-30" >1925</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tharwa</name> </cell>
@@ -14988,7 +14988,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1310" resp="#AM" role="data" xml:id="t1r1322" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-01-31" notBefore="1904-01-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-01-31" >1904</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nāfiʿa</name> </cell>
@@ -15109,7 +15109,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1321" resp="#AM" role="data" xml:id="t1r1333" xml:lang="en">
-                  <cell n="1"> <date notAfter="1923-01-31" notBefore="1923-01-01">1923</date> </cell>
+                  <cell n="1"> <date when="1923-01-31" >1923</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Kamāl</name> </cell>
@@ -15153,7 +15153,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1325" resp="#AM" role="data" xml:id="t1r1337" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-01-31" notBefore="1925-01-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-01-31" >1925</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaḍāra al-Miṣriyya</name> </cell>
@@ -15230,7 +15230,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1332" resp="#AM" role="data" xml:id="t1r1344" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-01-31" notBefore="1924-01-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-01-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tawfīq</name> </cell>
@@ -15241,7 +15241,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1333" resp="#AM" role="data" xml:id="t1r1345" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-03-31" notBefore="1925-03-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-03-31" >1925</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Manṣūra</name> </cell>
@@ -15529,7 +15529,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1359" resp="#AM" role="data" xml:id="t1r1371" xml:lang="en">
-                  <cell n="1"> <date notAfter="1920-02-29" notBefore="1920-02-01">1920</date> </cell>
+                  <cell n="1"> <date when="1920-02-29" >1920</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sāʿa</name> </cell>
@@ -15562,7 +15562,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1362" resp="#AM" role="data" xml:id="t1r1374" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-06-30" notBefore="1924-06-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-06-30" >1924</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muntaẓar</name> </cell>
@@ -15749,7 +15749,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1379" resp="#AM" role="data" xml:id="t1r1391" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-02-28" notBefore="1925-02-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-02-28" >1925</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Waqt</name> </cell>
@@ -15881,7 +15881,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1391" resp="#AM" role="data" xml:id="t1r1403" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-10-31" notBefore="1904-10-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-10-31" >1904</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sūdān</name> </cell>
@@ -15903,7 +15903,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1393" resp="#AM" role="data" xml:id="t1r1405" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-03-31" notBefore="1909-03-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-03-31">1909</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Kharṭūm</name> </cell>
@@ -15914,7 +15914,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1394" resp="#AM" role="data" xml:id="t1r1406" xml:lang="en">
-                  <cell n="1"> <date notAfter="1913-01-31" notBefore="1913-01-01">1913</date> </cell>
+                  <cell n="1"> <date when="1913-01-31" >1913</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Rāʾid al-Sūdān</name> </cell>
@@ -15958,7 +15958,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1398" resp="#AM" role="data" xml:id="t1r1410" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-03-31" notBefore="1909-03-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-03-31" >1909</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAṣr al-Jadīd</name> </cell>
@@ -16816,7 +16816,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1476" resp="#AM" role="data" xml:id="t1r1488" xml:lang="en">
-                  <cell n="1"> <date notAfter="1922-09-30" notBefore="1922-09-01">1922</date> </cell>
+                  <cell n="1"> <date when="1922-09-30" >1922</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Burhān</name> </cell>
@@ -16838,7 +16838,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1478" resp="#AM" role="data" xml:id="t1r1490" xml:lang="en">
-                  <cell n="1"> <date notAfter="1922-12-31" notBefore="1922-12-01">1922</date> </cell>
+                  <cell n="1"> <date when="1922-12-31" >1922</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqīqa</name> </cell>
@@ -17245,7 +17245,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1515" resp="#AM" role="data" xml:id="t1r1527" xml:lang="en">
-                  <cell n="1"> <date notAfter="1912-03-31" notBefore="1912-03-01">1912</date> </cell>
+                  <cell n="1"> <date when="1912-03-31">1912</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Akhbār al-Maghribiyya</name> </cell>
@@ -17278,7 +17278,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1518" resp="#AM" role="data" xml:id="t1r1530" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-03-31" notBefore="1927-03-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-03-31" >1927</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ittiḥād</name> </cell>
@@ -17388,7 +17388,7 @@
                   <cell n="9" xml:lang="en"> <rs/> </cell>
                </row>
                <row n="1528" resp="#AM" role="data" xml:id="t1r1540" xml:lang="en">
-                  <cell n="1"> <date notAfter="1901-10-31" notBefore="1901-10-01">1901</date> </cell>
+                  <cell n="1"> <date when="1901-10-31" >1901</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāmiʿa al-Islāmiyya</name> </cell>
@@ -17531,7 +17531,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1541" resp="#AM" role="data" xml:id="t1r1553" xml:lang="en">
-                  <cell n="1"> <date notAfter="1903-04-30" notBefore="1903-04-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-04-30" >1903</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Musāmirāt al-Nadīm</name> </cell>
@@ -17608,7 +17608,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1548" resp="#AM" role="data" xml:id="t1r1560" xml:lang="en">
-                  <cell n="1"> <date notAfter="1903-10-31" notBefore="1903-10-01">1903</date> </cell>
+                  <cell n="1"> <date when="1903-10-31" >1903</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Kārūz al-Munīr</name> </cell>
@@ -17696,7 +17696,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1556" resp="#AM" role="data" xml:id="t1r1568" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-02-29" notBefore="1904-02-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-02-29" >1904</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mufīd</name> </cell>
@@ -17740,7 +17740,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1560" resp="#AM" role="data" xml:id="t1r1572" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-05-31" notBefore="1904-05-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-05-31" >1904</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Bilād</name> </cell>
@@ -17773,7 +17773,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1563" resp="#AM" role="data" xml:id="t1r1575" xml:lang="en">
-                  <cell n="1"> <date notAfter="1904-09-30" notBefore="1904-09-01">1904</date> </cell>
+                  <cell n="1"> <date when="1904-09-30" >1904</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Lisān al-Umam</name> </cell>
@@ -17916,7 +17916,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1576" resp="#AM" role="data" xml:id="t1r1588" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-11-30" notBefore="1908-11-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-11-30" >1908</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date>1916</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ḥijāz</name> </cell>
@@ -17927,7 +17927,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1577" resp="#AM" role="data" xml:id="t1r1589" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-11-30" notBefore="1908-11-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-11-30" >1908</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date>1909</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Shams al-Ḥaqīqa</name> </cell>
@@ -17938,7 +17938,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1578" resp="#AM" role="data" xml:id="t1r1590" xml:lang="en">
-                  <cell n="1"> <date notAfter="1909-05-31" notBefore="1909-05-01">1909</date> </cell>
+                  <cell n="1"> <date when="1909-05-31" >1909</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ al-Ḥijāzī</name> </cell>
@@ -17971,7 +17971,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1581" resp="#AM" role="data" xml:id="t1r1593" xml:lang="en">
-                  <cell n="1"> <date notAfter="1905-04-30" notBefore="1905-04-01">1905</date> </cell>
+                  <cell n="1"> <date when="1905-04-30" >1905</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Jarīdat al-Maḥfal al-Akbar al-Ūrshulīmī</name> </cell>
@@ -18202,7 +18202,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1602" resp="#AM" role="data" xml:id="t1r1614" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-01-31" notBefore="1907-01-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-01-31" >1907</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sijill al-Miṣrī</name> </cell>
@@ -18246,7 +18246,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1606" resp="#AM" role="data" xml:id="t1r1618" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-04-30" notBefore="1907-04-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-04-30" >1907</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Azhar</name> </cell>
@@ -18257,7 +18257,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1607" resp="#AM" role="data" xml:id="t1r1619" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-04-30" notBefore="1907-04-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-04-30" >1907</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">al-Majalla al-Qubṭiyya</name> </cell>
@@ -18323,7 +18323,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1613" resp="#AM" role="data" xml:id="t1r1625" xml:lang="en">
-                  <cell n="1"> <date notAfter="1907-09-30" notBefore="1907-09-01">1907</date> </cell>
+                  <cell n="1"> <date when="1907-09-30" >1907</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarīq al-Ḥayāt</name> </cell>
@@ -18378,7 +18378,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1618" resp="#AM" role="data" xml:id="t1r1630" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-01-31" notBefore="1908-01-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-01-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fukāhāt al-ʿAṣriyya</name> </cell>
@@ -18400,7 +18400,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1620" resp="#AM" role="data" xml:id="t1r1632" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-04-30" notBefore="1908-04-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-04-30" >1908</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Zahra</name> </cell>
@@ -18444,7 +18444,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1624" resp="#AM" role="data" xml:id="t1r1636" xml:lang="en">
-                  <cell n="1"> <date notAfter="1908-05-31" notBefore="1908-05-01">1908</date> </cell>
+                  <cell n="1"> <date when="1908-05-31" >1908</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Asmāʾ</name> </cell>
@@ -18906,7 +18906,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1666" resp="#AM" role="data" xml:id="t1r1678" xml:lang="en">
-                  <cell n="1"> <date notAfter="1911-12-31" notBefore="1911-12-01">1911</date> </cell>
+                  <cell n="1"> <date when="1911-12-31" >1911</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Raʿmsīs</name> </cell>
@@ -18917,7 +18917,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1667" resp="#AM" role="data" xml:id="t1r1679" xml:lang="en">
-                  <cell n="1"> <date notAfter="1912-01-31" notBefore="1912-01-01">1912</date> </cell>
+                  <cell n="1"> <date when="1912-01-31" >1912</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nasīm</name> </cell>
@@ -19038,7 +19038,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1678" resp="#AM" role="data" xml:id="t1r1690" xml:lang="en">
-                  <cell n="1"> <date notAfter="1913-10-31" notBefore="1913-10-01">1913</date> </cell>
+                  <cell n="1"> <date when="1913-10-31" >1913</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Saʿāda al-Abadiyya</name> </cell>
@@ -19093,7 +19093,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1683" resp="#AM" role="data" xml:id="t1r1695" xml:lang="en">
-                  <cell n="1"> <date notAfter="1914-04-30" notBefore="1914-04-01">1914</date> </cell>
+                  <cell n="1"> <date when="1914-04-30" >1914</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Ghurfa al-Tijāriyya al-Miṣriyya</name> </cell>
@@ -19192,7 +19192,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1692" resp="#AM" role="data" xml:id="t1r1704" xml:lang="en">
-                  <cell n="1"> <date notAfter="1916-03-31" notBefore="1916-03-01">1916</date> </cell>
+                  <cell n="1"> <date when="1916-03-31" >1916</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ghadhāʾ al-Nufūs</name> </cell>
@@ -19203,7 +19203,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1693" resp="#AM" role="data" xml:id="t1r1705" xml:lang="en">
-                  <cell n="1"> <date notAfter="1916-04-30" notBefore="1916-04-01">1916</date> </cell>
+                  <cell n="1"> <date when="1916-04-30" >1916</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Musābaqāt al-ʿIlmiyya</name> </cell>
@@ -19225,7 +19225,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1695" resp="#AM" role="data" xml:id="t1r1707" xml:lang="en">
-                  <cell n="1"> <date notAfter="1916-04-30" notBefore="1916-04-01">1916</date> </cell>
+                  <cell n="1"> <date when="1916-04-30" >1916</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Adab wa-l-Tamthīl</name> </cell>
@@ -19291,7 +19291,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1701" resp="#AM" role="data" xml:id="t1r1713" xml:lang="en">
-                  <cell n="1"> <date notAfter="1919-11-30" notBefore="1919-11-01">1919</date> </cell>
+                  <cell n="1"> <date when="1919-11-30" >1919</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Masraḥ al-Miṣrī</name> </cell>
@@ -19434,7 +19434,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1714" resp="#AM" role="data" xml:id="t1r1726" xml:lang="en">
-                  <cell n="1"> <date notAfter="1920-10-31" notBefore="1920-10-01">1920</date> </cell>
+                  <cell n="1"> <date when="1920-10-31" >1920</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muḥāma</name> </cell>
@@ -19500,7 +19500,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1720" resp="#AM" role="data" xml:id="t1r1732" xml:lang="en">
-                  <cell n="1"> <date notAfter="1921-03-31" notBefore="1921-03-01">1921</date> </cell>
+                  <cell n="1"> <date when="1921-03-31" >1921</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Barq</name> </cell>
@@ -19632,7 +19632,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1732" resp="#AM" role="data" xml:id="t1r1744" xml:lang="en">
-                  <cell n="1"> <date notAfter="1921-12-31" notBefore="1921-12-01">1921</date> </cell>
+                  <cell n="1"> <date when="1921-12-31" >1921</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣiḥḥa wa-l-Quwwa</name> </cell>
@@ -19786,7 +19786,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1746" resp="#AM" role="data" xml:id="t1r1758" xml:lang="en">
-                  <cell n="1"> <date notAfter="1923-04-30" notBefore="1923-04-01">1923</date> </cell>
+                  <cell n="1"> <date when="1923-04-30" >1923</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣaḥīfat al-Muʿallimīn</name> </cell>
@@ -19852,7 +19852,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1752" resp="#AM" role="data" xml:id="t1r1764" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-01-31" notBefore="1924-01-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-01-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣiḥḥat al-ʿĀʾila</name> </cell>
@@ -19863,7 +19863,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1753" resp="#AM" role="data" xml:id="t1r1765" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-01-31" notBefore="1924-01-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-01-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Barīd al-Maḥākim</name> </cell>
@@ -19907,7 +19907,7 @@
                   <cell n="9" xml:lang="en"/>
                </row>
                <row n="1757" resp="#AM" role="data" xml:id="t1r1769" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-05-31" notBefore="1924-05-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-05-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maktaba</name> </cell>
@@ -20061,7 +20061,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1771" resp="#AM" role="data" xml:id="t1r1783" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-09-30" notBefore="1924-09-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-09-30">1924</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Yaqẓa</name> </cell>
@@ -20116,7 +20116,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1776" resp="#AM" role="data" xml:id="t1r1788" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-10-31" notBefore="1924-10-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-10-31" >1924</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Maḥkama al-Sharʿiyya</name> </cell>
@@ -20171,7 +20171,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1781" resp="#AM" role="data" xml:id="t1r1793" xml:lang="en">
-                  <cell n="1"> <date notAfter="1924-11-30" notBefore="1924-11-01">1924</date> </cell>
+                  <cell n="1"> <date when="1924-11-30" >1924</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Khulūd</name> </cell>
@@ -20314,7 +20314,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1794" resp="#AM" role="data" xml:id="t1r1806" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-02-28" notBefore="1925-02-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-02-28" >1925</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jawhara</name> </cell>
@@ -20446,7 +20446,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1806" resp="#AM" role="data" xml:id="t1r1818" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-06-30" notBefore="1925-06-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-06-30" >1925</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qadīm</name> </cell>
@@ -20622,7 +20622,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1822" resp="#AM" role="data" xml:id="t1r1834" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-01-31" notBefore="1926-01-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-01-31" >1926</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Liḥām al-Dhātī</name> </cell>
@@ -20633,7 +20633,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1823" resp="#AM" role="data" xml:id="t1r1835" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-01-31" notBefore="1926-01-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-01-31" >1926</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-Tilighrāfāt wa-l-Tilifūnāt</name> </cell>
@@ -20677,7 +20677,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1827" resp="#AM" role="data" xml:id="t1r1839" xml:lang="en">
-                  <cell n="1"> <date notAfter="1926-10-31" notBefore="1926-10-01">1926</date> </cell>
+                  <cell n="1"> <date when="1926-10-31" >1926</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat Kulliyyat al-Ḥuqūq</name> </cell>
@@ -21018,7 +21018,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1858" resp="#AM" role="data" xml:id="t1r1870" xml:lang="en">
-                  <cell n="1"> <date notAfter="1928-04-30" notBefore="1928-04-01">1928</date> </cell>
+                  <cell n="1"> <date when="1928-04-30" >1928</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Dawriyya</name> </cell>
@@ -21161,7 +21161,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1871" resp="#AM" role="data" xml:id="t1r1883" xml:lang="en">
-                  <cell n="1"> <date notAfter="1928-11-30" notBefore="1928-11-01">1928</date> </cell>
+                  <cell n="1"> <date when="1928-11-30" >1928</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Hidāya al-Islāmiyya</name> </cell>
@@ -21227,7 +21227,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1877" resp="#AM" role="data" xml:id="t1r1889" xml:lang="en">
-                  <cell n="1"> <date notAfter="1929-02-28" notBefore="1929-02-01">1929</date> </cell>
+                  <cell n="1"> <date when="1929-02-28" >1929</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭarīq</name> </cell>
@@ -21260,7 +21260,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1880" resp="#AM" role="data" xml:id="t1r1892" xml:lang="en">
-                  <cell n="1"> <date notAfter="1929-04-30" notBefore="1929-04-01">1929</date> </cell>
+                  <cell n="1"> <date when="1929-04-30" >1929</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadīq al-ʿĀʾila</name> </cell>
@@ -21524,7 +21524,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1904" resp="#AM" role="data" xml:id="t1r1916" xml:lang="en">
-                  <cell n="1"> <date notAfter="1905-04-30" notBefore="1905-04-01">1905</date> </cell>
+                  <cell n="1"> <date when="1905-04-30" >1905</date> </cell>
                   <cell n="2" xml:lang="en">April</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Majalla al-Taʿlīmiyya</name> </cell>
@@ -21667,7 +21667,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1917" resp="#AM" role="data" xml:id="t1r1929" xml:lang="en">
-                  <cell n="1"> <date notAfter="1911-02-28" notBefore="1911-02-01">1911</date> </cell>
+                  <cell n="1"> <date when="1911-02-28" >1911</date> </cell>
                   <cell n="2" xml:lang="en">February</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Naṣāʾiḥ al-ʿIlmiyya</name> </cell>
@@ -21843,7 +21843,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1933" resp="#AM" role="data" xml:id="t1r1945" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-09-30" notBefore="1925-09-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-09-30" >1925</date> </cell>
                   <cell n="2" xml:lang="en">September</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mār Murqus</name> </cell>
@@ -21920,7 +21920,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1940" resp="#AM" role="data" xml:id="t1r1952" xml:lang="en">
-                  <cell n="1"> <date notAfter="1928-03-31" notBefore="1928-03-01">1928</date> </cell>
+                  <cell n="1"> <date when="1928-03-31" >1928</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭibb al-Asnān al-ʿĀmm</name> </cell>
@@ -21942,7 +21942,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1942" resp="#AM" role="data" xml:id="t1r1954" xml:lang="en">
-                  <cell n="1"> <date notAfter="1929-01-31" notBefore="1929-01-01">1929</date> </cell>
+                  <cell n="1"> <date when="1929-01-31" >1929</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Masarrāt</name> </cell>
@@ -21975,7 +21975,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1945" resp="#AM" role="data" xml:id="t1r1957" xml:lang="en">
-                  <cell n="1"> <date notAfter="1929-03-31" notBefore="1929-03-01">1929</date> </cell>
+                  <cell n="1"> <date when="1929-03-31" >1929</date> </cell>
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jihād al-Islāmī</name> </cell>
@@ -22030,7 +22030,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1950" resp="#AM" role="data" xml:id="t1r1962" xml:lang="en">
-                  <cell n="1"> <date notAfter="1915-11-30" notBefore="1915-11-01">1915</date> </cell>
+                  <cell n="1"> <date when="1915-11-30" >1915</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣaḥīfat Madrasat Ṭanṭā al-Thānawiyya</name> </cell>
@@ -22162,7 +22162,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1962" resp="#AM" role="data" xml:id="t1r1974" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-05-31" notBefore="1927-05-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-05-31" >1927</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Anṣār</name> </cell>
@@ -22283,7 +22283,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1973" resp="#AM" role="data" xml:id="t1r1985" xml:lang="en">
-                  <cell n="1"> <date notAfter="1925-01-31" notBefore="1925-01-01">1925</date> </cell>
+                  <cell n="1"> <date when="1925-01-31" >1925</date> </cell>
                   <cell n="2" xml:lang="en">January</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ādāb al-Fatāt</name> </cell>
@@ -22305,7 +22305,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="1975" resp="#AM" role="data" xml:id="t1r1987" xml:lang="en">
-                  <cell n="1"> <date notAfter="1927-05-31" notBefore="1927-05-01">1927</date> </cell>
+                  <cell n="1"> <date when="1927-05-31" >1927</date> </cell>
                   <cell n="2" xml:lang="en">May</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat Madrasat Banī Suwayyif al-Thānawiyya</name> </cell>
@@ -22701,7 +22701,7 @@
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
                <row n="2011" resp="#AM" role="data" xml:id="t1r2023" xml:lang="en">
-                  <cell n="1"> <date notAfter="1923-08-31" notBefore="1923-08-01">1923</date> </cell>
+                  <cell n="1"> <date when="1923-08-31" >1923</date> </cell>
                   <cell n="2" xml:lang="en">August</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿĀlam al-Adabī</name> </cell>
