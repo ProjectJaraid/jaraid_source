@@ -34,7 +34,6 @@
                <persName xml:lang="en">Marina Demetriadou</persName>
                <persName xml:lang="en">Nicole Khayat</persName>
                <persName xml:lang="en">Sinai Rusinek</persName>
-               <persName xml:lang="en">Will Hanley</persName>
                <persName xml:lang="en">Peter Magierski</persName>
             </respStmt>
          </titleStmt>
@@ -58,7 +57,7 @@
                <persName xml:id="pNH" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
                <persName xml:id="pHC" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname> </persName>
                <persName xml:id="pSR" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
-               <persName xml:id="pWH" xml:lang="en"> <forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
+
                <persName xml:id="pPM" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
@@ -72,7 +71,7 @@
             <respStmt xml:lang="en">
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
-               <persName resp="#pWH" xml:lang="en">Will Hanley</persName>
+               <persName resp="#pPM" xml:lang="en">Peter Magierski</persName>
             </respStmt>
             <respStmt xml:lang="en">
                <resp>The 2020 edition's digital production: Data cleaning, XSLT-coding</resp>
@@ -294,14 +293,14 @@
             <p xml:lang="en">2020 Edition</p>
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Will Hanley, Rana
+               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
             <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan, Peter Magierski, Will Hanley; XSLT-coding by Till Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition: Hugh Cayless</p>
+            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan, Peter Magierski; XSLT-coding by Till Grallert</p>
+            <p xml:lang="en">Advisor to 2020 Edition for CETEICean and JS handling: Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
             <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
