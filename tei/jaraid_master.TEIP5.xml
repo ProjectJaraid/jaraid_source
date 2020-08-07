@@ -22778,7 +22778,7 @@
                </row>
                
                <row n="2018" resp="#AM" role="data" xml:id="t1r2030" xml:lang="en">
-                  <cell n="1"> <date xml:lang="en">1897</date> </cell>
+                  <cell n="1"> <date when="1897-12-01" xml:lang="en">1897</date> </cell>
                   <cell n="2" xml:lang="en">December/1</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">ʿUthmānlī</name> </cell>
