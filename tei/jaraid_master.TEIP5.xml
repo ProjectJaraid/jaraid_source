@@ -34,7 +34,7 @@
                <persName xml:lang="en">Marina Demetriadou</persName>
                <persName xml:lang="en">Nicole Khayat</persName>
                <persName xml:lang="en">Sinai Rusinek</persName>
-               <persName xml:lang="en">Will Hanley</persName>
+               <persName xml:lang="en">Peter Magierski</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -57,7 +57,8 @@
                <persName xml:id="pNH" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
                <persName xml:id="pHC" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname> </persName>
                <persName xml:id="pSR" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
-               <persName xml:id="pWH" xml:lang="en"> <forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
+
+               <persName xml:id="pPM" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
@@ -70,7 +71,7 @@
             <respStmt xml:lang="en">
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
-               <persName resp="#pWH" xml:lang="en">Will Hanley</persName>
+               <persName resp="#pPM" xml:lang="en">Peter Magierski</persName>
             </respStmt>
             <respStmt xml:lang="en">
                <resp>The 2020 edition's digital production: Data cleaning, XSLT-coding</resp>
@@ -95,7 +96,7 @@
          <projectDesc xml:lang="en">
             <p xml:lang="en"
                >The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
-               from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file. The 2020 Edition was produced through Github by Adam Mestyan.</p>
+               from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file. The 2020 Edition was produced through Github by Adam Mestyan et al.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
             <p xml:lang="en">This project uses the IJMES standards for Arabic transliteration.</p>
@@ -292,14 +293,14 @@
             <p xml:lang="en">2020 Edition</p>
             <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Will Hanley, Rana
-               Issa, Nicole Khayat, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Ola Seif,
-               Rogier Visser, and Sinai Rusinek</p>
+               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
+               Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
+               and Rogier Visser</p>
             <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan and Will Hanley, XSLT-coding by Till Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition Hugh Cayless</p>
+            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan, Peter Magierski; XSLT-coding by Till Grallert</p>
+            <p xml:lang="en">Advisor to 2020 Edition for CETEICean and JS handling: Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
             <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
@@ -562,13 +563,15 @@
          </div>
       </front>
       <body xml:lang="en">
+         <div xml:id="t1head" xml:lang="en"><head xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head></div>
          <div type="table" xml:id="dTables" xml:lang="en">
+            
             <table n="1" xml:id="t1" xml:lang="en">
-               <head xml:lang="en">Chronologic Table of Dated Periodicals (1800-1929)</head>
+               
                <row role="label" xml:lang="en">
                   <cell n="1" xml:lang="en">Year of first issue</cell>
                   <cell n="2" xml:lang="en">Day/month of first issue</cell>
-                  <cell n="3" xml:lang="en">Date of last issue1</cell>
+                  <cell n="3" xml:lang="en">Date of last issue</cell>
                   <cell n="4" xml:lang="en">Title</cell>
                   <cell n="5" xml:lang="en">Place of publication</cell>
                   <cell n="6" xml:lang="en">Owners/ publishers/ editors</cell>
@@ -1651,7 +1654,8 @@
                      ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hDKQM"
                      xml:lang="en">DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4"/> </rs>, <rs
                      ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hDMW" xml:lang="en">DMW</rs>: 1877-1930s (with gaps), <rs ref="#hPUL"
-                     xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref> </cell>
+                        xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>, <rs ref="#hBONN"
+                           xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-77143" xml:lang="en">online, 1876-1952</ref> </rs> </cell>
                </row>
                <row n="106" role="data" xml:id="t1r106" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1876" xml:lang="en">1876</date> </cell>
@@ -1974,7 +1978,7 @@
                         Makāriyūs</persName>, later others </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-75560" xml:lang="en">online, 1884-1885</ref> </rs> </cell>
                </row>
                <row n="135" role="data" xml:id="t1r135" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1878" xml:lang="en">1878</date> </cell>
@@ -3882,7 +3886,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Khalīl Zaynīh</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?</cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-230743" xml:lang="en">online, 1889-1890</ref> </rs> </cell>
                </row>
                <row n="309" role="data" xml:id="t1r309" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1888" xml:lang="en">1888</date> </cell>
@@ -7652,9 +7656,9 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDUR" xml:lang="en">Dur</rs>, <add resp="#pAM" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: <ref
                      target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=8378E74DF20BF7C2DB57068EE171DCF4" xml:lang="en">1898-1906 online</ref> </rs> </add>, <rs ref="#hSOAS"
                      xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en"
-                     >OIB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN" xml:lang="en">Bonn: <ref
+                     >OIB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs resp="#pTG" ref="#hBONN" xml:lang="en">Bonn: <ref
                      target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68602" xml:lang="en">1898-1906
-                              online</ref> </rs> </add> </cell>
+                              online</ref> </rs>  </cell>
                </row>
                <row n="652" role="data" xml:id="t1r652" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898" xml:lang="en">1898</date> </cell>
@@ -8688,7 +8692,8 @@
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs
-                     ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs> </cell>
+                           ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hBONN"
+                              xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">online, 1899-1910</ref> </rs> </cell>
                </row>
                <row n="743" role="data" xml:id="t1r743" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1899" xml:lang="en">1899?</date> </cell>
@@ -13353,7 +13358,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Imīl Zaydān</persName>, <persName>Shukrī Zaydān</persName> </cell>
                   <cell n="7" xml:lang="en"> <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en">Ṭ</cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hAUC">AUC:</rs><ref target="http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll29">1925-1929 online</ref>, not complete</cell>
                </row>
                <row n="1165" resp="#AM" role="data" xml:id="t1r1173" xml:lang="en">
                   <cell n="1"> <date when="1924-10-25" xml:lang="en">1924</date> </cell>
@@ -13914,7 +13919,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Qādir Ḥamza</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en">Ṭ</cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9"><ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930 at <rs ref="#hBONN" xml:lang="en">Bonn</rs> </ref></cell>
                </row>
                <row n="1213" resp="#AM" role="data" xml:id="t1r1225" xml:lang="en">
                   <cell n="1"> <date notAfter="1927-01-31" notBefore="1927-01-01">1927</date> </cell>
@@ -18899,8 +18904,9 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Raḥmān al-Barqūqī</persName>, <persName xml:lang="en">Muḥammad al-Sibāʿī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="en">online, 1897-1898</ref> </rs> </cell>
                </row>
+             
                <row n="1666" resp="#AM" role="data" xml:id="t1r1678" xml:lang="en">
                   <cell n="1"> <date notAfter="1911-12-31" notBefore="1911-12-01">1911</date> </cell>
                   <cell n="2" xml:lang="en">December</cell>
@@ -19614,7 +19620,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAmr ʿAbd al-ʿAzīz Amīn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9"/>
                </row>
                <row n="1731" resp="#AM" role="data" xml:id="t1r1743" xml:lang="en">
                   <cell n="1"> <date when="1921-10-21" xml:lang="en">1921</date> </cell>
@@ -20725,7 +20731,8 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Amīl Zaydān</persName>, <persName xml:lang="en">Shukrī Zaydān</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
+                  <cell n="9"><rs ref="#hBONN"
+                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222676" xml:lang="en">online, 1926-1933</ref> </rs> </cell>
                </row>
                <row n="1832" resp="#AM" role="data" xml:id="t1r1844" xml:lang="en">
                   <cell n="1"> <date when="1927-01-01" xml:lang="en">1927</date> </cell>
@@ -22773,6 +22780,72 @@
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
                </row>
+               
+               <row n="2018" resp="#AM" role="data" xml:id="t1r2030" xml:lang="en">
+                  <cell n="1"> <date when="1897-12-01" xml:lang="en">1897</date> </cell>
+                  <cell n="2" xml:lang="en">December/1</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">ʿUthmānlī</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Ṭarsūsizāda Munīf</persName> </cell>
+                  <cell n="7" xml:lang="en">mostly in Ottoman Turkish, also in English</cell>
+                  <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF:</rs> 1897-98 <ref target="https://gallica.bnf.fr/ark:/12148/cb32830247v/date18980101">online</ref> in Gallica </cell>
+               </row>
+               
+               
+               <row n="2019" resp="#AM" role="data" xml:id="t1r2031" xml:lang="en">
+                  <cell n="1"> <date when="1920-08-01" xml:lang="en">1920</date> </cell>
+                  <cell n="2" xml:lang="en">August/1</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fajr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Ali Ben Mokhtar Kahia</persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222696" xml:lang="en">online, 1921-1922</ref> </rs> </cell>
+               </row>
+               
+               <row n="2020" resp="#AM" role="data" xml:id="t1r2032" xml:lang="en">
+                  <cell n="1"> <date when="1924-07-01" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en">July/1</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥurriyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Baghdad</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Jalīl Rizq Allāh Awfā</persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
+                  <cell n="9"><rs ref="#hBONN"
+                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-218070" xml:lang="en">online, 1924-1925</ref> </rs> </cell>
+               </row>
+               
+               <row n="2021" resp="#AM" role="data" xml:id="t1r2033" xml:lang="en">
+                  <cell n="1"> <date when="1909-02-05" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">February/5</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿIrfān</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Ṣaydā</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad ʿĀrif al-Zayn</persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
+                  <cell n="9"><rs ref="#hBONN"
+                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-73761" xml:lang="en">online, 1910-1946</ref> </rs> </cell>
+               </row>
+               
+               <row n="2022" resp="#AM" role="data" xml:id="t1r2034" xml:lang="en">
+                  <cell n="1"> <date when="1909-01-22" xml:lang="en">1909</date> </cell>
+                  <cell n="2" xml:lang="en">January/22</cell>
+                  <cell n="3" xml:lang="en"> <date/> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nibrās</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
+                  <cell n="9"><rs ref="#hBONN"
+                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-200458" xml:lang="en">online, 1909-1910</ref> </rs> </cell>
+               </row>
+               
+               
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
                <row xml:id="t1rxxx" n="xxx" role="data" resp="#p" when="current date">
