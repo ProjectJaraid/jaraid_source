@@ -340,7 +340,7 @@
                transliteration must be used.</p>
          </div>
          <div xml:id="dVersionHist" xml:lang="en">
-            <head xml:lang="en">Version History</head>
+            <head xml:lang="en">I. Version History</head>
             <p xml:lang="en"
                >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
             <p xml:lang="en"
@@ -352,14 +352,14 @@
                target="https://archiv.zmo.de/jaraid/index.html">here</ref>.</p>
          </div>
          <div xml:id="dTrans" xml:lang="en">
-            <head xml:lang="en">I. Transliteration</head>
+            <head xml:lang="en">II. Transliteration</head>
             <p xml:lang="en"
                >Currently we provide transliterations only, following the IJMES-standard. At a
                   future point, this site will be translated into Arabic. For this vision to become
                   true, we welcome any suggestions of possible funding opportunities.</p>
          </div>
          <div xml:id="dPer" xml:lang="en">
-            <head xml:lang="en">II. Period, time</head>
+            <head xml:lang="en">III. Period, time</head>
             <p xml:lang="en"
                >The choice for a limited period was arbitrary and due to constrains in resources.
                   We used the Gregorian calendar out of convenience. At a later point, we plan to
@@ -367,7 +367,7 @@
                   respective periodical (Hijrī, Coptic, Rūmī, Armenian, Greek, Jewish etc.).</p>
          </div>
          <div xml:id="dDef" xml:lang="en">
-            <head xml:lang="en">III. The definition of a periodical</head>
+            <head xml:lang="en">IV. The definition of a periodical</head>
             <p xml:lang="en"
                >A periodical here means a printed product that was established with the conscious
                   aim to distribute it to the reading public on a regular basis (daily, weekly,
@@ -376,19 +376,19 @@
                >majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
          </div>
          <div xml:id="dAvail" xml:lang="en">
-            <head xml:lang="en">IV. Availability</head>
+            <head xml:lang="en">V. Availability</head>
             <p xml:lang="en"
                >We could not check all periodicals in the indicated collections. The authors of
                   this list do not hold any responsibility for the actual holdings or the
                   accessibility of the indicated copies.</p>
          </div>
          <div xml:id="dFut" xml:lang="en">
-            <head xml:lang="en">V. Future</head>
+            <head xml:lang="en">VI. Future</head>
             <p xml:lang="en">We will continuously update the data and await the valuable corrections of
                   readers.</p>
          </div>
          <div xml:id="dAgen" xml:lang="en">
-            <head xml:lang="en">VI. Legend:</head>
+            <head xml:lang="en"> Legend:</head>
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
             <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en"
                >not</hi> in the Dār al-Kutub
