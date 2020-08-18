@@ -392,13 +392,13 @@
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
             <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en"
                >not</hi> in the Dār al-Kutub
-                  catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār).</p>
+                  catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār)</p>
             <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en"
                >Taṭawwur al-ṣiḥāfa
                      al-Miṣriyya: 1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982)</add> </p>
             <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en"
                >L’Influence française sur la formation de
-                  la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973).</p>
+                  la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973)</p>
             <p xml:lang="en">S = Sadgrove’s data (his contribution, based on his own research)</p>
             <p xml:lang="en">Ṭ = Ṭarrāzī’s data (from his book)</p>
          </div>
@@ -23054,7 +23054,7 @@
          <div type="prose" xml:id="dAppendix" xml:lang="en">
             <head xml:lang="en">Appendix / Legend</head>
             <div type="abbr" xml:id="dAbbr" xml:lang="en">
-               <head xml:lang="en">VIII. Abbreviations of collections and libraries</head>
+               <head xml:lang="en">Abbreviations of collections and libraries</head>
                <p xml:id="hAEK" xml:lang="en"> <choice xml:lang="en">
                   <abbr xml:lang="en">AEK</abbr>
                   <expan xml:lang="en">Atıf Effendi (Yazma Eser) Kütüphanesi, Istanbul</expan>
