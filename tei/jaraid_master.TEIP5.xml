@@ -23289,7 +23289,7 @@
                <div type="abbr" xml:lang="en">
                   <note xml:lang="en"> <date when="2012-04-10"/>abbreviations not yet accounted for in the
                      table</note>
-                  <p xml:id="hDKQW" xml:lang="en"> <choice xml:lang="en">
+                  <p xml:id="hDKWT" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">DKWT</abbr>
                      <expan xml:lang="en">Dār al-Kutub al-Waṭaniyya, Tunis</expan>
                      </choice> </p>
@@ -23301,10 +23301,6 @@
                      <abbr xml:lang="en">CU</abbr>
                      <expan xml:lang="en">Library of Cairo University</expan>
                      </choice> <note xml:lang="en">this is our guess</note> </p>
-                  <p xml:id="hDKT" xml:lang="en"> <choice xml:lang="en">
-                     <abbr xml:lang="en">DKT</abbr>
-                     <expan xml:lang="en">Dār al-Kutub al-Waṭaniyya, Tunis</expan>
-                     </choice> </p>
                   <p xml:id="hDUR" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">Dur</abbr>
                      <expan xml:lang="en">Durham University Library</expan>
