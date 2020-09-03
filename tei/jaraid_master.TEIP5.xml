@@ -289,17 +289,17 @@
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
             <head xml:lang="en">A Chronology Of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
-            <p xml:lang="en">2020 Edition</p>
-            <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
-            <p xml:lang="en"
+            <p xml:id="p1" xml:lang="en">2020 Edition</p>
+            <p xml:id="p2" xml:lang="en">With a major contribution from Philip Sadgrove</p>
+            <p xml:id="p3"  xml:lang="en"
                >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
-            <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
-            <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
+            <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
+            <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Till Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Till Grallert</p>
+            <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
             <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
