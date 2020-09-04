@@ -287,6 +287,7 @@
    <text xml:lang="en">
       <front xml:lang="en">
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
+            <head xml:lang="en" xml:id="hJaraid">Jara'id</head>
             <head xml:lang="en">A Chronology Of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
