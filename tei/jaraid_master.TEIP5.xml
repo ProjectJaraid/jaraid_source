@@ -2,7 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
 <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="en">
       <fileDesc xml:lang="en">
@@ -290,17 +289,17 @@
          <div type="frontpage" xml:id="dTitle" xml:lang="en">
             <head xml:lang="en">A Chronology Of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
-            <p xml:lang="en">2020 Edition</p>
-            <p xml:lang="en">With a major contribution from Philip Sadgrove</p>
-            <p xml:lang="en"
+            <p xml:id="p1" xml:lang="en">2020 Edition</p>
+            <p xml:id="p2" xml:lang="en">With a major contribution from Philip Sadgrove</p>
+            <p xml:id="p3"  xml:lang="en"
                >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
-            <p xml:lang="en">Prepared and supervised by Adam Mestyan</p>
-            <p xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
+            <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
+            <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:lang="en">2020 Edition: Data addition, CETEICean transformation, and digital publication by Adam Mestyan, Peter Magierski; XSLT-coding by Till Grallert</p>
-            <p xml:lang="en">Advisor to 2020 Edition for CETEICean and JS handling: Hugh Cayless</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Till Grallert</p>
+            <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
             <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
@@ -340,7 +339,7 @@
                transliteration must be used.</p>
          </div>
          <div xml:id="dVersionHist" xml:lang="en">
-            <head xml:lang="en">Version History</head>
+            <head xml:lang="en">I. Version History</head>
             <p xml:lang="en"
                >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
             <p xml:lang="en"
@@ -352,14 +351,14 @@
                target="https://archiv.zmo.de/jaraid/index.html">here</ref>.</p>
          </div>
          <div xml:id="dTrans" xml:lang="en">
-            <head xml:lang="en">I. Transliteration</head>
+            <head xml:lang="en">II. Transliteration</head>
             <p xml:lang="en"
                >Currently we provide transliterations only, following the IJMES-standard. At a
                   future point, this site will be translated into Arabic. For this vision to become
                   true, we welcome any suggestions of possible funding opportunities.</p>
          </div>
          <div xml:id="dPer" xml:lang="en">
-            <head xml:lang="en">II. Period, time</head>
+            <head xml:lang="en">III. Period, time</head>
             <p xml:lang="en"
                >The choice for a limited period was arbitrary and due to constrains in resources.
                   We used the Gregorian calendar out of convenience. At a later point, we plan to
@@ -367,7 +366,7 @@
                   respective periodical (Hijrī, Coptic, Rūmī, Armenian, Greek, Jewish etc.).</p>
          </div>
          <div xml:id="dDef" xml:lang="en">
-            <head xml:lang="en">III. The definition of a periodical</head>
+            <head xml:lang="en">IV. The definition of a periodical</head>
             <p xml:lang="en"
                >A periodical here means a printed product that was established with the conscious
                   aim to distribute it to the reading public on a regular basis (daily, weekly,
@@ -376,29 +375,29 @@
                >majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
          </div>
          <div xml:id="dAvail" xml:lang="en">
-            <head xml:lang="en">IV. Availability</head>
+            <head xml:lang="en">V. Availability</head>
             <p xml:lang="en"
                >We could not check all periodicals in the indicated collections. The authors of
                   this list do not hold any responsibility for the actual holdings or the
                   accessibility of the indicated copies.</p>
          </div>
          <div xml:id="dFut" xml:lang="en">
-            <head xml:lang="en">V. Future</head>
+            <head xml:lang="en">VI. Future</head>
             <p xml:lang="en">We will continuously update the data and await the valuable corrections of
                   readers.</p>
          </div>
          <div xml:id="dAgen" xml:lang="en">
-            <head xml:lang="en">VI. Legend:</head>
+            <head xml:lang="en"> Legend:</head>
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
             <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en"
                >not</hi> in the Dār al-Kutub
-                  catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār).</p>
+                  catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār)</p>
             <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en"
                >Taṭawwur al-ṣiḥāfa
                      al-Miṣriyya: 1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982)</add> </p>
             <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en"
                >L’Influence française sur la formation de
-                  la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973).</p>
+                  la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973)</p>
             <p xml:lang="en">S = Sadgrove’s data (his contribution, based on his own research)</p>
             <p xml:lang="en">Ṭ = Ṭarrāzī’s data (from his book)</p>
          </div>
@@ -883,7 +882,7 @@
                         <persName xml:lang="en">Carletti</persName> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL: 1860-1875</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1888 (cote JO
-                        9121)</rs>, <rs ref="#hDKQW"
+                        9121)</rs>, <rs ref="#hDKWT"
                      xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="29" role="data" xml:id="t1r29" xml:lang="en">
@@ -1524,7 +1523,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Ḥājj Ḥasan Lāzughlī</persName> </cell>
                   <cell n="7" xml:lang="en">calendar yearly</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKWT" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="93" role="data" xml:id="t1r93" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1874" xml:lang="en">1874</date> </cell>
@@ -3342,7 +3341,7 @@
                   <cell n="7" xml:lang="en">Arabic-<lang xml:lang="en">English</lang>-<lang xml:lang="en">Hebrew</lang>/
                         <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hDKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="260" role="data" xml:id="t1r260" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1886" xml:lang="en">1886</date> </cell>
@@ -3753,7 +3752,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Alīzār Farḥī</persName>/A society </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="297" role="data" xml:id="t1r297" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1888" xml:lang="en">1888</date> </cell>
@@ -4190,7 +4189,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Masʿūd Maʿārik</persName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="336" role="data" xml:id="t1r336" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date notAfter="1889-05-31" notBefore="1889-05-01" xml:lang="en">1889</date> </cell>
@@ -4327,7 +4326,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>=1889, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs> </cell>
                </row>
                <row n="350" role="data" xml:id="t1r350" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1891-10-01" xml:lang="en">1891</date> </cell>
@@ -4475,7 +4474,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sīmāḥ bin Niṭān Līfī / Semah Levi</persName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="363" role="data" xml:id="t1r363" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1891-12-17" xml:lang="en">1891</date> </cell>
@@ -4696,7 +4695,7 @@
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">French</lang>; <lang xml:lang="en">French</lang> November 1892-2
                      January 1893</cell>
                   <cell n="8"/>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="383" role="data" xml:id="t1r383" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892" xml:lang="en">1892</date> </cell>
@@ -5017,7 +5016,7 @@
                         al-Tūnisiyyīn</orgName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="412" role="data" xml:id="t1r412" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1893-05-23" xml:lang="en">1893</date> </cell>
@@ -6511,7 +6510,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Burqība</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="548" role="data" xml:id="t1r548" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1896" xml:lang="en">1896</date> </cell>
@@ -23054,7 +23053,7 @@
          <div type="prose" xml:id="dAppendix" xml:lang="en">
             <head xml:lang="en">Appendix / Legend</head>
             <div type="abbr" xml:id="dAbbr" xml:lang="en">
-               <head xml:lang="en">VIII. Abbreviations of collections and libraries</head>
+               <head xml:lang="en">Abbreviations of collections and libraries</head>
                <p xml:id="hAEK" xml:lang="en"> <choice xml:lang="en">
                   <abbr xml:lang="en">AEK</abbr>
                   <expan xml:lang="en">Atıf Effendi (Yazma Eser) Kütüphanesi, Istanbul</expan>
@@ -23160,7 +23159,7 @@
                   <expan xml:lang="en">Freie Universität Berlin, Library of the Institut für
                         Islamwissenschaft</expan>
                   </choice> </p>
-               <p xml:id="hHARBV" xml:lang="en"> <choice xml:lang="en">
+               <p xml:id="hHARV" xml:lang="en"> <choice xml:lang="en">
                   <abbr xml:lang="en">Harv</abbr>
                   <expan xml:lang="en">Libraries of Harvard University, Cambridge, MA, USA</expan>
                   </choice> </p>
@@ -23290,7 +23289,7 @@
                <div type="abbr" xml:lang="en">
                   <note xml:lang="en"> <date when="2012-04-10"/>abbreviations not yet accounted for in the
                      table</note>
-                  <p xml:id="hDKQW" xml:lang="en"> <choice xml:lang="en">
+                  <p xml:id="hDKWT" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">DKWT</abbr>
                      <expan xml:lang="en">Dār al-Kutub al-Waṭaniyya, Tunis</expan>
                      </choice> </p>
@@ -23302,10 +23301,6 @@
                      <abbr xml:lang="en">CU</abbr>
                      <expan xml:lang="en">Library of Cairo University</expan>
                      </choice> <note xml:lang="en">this is our guess</note> </p>
-                  <p xml:id="hDKT" xml:lang="en"> <choice xml:lang="en">
-                     <abbr xml:lang="en">DKT</abbr>
-                     <expan xml:lang="en">Dār al-Kutub al-Waṭaniyya, Tunis</expan>
-                     </choice> </p>
                   <p xml:id="hDUR" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">Dur</abbr>
                      <expan xml:lang="en">Durham University Library</expan>
