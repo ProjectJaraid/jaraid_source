@@ -882,7 +882,7 @@
                         <persName xml:lang="en">Carletti</persName> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL: 1860-1875</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1888 (cote JO
-                        9121)</rs>, <rs ref="#hDKQW"
+                        9121)</rs>, <rs ref="#hDKWT"
                      xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="29" role="data" xml:id="t1r29" xml:lang="en">
@@ -1523,7 +1523,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Ḥājj Ḥasan Lāzughlī</persName> </cell>
                   <cell n="7" xml:lang="en">calendar yearly</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKWT" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="93" role="data" xml:id="t1r93" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1874" xml:lang="en">1874</date> </cell>
@@ -3341,7 +3341,7 @@
                   <cell n="7" xml:lang="en">Arabic-<lang xml:lang="en">English</lang>-<lang xml:lang="en">Hebrew</lang>/
                         <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hDKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="260" role="data" xml:id="t1r260" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1886" xml:lang="en">1886</date> </cell>
@@ -3752,7 +3752,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Alīzār Farḥī</persName>/A society </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="297" role="data" xml:id="t1r297" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1888" xml:lang="en">1888</date> </cell>
@@ -4189,7 +4189,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Masʿūd Maʿārik</persName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="336" role="data" xml:id="t1r336" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date notAfter="1889-05-31" notBefore="1889-05-01" xml:lang="en">1889</date> </cell>
@@ -4326,7 +4326,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>=1889, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs> </cell>
                </row>
                <row n="350" role="data" xml:id="t1r350" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1891-10-01" xml:lang="en">1891</date> </cell>
@@ -4474,7 +4474,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sīmāḥ bin Niṭān Līfī / Semah Levi</persName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="363" role="data" xml:id="t1r363" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1891-12-17" xml:lang="en">1891</date> </cell>
@@ -4695,7 +4695,7 @@
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">French</lang>; <lang xml:lang="en">French</lang> November 1892-2
                      January 1893</cell>
                   <cell n="8"/>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="383" role="data" xml:id="t1r383" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892" xml:lang="en">1892</date> </cell>
@@ -5016,7 +5016,7 @@
                         al-Tūnisiyyīn</orgName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs> </cell>
                </row>
                <row n="412" role="data" xml:id="t1r412" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1893-05-23" xml:lang="en">1893</date> </cell>
@@ -6510,7 +6510,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Burqība</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQW" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#DKWT" xml:lang="en">DKWT</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </cell>
                </row>
                <row n="548" role="data" xml:id="t1r548" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1896" xml:lang="en">1896</date> </cell>
