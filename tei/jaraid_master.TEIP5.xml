@@ -4901,7 +4901,7 @@
                         <rs ref="#hBL" xml:lang="en"
                      >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
                      >MEC
-                        microfilm</rs> </cell>
+                        microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">openArabic edition</ref></cell>
                </row>
                <row n="401" role="data" xml:id="t1r401" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892-05-26" xml:lang="en">1892</date> </cell>
@@ -7970,7 +7970,7 @@
                      >Prin</rs>, available via <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="en">HathiTrust</ref>,
                         <ref
                      target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="en">Waqfeya.com: vols.
-                        1-22</ref>. </cell>
+                           1-22</ref>, <ref target="https://github.com/openarabicpe/journal_al-manar">openArabic edition </ref> </cell>
                </row>
                <row n="679" role="data" xml:id="t1r679" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-01-01" xml:lang="en">1898</date> </cell>
@@ -18804,7 +18804,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Anṭūn al-Jumayyil</persName>, <persName xml:lang="en">Amīn Taqī al-Dīn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
-                  <cell n="9" xml:lang="en">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs> </ref> </cell>
+                  <cell n="9" xml:lang="en">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs> </ref>, <ref target="https://github.com/openarabicpe/journal_al-zuhur">openArabic edition</ref></cell>
                </row>
                <row n="1657" resp="#AM" role="data" xml:id="t1r1669" xml:lang="en">
                   <cell n="1"> <date when="1910-07-01" xml:lang="en">1910</date> </cell>
