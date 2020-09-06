@@ -772,7 +772,7 @@
                <row n="16" role="data" xml:id="t1r16" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1855" xml:lang="en">1855</date> </cell>
                   <cell n="2"/>
-                  <cell n="3" xml:lang="en">? from <date when="1876" xml:lang="en">1876</date> published in London, cf.
+                  <cell n="3" xml:lang="en">? from <date when="1876" xml:lang="en">1876</date> published in London, see
                      below</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mirʾāt al-Aḥwāl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Istanbul</placeName>, <placeName xml:lang="en">Cairo</placeName>, later
@@ -1955,7 +1955,7 @@
                   <cell n="1" xml:lang="en"> <date notAfter="1878-08-31" notBefore="1878-08-01" xml:lang="en">1878</date> </cell>
                   <cell n="2" xml:lang="en">Aug.</cell>
                   <cell n="3" xml:lang="en">13 March <date when="1879" xml:lang="en">1879</date>; single issue 12 August <date when="1879" xml:lang="en">1879</date> </cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Riḥlat Abī Naẓẓāra Zarqā</name> cf. its continuation below (pseudonym for
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Riḥlat Abī Naẓẓāra Zarqā</name> see its continuation below (pseudonym for
                         <persName xml:lang="en"
                      >Abū Naẓẓāra Zarqā</persName>) </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
@@ -2145,7 +2145,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Mūsā Kāstilī/Castelli</persName> </cell>
                   <cell n="7" xml:lang="en">partly in <lang xml:lang="en">colloquial Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en">Cf. Jewish Contributions, p 20</cell>
+                  <cell n="9" xml:lang="en">See Jewish Contributions, p. 20</cell>
                </row>
                <row n="150" role="data" xml:id="t1r150" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1879-02-24" xml:lang="en">1879</date> </cell>
@@ -2625,7 +2625,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Munṣif</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
                   <cell n="6" xml:lang="en"> ?? <persName xml:lang="en">Sanua</persName>??? </cell>
-                  <cell n="7" xml:lang="en">perhaps much later, cf. 1889 or 1899</cell>
+                  <cell n="7" xml:lang="en">perhaps much later, c. 1889 or 1899</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
                </row>
@@ -10951,7 +10951,7 @@
                   <cell n="4"> <name>Al-Azbakiyya</name> </cell>
                   <cell n="5"> <placeName>Cairo</placeName> </cell>
                   <cell n="6"> <persName>Qusṭandī Qusṭa</persName> </cell>
-                  <cell n="7">cf. <ref target="#t1r913">t1r913</ref> </cell>
+                  <cell n="7">see <ref target="#t1r913">t1r913</ref> </cell>
                   <cell n="8">Ṭ</cell>
                   <cell n="9"/>
                </row>
@@ -11513,7 +11513,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mabāḥith al-Siyāsiyya al-Muṣawwara</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName>Ḥusayn Shafīq</persName> and <persName>Salīm Ḥaddād</persName> </cell>
-                  <cell n="7" xml:lang="en">cf. <ref target="#t1r1000">t1r1000</ref>; <note>illustrated</note> </cell>
+                  <cell n="7" xml:lang="en">see <ref target="#t1r1000">t1r1000</ref>; <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"/>
                </row>
@@ -13114,7 +13114,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Khayāl al-Ẓill</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥāfiẓ ʿAwaḍ</persName>, <persName xml:lang="en">Sahrān Bey</persName> </cell>
-                  <cell n="7" xml:lang="en"> cf. <ref target="#t1r979">t1r979</ref> </cell>
+                  <cell n="7" xml:lang="en"> see <ref target="#t1r979">t1r979</ref> </cell>
                   <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"/>
                </row>
@@ -13620,7 +13620,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭāʾif al-Muṣawwar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAdlī Jirjis</persName>, <persName xml:lang="en">Muḥammad al-Siwādī</persName> </cell>
-                  <cell n="7" xml:lang="en"> cf. <ref target="#t1r1160">t1r1160</ref>, <note>illustrated</note> </cell>
+                  <cell n="7" xml:lang="en"> see <ref target="#t1r1160">t1r1160</ref>, <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"/>
                </row>
@@ -14148,7 +14148,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Dunyā al-Muṣawwara</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Imīl Zaydān</persName>, <persName xml:lang="en">Shukrī Zaydān</persName> </cell>
-                  <cell n="7" xml:lang="en"> cf. <ref target="#t1r1172">t1r1172</ref>, <note>illustrated</note> </cell>
+                  <cell n="7" xml:lang="en"> see <ref target="#t1r1172">t1r1172</ref>, <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en">Ṭ</cell>
                   <cell n="9" xml:lang="en"/>
                </row>
