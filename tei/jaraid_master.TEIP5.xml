@@ -8669,8 +8669,7 @@
                   <!-- this must be wrong, given that we state that it was still published in 1909 and that Bonn provides scans from 1910 -->
                   <cell n="3" xml:lang="en"> <date when="1906" xml:lang="en">1906</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāmiʿa</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName>, then 1907 <placeName xml:lang="en"> <country xml:lang="en">America</country>
-                     </placeName>, then again <placeName xml:lang="en">Alexandria</placeName> in 1909</cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName>, then 1907 <placeName xml:lang="en"> <placeName xml:lang="en">New York</placeName>, then again <placeName xml:lang="en">Alexandria</placeName> in 1909</cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Faraḥ Anṭūn</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
