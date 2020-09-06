@@ -4901,7 +4901,7 @@
                         <rs ref="#hBL" xml:lang="en"
                      >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
                      >MEC
-                        microfilm</rs> </cell>
+                        microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">openArabic edition</ref></cell>
                </row>
                <row n="401" role="data" xml:id="t1r401" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892-05-26" xml:lang="en">1892</date> </cell>
