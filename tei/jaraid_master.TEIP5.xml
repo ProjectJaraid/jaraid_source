@@ -957,7 +957,7 @@
                         de Médecine et de Pharmacie</orgName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hHarv" xml:lang="en">Harv</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hHARV" xml:lang="en">Harv</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs> </cell>
                </row>
                <row n="39" role="data" xml:id="t1r39" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1866-01-01" xml:lang="en">1866</date> </cell>
@@ -2478,7 +2478,7 @@
                         Allāh</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1883, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHarv"
+                  <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1883, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV"
                      xml:lang="en">Harv</rs>: 1881 </cell>
                </row>
                <row n="181" role="data" xml:id="t1r181" xml:lang="en">
@@ -3387,7 +3387,7 @@
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>:1886-1892, <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1886-1888,1890,
-                        <rs ref="#hHarv"
+                        <rs ref="#hHARV"
                      xml:lang="en">Harv</rs>: 1886</cell>
                </row>
                <row n="264" role="data" xml:id="t1r264" xml:lang="en">
@@ -3471,7 +3471,7 @@
                         Gharzūzī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHarv" xml:lang="en"
+                  <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en"
                      >Harv</rs>: 1-6 </cell>
                </row>
                <row n="271" role="data" xml:id="t1r271" xml:lang="en">
@@ -3909,7 +3909,7 @@
                         al-Makhzūmī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hHarv" xml:lang="en">Harv</rs>: n. 1, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hAUB"
+                  <cell n="9" xml:lang="en"> <rs ref="#hHARV" xml:lang="en">Harv</rs>: n. 1, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hAUB"
                      xml:lang="en">AUB</rs>?</cell>
                </row>
                <row n="311" role="data" xml:id="t1r311" xml:lang="en">
@@ -4382,7 +4382,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jirjis Afandī Zakī</persName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Coptic</lang> journal</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart2" xml:lang="en">+!</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hHarv" xml:lang="en">Harv</rs>: 1-12 (1892-1893)</cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1-12 (1892-1893)</cell>
                </row>
                <row n="355" role="data" xml:id="t1r355" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1891-12-01" xml:lang="en">1891</date> </cell>
@@ -5341,7 +5341,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shaykh Muḥammad al-Najjār</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, sometimes colloquial </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHarv" xml:lang="en">Harv</rs>: 1-12 (1894-95) </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1-12 (1894-95) </cell>
                </row>
                <row n="442" role="data" xml:id="t1r442" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1894" xml:lang="en">1894</date> </cell>
@@ -15372,7 +15372,7 @@
                   <cell n="8" xml:lang="en"> <rs xml:lang="en"/>first issue</cell>
                   <cell n="9" xml:lang="en"> <rs/> <ref target="http://ncar.gov.sa/OmElQuora/List">1924-2000s (some issues missing)</ref>; <ref
                      target="https://www.wdl.org/en/search/?collection=umm-al-qura-newspaper#view=gallery">1935-1955 at WDL</ref>, <ref
-                     target="http://id.lib.harvard.edu/alma/990035347800203941/catalog">microform 1924-1967 at <rs ref="#hHarv">Harv</rs> </ref> </cell>
+                     target="http://id.lib.harvard.edu/alma/990035347800203941/catalog">microform 1924-1967 at <rs ref="#hHARV">Harv</rs> </ref> </cell>
                </row>
                <row n="1345" resp="#AM" role="data" xml:id="t1r1357" xml:lang="en">
                   <cell n="1"> <date when="1907" xml:lang="en">1907</date> </cell>
