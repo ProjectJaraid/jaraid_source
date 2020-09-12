@@ -24193,7 +24193,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Philadelphia</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Naʿūm Mukarzal</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24205,7 +24205,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Mikhāʾīl Jirjīs al-Bāshā</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24217,7 +24217,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAql al-Bishʿalānī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24229,7 +24229,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Saʿīd Fāḍil ʿAql</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24241,7 +24241,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Ṣāliḥ al-Ḥulū</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24253,7 +24253,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Ṣāliḥ al-Ḥilū</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24265,7 +24265,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAql al-Bishʿalānī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24277,7 +24277,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Muslim</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24289,7 +24289,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Fīlīb Jurjī Badrān</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24301,7 +24301,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Khalīl Ḍāhir</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24313,7 +24313,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Duktūr Yūsuf Shamūntī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24325,7 +24325,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Ṣāliḥ al-Ḥilū</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24337,7 +24337,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Musallam</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24349,7 +24349,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Maḥbūb al-Shartūnī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24361,7 +24361,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shukrī Baʿqilīnī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24373,7 +24373,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Ṣāliḥ al-Ḥilū</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24385,7 +24385,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥalīm Bishāra Naṣṣār</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24398,7 +24398,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Saʿīd Shuqayr</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24410,7 +24410,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Asqaf Rufāʾīl Hawāwīnī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24422,7 +24422,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Niʿmah Sārūfīm</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24434,7 +24434,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Khūr Fasqafūs Khayr Allāh Isṭifān</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24446,7 +24446,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sallūm Mukarzal</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24458,7 +24458,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Yabrūdī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24470,7 +24470,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAfīfa Karam</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24482,7 +24482,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Nasīb ʿArīḍa</persName>, <persName xml:lang="en">Naẓmī Nasīm</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24494,7 +24494,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ṭālib Khayr Allāh</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24506,7 +24506,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sallūm Mukarzal</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24518,7 +24518,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yaʿqūb Rūfāʾīl</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24530,7 +24530,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Rashīd Taqī al-Dīn</persName>, <persName xml:lang="en">ʿAbbās Abū Shaqrā</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24542,7 +24542,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24554,7 +24554,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Muṭrān Aftīmūs ʿUfaysh</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24566,7 +24566,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Muṭrān Aftīmūs ʿUfaysh</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24578,7 +24578,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Iyilā Abū Māḍī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24590,7 +24590,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Detroit</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Nasīb ʿĀmir Wahba</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24602,7 +24602,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Detroit</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Nasīb ʿĀmir Wahba</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24614,7 +24614,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Boston</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥanā Khalīl al-Hindī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24626,7 +24626,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Boston</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Wadīʿ Shākir</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24638,7 +24638,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Boston</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ṭānyūs Sulaymān al-Kafr-Ḥildāwī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24650,7 +24650,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cleveland, OH</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Salīm al-ʿĀzār</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24662,7 +24662,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cleveland, OH</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Anīs Jarīj</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24674,7 +24674,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Lawrence, MA</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Buṭrus Shaʿyā</persName>, <persName xml:lang="en">ʿAzīz Firansīs</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24686,7 +24686,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Terre Haute, IN</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Khūrī Ayliyā al-Ḥāmātī</persName>, <persName xml:lang="en">Al-Arshmandīt Anṭūniyūs Bashīr</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24698,7 +24698,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Washington, DC</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ilyās Yūsuf</persName>, <persName xml:lang="en">Jurjī Ḥilū</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24711,7 +24711,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Montreal</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Khūrī Fīlibs Jurrū</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24723,7 +24723,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Montreal</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Khūrī Fīlibs Jurrū</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24735,7 +24735,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAql al-Bishʿalānī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
@@ -24747,7 +24747,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Duktūr Yūsuf Shamūntī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
                
