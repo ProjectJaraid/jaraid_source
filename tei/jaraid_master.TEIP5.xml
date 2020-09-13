@@ -753,7 +753,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Aʿmāl al-Rayy</name>? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en">No evidence of its publication, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -876,7 +876,7 @@
                         al-Tūnisiyya</name> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Rāʾid al-Tūnisī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">official journal of <orgName xml:lang="en">Beylical government</orgName>; founded by
                         <persName xml:lang="en"
                      >General Ḥusayn</persName> with the editor
@@ -892,7 +892,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Risālat Qalb Yasūʿ al-Mālṭiyya / Il Messaggier</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -1062,7 +1062,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mushtarī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -1393,7 +1393,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Fars</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Shiraz</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">Persian</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -1498,7 +1498,7 @@
                   <cell n="3" xml:lang="en"> <date when="1877" xml:lang="en">1877</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Akhbār Ṭibbiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart1" xml:lang="en">+</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL</rs>: 1874</cell>
@@ -1558,7 +1558,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ḥadīqat al-Abṣār</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -1781,7 +1781,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Naḥla al-Adabiyya</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">weekly</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>?</cell>
@@ -1827,7 +1827,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shāṭir al-Kaslān wa’l-Nāʾim al-Yaqẓān</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -1862,7 +1862,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bākūra li-Aʿmāl Jamʿiyyat Musāʿadat al-Marḍā al-Ūrthūdhūksiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -2437,7 +2437,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aḥkām al-ʿAdliyya</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> check</cell>
                   <cell n="9"/>
@@ -2590,7 +2590,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mufarriḥ al-Qulūb</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Calcutta</placeName>, India?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -2613,7 +2613,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mukhayyir</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -2646,7 +2646,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Muntakhabāt al-Rāʾid al-Tūnisī al-Rasmiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -2706,7 +2706,7 @@
                   <cell n="3" xml:lang="en"> <date when="1882" xml:lang="en">1882</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Tawfīq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">no evidence of its publication</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#abd2" xml:lang="en">ʿAbd</rs> </cell>
                   <cell n="9" xml:lang="en">ʿAṭṭār</cell>
@@ -3115,7 +3115,7 @@
                   <cell n="3" xml:lang="en">still <date when="1885" xml:lang="en">1885</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shams</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName>, <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -3505,7 +3505,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">La Vigie Israëlite</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang>/<lang xml:lang="en">French</lang> </cell>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -3516,7 +3516,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">L-Wahrani / L’Oranais</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs> </cell>
@@ -3995,7 +3995,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Firdaws</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">not identical with the ladies’ journal under the same title?</cell>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -4165,7 +4165,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Qôl Yisráel / La Voix d’Israël</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang>/<lang xml:lang="en">French</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4198,7 +4198,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Tôv-le-Yisra’el</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4209,7 +4209,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥākim</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -4233,7 +4233,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">La Jeunesse Israélite</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang>/<lang xml:lang="en">French</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4279,7 +4279,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nahḍat Isrāʾīl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName>??</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4313,7 +4313,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sharaf</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -4346,7 +4346,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Bêt Yisra’el / Le Peuple d’Israël</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4461,7 +4461,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamra / La Lune/El-Qamra</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4529,7 +4529,7 @@
                   <cell n="3" xml:lang="en">still <date when="1893" xml:lang="en">1893</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aḥwāl</name>? </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -4760,7 +4760,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nukhbat al-Akhbār</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Calcutta</placeName>, India?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -4782,7 +4782,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Le Peuple d’Israël</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -4861,7 +4861,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarābulus al-Shām</name>? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli</placeName>, Syria</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5058,7 +5058,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Marʾa</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Aleppo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -5125,7 +5125,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mutanaffidh</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -5158,7 +5158,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Dīniyya al-Usbūʿiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5226,7 +5226,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shahbāʾ</name>?? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Aleppo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5316,7 +5316,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aḥkām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart2" xml:lang="en">+!</rs> </cell>
                   <cell n="9"/>
@@ -5360,7 +5360,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bashīr</name>? </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5452,7 +5452,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Jarīda ʿAskariyya</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5523,7 +5523,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maktab</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5556,7 +5556,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Minbar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5703,7 +5703,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Suriyā</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -5714,7 +5714,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tilighrāfāt al-Ḥaqīqiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -5736,7 +5736,7 @@
                   <cell n="3" xml:lang="en"> <date when="1896" xml:lang="en">1896</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Urjul</name>??? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hBS" xml:lang="en">BS</rs>: 1894-1896</cell>
@@ -6205,7 +6205,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭabīb</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -6519,7 +6519,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Maguid Micharim</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oran</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -6608,7 +6608,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Murshid</name>? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -6619,7 +6619,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Murṣid</name>? </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -6751,7 +6751,7 @@
                   <cell n="3" xml:lang="en">still in <date when="1908" xml:lang="en">1908</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭabīb al-ʿĀʾila wa-Murshid al-Labīb ʿind Ghaybat al-Ṭabīb</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hBL" xml:lang="en">BL</rs> </cell>
@@ -6841,7 +6841,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Waṭan</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -7023,7 +7023,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Būsta</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -7034,7 +7034,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghirbāl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -7067,7 +7067,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Hidāya al-ʿĀmma</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -7101,7 +7101,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Iqdām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -7438,7 +7438,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭanṭā</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart2" xml:lang="en">+!</rs> </cell>
                   <cell n="9"/>
@@ -7526,7 +7526,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Afkār</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -7639,7 +7639,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Dābba</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?</cell>
@@ -7835,7 +7835,7 @@
                   <cell n="3" xml:lang="en"> <date when="1898" xml:lang="en">1898</date>, 4 n</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Khayla al-Kadhdhāba</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">colloquial Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?</cell>
@@ -7857,7 +7857,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Lijām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">colloquial Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -7890,7 +7890,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maʿhadī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -7934,7 +7934,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majmūʿat Qibrīs</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -7995,7 +7995,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Masīḥ al-Dajjāl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">colloquial Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -8040,7 +8040,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Minkhās</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -8208,7 +8208,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Saʿāda</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -8353,7 +8353,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Taʾrīkh al-Qawmī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -8555,7 +8555,7 @@
                   <cell n="3" xml:lang="en">short lived</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ghazl al-Banāt</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">colloquial Arabic</lang> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -8647,7 +8647,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -8767,7 +8767,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maghrib</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tangier</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -8864,7 +8864,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mushīr</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -9070,7 +9070,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Wakīl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -9158,7 +9158,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿArab</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -9303,7 +9303,7 @@
                   <cell n="3" xml:lang="en"> <date when="1904" xml:lang="en">1904</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥammāra</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -9502,7 +9502,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Minshar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Sao Paulo</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -9673,7 +9673,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadā Lubnān</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -9695,7 +9695,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sihām</name> </cell>
                   <cell n="5" xml:lang="en">?</cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -9895,7 +9895,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Le Réveil</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Judeo-Arabic</lang> </cell>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -22899,7 +22899,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Awfūrūk</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Istanbul</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"></cell>
@@ -23212,7 +23212,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadā Al-Islām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Berlin</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23308,7 +23308,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣabāḥ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23588,7 +23588,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat Ṣanāʾiʿ Almān wa-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Berlin</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -24167,7 +24167,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Būmbā</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Montreal</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -24817,7 +24817,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghirbāl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
@@ -24925,7 +24925,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Māshiṭa</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
@@ -24998,7 +24998,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mubarrid</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
@@ -25165,7 +25165,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fānūs</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -25220,7 +25220,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Tijāriyya</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -25231,7 +25231,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nūr al-Sharq</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -25242,7 +25242,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Qarāqūz</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
@@ -25286,7 +25286,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Yaʿsūb</name> </cell>
                   <cell n="5"/>
-                  <cell n="6"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9"/>
