@@ -25607,6 +25607,66 @@
                   <cell n="9"/>
                </row>
                
+               <row n="2252" role="data" resp="#AM"  xml:id="t1r2264" xml:lang="en">
+                  <cell n="1"> <date when="1911-10-01" xml:lang="en">1911</date> </cell>
+                  <cell n="2" xml:lang="en">October/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fajr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Campos</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Jūrj Ḥaddād</persName>, <persName xml:lang="en"> Nāṣir Shātīlā</persName>  </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               <row n="2253" role="data" resp="#AM"  xml:id="t1r2265" xml:lang="en">
+                  <cell n="1"> <date when="1913-11-15" xml:lang="en">1913</date> </cell>
+                  <cell n="2" xml:lang="en">November/15</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Amniyat al-ʿArab</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Salto (Oriental), Brazil</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Najīb Yūsuf Ghāzūrī</persName>  </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               <row n="2254" role="data" resp="#AM"  xml:id="t1r2266" xml:lang="en">
+                  <cell n="1"> <date when="1921-09-01" xml:lang="en">1921</date> </cell>
+                  <cell n="2" xml:lang="en">September/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Lubnān al-Kabīr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Nicteroy (Niterói?)</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Nuʿmān al-ʿAndrāfīlī</persName>  </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               <row n="2255" role="data" resp="#AM"  xml:id="t1r2267" xml:lang="en">
+                  <cell n="1"> <date when="1921-01-29" xml:lang="en">1921</date> </cell>
+                  <cell n="2" xml:lang="en">January/29</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Oliveira</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Saʿīd Maṭar</persName>, <persName xml:lang="en">Najīb al-ʿUsrāwī</persName>  </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               <row n="2256" role="data" resp="#AM"  xml:id="t1r2268" xml:lang="en">
+                  <cell n="1"> <date when="1921" xml:lang="en">1921</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Khirrbirr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Poá</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbbās Ṭurbiyya</persName>  </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
