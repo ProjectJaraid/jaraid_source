@@ -26246,6 +26246,32 @@
                </row>
                
                
+               <row n="2305" role="data" resp="#AM"  xml:id="t1r2317" xml:lang="en">
+                  <cell n="1"> <date when="1910-09-04"  xml:lang="en">1910</date> </cell>
+                  <cell n="2" xml:lang="en">September/4</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jurāʾa al-Adabiyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">San Pedro de Macoris</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd Allāh al-Darībī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               
+               <row n="2306" role="data" resp="#AM"  xml:id="t1r2318" xml:lang="en">
+                  <cell n="1"> <date when="1907-09-23"  xml:lang="en">1907</date> </cell>
+                  <cell n="2" xml:lang="en">September/23</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿUrwa al-Wuthqā</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Montevideo</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Ilyās Jubrān Qaṭṭān</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
