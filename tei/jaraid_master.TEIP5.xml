@@ -342,7 +342,7 @@
          <div xml:id="dVersionHist" xml:lang="en">
             <head xml:lang="en">I. Version History</head>
             <p xml:lang="en"
-               >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. It has not received any institutional support. A large number of scanned issues of particular titles have become publically available online in many institutional or private collections since 2012. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links.</p>
+               >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName xml:lang="en">Philip Di Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"><hi>Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi></name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName xml:lang="en">Adam Mestyan</persName> added manually during 2020. This data is enriched and checked against <persName xml:lang="en">Adam Mestyan</persName>'s personal research, <persName xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/">OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links. We add data and correction to the 2020 Edition continously.</p>
             <p xml:lang="en"
                >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
@@ -354,9 +354,7 @@
          <div xml:id="dTrans" xml:lang="en">
             <head xml:lang="en">II. Transliteration</head>
             <p xml:lang="en"
-               >Currently we provide transliterations only, following the IJMES-standard. At a
-                  future point, this site will be translated into Arabic. For this vision to become
-                  true, we welcome any suggestions of possible funding opportunities.</p>
+               >Currently we provide transliterations only, following the <ref target="https://www.cambridge.org/core/services/aop-file-manager/file/57d83390f6ea5a022234b400/TransChart.pdf"> IJMES-standard</ref>. An extended, Arabic journal bibliographical database is under construction.</p>
          </div>
          <div xml:id="dPer" xml:lang="en">
             <head xml:lang="en">III. Period, time</head>
@@ -26623,8 +26621,7 @@
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"/>
                </row>
-               
-               
+
                <row n="2336" role="data" resp="#AM"  xml:id="t1r2348" xml:lang="en">
                   <cell n="1"> <date when="1923-09-15" xml:lang="en">1923</date> </cell>
                   <cell n="2" xml:lang="en">September/15</cell>
@@ -26637,6 +26634,29 @@
                   <cell n="9"/>
                </row>
                
+               <row n="2337" role="data" resp="#AM"  xml:id="t1r2349" xml:lang="en">
+                  <cell n="1"> <date when="1902-01-20" xml:lang="en">1902</date> </cell>
+                  <cell n="2" xml:lang="en">January/20</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿIlmiyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Al-Jāmiʿa al-Amīrkiyya</orgName></cell>
+                  <cell n="7" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>: school journal</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
+               
+               <row n="2338" role="data" resp="#AM"  xml:id="t1r2350" xml:lang="en">
+                  <cell n="1"> <date when="1902-03-01" xml:lang="en">1902</date> </cell>
+                  <cell n="2" xml:lang="en">March/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nahḍa al-Adabiyya</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Farīd Ghumāshī</persName>, <persName xml:lang="en">Maḥbūb al-Shartūnī</persName></cell>
+                  <cell n="7" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>: school journal</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"/>
+               </row>
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
