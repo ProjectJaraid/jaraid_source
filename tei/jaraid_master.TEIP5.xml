@@ -677,7 +677,7 @@
                   <cell n="3" xml:lang="en"> <date when="1926" xml:lang="en">1926</date>;<date when="1960" xml:lang="en">1960</date>s?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mubashshir</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Algiers</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName>Official</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName>official</orgName> </cell>
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">French</lang> lithograph; 1850
                      typography</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -707,7 +707,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Taqwīm al-Akhbār ʿan al-Ḥawādith al-Tijāriyya wa’l-Iʿlānāt
                         al-Malikiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName>Official</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName>official</orgName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9"/>
@@ -932,7 +932,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Sūriyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Rāshid Bāshā</persName> </cell>
-                  <cell n="7" xml:lang="en"> Official paper. <lang xml:lang="en">Ottoman Turkish</lang> and Arabic. </cell>
+                  <cell n="7" xml:lang="en"> official paper. <lang xml:lang="en">Ottoman Turkish</lang> and Arabic. </cell>
                   <cell n="8" xml:lang="en"> <add resp="#pTG" xml:lang="en">Ṭarrāzī I:67 (1913) mentions that sūriye is still published
                         today.</add> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>,
@@ -984,7 +984,7 @@
                   <cell n="3" xml:lang="en"> <date when="1912" xml:lang="en">1912</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarābulus al-Gharb</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Libya</country> </placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Ottoman Turkish</lang>, then <lang xml:lang="en">Ottoman
                         Turkish</lang> and Arabic. <date
                      when="1864" xml:lang="en">1864</date> lithography, <date when="1870" xml:lang="en">1870</date> typography</cell>
@@ -1034,7 +1034,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jarīda al-Rasmiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Baʿbdā</placeName> </cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">Ḥukūma mutaṣarrifa, Jabal Lubnān</orgName> </cell>
-                  <cell n="7" xml:lang="en">Official paper.</cell>
+                  <cell n="7" xml:lang="en">official paper.</cell>
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF</rs> </cell>
                </row>
@@ -1046,7 +1046,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Bayt al-Dīn</placeName>, <placeName xml:lang="en">Dayr al-Qamar</placeName> (<placeName xml:lang="en"> <country xml:lang="en"
                      >Lebanon</country> </placeName>)</cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Dāwud Bāshā</persName>, awwal mutaṣarrif </cell>
-                  <cell n="7" xml:lang="en"> Official paper. Arabic and <lang xml:lang="en">French</lang>, replaced by <rs ref="#t1r21" xml:lang="en"> <name xml:lang="en">Ḥadīqat al-Akhbār</name>
+                  <cell n="7" xml:lang="en"> official paper. Arabic and <lang xml:lang="en">French</lang>, replaced by <rs ref="#t1r21" xml:lang="en"> <name xml:lang="en">Ḥadīqat al-Akhbār</name>
                      </rs> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"/>
@@ -1124,7 +1124,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Zawrāʾ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Baghdad</placeName> </cell>
                   <cell n="6"><orgName xml:lang="en">official</orgName></cell>
-                  <cell n="7" xml:lang="en">Official journal (established by <persName xml:lang="en">Midhat Pasha</persName>,
+                  <cell n="7" xml:lang="en">official journal (established by <persName xml:lang="en">Midhat Pasha</persName>,
                      wālī). <lang xml:lang="en"
                      >Ottoman Turkish</lang> and Arabic</cell>
                   <cell n="8"/>
@@ -1412,7 +1412,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Yaman</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Sanaa</placeName> </cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
-                  <cell n="7" xml:lang="en">Official Journal of the <orgName xml:lang="en">Ottoman government</orgName>.
+                  <cell n="7" xml:lang="en">official Journal of the <orgName xml:lang="en">Ottoman government</orgName>.
                         <lang xml:lang="en"
                      >Ottoman Turkish</lang> and Arabic?</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -3671,7 +3671,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Bayrūt (al-Rasmiyya)</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
                   <cell n="6" xml:lang="en"> </cell>
-                  <cell n="7" xml:lang="en">Official journal (Municipal) in <lang xml:lang="en"
+                  <cell n="7" xml:lang="en">official journal (Municipal) in <lang xml:lang="en"
                      >Ottoman Turkish</lang> and
                      Arabic. Not to be confused with the private newspaper <name xml:lang="en"
                      >Bayrūt</name>
@@ -11994,7 +11994,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Iḥṣāʾiyya Shahriyya li-Maḥṣūl al-Quṭn al-Miṣrī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName> </cell>
                   <cell n="7" xml:lang="en"> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9" xml:lang="en"/>
@@ -16013,7 +16013,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Iṭāliyā al-Jadīda</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli / Ṭarābulus al-Gharb</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs/> </cell>
@@ -17256,7 +17256,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iṣlāḥ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Taṭawān</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en"> official journal</orgName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en"> official</orgName> </cell>
                   <cell n="7" xml:lang="en"><orgName>Spanish government</orgName></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs/> </cell>
@@ -23159,7 +23159,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jihād</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Berlin</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23219,7 +23219,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mirʾāt al-Dunyā</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Berlin</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23279,7 +23279,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mustaqbal</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23291,7 +23291,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Taṣāwīr</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23353,7 +23353,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqīqa</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">London</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
@@ -23414,7 +23414,7 @@
                   <cell n="3" xml:lang="en"> <date/> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">The Malta Labour Leader/Dhī Mālṭā Lābūr Līdar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Valetta</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Official</orgName></cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
