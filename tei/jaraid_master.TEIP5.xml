@@ -374,7 +374,7 @@
             <head xml:lang="en">V. Availability</head>
             <p xml:lang="en"
                >We could not check all periodicals in the indicated collections. The authors of
-                  this list do not hold any responsibility for the actual holdings or the
+                  this database do not hold any responsibility for the actual holdings or the
                   accessibility of the indicated copies.</p>
          </div>
          <div xml:id="dFut" xml:lang="en">
@@ -401,6 +401,9 @@
             <head xml:lang="en">Bibliography / Sources</head>
             <div xml:id="dMajS" xml:lang="en">
                <head xml:lang="en">Major sources</head>
+               <p xml:id="sourcesNote" xml:lang="en">
+                  See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"> Zotero</ref>, too, created and curated by Till Grallert.
+               </p>
                <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
                   >Fihris al-Dawriyyāt
                         al-ʿArabiyya allatī Taqtinīhā al-Dār</hi>, 2 vols. (Cairo, <country xml:lang="en">Egypt</country>: Maṭbaʿat Dār
