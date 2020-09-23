@@ -602,7 +602,7 @@
                      the last years of the <lang xml:lang="en"
                      >French</lang> occupation (proposed editor: Shaykh
                         <persName xml:lang="en">Ismāʿīl al-Khashshāb</persName>) – never realised</cell>
-                  <cell n="8" xml:lang="en">Boustany, “The Press During the French Expedition in <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> 1798-1801,” 27, <rs ref="#agt" xml:lang="en">Ṭ</rs> =
+                  <cell n="8" xml:lang="en">Boustany, “The Press During the French Expedition in <placeName xml:lang="en" type="country">Egypt</placeName> 1798-1801,” 27, <rs ref="#agt" xml:lang="en">Ṭ</rs> =
                      <placeName xml:lang="en">Alexandria</placeName> </cell>
                   <cell n="9"/>
                </row>
@@ -2703,7 +2703,7 @@
                   <cell n="2"/>
                   <cell n="3" xml:lang="en"> <date when="1882" xml:lang="en">1882</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Tawfīq</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en">no evidence of its publication</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#abd2" xml:lang="en">ʿAbd</rs> </cell>
@@ -4276,7 +4276,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nahḍat Isrāʾīl</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName>??</cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en" type="country">Egypt</placeName>??</cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -5542,7 +5542,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mimfīs</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Masʿūd</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -6348,7 +6348,7 @@
                   <cell n="2" xml:lang="en">2 April</cell>
                   <cell n="3" xml:lang="en">still <date when="1899" xml:lang="en">1899</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Barāzil</name> </cell>
-                  <cell n="5" xml:lang="en">Santos, <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en">Santos, <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Salīm Bālish</persName> and <persName xml:lang="en">Anṭūn al-Najjār</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -6704,7 +6704,7 @@
                   <cell n="2" xml:lang="en">17 Dec.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Raqīb</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Asʿad Khālid</persName> and <persName xml:lang="en">Naʿūm Labakī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -9111,7 +9111,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Abū Nuwās</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jirjis ʿAbd Allāh Maʿlūf</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -9122,7 +9122,7 @@
                   <cell n="2"/>
                   <cell n="3" xml:lang="en">for 35 years</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAdl</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shukrī Jirjis Anṭūn</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -9555,7 +9555,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nūr al-Islām</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Amīn Abū Yūsuf</persName> and <persName xml:lang="en">Maḥmūd ʿAbd
                         al-Karīm</persName> </cell>
                   <cell n="7"/>
@@ -9567,7 +9567,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qalyūbiyya</name> </cell>
-                  <cell n="5" xml:lang="en">Banha, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en">Banha, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Zakī al-Atrabī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -9637,7 +9637,7 @@
                   <cell n="2" xml:lang="en">(23 Dhū al-Qaʿda 1317) 25 March</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣabāʾ</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad ʿAbd Allāḥ Ḥusayn</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -9659,7 +9659,7 @@
                   <cell n="2" xml:lang="en">(16 Dhū al-Qaʿda 1317) 18 March</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣabwa</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad ʿAbd Allāḥ Ḥusayn</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -9681,7 +9681,7 @@
                   <cell n="2" xml:lang="en">18 March</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Salwa</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad ʿAbd Allāḥ Ḥusayn</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -9714,7 +9714,7 @@
                   <cell n="2" xml:lang="en">1 Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣawāb</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Rio de Janeiro</placeName>, <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shaykh Ḥabīb al-Khūrī</persName> and <persName xml:lang="en">Mīkhāʾīl
                         Murād</persName> </cell>
                   <cell n="7"/>
@@ -9737,7 +9737,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Shaʿb</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Ghawānābārā</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Brazil</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Ghawānābārā</placeName>, <placeName xml:lang="en" type="country">Barzil</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Mīkhāʾīl Murād</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs> </cell>
@@ -9759,7 +9759,7 @@
                   <cell n="2" xml:lang="en">23 Feb. (22 Shawwāl 1317)</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sharqiyya</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Zaqāzīq</placeName>, <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Tawfīq al-ʿAṭṭār</persName> and <persName xml:lang="en">Yūsuf Ḥusayn /ʿAbd
                         Allāh</persName> </cell>
                   <cell n="7"/>
@@ -28620,7 +28620,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Majallat al-ʿArūs</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en"> <country xml:lang="en">Egypt</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en" type="country">Egypt</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shāhīn Makāriyūs</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -28664,7 +28664,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Riwāyāt al-Muṣawwara</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo, <country xml:lang="en">Egypt</country></placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shāhīn Makāriyūs</persName> </cell>
                   <cell n="7"> <note>illustrated</note> </cell>
                   <cell n="8"/>
