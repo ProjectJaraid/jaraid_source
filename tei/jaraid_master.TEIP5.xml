@@ -70,10 +70,12 @@
             <respStmt xml:lang="en">
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
-               <persName resp="#pPM" xml:lang="en">Peter Magierski</persName>
+               <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp>The 2020 edition's digital production: Data cleaning, XSLT-coding</resp>
+               <resp>The 2020 edition's XSLT-coding and Javascript-coding</resp>
+               <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
+               <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
                <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
@@ -299,7 +301,7 @@
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Till Grallert</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Hugh Cayless and Till Grallert</p>
             <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
