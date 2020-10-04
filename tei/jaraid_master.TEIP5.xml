@@ -31951,7 +31951,7 @@
                </row>
                
                <row n="2777" role="data" resp="#AM"  xml:id="t1r2789" xml:lang="en">
-                  <cell n="1"> <date notBefore="1908-12-05" xml:lang="en">1908</date> </cell>
+                  <cell n="1"> <date when="1908-12-05" xml:lang="en">1908</date> </cell>
                   <cell n="2" xml:lang="en">December/5</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Bashīr Filasṭīn</name> </cell>
