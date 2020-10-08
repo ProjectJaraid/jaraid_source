@@ -34278,12 +34278,216 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Nīniwā</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
-                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Fatḥ Allāh Sarsam</orgName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Fatḥ Allāh Sarsam</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
                
+               <row n="2970" role="data" resp="#AM"  xml:id="t1r2982" xml:lang="en">
+                  <cell n="1"> <date when="1910-11-12" xml:lang="en">1910</date> </cell>
+                  <cell n="2" xml:lang="en">November/12</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Najāḥ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Tawfīq</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2971" role="data" resp="#AM"  xml:id="t1r2983" xml:lang="en">
+                  <cell n="1"> <date when="1911-06-27" xml:lang="en">1911</date> </cell>
+                  <cell n="2" xml:lang="en">June/27</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Janabāz</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Majīd Khayyālī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2972" role="data" resp="#AM"  xml:id="t1r2984" xml:lang="en">
+                  <cell n="1"> <date when="1915-04-07" xml:lang="en">1915</date> </cell>
+                  <cell n="2" xml:lang="en">April/7</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Daʿwat al-Ḥaqq</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Rashīd al-Ṣaffār</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2973" role="data" resp="#AM"  xml:id="t1r2985" xml:lang="en">
+                  <cell n="1"> <date when="1918-11-14" xml:lang="en">1918</date> </cell>
+                  <cell n="2" xml:lang="en">November/14</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mawṣul</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">official</orgName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2974" role="data" resp="#AM"  xml:id="t1r2986" xml:lang="en">
+                  <cell n="1"> <date when="1922-03-24" xml:lang="en">1922</date> </cell>
+                  <cell n="2" xml:lang="en">March/24</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jazīra</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Makkī Ṣidqī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2975" role="data" resp="#AM"  xml:id="t1r2987" xml:lang="en">
+                  <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAhd</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ḥizb al-Istiqlāl al-ʿIrāqī</orgName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2976" role="data" resp="#AM"  xml:id="t1r2988" xml:lang="en">
+                  <cell n="1"> <date when="1927-02-21" xml:lang="en">1927</date> </cell>
+                  <cell n="2" xml:lang="en">February/21</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣadā al-Jumhūr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mosul</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿĪsā Maḥfūẓ</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2977" role="data" resp="#AM"  xml:id="t1r2989" xml:lang="en">
+                  <cell n="1"> <date when="1924-09-05" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en">September/5</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Yaqẓa</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Kazimiyya</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Salmān Āl Ibrāhīm al-Ṣafwānī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2978" role="data" resp="#AM"  xml:id="t1r2990" xml:lang="en">
+                  <cell n="1"> <date when="1925-12-20" xml:lang="en">1925</date> </cell>
+                  <cell n="2" xml:lang="en">December/20</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Minbar al-ʿĀmm</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Kazimiyya</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Salmān Āl Ibrāhīm al-Ṣafwānī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               
+               <row n="2979" role="data" resp="#AM"  xml:id="t1r2991" xml:lang="en">
+                  <cell n="1"> <date when="1926-09-03" xml:lang="en">1926</date> </cell>
+                  <cell n="2" xml:lang="en">September/3</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Maʿārif</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Kazimiyya</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Mālik Ḥāfiẓ</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2980" role="data" resp="#AM"  xml:id="t1r2992" xml:lang="en">
+                  <cell n="1"> <date when="1918-12-15" xml:lang="en">1918</date> </cell>
+                  <cell n="2" xml:lang="en">December/15</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Najmat Kirkūk</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Kirkuk</placeName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ḥukūmat al-Iḥtilāl al-Bariṭāniyya</orgName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2981" role="data" resp="#AM"  xml:id="t1r2993" xml:lang="en">
+                  <cell n="1"> <date when="1920-08-19" xml:lang="en">1920</date> </cell>
+                  <cell n="2" xml:lang="en">August/19</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Furāt</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Najaf</placeName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Zuʿamā al-Thawra al-ʿIrāqiyya</orgName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2982" role="data" resp="#AM"  xml:id="t1r2994" xml:lang="en">
+                  <cell n="1"> <date when="1925-04-17" xml:lang="en">1925</date> </cell>
+                  <cell n="2" xml:lang="en">April/17</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Najaf</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Najaf</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf Rajīb</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2983" role="data" resp="#AM"  xml:id="t1r2995" xml:lang="en">
+                  <cell n="1"> <date when="1916-03-07" xml:lang="en">1916</date> </cell>
+                  <cell n="2" xml:lang="en">March/7</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ittifāq</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Karbala</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Ḥājjī Mīrzā ʿAlī Āghā Shīrāzī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2984" role="data" resp="#AM"  xml:id="t1r2996" xml:lang="en">
+                  <cell n="1"> <date when="1926-03-11" xml:lang="en">1926</date> </cell>
+                  <cell n="2" xml:lang="en">March/11</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tahdhīb</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Al-ʿAmāra</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Anwar Majīd Tuḥāfī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2985" role="data" resp="#AM"  xml:id="t1r2997" xml:lang="en">
+                  <cell n="1"> <date when="1927-01-27" xml:lang="en">1927</date> </cell>
+                  <cell n="2" xml:lang="en">January/27</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fayḥāʾ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Al-Ḥilla</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Razzāq al-Ḥasanī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="2986" role="data" resp="#AM"  xml:id="t1r2998" xml:lang="en">
+                  <cell n="1"> <date when="1926-08-15" xml:lang="en">1926</date> </cell>
+                  <cell n="2" xml:lang="en">August/15</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ikhāʾ</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Al-ʿAshshār</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Sayyid ʿAbd al-Raḥmān</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
