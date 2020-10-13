@@ -37392,13 +37392,84 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Majalla al-Tijāriyya</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Haifa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Ghurfat Tijārat Ḥayfā</persName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ghurfat Tijārat Ḥayfā</orgName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
                
                
+               <row n="3228" role="data" resp="#AM"  xml:id="t1r3240" xml:lang="en">
+                  <cell n="1"> <date when="1925-09-01" xml:lang="en">1925</date> </cell>
+                  <cell n="2" xml:lang="en">September/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ināra</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">ʿAkkā</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Īqūnūmus Niqūlā Yūḥannā</persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="3229" role="data" resp="#AM"  xml:id="t1r3241" xml:lang="en">
+                  <cell n="1"> <date when="1919-09-11" xml:lang="en">1919</date> </cell>
+                  <cell n="2" xml:lang="en">September/11</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Bayt Laḥm</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Betlehem</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Yūḥannā Dikrat</persName>, <persName xml:lang="en">ʿĪsā Bunduk</persName> </cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="3230" role="data" resp="#AM"  xml:id="t1r3242" xml:lang="en">
+                  <cell n="1"> <date when="1908-09-01" xml:lang="en">1908</date> </cell>
+                  <cell n="2" xml:lang="en">September/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Aṣmaʿī</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Jaffa</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Ḥannā ʿAbd Allāh ʿĪsā</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="3231" role="data" resp="#AM"  xml:id="t1r3243" xml:lang="en">
+                  <cell n="1"> <date when="1923-12-01" xml:lang="en">1923</date> </cell>
+                  <cell n="2" xml:lang="en">December/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥuqūq</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Jaffa</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Fahmī al-Ḥusaynī</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="3232" role="data" resp="#AM"  xml:id="t1r3244" xml:lang="en">
+                  <cell n="1"> <date when="1924-04-01" xml:lang="en">1924</date> </cell>
+                  <cell n="2" xml:lang="en">April/1</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Tijāriyya</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Jaffa</placeName> </cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ghurfat Tijārat Yāfā</orgName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
+               
+               <row n="3233" role="data" resp="#AM"  xml:id="t1r3245" xml:lang="en">
+                  <cell n="1"> <date when="1916-09-14" xml:lang="en">1916</date> </cell>
+                  <cell n="2" xml:lang="en">September/14</cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Jūl Muṣawwar</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Beerseba</placeName> </cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Ḥājjī Jamāl</persName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
