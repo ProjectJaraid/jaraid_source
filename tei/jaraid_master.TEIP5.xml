@@ -1206,7 +1206,7 @@
                      ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB:
                         complete (50 PF 12, 4" Ad 5922)</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs
                             ref="#hEAP119" xml:lang="en">Aqṣā: 1874 (<ref target="https://eap.bl.uk/collection/EAP119-1-6" xml:lang="en">EAP119/1/6</ref>)</rs>, <rs ref="#hPUL"
-                         xml:lang="en">Prin: complete (online at <ref target="http://catalog.hathitrust.org/Record/008882426" xml:lang="en">HathiTrust</ref>)</rs>, digital index at <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/XZ6Y3L7X">OpenArabicPE's Zotero group</ref>. </cell>
+                         xml:lang="en">Prin: complete (online at <ref target="http://catalog.hathitrust.org/Record/008882426" xml:lang="en">HathiTrust</ref>)</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/XZ6Y3L7X">index</ref></rs>. </cell>
                </row>
                <row n="62" role="data" xml:id="t1r62" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1870-01-01" xml:lang="en">1870</date> </cell>
@@ -4018,7 +4018,7 @@
                   <cell n="1" xml:lang="en"> <date when="1889" xml:lang="en">1889</date> </cell>
                   <cell n="2"/>
                   <cell n="3" xml:lang="en">still <date when="1890" xml:lang="en">1890</date> </cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqāʾiq/The Arabic Quarterly Review</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="ar-Latn-x-ijmes">Al-Ḥaqāʾiq</name> <name xml:lang="en">The Arabic Quarterly Review</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Woking</placeName> </cell>
                   <cell n="6" xml:lang="en"> ? </cell>
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">English</lang> </cell>
@@ -4904,7 +4904,7 @@
                         <rs ref="#hBL" xml:lang="en"
                      >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
                      >MEC
-                        microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">Digital full-text edition (OpenArabicPE)</ref></cell>
+                        microfilm</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
                </row>
                <row n="401" role="data" xml:id="t1r401" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892-05-26" xml:lang="en">1892</date> </cell>
@@ -7973,7 +7973,7 @@
                      >Prin</rs>, available via <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="en">HathiTrust</ref>,
                         <ref
                      target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="en">Waqfeya.com: vols.
-                           1-22</ref>, <ref target="https://github.com/openarabicpe/journal_al-manar">openArabic edition</ref> </cell>
+                           1-22</ref>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_1-i_1.TEIP5.xml">Digital full-text edition (without Riḍā's tafsīr)</ref></rs> </cell>
                </row>
                <row n="679" role="data" xml:id="t1r679" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-01-01" xml:lang="en">1898</date> </cell>
@@ -18805,7 +18805,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Anṭūn al-Jumayyil</persName>, <persName xml:lang="en">Amīn Taqī al-Dīn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
-                  <cell n="9" xml:lang="en">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs> </ref>, <ref target="https://github.com/openarabicpe/journal_al-zuhur">openArabic edition</ref></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hBONN">Bonn: 1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online</ref></rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-zuhur/tei/oclc_1034545644-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
                </row>
                <row n="1657" resp="#AM" role="data" xml:id="t1r1669" xml:lang="en">
                   <cell n="1"> <date when="1910-07-01" xml:lang="en">1910</date> </cell>
@@ -35020,7 +35020,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Jurjī Niqūlā Bāz</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1909-1912 (<ref target="https://eap.bl.uk/collection/EAP119-1-8" xml:lang="en">EAP119/1/8</ref>)</rs>, digital index at <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/C32Q9M2G">OpenArabicPE's Zotero group</ref></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1909-1912 (<ref target="https://eap.bl.uk/collection/EAP119-1-8" xml:lang="en">EAP119/1/8</ref>)</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/C32Q9M2G">index</ref></rs></cell>
                </row>
                
                <row n="3031" role="data" resp="#AM"  xml:id="t1r3043" xml:lang="en">
@@ -36370,7 +36370,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"> <rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-4" xml:lang="en">EAP119/1/4</ref>)</rs>, <ref target="https://tillgrallert.github.io/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml">Digital full-text edition (OpenArabicPE)</ref></cell>
+                   <cell n="9"> <rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-4" xml:lang="en">EAP119/1/4</ref>)</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://tillgrallert.github.io/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
                </row>
                
                <row n="3143" role="data" resp="#AM"  xml:id="t1r3155" xml:lang="en">
@@ -36388,13 +36388,13 @@
                <row n="3144" role="data" resp="#AM"  xml:id="t1r3156" xml:lang="en">
                   <cell n="1"> <date when="1910-08-07" xml:lang="en">1910</date> </cell>
                   <cell n="2" xml:lang="en">August/7</cell>
-                  <cell n="3"/>
+                  <cell n="3"><date resp="#pTG" when="1913">1913</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥaqāʾiq</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Qādir al-Iskandarānī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-haqaiq/tei/oclc_644997575-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs ref="#hOIB">OIB</rs></cell>
                </row>
                
                <row n="3145" role="data" resp="#AM"  xml:id="t1r3157" xml:lang="en">
@@ -36406,7 +36406,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Mārī ʿAjamī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs resp="#pTG" ref="#hAUB">AUB</rs></cell>
                </row>
                
                <row n="3146" role="data" resp="#AM"  xml:id="t1r3158" xml:lang="en">
