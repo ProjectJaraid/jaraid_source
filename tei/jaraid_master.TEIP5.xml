@@ -34,6 +34,8 @@
                <persName xml:lang="en">Nicole Khayat</persName>
                <persName xml:lang="en">Sinai Rusinek</persName>
                <persName xml:lang="en">Peter Magierski</persName>
+               <persName xml:lang="en">Leyla von Mende</persName>
+               <persName xml:lang="en">Stacey Farenthold</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -58,6 +60,8 @@
                <persName xml:id="pSR" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
 
                <persName xml:id="pPM" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname></persName>
+               <persName xml:id="pLM" xml:lang="en"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname></persName>
+               <persName xml:id="pSF" xml:lang="en"> <forename xml:lang="en">Stacey</forename> <surname xml:lang="en">Farenthold</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
@@ -30673,7 +30677,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf Khālid al-Masaddī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9">A few scant copies at <rs ref="#hHARV" resp="#pSF">Harv</rs></cell>
                </row>
                
                <row n="2672" role="data" resp="#AM"  xml:id="t1r2684" xml:lang="en">
