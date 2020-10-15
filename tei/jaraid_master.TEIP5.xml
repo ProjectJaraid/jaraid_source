@@ -1206,7 +1206,7 @@
                      xml:lang="en">IMA: 1870-1882 (<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="en">online</ref>)</rs>, <rs
                      ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB:
                         complete (50 PF 12, 4" Ad 5922)</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs
-                     ref="#hEAP119" xml:lang="en">Aqṣā: 1874 (<ref target="http://eap.bl.uk/database/overview_item.a4d?catId=838;r=18795" xml:lang="en">EAP119/1/6</ref>)</rs>, <rs ref="#hPUL"
+                            ref="#hEAP119" xml:lang="en">Aqṣā: 1874 (<ref target="https://eap.bl.uk/collection/EAP119-1-6" xml:lang="en">EAP119/1/6</ref>)</rs>, <rs ref="#hPUL"
                          xml:lang="en">Prin: complete (online at <ref target="http://catalog.hathitrust.org/Record/008882426" xml:lang="en">HathiTrust</ref>)</rs>, digital index at <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/XZ6Y3L7X">OpenArabicPE's Zotero group</ref>. </cell>
                </row>
                <row n="62" role="data" xml:id="t1r62" xml:lang="en">
@@ -2158,8 +2158,8 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mirʾāt al-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Amīn Nāṣif</persName> and <persName xml:lang="en">Salīm ʿAnḥūrī</persName> </cell>
-                  <cell n="7" xml:lang="en">there is also one in 1882 and 1883 with Amīn Nāṣif (but not to be
-                     confused with a later Mirʾāt al-Sharq 1919-1939)</cell>
+                   <cell n="7" xml:lang="en">there is also one in 1882 and 1883 with <persName xml:lang="ar-Latn-x-ijmes">Amīn Nāṣif</persName> (but not to be
+                     confused with a later <title level="j">Mirʾāt al-Sharq</title> 1919-1939)</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en">? <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?</cell>
                </row>
@@ -4905,7 +4905,7 @@
                         <rs ref="#hBL" xml:lang="en"
                      >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
                      >MEC
-                        microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">openArabic edition</ref></cell>
+                        microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">Digital full-text edition (OpenArabicPE)</ref></cell>
                </row>
                <row n="401" role="data" xml:id="t1r401" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892-05-26" xml:lang="en">1892</date> </cell>
@@ -8788,7 +8788,7 @@
                   <cell n="7" xml:lang="en">Greek orthodox paper</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hBNF" xml:lang="en">BnF: 1899-1903</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hLEN"
-                     xml:lang="en">Len</rs>, <rs ref="#hEAP119" xml:lang="en">Aqṣā: 1901 (<ref target="http://eap.bl.uk/database/results.a4d?projID=EAP119;r=18467" xml:lang="en"
+                      xml:lang="en">Len</rs>, <rs ref="#hEAP119" xml:lang="en">Aqṣā: 1901 (<ref target="https://eap.bl.uk/collection/EAP119-1-7" xml:lang="en"
                      >EAP119/1/7</ref>)</rs>. </cell>
                </row>
                <row n="751" role="data" xml:id="t1r751" xml:lang="en">
@@ -11082,7 +11082,7 @@
                <row n="964" resp="#AM" role="data" xml:id="t1r966">
                   <cell n="1"> <date when="1906">1906</date> </cell>
                   <cell n="2"/>
-                  <cell n="3"> <date/> </cell>
+                  <cell n="3"></cell>
                   <cell n="4"> <name>Ḥaqāʾiq al-Sharq</name> aw <name>al-Dīk al-Miṣrī</name> </cell>
                   <cell n="5"> <placeName>Cairo</placeName> </cell>
                   <cell n="6"> <persName>George Nilkun de Wildberg</persName> </cell>
@@ -29552,7 +29552,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en">This is the newspaper <title level="j">al-Muqtabas</title>. Not to be confused with the journal of the same name.</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1908-1916 (<ref target="https://eap.bl.uk/collection/EAP119-1-19" xml:lang="en">EAP119/1/19</ref>)</rs>, <rs ref="#hAUB">AUB</rs>, <rs ref="#hFUI">FUI (microfilm)</rs></cell>
                </row>
                
                <row n="2579" role="data" resp="#AM"  xml:id="t1r2591" xml:lang="en">
@@ -29866,7 +29866,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en" resp="#pTG">al-Qabas</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Shukrī al-ʿAsalī</persName> and <persName resp="#pTG" xml:lang="ar-Latn-x-ijmes">Luṭfī al-ʿAsalī</persName></cell>
-                   <cell n="7" xml:lang="en" resp="#pTG">This daily newspaper was short-lived and is not to be confused by <title level="j">al-Qabas</title> published by <persName xml:lang="ar-Latn-x-ijmes">Shukrī al-ʿAsalī</persName> and <persName xml:lang="ar-Latn-x-ijmes">Muḥammad Kurd ʿAlī between 1913 and 1914.</persName></cell>
+                   <cell n="7" xml:lang="en" resp="#pTG">This daily newspaper was short-lived and is not to be confused with <title level="j">al-Qabas</title> published by <persName xml:lang="ar-Latn-x-ijmes">Shukrī al-ʿAsalī</persName> and <persName xml:lang="ar-Latn-x-ijmes">Muḥammad Kurd ʿAlī between 1913 and 1914.</persName></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
@@ -29915,9 +29915,9 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qabas</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Shukrī al-ʿAsalī</persName>, <persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
-                  <cell n="7" xml:lang="en" resp="#pTG"><title level="j">al-Qabas</title> was a replacement for Kurd ʿAlī's newspaper <title level="j">al-Muqtabas</title> during the latter's ban from publication. Issue numbers reflected this fact.</cell>
+                   <cell n="7" xml:lang="en" resp="#pTG"><title level="j">al-Qabas</title> was a replacement for Kurd ʿAlī's newspaper <title level="j" corresp="#t1r2590">al-Muqtabas</title> during the latter's ban from publication. Issue numbers reflected this fact.</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-20" xml:lang="en">EAP119/1/20</ref>)</rs>, <rs ref="#hAUB">AUB</rs>, <rs ref="#hFUI">FUI (microfilm)</rs></cell>
                </row>
                
                <row n="2609" role="data" resp="#AM"  xml:id="t1r2621" xml:lang="en">
@@ -30665,7 +30665,7 @@
                    <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Maṭrān Ithnāsiyūs ʿAṭā Allāh</persName> and <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Qusṭanṭīn Yannī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9" resp="#pTG" xml:lang="en">A few scant copies at <rs ref="#hHARV" resp="#pSF">Harv</rs></cell>
                </row>
                
                <row n="2671" role="data" resp="#AM"  xml:id="t1r2683" xml:lang="en">
@@ -30677,7 +30677,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf Khālid al-Masaddī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9">A few scant copies at <rs ref="#hHARV" resp="#pSF">Harv</rs></cell>
+                   <cell n="9"></cell>
                </row>
                
                <row n="2672" role="data" resp="#AM"  xml:id="t1r2684" xml:lang="en">
@@ -30792,7 +30792,7 @@
                <row n="2681" role="data" resp="#AM"  xml:id="t1r2693" xml:lang="en">
                   <cell n="1"> <date when="1909-10-19" xml:lang="en">1909</date> </cell>
                   <cell n="2" xml:lang="en">October/19</cell>
-                  <cell n="3"/>
+                  <cell n="3"><date when-custom="1326" datingMethod="#cal_islamic">1326 aH</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Lisān al-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Hama</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Aḥmad al-Ṣābūnī</persName></cell>
@@ -30893,7 +30893,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ikhāʾ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Hama</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jibrān Masūḥ</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jibrān Massawaḥ</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
@@ -31594,7 +31594,7 @@
                <row n="2747" role="data" resp="#AM"  xml:id="t1r2759" xml:lang="en">
                   <cell n="1"> <date when="1909-05-04" xml:lang="en">1909</date> </cell>
                   <cell n="2" xml:lang="en">May/4</cell>
-                  <cell n="3"/>
+                  <cell n="3" resp="#pTG">at least 288 issues</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Lādhaqiyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Latakia</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Saʿīd Ḥasan Saʿīd</persName></cell>
@@ -31927,7 +31927,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Jurjī Ḥabīb Ḥanāniyā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><ref resp="#pTG" target="http://palestine.mei.columbia.edu/alquds-issues">Online (#1-391)</ref></cell>
                </row>
                
                <row n="2775" role="data" resp="#AM"  xml:id="t1r2787" xml:lang="en">
@@ -32103,13 +32103,13 @@
                <row n="2789" role="data" resp="#AM"  xml:id="t1r2801" xml:lang="en">
                   <cell n="1"> <date when="1919-09-18" xml:lang="en">1919</date> </cell>
                   <cell n="2" xml:lang="en">September/18</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Mirāt al-Sharq</name> </cell>
+                  <cell n="3"><date when="1938" resp="#hEAP119">1938</date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Mirʾāt al-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jerusalem</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Būlus Shaḥḥāda</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Būlus Shaḥāda</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1922-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-24" xml:lang="en">EAP119/1/24</ref>)</rs></cell>
                </row>
                
                <row n="2790" role="data" resp="#AM"  xml:id="t1r2802" xml:lang="en">
@@ -32278,7 +32278,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Munīf al-Ḥusaynī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1927-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-13" xml:lang="en">EAP119/1/13</ref>)</rs></cell>
                </row>
                
                <row n="2804" role="data" resp="#AM"  xml:id="t1r2816" xml:lang="en">
@@ -32362,7 +32362,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">ʿĪsā Dāwud al-ʿĪsā</persName>, <persName xml:lang="en">Yūsuf al-ʿĪsā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1923-1951 (<ref target="https://eap.bl.uk/collection/EAP119-1-22" xml:lang="en">EAP119/1/22</ref>)</rs></cell>
                </row>
                
                <row n="2811" role="data" resp="#AM"  xml:id="t1r2823" xml:lang="en">
@@ -32432,10 +32432,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣirāṭ al-Mustaqīm</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jaffa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Qalqīlī</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbdallah al-Qalqīlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1928-1938 (<ref target="https://eap.bl.uk/collection/EAP119-1-14" xml:lang="en">EAP119/1/14</ref>)</rs></cell>
                </row>
                
                
@@ -32554,10 +32554,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iqdām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Haifa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Salīm al-Ḥulū</persName></cell>
+                   <cell n="6" xml:lang="en"><persName xml:lang="en">Salīm al-Ḥulū</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#hEAP119">Ṭaniyūs Naṣr</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1933-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-23" xml:lang="en">EAP119/1/23</ref>)</rs></cell>
                </row>
                
                <row n="2827" role="data" resp="#AM"  xml:id="t1r2839" xml:lang="en">
@@ -32589,13 +32589,13 @@
                <row n="2829" role="data" resp="#AM"  xml:id="t1r2841" xml:lang="en">
                   <cell n="1"> <date when="1922-05-11" xml:lang="en">1922</date> </cell>
                   <cell n="2" xml:lang="en">May/11</cell>
-                  <cell n="3"/>
+                  <cell n="3"><date resp="#hEAP119" when="1948">1948</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṣawt al-Shaʿb</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Betlehem</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf Abī al-ʿIrāj</persName>, <persName xml:lang="en">ʿĪsā Bandak</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1927-1935 (<ref target="https://eap.bl.uk/collection/EAP119-1-15" xml:lang="en">EAP119/1/15</ref>)</rs></cell>
                </row>
                
                <row n="2830" role="data" resp="#AM"  xml:id="t1r2842" xml:lang="en">
@@ -34975,7 +34975,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad ʿAlī al-Qabbānī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1908-1909 (<ref target="https://eap.bl.uk/collection/EAP119-1-10" xml:lang="en">EAP119/1/10</ref>)</rs></cell>
                </row>
                
                <row n="3027" role="data" resp="#AM"  xml:id="t1r3039" xml:lang="en">
@@ -35017,13 +35017,13 @@
                <row n="3030" role="data" resp="#AM"  xml:id="t1r3042" xml:lang="en">
                   <cell n="1"> <date when="1909-06-20" xml:lang="en">1909</date> </cell>
                   <cell n="2" xml:lang="en">June/20</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥusnāʾ</name> </cell>
+                  <cell n="3"><date when="1912" resp="#pTG">1912</date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥasnāʾ</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Beirut</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Jurjī Niqūlā Bāz</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1909-1912 (<ref target="https://eap.bl.uk/collection/EAP119-1-8" xml:lang="en">EAP119/1/8</ref>)</rs>, digital index at <ref target="https://www.zotero.org/groups/904125/openarabicpe/collections/C32Q9M2G">OpenArabicPE's Zotero group</ref></cell>
                </row>
                
                <row n="3031" role="data" resp="#AM"  xml:id="t1r3043" xml:lang="en">
@@ -36368,12 +36368,12 @@
                   <cell n="1"> <date when="1906-02-25" xml:lang="en">1906</date> </cell>
                   <cell n="2" xml:lang="en">February/25</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muqtabas</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muqtabas</name> (journal) </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"> <rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-4" xml:lang="en">EAP119/1/4</ref>)</rs>, <ref target="https://tillgrallert.github.io/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml">Digital full-text edition (OpenArabicPE)</ref></cell>
                </row>
                
                <row n="3143" role="data" resp="#AM"  xml:id="t1r3155" xml:lang="en">
@@ -36887,8 +36887,8 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ikhāʾ</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Hama</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jibrān Masūḥ</persName></cell>
-                  <cell n="7" xml:lang="en"></cell>
+                   <cell n="6" xml:lang="en"><persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Jibrān Massawaḥ</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Jamīl Massawaḥ</persName></cell>
+                  <cell n="7" xml:lang="en" resp="#pTG">weekly</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
@@ -37279,7 +37279,7 @@
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">Madrasat Rawḍat al-Maʿārif</orgName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-1" xml:lang="en">EAP119/1/1</ref>)</rs></cell>
                </row>
                
                <row n="3218" role="data" resp="#AM"  xml:id="t1r3230" xml:lang="en">
@@ -37315,7 +37315,7 @@
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">Al-Kulliyya al-ʿArabiyya</orgName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-2" xml:lang="en">EAP119/1/2</ref>)</rs></cell>
                </row>
                
                <row n="3221" role="data" resp="#AM"  xml:id="t1r3233" xml:lang="en">
@@ -37369,13 +37369,13 @@
                <row n="3225" role="data" resp="#AM"  xml:id="t1r3237" xml:lang="en">
                   <cell n="1"> <date when="1922-05-01" xml:lang="en">1922</date> </cell>
                   <cell n="2" xml:lang="en">May/1</cell>
-                  <cell n="3"/>
+                  <cell n="3"><date when="1927" resp="#hEAP119">1927</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Zahra</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Haifa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jamīl al-Baḥarī</persName> </cell>
-                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jamīl al-Baḥrī</persName> </cell>
+                   <cell n="7" xml:lang="en"><title level="j">al-Zahra</title> continued from <title level="j" corresp="#t1r3236">Zahrat al-Jamīl</title> and continued as <title level="j" corresp="#t1r2839">al-Zuhūr</title></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1922-1926 (<ref target="https://eap.bl.uk/collection/EAP119-1-9" xml:lang="en">EAP119/1/9</ref>)</rs></cell>
                </row>
                
                <row n="3226" role="data" resp="#AM"  xml:id="t1r3238" xml:lang="en">
@@ -37448,7 +37448,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Fahmī al-Ḥusaynī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā 1923-1928 (<ref target="https://eap.bl.uk/collection/EAP119-1-3" xml:lang="en">EAP119/1/3</ref>)</rs></cell>
                </row>
                
                <row n="3232" role="data" resp="#AM"  xml:id="t1r3244" xml:lang="en">
