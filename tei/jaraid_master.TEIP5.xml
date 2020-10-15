@@ -29543,7 +29543,7 @@
                   <cell n="1"> <date when="1908-12-17" xml:lang="en">1908</date> </cell>
                   <cell n="2" xml:lang="en">December/12</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Muqtabas</name> (jarīda) </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="ar-Latn-x-ijmes">Al-Muqtabas</name> (jarīda) </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en">This is the newspaper <title level="j">al-Muqtabas</title>. Not to be confused with the journal of the same name.</cell>
@@ -29859,10 +29859,10 @@
                   <cell n="1"> <date when="1912-03-19" xml:lang="en">1912</date> </cell>
                   <cell n="2" xml:lang="en">March/19</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Qabas</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en" resp="#pTG">al-Qabas</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Shukrī al-ʿAsalī</persName></cell>
-                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Shukrī al-ʿAsalī</persName> and <persName resp="#pTG" xml:lang="ar-Latn-x-ijmes">Luṭfī al-ʿAsalī</persName></cell>
+                   <cell n="7" xml:lang="en" resp="#pTG">This daily newspaper was short-lived and is not to be confused by <title level="j">al-Qabas</title> published by <persName xml:lang="ar-Latn-x-ijmes">Shukrī al-ʿAsalī</persName> and <persName xml:lang="ar-Latn-x-ijmes">Muḥammad Kurd ʿAlī between 1913 and 1914.</persName></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
@@ -29873,7 +29873,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṣārikh</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Dāwud Ṣidqī al-Māridīnī</persName>, <persName xml:lang="en">ʿIzzat al-Ḥajjār</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Dāwud Ṣidqī al-Mārdīnī</persName>, <persName xml:lang="en">ʿIzzat al-Ḥajjār</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
@@ -29911,7 +29911,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qabas</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Shukrī al-ʿAsalī</persName>, <persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
-                  <cell n="7" xml:lang="en" resp="#pTG">al-Qabas was a replacement for Kurd ʿAlī's newspaper <title level="j">al-Muqtabas</title> during the latter's ban from publication</cell>
+                  <cell n="7" xml:lang="en" resp="#pTG"><title level="j">al-Qabas</title> was a replacement for Kurd ʿAlī's newspaper <title level="j">al-Muqtabas</title> during the latter's ban from publication. Issue numbers reflected this fact.</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
@@ -29922,8 +29922,8 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ittiḥād al-Islāmī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad al-Tihāmī Shaṭṭa</persName></cell>
-                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad al-Tuhāmī Shaṭṭa (al-Jazāʾirī)</persName></cell>
+                  <cell n="7" xml:lang="en" resp="#pTG">Still published in 1917</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
                </row>
@@ -29934,7 +29934,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Damascus</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Khalīl al-Ayyūbī</persName>, <persName xml:lang="en">Tāj al-Dīn al-Ḥasanī</persName></cell>
+                   <cell n="6" xml:lang="en">Published by the <orgName>4th Ottoman Army</orgName>. Edited by <persName xml:lang="en">Khalīl al-Ayyūbī</persName>, <persName xml:lang="en">Tāj al-Dīn al-Ḥasanī</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Badr al-Dīn al-Nuʿsānī</persName>, and <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
@@ -30658,7 +30658,7 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ḥumṣ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Homs</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Maṭrān Ithnāsiyūs ʿAṭā Allāh</persName></cell>
+                   <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Maṭrān Ithnāsiyūs ʿAṭā Allāh</persName> and <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Qusṭanṭīn Yannī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"></cell>
