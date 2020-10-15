@@ -1655,10 +1655,10 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>,
                         <rs
                      ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hDKQM"
-                     xml:lang="en">DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4"/> </rs>, <rs
+                     xml:lang="en">DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4">online</ref> </rs>, <rs
                      ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hDMW" xml:lang="en">DMW</rs>: 1877-1930s (with gaps), <rs ref="#hPUL"
                         xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>, <rs ref="#hBONN"
-                           xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-77143" xml:lang="en">online, 1876-1952</ref> </rs> </cell>
+                           xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-77143" xml:lang="en">online, 1876-1952</ref> </rs>, <rs>Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=107" xml:lang="en">facsimiles and (limited) index</ref></rs> </cell>
                </row>
                <row n="106" role="data" xml:id="t1r106" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1876" xml:lang="en">1876</date> </cell>
@@ -2837,7 +2837,7 @@
                   <cell n="1" xml:lang="en"> <date notAfter="1882-06-30" notBefore="1882-06-01" xml:lang="en">1882</date> </cell>
                   <cell n="2" xml:lang="en">June</cell>
                   <cell n="3" xml:lang="en">May <date when="1883" xml:lang="en">1883</date>, 36 issues</cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Najm al-Mashriq/L’Astre d’Orient</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="ar-Latn-x-ijmes">Najm al-Mashriq</name> / <name xml:lang="fr">L’Astre d’Orient</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Paris</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">George Poydenot</persName> </cell>
                   <cell n="7" xml:lang="en">Arabic and <lang xml:lang="en">French</lang> </cell>
@@ -2848,7 +2848,7 @@
                   <cell n="1" xml:lang="en"> <date when="1882" xml:lang="en">1882?</date> </cell>
                   <cell n="2"/>
                   <cell n="3" xml:lang="en"> <date when="1917" xml:lang="en">1917</date> </cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Sanawiyya ʿan al-Tijāra al-Khārijiyya / Le Commerce
+                  <cell n="4" xml:lang="en"> <name xml:lang="ar-Latn-x-ijmes">Al-Nashra al-Sanawiyya ʿan al-Tijāra al-Khārijiyya</name> / <name xml:lang="fr">Le Commerce
                         Extérieur de l’Égypte</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">Ministre de l’Intérieur; Direction Général de la Statistique</orgName> </cell>
@@ -4616,7 +4616,7 @@
                      >SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?,
                      <rs ref="#hLOC" xml:lang="en">LOC</rs>,  <rs ref="#hDMW"
                      xml:lang="en">DMW</rs>, available as digitized copy on CD at <rs ref="#hBIBAL" xml:lang="en">BibAlex</rs>, and at <ref target="http://catalog.hathitrust.org/Record/000638242"
-                     xml:lang="en">HathiTrust</ref>.</cell>
+                     xml:lang="en">HathiTrust</ref>, <rs>Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=134" xml:lang="en">facsimiles and (limited) index</ref></rs>.</cell>
                </row>
                <row n="376" role="data" xml:id="t1r376" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892" xml:lang="en">1892</date> </cell>
@@ -4904,7 +4904,7 @@
                         <rs ref="#hBL" xml:lang="en"
                      >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
                      >MEC
-                        microfilm</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
+                        microfilm</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs>Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=106" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
                </row>
                <row n="401" role="data" xml:id="t1r401" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892-05-26" xml:lang="en">1892</date> </cell>
@@ -7004,10 +7004,9 @@
                   <cell n="8" xml:lang="en"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs
-                     ref="#hDM" xml:lang="en">Dayr al-Makh</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN"
+                     ref="#hDM" xml:lang="en">Dayr al-Makh</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs resp="#pTG" ref="#hBONN"
                      xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="en">complete
-                              publication-run online</ref> </rs>
-                     </add>. </cell>
+                              publication-run online</ref> </rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=161" xml:lang="en">facsimiles and (limited) index</ref></rs>. </cell>
                </row>
                <row n="593" role="data" xml:id="t1r593" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date notAfter="1897-01-31" notBefore="1897-01-01" xml:lang="en">1897</date> </cell>
@@ -7973,7 +7972,7 @@
                      >Prin</rs>, available via <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="en">HathiTrust</ref>,
                         <ref
                      target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="en">Waqfeya.com: vols.
-                           1-22</ref>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_1-i_1.TEIP5.xml">Digital full-text edition (without Riḍā's tafsīr)</ref></rs> </cell>
+                           1-22</ref>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_1-i_1.TEIP5.xml">Digital full-text edition (without Riḍā's tafsīr)</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=33" xml:lang="en">facsimiles and (limited) index</ref></rs> </cell>
                </row>
                <row n="679" role="data" xml:id="t1r679" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-01-01" xml:lang="en">1898</date> </cell>
@@ -7990,7 +7989,7 @@
                      ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>: 1944-46, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs
                      ref="#hAUB" xml:lang="en">AUB</rs>,
                       <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hIU" xml:lang="en"
-                     >IÜ</rs>, <ref target="http://archive.sakhrit.co/newmagazineYears.aspx?MID=108" xml:lang="en">online</ref> </cell>
+                     >IÜ</rs>, <rs>Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=108" xml:lang="en">facsimiles</ref></rs> </cell>
                </row>
                <row n="680" role="data" xml:id="t1r680" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-07-06" xml:lang="en">1898</date> </cell>
@@ -8695,7 +8694,7 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs
                            ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hBONN"
-                              xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">online, 1899-1910</ref> </rs> </cell>
+                              xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">online, 1899-1910</ref> </rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=114" xml:lang="en">facsimiles and (limited) index</ref></rs> </cell>
                </row>
                <row n="743" role="data" xml:id="t1r743" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1899" xml:lang="en">1899?</date> </cell>
@@ -18805,7 +18804,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Anṭūn al-Jumayyil</persName>, <persName xml:lang="en">Amīn Taqī al-Dīn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
-                  <cell n="9" xml:lang="en"><rs ref="#hBONN">Bonn: 1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online</ref></rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-zuhur/tei/oclc_1034545644-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hBONN">Bonn: 1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online</ref></rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-zuhur/tei/oclc_1034545644-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=40" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
                </row>
                <row n="1657" resp="#AM" role="data" xml:id="t1r1669" xml:lang="en">
                   <cell n="1"> <date when="1910-07-01" xml:lang="en">1910</date> </cell>
@@ -36370,7 +36369,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"> <rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-4" xml:lang="en">EAP119/1/4</ref>)</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://tillgrallert.github.io/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml">Digital full-text edition</ref></rs></cell>
+                   <cell n="9"> <rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā (<ref target="https://eap.bl.uk/collection/EAP119-1-4" xml:lang="en">EAP119/1/4</ref>)</rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://tillgrallert.github.io/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=125" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
                </row>
                
                <row n="3143" role="data" resp="#AM"  xml:id="t1r3155" xml:lang="en">
@@ -37526,10 +37525,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Lughat al-ʿArab</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Baghdad</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Ab Anastās al-Karmalī</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Al-Ab Anastās al-Karmalī</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Kāẓim al-Dujaylī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_lughat-al-arab/tei/oclc_472450345-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=14" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
                </row>
                
                <row n="3239" role="data" resp="#AM"  xml:id="t1r3251" xml:lang="en">
