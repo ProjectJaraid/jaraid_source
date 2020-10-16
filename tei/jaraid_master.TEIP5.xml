@@ -301,7 +301,7 @@
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Hugh Cayless and Till Grallert</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan and Till Grallert; XSLT by Hugh Cayless and Till Grallert</p>
             <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
@@ -384,6 +384,12 @@
             <p xml:lang="en">We will continuously update the data and await the valuable corrections of
                   readers.</p>
          </div>
+         <div xml:id="dRef" xml:lang="en">
+            <head xml:lang="en">VII. Reference</head>
+            <p xml:lang="en">Please refer to this list as a publiction in the following way: XXXXXXXXXX.</p>
+            
+         </div>
+         
          <div xml:id="dAgen" xml:lang="en">
             <head xml:lang="en"> Legend:</head>
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
