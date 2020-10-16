@@ -5265,8 +5265,7 @@
                   <cell n="2" xml:lang="en">13 April</cell>
                   <cell n="3" xml:lang="en"> <date when="1917" xml:lang="en">1917</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarābulus / then Ṭarābulus al-Shām</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli</placeName>, <placeName xml:lang="en"> <country xml:lang="en">Syria</country> </placeName>/<placeName xml:lang="en">
-                     <country xml:lang="en">Lebanon</country> </placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Kāmil al-Buḥayrī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -9926,7 +9925,7 @@
                   <cell n="2"/>
                   <cell n="3"> <date when="1921">1921</date> </cell>
                   <cell n="4"> <name>Al-Ḥaqq Yaʿlū</name> </cell>
-                  <cell n="5"> <placeName>Maʿn</placeName>, <placeName> ʿAmmān </placeName> </cell>
+                  <cell n="5"> <placeName>Maʿn</placeName>, <placeName> Amman </placeName> </cell>
                   <cell n="6"> <persName>ʿAbd al-Laṭīf Shukr</persName> </cell>
                   <cell n="7"> handwritten; lithographed; only six issues</cell>
                   <cell n="8"
