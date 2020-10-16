@@ -997,7 +997,7 @@
                   <cell n="2"/>
                   <cell n="3" xml:lang="en"> <date when="1912" xml:lang="en">1912</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarābulus al-Gharb</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName></cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName></cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName> </cell>
                   <cell n="7" xml:lang="en"> <lang xml:lang="en">Ottoman Turkish</lang>, then <lang xml:lang="en">Ottoman
                         Turkish</lang> and Arabic. <date
@@ -4869,7 +4869,7 @@
                   <cell n="2"/>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Ṭarābulus al-Shām</name>? </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Shām)</placeName></cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName></cell>
                   <cell n="6" xml:lang="en"> unknown</cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -5268,7 +5268,7 @@
                   <cell n="2" xml:lang="en">13 April</cell>
                   <cell n="3" xml:lang="en"> <date when="1917" xml:lang="en">1917</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="ar-Latn-x-ijmes">Ṭarābulus</name>  then <name xml:lang="ar-Latn-x-ijmes">Ṭarābulus al-Shām</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Kāmil al-Buḥayrī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
@@ -7454,7 +7454,7 @@
                   <cell n="2" xml:lang="en">26 June</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Taraqqī</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName></cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName></cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad al-Būsīrī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -15966,7 +15966,7 @@
                   <cell n="2" xml:lang="en">March</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAṣr al-Jadīd</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad ʿAlī al-Bārūdī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -15977,7 +15977,7 @@
                   <cell n="2" xml:lang="en">September/16</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mirṣād</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad al-Fasāṭawī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -15988,7 +15988,7 @@
                   <cell n="2" xml:lang="en"/>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Abū Qashsha</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Hāshimī al-Tūnisī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -15999,7 +15999,7 @@
                   <cell n="2" xml:lang="en">March/1</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Raqīb</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Maḥmūd Nadīm bin Mūsā</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16010,7 +16010,7 @@
                   <cell n="2" xml:lang="en">May/1</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Dardanīl</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Farāyim Shūbah</persName> </cell>
                   <cell n="7" xml:lang="en">Ṭ: <lang>Judeo-Arabic</lang></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16021,7 +16021,7 @@
                   <cell n="2" xml:lang="en"/>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Iṭāliyā al-Jadīda</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">official</orgName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16032,7 +16032,7 @@
                   <cell n="2" xml:lang="en">October/9</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Liwāʾ al-Ṭarābulusī</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">Ḥizb al-Iṣlāḥ al-Waṭanī</orgName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16043,7 +16043,7 @@
                   <cell n="2" xml:lang="en"/>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Waqt</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥsin Ẓāhir al-Madanī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16054,7 +16054,7 @@
                   <cell n="2" xml:lang="en"/>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAdl</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Muḥāmī ʿAbd Allāh Bānūn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -16065,7 +16065,7 @@
                   <cell n="2" xml:lang="en">August/19</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Raqīb al-ʿAtīd</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tripoli (al-Gharb)</placeName> </cell>
+                  <cell n="5" xml:lang="en"> <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Maḥmūd Nadīm bin Mūsā</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
@@ -35911,7 +35911,7 @@
                   <cell n="2" xml:lang="en">November/16</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Mabāḥith</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Jurjī Yannī</persName>, <persName xml:lang="en">Ṣamūʾīl Yannī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
@@ -35923,7 +35923,7 @@
                   <cell n="2" xml:lang="en">October/15</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāmiʿat al-Funūn</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Aḥmad Kamāl Ḥaddād</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
@@ -35935,7 +35935,7 @@
                   <cell n="2" xml:lang="en">December/22</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bayān</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muṣtafā al-Bārūdī</persName>, <persName xml:lang="en">Jamīl ʿAdra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
@@ -35947,7 +35947,7 @@
                   <cell n="2" xml:lang="en">August/15</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-ʿAṣr al-Dhahabī</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Ḥannā al-Shammās</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
@@ -35959,7 +35959,7 @@
                   <cell n="2" xml:lang="en"></cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Tamaddun al-Islāmī</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Tripoli (al-Shām)</placeName> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbd al-Ḥalīm Murād</persName>, <persName xml:lang="en">ʿAbd Allāh al-Shāmī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
