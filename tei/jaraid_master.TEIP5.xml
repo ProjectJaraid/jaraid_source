@@ -8132,7 +8132,7 @@
                   <cell n="1" xml:lang="en"> <date when="1898-06-01" xml:lang="en">1898</date> </cell>
                   <cell n="2" xml:lang="en">1 June</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamr</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jurjī Ṭannūs</persName> </cell>
                   <cell n="7"/>
@@ -20543,7 +20543,7 @@
                   <cell n="1"> <date when="1925-10-16" xml:lang="en">1925</date> </cell>
                   <cell n="2" xml:lang="en">October/16</cell>
                   <cell n="3" xml:lang="en"> <date/> </cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamr</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamar</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Riyāḍ Shaḥḥāta</persName> </cell>
                   <cell n="7" xml:lang="en"/>
@@ -36115,8 +36115,8 @@
                   <cell n="1"> <date when="1911-07-01" xml:lang="en">1911</date> </cell>
                   <cell n="2" xml:lang="en">July/1</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamr</name> </cell>
-                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Dayr al-Qamr</placeName> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Qamar</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Dayr al-Qamar</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Walīm Diyāb Naʿma</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
