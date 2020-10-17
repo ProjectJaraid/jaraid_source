@@ -6317,7 +6317,7 @@
                         Ḥamdī</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs></cell>
                </row>
                <row n="530" role="data" xml:id="t1r530" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1896-06-23" xml:lang="en">1896</date> </cell>
@@ -20966,7 +20966,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad al-Saʿīd Nuʿmān</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
+                  <cell n="9" xml:lang="en"> <rs resp="#pAM" ref="#DKQ" xml:lang="en">DKQ</rs> </cell>
                </row>
                <row n="1853" resp="#AM" role="data" xml:id="t1r1865" xml:lang="en">
                   <cell n="1"> <date when="1928-02-13" xml:lang="en">1928</date> </cell>
@@ -21164,7 +21164,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Aḥmad al-Saʿīd Nuʿmān</persName> </cell>
                   <cell n="7" xml:lang="en">Ṭ: second edition</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
+                  <cell n="9" xml:lang="en"> <rs resp="#pAM" ref="#hMJA" xml:lang="en"/>MJA</cell>
                </row>
                <row n="1871" resp="#AM" role="data" xml:id="t1r1883" xml:lang="en">
                   <cell n="1"> <date notAfter="1928-11-30" notBefore="1928-11-01">1928</date> </cell>
@@ -38893,6 +38893,10 @@
                      <expan xml:lang="en">Bibliothèque Générale et Archives de Tétouan, Tetouan,
                            Morocco</expan>
                      </choice> </p>
+                  <p xml:id="hMJA" xml:lang="en"> <choice xml:lang="en">
+                     <abbr xml:lang="en">MJA</abbr>
+                     <expan xml:lang="en">Maktabat Jāmiʿat al-Azhar, Cairo</expan>
+                  </choice> </p>
                </div>
                <div type="abbr" xml:lang="en">
                   <note xml:lang="en"> <date when="2012-07-26"/>added repositories</note>
