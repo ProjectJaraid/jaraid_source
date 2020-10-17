@@ -30256,7 +30256,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf al-ʿĪsā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>:1920-24</cell>
                </row>
                
                <row n="2637" role="data" resp="#AM"  xml:id="t1r2649" xml:lang="en">
