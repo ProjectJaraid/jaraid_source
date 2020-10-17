@@ -33185,7 +33185,7 @@
                   <cell n="6" xml:lang="en">unknown</cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-arab-newspaper-collection" xml:lang="en">607 issues in World Digital Library</ref>)</cell>
+                  <cell n="9"><rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-arab-newspaper-collection" xml:lang="en">607 issues in World Digital Library</ref>), <rs ref="#hBL" xml:lang="en">BL</rs>: 1918</cell>
                </row>
                
                <row n="2879" role="data" resp="#AM"  xml:id="t1r2891" xml:lang="en">
