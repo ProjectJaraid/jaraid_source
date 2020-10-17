@@ -36409,7 +36409,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Mārī ʿAjamī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs resp="#pTG" ref="#hAUB">AUB</rs></cell>
+                  <cell n="9"><rs resp="#pTG" ref="#hAUB" xml:lang="en">AUB</rs>, <rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1913, 1922-24</cell>
                </row>
                
                <row n="3146" role="data" resp="#AM"  xml:id="t1r3158" xml:lang="en">
