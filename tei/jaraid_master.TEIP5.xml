@@ -30088,7 +30088,7 @@
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs resp="#pAM" ref="#hAUB" xml:lang="en">AUB</rs>: 1919-1921</cell>
                </row>
                
                <row n="2623" role="data" resp="#AM"  xml:id="t1r2635" xml:lang="en">
