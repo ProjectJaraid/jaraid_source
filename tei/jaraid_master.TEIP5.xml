@@ -12129,7 +12129,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Iskandar Makāriyūs</persName> </cell>
                   <cell n="7" xml:lang="en"> <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"> <rs ref="#hHARV" xml:lang="en">Harv:1915-1934</rs></cell>
                </row>
                <row n="1055" resp="#AM" role="data" xml:id="t1r1061" xml:lang="en">
                   <cell n="1"> <date when="1915" xml:lang="en">1915</date> </cell>
