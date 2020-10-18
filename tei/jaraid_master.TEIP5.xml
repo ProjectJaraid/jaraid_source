@@ -26844,7 +26844,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Shaykh Aḥmad Ḥasan Ṭabbāra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>, online: <ref target="https://archive.org/details/AlIttihadalTHMANI1908OttomanEmpireArabic" xml:lang="en">1908</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1909OttomanEmpireArabic/Apr%2001%201909%2C%20%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A%20%28Al-Ittihad%20al-THMANI%29%2C%20%23160%2C%20Ottoman%20Empire%20%28ar%29" xml:lang="en">1909</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1910OttomanEmpireArabic" xml:lang="en">1910</ref> </cell><
+                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>, online: <ref target="https://archive.org/details/AlIttihadalTHMANI1908OttomanEmpireArabic" xml:lang="en">1908</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1909OttomanEmpireArabic" xml:lang="en">1909</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1910OttomanEmpireArabic" xml:lang="en">1910</ref> </cell>
                </row>
                
                <row n="2354" role="data" resp="#AM"  xml:id="t1r2366" xml:lang="en">
@@ -29432,7 +29432,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Aḥmad ʿĀrif al-Zayn</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMJU" resp="#pAM" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/JabalAmel1911OttomanEmpireArabic" xml:lang="en">1911: 1 issue</ref>, <ref target="https://archive.org/details/JabalAmel1912OttomanEmpireArabic" xml:lang="en">1912: 42 issues</ref></cell>
                </row>
                
                <row n="2569" role="data" resp="#AM"  xml:id="t1r2581" xml:lang="en">
