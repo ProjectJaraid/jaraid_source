@@ -13790,7 +13790,7 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥibb al-Dīn al-Khaṭīb</persName> </cell>
                   <cell n="7" xml:lang="en"/>
-                  <cell n="8" xml:lang="en">Ṭ,first issue (29 Dhī al-Qaʿda 1344)</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>,first issue (29 Dhū al-Qaʿda 1344)</cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hHARV">Harv</rs>, <rs ref="#hMJU" resp="#pAM" xml:lang="en">MJU</rs>: 1927-48</cell>
                </row>
                <row n="1203" resp="#AM" role="data" xml:id="t1r1212" xml:lang="en">
