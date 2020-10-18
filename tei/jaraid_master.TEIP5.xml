@@ -1167,7 +1167,7 @@
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1875-1914</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBL"
-                     xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs> </cell>
+                     xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs>, <rs xml:lang="en" ref="#hMJU">MJU</rs>?: 1914, 1919-1928</cell>
                </row>
                <row n="59" role="data" xml:id="t1r59" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1870" xml:lang="en">1870</date> </cell>
