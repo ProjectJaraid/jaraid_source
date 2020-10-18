@@ -9934,7 +9934,7 @@
                   <cell n="8"
                      >issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
 										fī ʿAhd al-Imāra, 1921-1946” PhD thesis, Jāmiʿat al-Qaddīs Yūsuf, Beirut, 1999</cell>
-                  <cell n="9"> <rs ref="#hUJ" xml:lang="en">UJ</rs> (one issue, 27 Jumādī al-Thānī 1339).</cell>
+                  <cell n="9"> <rs ref="#hMJU" xml:lang="en">MJU</rs> (one issue, 27 Jumādī al-Thānī 1339).</cell>
                </row>
                <row n="862" resp="#pAM" role="data" xml:id="t1r862">
                   <cell n="1"> <date when="1900-09-11">1900</date> </cell>
@@ -26844,7 +26844,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Shaykh Aḥmad Ḥasan Ṭabbāra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>, online: <ref target="https://archive.org/details/AlIttihadalTHMANI1908OttomanEmpireArabic" xml:lang="en">1908</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1909OttomanEmpireArabic/Apr%2001%201909%2C%20%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A%20%28Al-Ittihad%20al-THMANI%29%2C%20%23160%2C%20Ottoman%20Empire%20%28ar%29" xml:lang="en">1909</ref>, <ref target="https://archive.org/details/AlIttihadalTHMANI1910OttomanEmpireArabic" xml:lang="en">1910</ref> </cell><
                </row>
                
                <row n="2354" role="data" resp="#AM"  xml:id="t1r2366" xml:lang="en">
