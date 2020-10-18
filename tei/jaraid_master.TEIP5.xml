@@ -12581,7 +12581,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sulaymān Fawzī</persName> </cell>
                   <cell n="7" xml:lang="en"> <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hDKQ" xml:lang="en">DKQ</rs></cell>
                </row>
                <row n="1096" resp="#AM" role="data" xml:id="t1r1102" xml:lang="en">
                   <cell n="1"> <date when="1921-06-05" xml:lang="en">1921</date> </cell>
@@ -12790,7 +12790,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Husayn Haykal</persName> </cell>
                   <cell n="7" xml:lang="en"> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hDKQ" xml:lang="en">DKQ</rs></cell>
                </row>
                <row n="1115" resp="#AM" role="data" xml:id="t1r1121" xml:lang="en">
                   <cell n="1"> <date when="1922-11-09" xml:lang="en">1922</date> </cell>
@@ -13747,7 +13747,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad Ḥusayn Kāmil</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hDKQ" xml:lang="en">DKQ</rs></cell>
                </row>
                <row n="1199" resp="#AM" role="data" xml:id="t1r1208" xml:lang="en">
                   <cell n="1"> <date notAfter="1926-04-30" notBefore="1926-04-01">1926</date> </cell>
@@ -23797,10 +23797,10 @@
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Bayān</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Salīm Baddūr</persName>, <persName xml:lang="en"> ʿAbbās Abū Shaqrā</persName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Sulaymān Baddūr</persName>, <persName xml:lang="en"> ʿAbbās Abū Shaqrā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="9"><rs ref="#hBL" xml:lang="en">BL</rs>: 1917 </cell>
                </row>
                
                <row n="2102" resp="#AM" role="data" xml:id="t1r2114" xml:lang="en">
@@ -29942,7 +29942,7 @@
                    <cell n="6" xml:lang="en">Published by the <orgName>4th Ottoman Army</orgName>. Edited by <persName xml:lang="en">Khalīl al-Ayyūbī</persName>, <persName xml:lang="en">Tāj al-Dīn al-Ḥasanī</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Badr al-Dīn al-Nuʿsānī</persName>, and <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs ref="#hMJU" resp="#pAM" xml:lang="en">MJU</rs>?</cell>
                </row>
                
                <row n="2611" role="data" resp="#AM"  xml:id="t1r2623" xml:lang="en">
@@ -31842,8 +31842,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Amman</placeName> </cell>
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">official</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, also n.1.</cell>
+                  <cell n="9"><rs ref="#hMJU" resp="#pAM" xml:lang="en">MJU</rs></cell>
                </row>
                
                
