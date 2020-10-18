@@ -35,7 +35,7 @@
                <persName xml:lang="en">Sinai Rusinek</persName>
                <persName xml:lang="en">Peter Magierski</persName>
                <persName xml:lang="en">Leyla von Mende</persName>
-               <persName xml:lang="en">Stacey Farenthold</persName>
+               <persName xml:lang="en">Stacey Fahrenthold</persName>
             </respStmt>
          </titleStmt>
          <editionStmt xml:lang="en">
@@ -61,7 +61,7 @@
 
                <persName xml:id="pPM" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname></persName>
                <persName xml:id="pLM" xml:lang="en"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname></persName>
-               <persName xml:id="pSF" xml:lang="en"> <forename xml:lang="en">Stacey</forename> <surname xml:lang="en">Farenthold</surname></persName>
+               <persName xml:id="pSF" xml:lang="en"> <forename xml:lang="en">Stacey</forename> <surname xml:lang="en">Fahrenthold</surname></persName>
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed
                   and a reference to the contributor's xml:id -->
             </respStmt>
@@ -75,6 +75,7 @@
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
                <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
+               <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
                <resp>The 2020 edition's XSLT-coding and Javascript-coding</resp>
@@ -299,8 +300,8 @@
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
             <p xml:id="p2" xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:id="p3"  xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
-               Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
+               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacey Fahrenthold, Till Grallert, Rana
+               Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
