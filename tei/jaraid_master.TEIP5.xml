@@ -27192,7 +27192,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad al-Bāqir</persName>, <persName xml:lang="en">Naṣūḥ Bakdāsh</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlBalagh1911OttomanEmpireArabic" xml:lang="en">1911</ref>, <ref target="https://archive.org/details/AlBalagh1912OttomanEmpireArabic" xml:lang="en">1912</ref></cell>
                </row>
                
                <row n="2383" role="data" resp="#AM"  xml:id="t1r2395" xml:lang="en">
@@ -29553,7 +29553,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Muḥammad Kurd ʿAlī</persName></cell>
                   <cell n="7" xml:lang="en">This is the newspaper <title level="j">al-Muqtabas</title>. Not to be confused with the journal of the same name.</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1908-1916 (<ref target="https://eap.bl.uk/collection/EAP119-1-19" xml:lang="en">EAP119/1/19</ref>)</rs>, <rs ref="#hAUB">AUB</rs>, <rs ref="#hFUI">FUI (microfilm)</rs></cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1908-1916 (<ref target="https://eap.bl.uk/collection/EAP119-1-19" xml:lang="en">EAP119/1/19</ref>)</rs>, <rs ref="#hAUB">AUB</rs>, <rs ref="#hFUI">FUI (microfilm)</rs>, <rs ref="#hMJU" xml:lang="en" resp="#pAM">MJU</rs>, online: <ref target="https://archive.org/details/AlMuqtabas1919SyriaArabic" xml:lang="en">1919</ref>, <ref target="https://archive.org/details/AlMuqtabas1920SyriaArabic" xml:lang="en">1920</ref>, <ref target="https://archive.org/details/AlMuqtabas1921SyriaArabic" xml:lang="en">1921</ref></cell>
                </row>
                
                <row n="2579" role="data" resp="#AM"  xml:id="t1r2591" xml:lang="en">
@@ -30257,7 +30257,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf al-ʿĪsā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>:1920-24</cell>
+                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlefBaa1920SyriaArabic" xml:lang="en">1920</ref>, <ref target="https://archive.org/details/AlefBaa1921SyriaArabic" xml:lang="en">1921</ref>, <ref target="https://archive.org/details/AlefBaa1922SyriaArabic" xml:lang="en">1922</ref>, <ref target="https://archive.org/details/AlefBaa1923SyriaArabic" xml:lang="en">1923</ref>, <ref target="https://archive.org/details/AlefBaa1924SyriaArabic" xml:lang="en">1924</ref></cell>
                </row>
                
                <row n="2637" role="data" resp="#AM"  xml:id="t1r2649" xml:lang="en">
