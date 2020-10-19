@@ -4670,8 +4670,8 @@
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hNYPL" xml:lang="en">NYPL</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs
                      ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBL" xml:lang="en">BL:
-                           1895</rs>, <rs xml:lang="en"> also <ref
-                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/51" xml:lang="en">online</ref> </rs> </cell>
+                        1895</rs>, <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref
+                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/51" xml:lang="en">online 1892-96</ref>  </cell>
                </row>
                <row n="380" role="data" xml:id="t1r380" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1892" xml:lang="en">1892</date> </cell>
@@ -7765,8 +7765,8 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Naʿūm Mukarzal</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, BnF: <ref
-                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/58" xml:lang="en">online</ref> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hMKHC" xml:lang="en">MKHC: 1898-1941, </rs><ref
+                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/58" xml:lang="en">online only 1898-1905</ref> </cell>
                </row>
                <row n="661" role="data" xml:id="t1r661" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-05-17" xml:lang="en">1898</date> </cell>
@@ -8490,15 +8490,15 @@
                   <cell n="9"/>
                </row>
                <row n="725" role="data" xml:id="t1r725" xml:lang="en">
-                  <cell n="1" xml:lang="en"> <date when="1899" xml:lang="en">1899</date> </cell>
+                  <cell n="1" xml:lang="en"> <date when="1897" xml:lang="en">1897</date> </cell>
                   <cell n="2"/>
-                  <cell n="3"/>
+                  <cell n="3"><date>1902?</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ayyām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Nuʿmān al-Maʿlūf</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/87" xml:lang="en">not online</ref></cell>
                </row>
                <row n="726" role="data" xml:id="t1r726" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1899" xml:lang="en">1899</date> </cell>
@@ -8836,7 +8836,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Najīb Mūsā Diyyāb</persName> </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/71" xml:lang="en">online: 1910-22</ref>, but scope is 1910-1961</cell>
                </row>
                <row n="755" role="data" xml:id="t1r755" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1899-05-20" xml:lang="en">1899</date> </cell>
@@ -23756,15 +23756,15 @@
                </row>
                
                <row n="2098" resp="#AM" role="data" xml:id="t1r2110" xml:lang="en">
-                  <cell n="1"> <date when="1907"  xml:lang="en">1907</date> </cell>
-                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="1"> <date when="1907-01-03"  xml:lang="en">1907</date> </cell>
+                  <cell n="2" xml:lang="en">January/3</cell>
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Kawn</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Najīb Anṭūn Ṣawāyā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/72" xml:lang="en">1907-1910</ref> </cell>
                </row>
                
                <row n="2099" resp="#AM" role="data" xml:id="t1r2111" xml:lang="en">
@@ -23800,7 +23800,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sulaymān Baddūr</persName>, <persName xml:lang="en"> ʿAbbās Abū Shaqrā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hBL" xml:lang="en">BL</rs>: 1917 </cell>
+                  <cell n="9"><rs ref="#hBL" xml:lang="en">BL</rs>: 1917; <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1911-1926, 1938</cell>
                </row>
                
                <row n="2102" resp="#AM" role="data" xml:id="t1r2114" xml:lang="en">
@@ -23872,7 +23872,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Najīb Jurjī Badrān</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="9"> <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/91" xml:lang="en">not online</ref></cell>
                </row>
                
                <row n="2108" resp="#AM" role="data" xml:id="t1r2120" xml:lang="en">
@@ -23982,7 +23982,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ibrāhīm Khūrī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1917-19 </cell>
                </row>
                
                <row n="2117" resp="#AM" role="data" xml:id="t1r2129" xml:lang="en">
@@ -24090,7 +24090,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Murād al-Khūrī</persName>, <persName xml:lang="en">Farīd Ghuṣn</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/62" xml:lang="en">online: 1907-1910</ref> </cell>
                </row>
                
                
@@ -24338,12 +24338,12 @@
                   <cell n="1"> <date notBefore="1923-11-01" notAfter="1923-11-30" xml:lang="en">1923</date> </cell>
                   <cell n="2" xml:lang="en">November</cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghirbāl</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ghurbāl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Mexico City</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yūsuf Musallam</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>:1957-1992</cell>
                </row>
                
                <row n="2147" role="data" resp="#AM"  xml:id="t1r2159" xml:lang="en">
@@ -24488,7 +24488,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Nasīb ʿArīḍa</persName>, <persName xml:lang="en">Naẓmī Nasīm</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1913-18</cell>
                </row>
                
                <row n="2159" role="data" resp="#AM"  xml:id="t1r2171" xml:lang="en">
@@ -24512,7 +24512,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sallūm Mukarzal</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1918-1926, <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/57" xml:lang="en">online only 1918-1919</ref></cell>
                </row>
                
                <row n="2161" role="data" resp="#AM"  xml:id="t1r2173" xml:lang="en">
@@ -24524,7 +24524,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yaʿqūb Rūfāʾīl</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/86" xml:lang="en">not online</ref></cell>
                </row>
                
                <row n="2162" role="data" resp="#AM"  xml:id="t1r2174" xml:lang="en">
@@ -24632,7 +24632,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Wadīʿ Shākir</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1917-19</cell>
                </row>
                
                <row n="2171" role="data" resp="#AM"  xml:id="t1r2183" xml:lang="en">
