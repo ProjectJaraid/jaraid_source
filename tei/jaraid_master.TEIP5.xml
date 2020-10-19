@@ -24584,7 +24584,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Iyilā Abū Māḍī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"> <rs ref="#hMKHC" xml:lang="en">MKHC</rs> <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/77" xml:lang="en">scanned but not online</ref></cell>
                </row>
                
                <row n="2167" role="data" resp="#AM"  xml:id="t1r2179" xml:lang="en">
@@ -38975,6 +38975,10 @@
                   <p xml:id="hLONA" xml:lang="en"> <note xml:lang="en"> <date when="2020-09-06"/>added</note> <choice xml:lang="en">
                      <abbr xml:lang="en">LONA</abbr>
                      <expan xml:lang="en">League of Nations Archives (Geneva, Switzerland)</expan>
+                  </choice> </p>
+                  <p xml:id="hMKHC" xml:lang="en"> <note xml:lang="en"> <date when="2020-10-18"/>added</note> <choice xml:lang="en">
+                     <abbr xml:lang="en">MKHC</abbr>
+                     <expan xml:lang="en">Moise A. Khayrallah Center for Lebanese Diaspora Studies, NC State University</expan>
                   </choice> </p>
                </div>
             </div>
