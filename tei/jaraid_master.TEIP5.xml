@@ -12466,7 +12466,7 @@
                   <cell n="1"> <date when="1920-11-09" xml:lang="en">1920</date> </cell>
                   <cell n="2" xml:lang="en">November/9</cell>
                   <cell n="3" xml:lang="en"></cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hūl</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hawl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muṣṭafā Ismāʿīl al-Qashāshī</persName> </cell>
                   <cell n="7" xml:lang="en"> </cell>
@@ -19377,9 +19377,9 @@
                   <cell n="1"> <date when="1920-02-15" xml:lang="en">1920</date> </cell>
                   <cell n="2" xml:lang="en">February/15</cell>
                   <cell n="3" xml:lang="en"></cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hūl</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hawl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Lisān al-Shaʿb al-Miṣrī</persName> </cell>
+                  <cell n="6" xml:lang="en"> <orgName xml:lang="en">Lisān al-Shaʿb al-Miṣrī</orgName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9" xml:lang="en"/>
@@ -21358,7 +21358,7 @@
                   <cell n="1"> <date when="1929-11-26" xml:lang="en">1929</date> </cell>
                   <cell n="2" xml:lang="en">November/26</cell>
                   <cell n="3" xml:lang="en"></cell>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hūl</name> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hawl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muṣṭafā Ismāʿīl al-Qashāshī</persName> </cell>
                   <cell n="7" xml:lang="en">Ṭ: first as jarīda in 1920, now majalla</cell>
@@ -23799,8 +23799,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Sulaymān Baddūr</persName>, <persName xml:lang="en"> ʿAbbās Abū Shaqrā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hBL" xml:lang="en">BL</rs>: 1917; <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1911-1926, 1938</cell>
+                  <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9"><rs ref="#hBL" xml:lang="en">BL</rs>: 1917; <rs resp="#pSF" ref="#hCRL" xml:lang="en">CRL</rs>: 1911-18; <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: 1911-1926, 1938</cell>
                </row>
                
                <row n="2102" resp="#AM" role="data" xml:id="t1r2114" xml:lang="en">
@@ -23920,9 +23920,9 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fatāt</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Shukrī Bakhkhāsh</persName></cell>
-                  <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"> </cell>
+                  <cell n="7" xml:lang="en"> editor returned to Zahle after 1919, started publication with same title</cell>
+                  <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9" xml:lang="en"><rs resp="#pSF" ref="#hCRL" xml:lang="en">CRL</rs></cell>
                </row>
                
                <row n="2112" resp="#AM" role="data" xml:id="t1r2124" xml:lang="en">
@@ -24475,8 +24475,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAfīfa Karam</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9" xml:lang="en"><rs resp="#pSF" ref="#hLOC" xml:lang="en">LoC</rs>: 1912-13</cell>
                </row>
                
                <row n="2158" role="data" resp="#AM"  xml:id="t1r2170" xml:lang="en">
@@ -24523,8 +24523,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">New York</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yaʿqūb Rūfāʾīl</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/86" xml:lang="en">not online</ref></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9"><rs resp="#pSF" ref="#hAUB" xml:lang="en">AUB</rs>: 1921-24; <rs resp="#pSF" ref="#hLOC" xml:lang="en">LoC</rs>; <rs ref="#hMKHC" xml:lang="en">MKHC</rs>: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/86" xml:lang="en">not online</ref></cell>
                </row>
                
                <row n="2162" role="data" resp="#AM"  xml:id="t1r2174" xml:lang="en">
@@ -25132,28 +25132,28 @@
                <row n="2212" role="data" resp="#AM"  xml:id="t1r2224" xml:lang="en">
                   <cell n="1"> <date when="1903-01-24" xml:lang="en">1903</date> </cell>
                   <cell n="2" xml:lang="en">January/24</cell>
-                  <cell n="3"/>
+                  <cell n="3" xml:lang="en"><date xml:lang="en">1941</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Afkār</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">São Paolo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Duktūr Saʿīd Abū Jamra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9"><rs resp="#pSF" xml:lang="en" ref="#hHARV">HARV</rs>: 1915, <rs resp="#pSF" ref="#hCRL" xml:lang="en">CRL</rs>: 1914-15</cell>
                </row>
                
                <row n="2213" role="data" resp="#AM"  xml:id="t1r2225" xml:lang="en">
                   <cell n="1"> <date when="1906-05-01" xml:lang="en">1906</date> </cell>
                   <cell n="2" xml:lang="en">May/1</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hūl</name> </cell>
+                  <cell n="3" xml:lang="en"><date xml:lang="en">1941</date></cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Abū al-Hawl</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">São Paolo</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Shukrī al-Khūrī</persName></cell>
-                  <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Shukrī al-Khūrī</persName>, later <persName xml:lang="en">Rashīd al-Khūrī</persName></cell>
+                  <cell n="7" xml:lang="en">affiliated with the Brazil Jam’iyyat al-Nahda al-Lubnaniyya</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
+                  <cell n="9"><rs resp="#pSF" ref="#hHARV" xml:lang="en">HARV</rs>:single issue, <rs resp="#pSF" ref="#hAUB" xml:lang="en">AUB</rs>: five issues</cell>
                </row>
                
-               
+              
                <row n="2214" role="data" resp="#AM"  xml:id="t1r2226" xml:lang="en">
                   <cell n="1"> <date notBefore="1906-10-01" notAfter="1906-10-31" xml:lang="en">1906</date> </cell>
                   <cell n="2" xml:lang="en">October</cell>
@@ -39027,6 +39027,10 @@
                <abbr xml:lang="en">ʿAbd</abbr>
                <expan xml:lang="en">Ibrāhīm ʿAbduh's data (from his publications)</expan>
                </choice> </p>
+            <p xml:id="aSF" xml:lang="en"> <choice xml:lang="en">
+               <abbr xml:lang="en">SF</abbr>
+               <expan xml:lang="en">Stacy Fahrenthold's data (her contribution, based on her own research)</expan>
+            </choice> </p>
          </div>
       </back>
    </text>
