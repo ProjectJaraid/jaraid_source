@@ -298,7 +298,6 @@
             <head xml:lang="en">A Chronology of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
-            <p xml:id="p2" xml:lang="en">With a major contribution from Philip Sadgrove</p>
             <p xml:id="p3"  xml:lang="en"
                >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
@@ -347,7 +346,7 @@
             <p xml:lang="en"
                >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName xml:lang="en">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"><hi rend="italic" xml:lang="en">Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi></name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName xml:lang="en">Adam Mestyan</persName> added manually during 2020. This data is enriched and checked against <persName ref="#pAM" xml:lang="en">Adam Mestyan</persName>'s personal research, <persName ref="#pTG" xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/">OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links any time</p>
             <p xml:lang="en"
-               >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
+               >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. This original edition benefitted a major contribution by Prof. Philip Sadgrove. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
@@ -38429,6 +38428,17 @@
                   <cell n="9"><rs ref="#hMJU" resp="#pAM" xml:lang="en">MJU</rs>:1923-2003</cell>
                </row>
                
+               <row n="3313" role="data" resp="#AM"  xml:id="t1r3325" xml:lang="en">
+                  <cell n="1"> <date when="1925" xml:lang="en">1925</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Akhbār al-Kanasiyya</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Hayfa</placeName> </cell>
+                  <cell n="6" xml:lang="en"><placeName xml:lang="en">Farīd ʿAwda</placeName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"></cell>
+                  <cell n="9"><rs ref="#hNLI" resp="#pAM" xml:lang="en">NLoI</rs>: <ref xml:lang="en" target="https://tinyurl.com/y4us7rfp">ingle issue of 1947</ref>s</cell>
+               </row>
                
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
@@ -38900,7 +38910,7 @@
                   <p xml:id="hNLI" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">NLoI</abbr>
                      <expan xml:lang="en">National Library of Israel</expan>
-                     </choice> </p>
+                  </choice> Their collection of Ottoman and mandate Arabic Palestinian newspapers are digitalized in a dedicated website: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/all-titles.aspx" xml:lang="en">Jrayed - Arabic Newspaper Archive of Ottoman and Mandatory Palestine</ref></p>
                   <p xml:id="hTET" xml:lang="en"> <choice xml:lang="en">
                      <abbr xml:lang="en">Tet</abbr>
                      <expan xml:lang="en">Bibliothèque Générale et Archives de Tétouan, Tetouan,
