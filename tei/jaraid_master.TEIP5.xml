@@ -32109,7 +32109,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Būlus Shaḥāda</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1922-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-24" xml:lang="en">EAP119/1/24</ref>)</rs></cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1922-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-24" xml:lang="en">EAP119/1/24</ref>)</rs>, <rs resp="#hNLI" xml:lang="en">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Mirat-al-Sharq.aspx" xml:lang="en">1919-1938</ref></cell>
                </row>
                
                <row n="2790" role="data" resp="#AM"  xml:id="t1r2802" xml:lang="en">
@@ -38437,7 +38437,7 @@
                   <cell n="6" xml:lang="en"><placeName xml:lang="en">Farīd ʿAwda</placeName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"></cell>
-                  <cell n="9"><rs ref="#hNLI" resp="#pAM" xml:lang="en">NLoI</rs>: <ref xml:lang="en" target="https://tinyurl.com/y4us7rfp">ingle issue of 1947</ref>s</cell>
+                  <cell n="9"><rs ref="#hNLI" resp="#pAM" xml:lang="en">NLoI</rs>: <ref xml:lang="en" target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Akhbar_al-Kanasiyya.aspx">single issue of 1947</ref>s</cell>
                </row>
                
                
