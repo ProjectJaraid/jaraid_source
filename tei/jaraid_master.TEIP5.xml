@@ -32145,8 +32145,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jerusalem</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">A. Safīr</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
+                  <cell n="9"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Barid-al-Yawm.aspx" xml:lang="en">1920</ref></cell>
                </row>
                
                <row n="2793" role="data" resp="#AM"  xml:id="t1r2805" xml:lang="en">
@@ -32194,7 +32194,7 @@
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">Baṭrīrkiyya al-Lāqīn</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Raqib_Sahyun.aspx" xml:lang="en">1924-1940</ref></cell>
                </row>
                
                <row n="2797" role="data" resp="#AM"  xml:id="t1r2809" xml:lang="en">
@@ -32277,8 +32277,8 @@
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jerusalem</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Munīf al-Ḥusaynī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1927-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-13" xml:lang="en">EAP119/1/13</ref>)</rs>, <rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1927-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-13" xml:lang="en">EAP119/1/13</ref>)</rs>, <rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>; <rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/al_Jamia_al_Arabiyya.aspx" xml:lang="en">1927-30</ref></cell>
                </row>
                
                <row n="2804" role="data" resp="#AM"  xml:id="t1r2816" xml:lang="en">
@@ -32453,13 +32453,13 @@
                <row n="2818" role="data" resp="#AM"  xml:id="t1r2830" xml:lang="en">
                   <cell n="1"> <date when="1908" xml:lang="en">1908</date> </cell>
                   <cell n="2" xml:lang="en"></cell>
-                  <cell n="3"/>
+                  <cell n="3"><date xml:lang="en">1942</date>?</cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Karmil</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Haifa</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Najīb Naṣṣār</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1925-39</cell>
+                  <cell n="9" xml:lang="en"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1925-39; <rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/el_carmel.aspx" xml:lang="en">1920-1941</ref></cell>
                </row>
                
                <row n="2819" role="data" resp="#AM"  xml:id="t1r2831" xml:lang="en">
@@ -32553,10 +32553,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Iqdām</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Haifa</placeName> </cell>
-                   <cell n="6" xml:lang="en"><persName xml:lang="en">Salīm al-Ḥulū</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#hEAP119">Ṭaniyūs Naṣr</persName></cell>
+                   <cell n="6" xml:lang="en"><persName xml:lang="en">Salīm al-Ḥulū</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#hEAP119">Ṭaniyūs Naṣr</persName>, <persName xml:lang="en">Jūrj ʿĀzār</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1933-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-23" xml:lang="en">EAP119/1/23</ref>)</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, data added based on later issues</cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1933-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-23" xml:lang="en">EAP119/1/23</ref>)</rs>; <rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/al-iqdam.aspx" xml:lang="en">1929-30</ref></cell>
                </row>
                
                <row n="2827" role="data" resp="#AM"  xml:id="t1r2839" xml:lang="en">
@@ -32578,10 +32578,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nahḍa</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Haifa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><persName xml:lang="en">Jād Suwaydān</persName>, <persName xml:lang="en">Qayṣar Abyaḍ</persName></cell>
+                  <cell n="6" xml:lang="en"><persName xml:lang="en">Wadīʿ Ṣanbar</persName>, <persName xml:lang="en">Jād Suwaydān</persName>, <persName xml:lang="en">Qayṣar Abyaḍ</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs> is corrected based on v.1. n.18</cell>
+                  <cell n="9"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/al-nahda.aspx"  xml:lang="en">1929-30</ref></cell>
                </row>
                
                
