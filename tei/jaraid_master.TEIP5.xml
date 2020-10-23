@@ -31898,12 +31898,12 @@
                   <cell n="1"> <date when="1904" xml:lang="en">1904</date> </cell>
                   <cell n="2" xml:lang="en"></cell>
                   <cell n="3"/>
-                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nafīr al-ʿUthmānī</name> </cell>
-                  <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jerusalem</placeName> </cell>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nafīr al-ʿUthmānī</name>, later <name xml:lang="en">al-Nafīr</name> </cell>
+                  <cell n="5" xml:lang="en"> <placeName>Alexandria</placeName>?, <placeName xml:lang="en">Jerusalem</placeName>, after 1913 <placeName xml:lang="en">Haifa</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Ibrāhīm Zakā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Nafir.aspx" xml:lang="en">1911, 1920-1932</ref></cell>
                </row>
                
                <row n="2773" role="data" resp="#AM"  xml:id="t1r2785" xml:lang="en">
@@ -32101,14 +32101,14 @@
                </row>
                
                <row n="2789" role="data" resp="#AM"  xml:id="t1r2801" xml:lang="en">
-                  <cell n="1"> <date when="1919-09-18" xml:lang="en">1919</date> </cell>
-                  <cell n="2" xml:lang="en">September/18</cell>
+                  <cell n="1"> <date when="1919-09-17" xml:lang="en">1919</date> </cell>
+                  <cell n="2" xml:lang="en">September/17</cell>
                   <cell n="3"><date when="1938" resp="#hEAP119">1938</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Mirʾāt al-Sharq</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jerusalem</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Būlus Shaḥāda</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>'s data is corrected based on first issue</cell>
                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1922-1936 (<ref target="https://eap.bl.uk/collection/EAP119-1-24" xml:lang="en">EAP119/1/24</ref>)</rs>, <rs resp="#hNLI" xml:lang="en">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Mirat-al-Sharq.aspx" xml:lang="en">1919-1938</ref></cell>
                </row>
                
@@ -32356,13 +32356,13 @@
                <row n="2810" role="data" resp="#AM"  xml:id="t1r2822" xml:lang="en">
                   <cell n="1"> <date when="1911-01-14" xml:lang="en">1911</date> </cell>
                   <cell n="2" xml:lang="en">January/14</cell>
-                  <cell n="3"/>
+                  <cell n="3" xml:lang=""><date xml:lang="en">1967</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Filasṭīn</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Jaffa</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">ʿĪsā Dāwud al-ʿĪsā</persName>, <persName xml:lang="en">Yūsuf al-ʿĪsā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1923-1951 (<ref target="https://eap.bl.uk/collection/EAP119-1-22" xml:lang="en">EAP119/1/22</ref>)</rs>, <rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1921-67</cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1923-1951 (<ref target="https://eap.bl.uk/collection/EAP119-1-22" xml:lang="en">EAP119/1/22</ref>)</rs>, <rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1921-67, <rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Filastin.aspx" xml:lang="en">1911 (from n. 51)-1948</ref></cell>
                </row>
                
                <row n="2811" role="data" resp="#AM"  xml:id="t1r2823" xml:lang="en">
@@ -32435,10 +32435,9 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">ʿAbdallah al-Qalqīlī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                   <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1928-1938 (<ref target="https://eap.bl.uk/collection/EAP119-1-14" xml:lang="en">EAP119/1/14</ref>)</rs></cell>
+                  <cell n="9"><rs ref="#hEAP119" xml:lang="en" resp="#pTG">Aqṣā: 1928-1938 (<ref target="https://eap.bl.uk/collection/EAP119-1-14" xml:lang="en">EAP119/1/14</ref>)</rs>, <rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Sirat.aspx" xml:lang="en">1928-1943</ref></cell>
                </row>
-               
-               
+            
                <row n="2817" role="data" resp="#AM"  xml:id="t1r2829" xml:lang="en">
                   <cell n="1"> <date when="1927-10-06" xml:lang="en">1927</date> </cell>
                   <cell n="2" xml:lang="en">October/6</cell>
@@ -32533,7 +32532,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Kamāl ʿAbbās</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><rs xml:lang="en" ref="#hNLI" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/al-Yarmuk.aspx" xml:lang="en">1924 (from n. 5)-1930</ref>(switch language to Arabic to reach the issues)</cell>
                </row>
                
                <row n="2825" role="data" resp="#AM"  xml:id="t1r2837" xml:lang="en">
@@ -37301,9 +37300,9 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥikma</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Jerusalem</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Murād Fuʾād Jaqqī</persName> </cell>
-                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="7" xml:lang="en">possibly started in 1926?</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al_Hikma.aspx" xml:lang="en">1927 (vol. 2!)-31</ref>  </cell>
                </row>
                
                <row n="3220" role="data" resp="#AM"  xml:id="t1r3232" xml:lang="en">
@@ -37321,13 +37320,13 @@
                <row n="3221" role="data" resp="#AM"  xml:id="t1r3233" xml:lang="en">
                   <cell n="1"> <date when="1908-11-01" xml:lang="en">1908</date> </cell>
                   <cell n="2" xml:lang="en">November/1</cell>
-                  <cell n="3"/>
+                  <cell n="3" xml:lang="en"><date xml:lang="en">1923 or 1924</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nafāʾis</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Haifa</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Khalīl Baydas</persName> </cell>
-                  <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="7" xml:lang="en">sometimes al-Nafāʾis al-ʿAṣriyya</cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
+                  <cell n="9"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Nafais-al-Asriyya.aspx" xml:lang="en">1908-1923</ref></cell>
                </row>
                
                <row n="3222" role="data" resp="#AM"  xml:id="t1r3234" xml:lang="en">
@@ -37399,7 +37398,7 @@
                   <cell n="6" xml:lang="en"><orgName xml:lang="en">Ghurfat Tijārat Ḥayfā</orgName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Majalla-.aspx" xml:lang="en">1925</ref></cell>
                </row>
                
                
@@ -37457,10 +37456,10 @@
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nashra al-Tijāriyya</name> </cell>
                   <cell n="5" xml:lang="en"><placeName xml:lang="en">Jaffa</placeName> </cell>
-                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ghurfat Tijārat Yāfā</orgName></cell>
+                  <cell n="6" xml:lang="en"><orgName xml:lang="en">Ghurfat Tijārat Yāfā al-Waṭaniyya</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hNLI" xml:lang="en" resp="#pAM">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Nashra.aspx" xml:lang="en">1940</ref></cell>
                </row>
                
                <row n="3233" role="data" resp="#AM"  xml:id="t1r3245" xml:lang="en">
