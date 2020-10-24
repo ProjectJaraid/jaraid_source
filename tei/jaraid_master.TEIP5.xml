@@ -12668,7 +12668,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥusayn Maẓlūm</persName> </cell>
                   <cell n="7" xml:lang="en"> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs resp="#pAM" ref="#hDKQ xml:lang="en">DKQ</rs>:1922</cell>
                </row>
                <row n="1104" resp="#AM" role="data" xml:id="t1r1110" xml:lang="en">
                   <cell n="1"> <date notAfter="1922-04-30" notBefore="1922-04-01">1922</date> </cell>
