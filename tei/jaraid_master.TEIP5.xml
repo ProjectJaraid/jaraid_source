@@ -1656,7 +1656,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Yaʿqūb Ṣarrūf</persName>, <persName xml:lang="en">Fāris Nimr</persName>,
                         <persName xml:lang="en"
                      >Shāhīn Makāriyūs</persName> </cell>
-                  <cell n="7"/>
+                  <cell n="7" resp="#pTG">There are long (kabīr) and short (ṣaghīr) versions for Volumes 6 to 9, which were most likely targetted at two different markets (the long version at Egypt and Europe and the short one at Beirut, Lebanon, and surrounding areas). Volume 4 exhibits similar characteristics but is unmarked beyond the pricing.</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#aghart1" xml:lang="en">+</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>,
                         <rs
@@ -1982,7 +1982,7 @@
                   <cell n="3" xml:lang="en"> <date when="1895" xml:lang="en">1895</date> </cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ṭabīb</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Dr. George Post/Jūrj Būst</persName>, then <persName xml:lang="en"
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">Dr. George Post</persName>/ <persName xml:lang="ar-Latn-x-ijmes">Jūrj Būst</persName>, then <persName xml:lang="en"
                      >Shāhīn
                         Makāriyūs</persName>, later others</cell>
                   <cell n="7"/>
@@ -8677,7 +8677,7 @@
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Jāmiʿa</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Alexandria</placeName>, then 1907 <placeName xml:lang="en">New York</placeName>, then again <placeName xml:lang="en">Alexandria</placeName> in 1909</cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Faraḥ Anṭūn</persName> </cell>
-                  <cell n="7"/>
+                  <cell n="7">The first 12 issues carried the title <title level="j" xml:lang="ar-Latn-x-ijmes" sameAs="#t1r742">al-Jāmiʿa al-ʿUthmāniyya</title></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
                   <cell n="9" xml:lang="en"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
                         <rs
@@ -10072,13 +10072,13 @@
                <row n="874" resp="#AM" role="data" xml:id="t1r874">
                   <cell n="1"> <date when="1901-08-12">1901</date> </cell>
                   <cell n="2">August/12</cell>
-                  <cell n="3"> <date>?</date> </cell>
+                  <cell n="3"> <date source="#hBONN" when="1903">1903</date> </cell>
                   <cell n="4"> <name>Al-Tahdhīb</name> </cell>
                   <cell n="5"> <placeName>Cairo</placeName> </cell>
                   <cell n="6"> <persName>Murād Faraj</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9"> <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/ulbbnioa/periodical/pageview/7571537">1902-03 online</ref> at <rs ref="#hBONN">Bonn</rs> </cell>
+                  <cell n="9"> <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-234419" xml:lang="en">online, 1902-1903</ref></rs></cell>
                </row>
                <row n="875" resp="#AM" role="data" xml:id="t1r875">
                   <cell n="1"> <date when="1901-10-27">1901</date> </cell>
@@ -10359,7 +10359,7 @@
                   <cell n="1"> <date notAfter="1902-12-31" notBefore="1902-12-01">1902</date> </cell>
                   <cell n="2">December</cell>
                   <cell n="3"></cell>
-                  <cell n="4"> <name>Al-Ḥurrīya</name> </cell>
+                  <cell n="4"> <name>Al-Ḥurriyya</name> </cell>
                   <cell n="5"> <placeName>Cairo</placeName> </cell>
                   <cell n="6"> <persName>Maḥmūd Fahmī</persName> </cell>
                   <cell n="7"/>
@@ -13916,13 +13916,13 @@
                <row n="1212" resp="#AM" role="data" xml:id="t1r1224" xml:lang="en">
                   <cell n="1"> <date when="1926-11-26" xml:lang="en">1926</date> </cell>
                   <cell n="2" xml:lang="en">November/26</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1930">1930</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Balāgh al-Usbūʿī</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Qādir Ḥamza</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930 at <rs ref="#hBONN" xml:lang="en">Bonn</rs> </ref></cell>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930</ref></rs></cell>
                </row>
                <row n="1213" resp="#AM" role="data" xml:id="t1r1225" xml:lang="en">
                   <cell n="1"> <date notAfter="1927-01-31" notBefore="1927-01-01">1927</date> </cell>
@@ -14147,13 +14147,13 @@
                <row n="1232" resp="#AM" role="data" xml:id="t1r1245" xml:lang="en">
                   <cell n="1"> <date when="1929-05-22" xml:lang="en">1929</date> </cell>
                   <cell n="2" xml:lang="en">May/22</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1932">1932</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Dunyā al-Muṣawwara</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Imīl Zaydān</persName>, <persName xml:lang="en">Shukrī Zaydān</persName> </cell>
                   <cell n="7" xml:lang="en"> see <ref target="#t1r1172">t1r1172</ref>, <note>illustrated</note> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226692" xml:lang="en">online</ref></rs>, <rs ref="#hTUB">TUB</rs></cell>
                </row>
                <row n="1234" resp="#AM" role="data" xml:id="t1r1246" xml:lang="en">
                   <cell n="1"> <date when="1929" xml:lang="en">1929</date> </cell>
@@ -18802,13 +18802,13 @@
                <row n="1656" resp="#AM" role="data" xml:id="t1r1668" xml:lang="en">
                   <cell n="1"> <date when="1910-03-01" xml:lang="en">1910</date> </cell>
                   <cell n="2" xml:lang="en">March/1</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date when="1913">1913</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Zuhūr</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Anṭūn al-Jumayyil</persName>, <persName xml:lang="en">Amīn Taqī al-Dīn</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</cell>
-                  <cell n="9" xml:lang="en"><rs ref="#hBONN">Bonn: 1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online</ref></rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-zuhur/tei/oclc_1034545644-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=40" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
+                  <cell n="9" xml:lang="en"><rs ref="#hBONN">Bonn: <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online, 1910-1913</ref></rs>, <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-zuhur/tei/oclc_1034545644-i_1.TEIP5.xml">Digital full-text edition</ref></rs>, <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=40" xml:lang="en">facsimiles and (limited) index</ref></rs></cell>
                </row>
                <row n="1657" resp="#AM" role="data" xml:id="t1r1669" xml:lang="en">
                   <cell n="1"> <date when="1910-07-01" xml:lang="en">1910</date> </cell>
@@ -18907,7 +18907,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Raḥmān al-Barqūqī</persName>, <persName xml:lang="en">Muḥammad al-Sibāʿī</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="en">online, 1897-1898</ref> </rs> </cell>
+                  <cell n="9"></cell>
                </row>
              
                <row n="1666" resp="#AM" role="data" xml:id="t1r1678" xml:lang="en">
@@ -20728,14 +20728,14 @@
                <row n="1831" resp="#AM" role="data" xml:id="t1r1843" xml:lang="en">
                   <cell n="1"> <date when="1926-12-01" xml:lang="en">1926</date> </cell>
                   <cell n="2" xml:lang="en">December/1</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1933">1933</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fukāha</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Cairo</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Amīl Zaydān</persName>, <persName xml:lang="en">Shukrī Zaydān</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
                   <cell n="9"><rs ref="#hBONN"
-                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222676" xml:lang="en">online, 1926-1933</ref> </rs> </cell>
+                     xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222676" xml:lang="en">online, 1926-1933</ref> </rs>, <rs ref="#hTUB">TUB</rs> </cell>
                </row>
                <row n="1832" resp="#AM" role="data" xml:id="t1r1844" xml:lang="en">
                   <cell n="1"> <date when="1927-01-01" xml:lang="en">1927</date> </cell>
@@ -22800,19 +22800,19 @@
                <row n="2019" resp="#AM" role="data" xml:id="t1r2031" xml:lang="en">
                   <cell n="1"> <date when="1920-08-01" xml:lang="en">1920</date> </cell>
                   <cell n="2" xml:lang="en">August/1</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1922">1922</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Fajr</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Tunis</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ali Ben Mokhtar Kahia</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
-                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222696" xml:lang="en">online, 1921-1922</ref> </rs> </cell>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-222696" xml:lang="en">online, 1920-1922</ref> </rs>, <rs ref="#hTUB">TUB</rs> </cell>
                </row>
                
                <row n="2020" resp="#AM" role="data" xml:id="t1r2032" xml:lang="en">
                   <cell n="1"> <date when="1924-07-01" xml:lang="en">1924</date> </cell>
                   <cell n="2" xml:lang="en">July/1</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1925">1925</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ḥurriyya</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Baghdad</placeName> </cell>
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Jalīl Rizq Allāh Awfā</persName> </cell>
@@ -22838,10 +22838,10 @@
                <row n="2022" resp="#AM" role="data" xml:id="t1r2034" xml:lang="en">
                   <cell n="1"> <date when="1909-01-22" xml:lang="en">1909</date> </cell>
                   <cell n="2" xml:lang="en">January/22</cell>
-                  <cell n="3" xml:lang="en"></cell>
+                  <cell n="3" xml:lang="en"><date source="#hBONN" when="1910">1910</date></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nibrās</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Beirut</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <persName xml:lang="en"></persName> </cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="ar-Latn-x-ijmes">Muṣṭafā al-Ghalāyīnī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs xml:lang="en">first issue</rs> </cell>
                   <cell n="9"><rs ref="#hBONN"
