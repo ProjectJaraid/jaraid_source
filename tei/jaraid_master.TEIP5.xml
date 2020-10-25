@@ -411,9 +411,9 @@
          <div xml:id="dBibl" xml:lang="en">
             <head xml:lang="en">Bibliography / Sources</head>
             <div xml:id="dMajS" xml:lang="en">
-               <note xml:id="sourcesNote" xml:lang="en">
+               <p xml:id="sourcesNote" xml:lang="en">
                   See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"> Zotero</ref>, too, created and curated by Till Grallert.
-               </note>
+               </p>
                <head xml:lang="en">Major sources</head>
                <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
                   >Fihris al-Dawriyyāt
