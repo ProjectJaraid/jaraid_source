@@ -299,7 +299,7 @@
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
             <p xml:id="p3"  xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
+               >Contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
@@ -411,9 +411,9 @@
          <div xml:id="dBibl" xml:lang="en">
             <head xml:lang="en">Bibliography / Sources</head>
             <div xml:id="dMajS" xml:lang="en">
-               <p xml:id="sourcesNote" xml:lang="en">
+               <note xml:id="sourcesNote" xml:lang="en">
                   See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"> Zotero</ref>, too, created and curated by Till Grallert.
-               </p>
+               </note>
                <head xml:lang="en">Major sources</head>
                <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
                   >Fihris al-Dawriyyāt
