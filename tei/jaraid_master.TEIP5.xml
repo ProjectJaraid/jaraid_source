@@ -14,10 +14,6 @@
                <persName xml:lang="en">Adam Mestyan</persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">With a major contribution from</resp>
-               <persName xml:lang="en">Philip Sadgrove</persName>
-            </respStmt>
-            <respStmt xml:lang="en">
                <resp xml:lang="en">and contributions from</resp>
                <persName xml:lang="en">Hala Auji</persName>
                <persName xml:lang="en">Philippe Chevrant</persName>
@@ -25,6 +21,7 @@
                <persName xml:lang="en">Till Grallert</persName>
                <persName xml:lang="en">Adam Mestyan</persName>
                <persName xml:lang="en">Christian Meier</persName>
+               <persName xml:lang="en">Philip Sadgrove</persName>
                <persName xml:lang="en">Daniel Newman</persName>
                <persName xml:lang="en">Geoffrey Roper</persName>
                <persName xml:lang="en">Ola Seif</persName>
@@ -74,7 +71,6 @@
             <respStmt xml:lang="en">
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
-               <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
                <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
@@ -84,7 +80,7 @@
                <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">XML and CETEICean advisor</resp>
+               <resp xml:lang="en">XML, Javascript, and CETEICean advisor</resp>
                <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
          </editionStmt>
@@ -300,7 +296,7 @@
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
             <p xml:id="p3"  xml:lang="en"
                >Contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
-               Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
+               Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sqdgrove, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
