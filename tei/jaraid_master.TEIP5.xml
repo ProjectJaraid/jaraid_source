@@ -14,10 +14,6 @@
                <persName xml:lang="en">Adam Mestyan</persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">With a major contribution from</resp>
-               <persName xml:lang="en">Philip Sadgrove</persName>
-            </respStmt>
-            <respStmt xml:lang="en">
                <resp xml:lang="en">and contributions from</resp>
                <persName xml:lang="en">Hala Auji</persName>
                <persName xml:lang="en">Philippe Chevrant</persName>
@@ -25,6 +21,7 @@
                <persName xml:lang="en">Till Grallert</persName>
                <persName xml:lang="en">Adam Mestyan</persName>
                <persName xml:lang="en">Christian Meier</persName>
+               <persName xml:lang="en">Philip Sadgrove</persName>
                <persName xml:lang="en">Daniel Newman</persName>
                <persName xml:lang="en">Geoffrey Roper</persName>
                <persName xml:lang="en">Ola Seif</persName>
@@ -74,7 +71,6 @@
             <respStmt xml:lang="en">
                <resp xml:lang="en">The 2020 edition's digital production: XML mark-up, corrections and additions</resp>
                <persName resp="#pAM" xml:lang="en">Adam Mestyan</persName>
-               <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
                <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
@@ -84,7 +80,7 @@
                <persName resp="#pTG" xml:lang="en">Till Grallert</persName>
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en">XML and CETEICean advisor</resp>
+               <resp xml:lang="en">XML, Javascript, and CETEICean advisor</resp>
                <persName resp="#pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
          </editionStmt>
@@ -299,8 +295,8 @@
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
             <p xml:id="p3"  xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
-               Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
+               >Contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
+               Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
@@ -309,11 +305,11 @@
             <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
-            <p>This database is under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
+            <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>
             </p>
          </div>
          <div xml:id="dCetei" xml:lang="en">
-            <p>This database uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
+            <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
          </div>
          <div type="chapter" xml:id="dIntro" xml:lang="en">
             <head xml:lang="en">Introductory Notes</head>
@@ -12668,7 +12664,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Ḥusayn Maẓlūm</persName> </cell>
                   <cell n="7" xml:lang="en"> </cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9" xml:lang="en"/>
+                  <cell n="9" xml:lang="en"><rs resp="#pAM" ref="#hDKQ" xml:lang="en">DKQ</rs>:1922</cell>
                </row>
                <row n="1104" resp="#AM" role="data" xml:id="t1r1110" xml:lang="en">
                   <cell n="1"> <date notAfter="1922-04-30" notBefore="1922-04-01">1922</date> </cell>
