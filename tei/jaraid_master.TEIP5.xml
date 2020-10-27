@@ -23540,7 +23540,7 @@
                   <cell n="3" xml:lang="en"></cell>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Sharq al-Adnā</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">London</placeName> </cell>
-                  <cell n="6" xml:lang="en"> <orgName xml:lang="en"></orgName></cell>
+                  <cell n="6" xml:lang="en"> <persName xml:lang="en">unknown</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
                   <cell n="9"> </cell>
