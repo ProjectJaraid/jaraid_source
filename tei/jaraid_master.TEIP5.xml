@@ -38430,9 +38430,20 @@
                   <cell n="6" xml:lang="en"><placeName xml:lang="en">Farīd ʿAwda</placeName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"></cell>
-                  <cell n="9"><rs ref="#hNLI" resp="#pAM" xml:lang="en">NLoI</rs>: <ref xml:lang="en" target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Akhbar_al-Kanasiyya.aspx">single issue of 1947</ref></cell>
+                  <cell n="9" xnl:lang="en"><rs ref="#hNLI" resp="#pAM" xml:lang="en">NLoI</rs>: <ref xml:lang="en" target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Akhbar_al-Kanasiyya.aspx">single issue of 1947</ref></cell>
                </row>
                
+               <row n="3314" role="data" resp="#AM"  xml:id="t1r3326" xml:lang="en">
+                  <cell n="1"> <date when="1880" xml:lang="en">1880</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
+                  <cell n="3"/>
+                  <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Nafʿ al-ʿAẓīm</name> </cell>
+                  <cell n="5" xml:lang="en"><placeName xml:lang="en">Punjab</placeName> </cell>
+                  <cell n="6" xml:lang="en"><placeName xml:lang="en">Dr. Layntz</placeName></cell>
+                  <cell n="7" xml:lang="en"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
+                  <cell n="9"></cell>
+               </row>
                
                <!-- blank row to be used for future additions. Copy this row to the position immediatelly above this row.
                   Responsible contributors of data should be marked
