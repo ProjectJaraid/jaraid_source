@@ -39017,6 +39017,11 @@
                      <expan xml:lang="en">University of Tokio, General Library</expan>
                   </choice> </p>
                   
+                  <p xml:id="hAPESP" xml:lang="en"> <note xml:lang="en"> <date when="2020-11-01"/>added</note> <choice xml:lang="en">
+                     <abbr xml:lang="en">APESP</abbr>
+                     <expan xml:lang="en">Arquivo Público do Estado de São Paulo</expan>
+                  </choice> </p>
+                  
                   
                </div>
             </div>
