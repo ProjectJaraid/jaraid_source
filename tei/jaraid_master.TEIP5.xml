@@ -39007,6 +39007,17 @@
                      <expan xml:lang="en">Centre des Archives Diplomatiques, la Courneuve, Paris</expan>
                   </choice> </p>
                   
+                  <p xml:id="hDUL" xml:lang="en"> <note xml:lang="en"> <date when="2020-11-01"/>added</note> <choice xml:lang="en">
+                     <abbr xml:lang="en">DUL</abbr>
+                     <expan xml:lang="en">Duke University Library</expan>
+                  </choice> </p>
+                  
+                  <p xml:id="hUTL" xml:lang="en"> <note xml:lang="en"> <date when="2020-11-01"/>added</note> <choice xml:lang="en">
+                     <abbr xml:lang="en">UTL</abbr>
+                     <expan xml:lang="en">University of Tokio, General Library</expan>
+                  </choice> </p>
+                  
+                  
                </div>
             </div>
          </div>
