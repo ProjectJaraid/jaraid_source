@@ -25109,7 +25109,7 @@
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">Al-Jamʿiyya al-Khayriyya al-Mārūniyya</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"> <rs resp="#pAM" xml:lang="en" ref="#hAPESP">APESP</rs></cell>
                </row>
                
                <row n="2211" role="data" resp="#pAM"  xml:id="t1r2223" xml:lang="en">
@@ -39021,7 +39021,6 @@
                      <abbr xml:lang="en">APESP</abbr>
                      <expan xml:lang="en">Arquivo Público do Estado de São Paulo</expan>
                   </choice> </p>
-                  
                   
                </div>
             </div>
