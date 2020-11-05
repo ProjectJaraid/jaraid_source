@@ -14326,11 +14326,11 @@
                 <idno type="jaraid">75</idno>
             </place>
             <place>
-                <placeName xml:lang="en"> <country xml:lang="en">Argentina</country> </placeName>
+                <placeName xml:lang="en"><country xml:lang="en">Argentina</country></placeName>
                 <idno type="jaraid">61</idno>
             </place>
             <place>
-                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>
+                <placeName xml:lang="en"><country xml:lang="en">Lebanon</country></placeName>
                 <idno type="jaraid">21</idno>
             </place>
             <place>
@@ -14574,8 +14574,7 @@
                 <idno type="jaraid">6</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Cagliari, 
-                    <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
+                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName></placeName>
                 <idno type="jaraid">33</idno>
             </place>
             <place>
@@ -14791,8 +14790,7 @@
                 <idno type="jaraid">200</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Kiftīn (
-                    <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>)</placeName>
+                <placeName xml:lang="en">Kiftīn (<placeName xml:lang="en"> <country xml:lang="en">Lebanon</country></placeName>)</placeName>
                 <idno type="jaraid">36</idno>
             </place>
             <place>
@@ -14916,8 +14914,7 @@
                 <idno type="jaraid">45</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Nicosia, 
-                    <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
+                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName></placeName>
                 <idno type="jaraid">31</idno>
             </place>
             <place>
@@ -15113,9 +15110,7 @@
                 <idno type="jaraid">13</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Valetta (
-                    <geogName type="island" xml:lang="en">Malta</geogName>
-                    )</placeName>
+                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
                 <idno type="jaraid">14</idno>
             </place>
             <place>
@@ -15243,7 +15238,7 @@
                 <idno type="jaraid">76</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Ṭarābulus (al-Shām) </placeName>
+                <placeName xml:lang="en">Ṭarābulus (al-Shām)</placeName>
                 <idno type="jaraid">158</idno>
             </place>
             <place>
