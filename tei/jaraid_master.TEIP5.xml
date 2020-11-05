@@ -7277,7 +7277,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Naʿūm Labakī</persName> and <persName xml:lang="en">Fāris Simʿān Najm</persName> </cell>
                   <cell n="7"/>
                   <cell n="8"/>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?</cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?, <rs ref="#hAPESP" resp="#pAM" xml:lang="en">APESP</rs>: 1904, 1907 (online)</cell>
                </row>
                <row n="617" role="data" xml:id="t1r617" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1897" xml:lang="en">c1897</date> </cell>
@@ -7589,7 +7589,7 @@
                         al-Khūrī</persName> </cell>
                   <cell n="7" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> gives also 15 January 1899</cell>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs> </cell>
+                  <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>, <rs ref="#hAPESP" resp="#pAM" xml:lang="en">APESP</rs>: 1898 </cell>
                </row>
                <row n="646" role="data" xml:id="t1r646" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1898-01-01" xml:lang="en">1898</date> </cell>
@@ -25109,7 +25109,7 @@
                   <cell n="6" xml:lang="en"> <orgName xml:lang="en">Al-Jamʿiyya al-Khayriyya al-Mārūniyya</orgName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9"> <rs resp="#pAM" xml:lang="en" ref="#hAPESP">APESP</rs>: 1904, 1908 (online)</cell>
                </row>
                
                <row n="2211" role="data" resp="#pAM"  xml:id="t1r2223" xml:lang="en">
@@ -25133,7 +25133,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Duktūr Saʿīd Abū Jamra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
-                  <cell n="9"><rs resp="#pSF" xml:lang="en" ref="#hHARV">HARV</rs>: 1915, <rs resp="#pSF" ref="#hCRL" xml:lang="en">CRL</rs>: 1914-15</cell>
+                  <cell n="9"><rs resp="#pSF" xml:lang="en" ref="#hHARV">HARV</rs>: 1915, <rs resp="#pSF" ref="#hCRL" xml:lang="en">CRL</rs>: 1914-15, <rs ref="#hAPESP" resp="#pAM" xml:lang="en">APESP</rs>: 1904, 1908 (online)</cell>
                </row>
                
                <row n="2213" role="data" resp="#pAM"  xml:id="t1r2225" xml:lang="en">
@@ -25170,7 +25170,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Isṭifān Ghalbūnī</persName>, <persName xml:lang="en">Jūrj Ghalbūnī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hAPESP" resp="#pAM" xml:lang="en">APESP</rs>:1908 (online)</cell>
                </row>
                
                <row n="2216" role="data" resp="#pAM"  xml:id="t1r2228" xml:lang="en">
@@ -25182,7 +25182,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Qays Labakī</persName> </cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9" xml:lang="en"><rs ref="#hAPESP" resp="#pAM" xml:lang="en">APESP</rs>: 1909 (online)</cell>
                </row>
                
                <row n="2217" role="data" resp="#pAM"  xml:id="t1r2229" xml:lang="en">
@@ -39021,7 +39021,6 @@
                      <abbr xml:lang="en">APESP</abbr>
                      <expan xml:lang="en">Arquivo Público do Estado de São Paulo</expan>
                   </choice> </p>
-                  
                   
                </div>
             </div>
