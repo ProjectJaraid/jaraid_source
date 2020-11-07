@@ -111,7 +111,7 @@
             </person>
             <person xml:id="person_1502.d5e9512">
                 <persName xml:id="persName_1521.d5e9514" xml:lang="en-Arab-AR">A.H. Tumsun</persName>
-                <persName xml:id="persName_1521.d5e9514" xml:lang="en">A.H. Thomson</persName>
+                <persName xml:lang="en">A.H. Thomson</persName>
                 <persName change="#d2e154" xml:lang="ar">ا.ه. تمسن</persName>
                 <tei:persName change="#d5e126" corresp="#persName_1521.d5e9514" type="flattened" xml:id="persName_1.d34e1" xml:lang="en">AHTumsunThomson</tei:persName>
                 <idno type="jaraid">1502</idno>
@@ -130,7 +130,7 @@
             </person>
             <person xml:id="person_104.d5e890">
                 <persName xml:id="persName_123.d5e892" xml:lang="ar-Latn-FR">Abraham B. Taïeb</persName>
-                <persName xml:id="persName_123.d5e892" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ṭayyib</persName>
+                <persName xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ṭayyib</persName>
                 <persName change="#d2e154" xml:lang="ar">ابراهيم طيب</persName>
                 <tei:persName change="#d5e126" corresp="#persName_123.d5e892" type="flattened" xml:id="persName_1.d43e1" xml:lang="en">AbrahamBTaïebIbrāhīmṬayyib</tei:persName>
                 <idno type="jaraid">104</idno>
@@ -3985,7 +3985,7 @@
             </person>
             <person xml:id="person_576.d5e3803">
                 <persName xml:id="persName_595.d5e3805" xml:lang="ar-Latn-x-ijmes">Hinrī Būtīnīh</persName>
-                <persName xml:id="persName_595.d5e3805" xml:lang="fr">Henri Botinier</persName>
+                <persName xml:lang="fr">Henri Botinier</persName>
                 <persName change="#d2e154" xml:lang="ar">هنري بوتينيه</persName>
                 <tei:persName change="#d5e126" corresp="#persName_595.d5e3805" type="flattened" xml:id="persName_1.d1981e1" xml:lang="en">HinrīBūtīnīhHenriBotinier</tei:persName>
                 <idno type="jaraid">576</idno>
@@ -17473,7 +17473,7 @@
                 <idno type="jaraid">108</idno>
             </place>
             <place>
-                <placeName xml:lang="en`">Geneva</placeName>
+                <placeName xml:lang="en">Geneva</placeName>
                 <idno type="jaraid">124</idno>
             </place>
             <place>
