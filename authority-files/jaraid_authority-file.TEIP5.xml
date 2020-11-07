@@ -17445,7 +17445,6 @@
                 <placeName xml:lang="tr">Diyarbakır</placeName>
                 <idno type="jaraid">199</idno>
             </place>
-            
             <place>
                 <placeName type="country" xml:lang="en">Egypt</placeName>
                 <idno type="jaraid">3</idno>
@@ -17501,7 +17500,10 @@
             </place>
             <place>
                 <placeName xml:lang="en">Helwan</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ḥilwān</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حلوان</placeName>
                 <idno type="jaraid">111</idno>
+                <idno type="jaraid">54</idno>
             </place>
             <place>
                 <placeName xml:lang="en">Homs</placeName>
@@ -17602,33 +17604,27 @@
                 <idno type="jaraid">232</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Lahore</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ل</placeName>
+                <placeName xml:lang="en">Lahore</placeName>
                 <idno type="jaraid">22</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Latakia</placeName>
-                <placeName change="#d2e154" xml:lang="ar">لتكة</placeName>
+                <placeName xml:lang="en">Latakia</placeName>
                 <idno type="jaraid">60</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Lawrence, MA</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ل , مة</placeName>
+                <placeName xml:lang="en">Lawrence, MA</placeName>
                 <idno type="jaraid">132</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Livorno</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ل</placeName>
+                <placeName xml:lang="it">Livorno</placeName>
                 <idno type="jaraid">29</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">London</placeName>
-                <placeName change="#d2e154" xml:lang="ar"/>
+                <placeName xml:lang="en">London</placeName>
                 <idno type="jaraid">10</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Lucknow</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ل</placeName>
+                <placeName xml:lang="en">Lucknow</placeName>
                 <idno type="jaraid">70</idno>
             </place>
             <place>
@@ -17647,8 +17643,7 @@
                 <idno type="jaraid">104</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Manaus</placeName>
-                <placeName change="#d2e154" xml:lang="ar">منس</placeName>
+                <placeName xml:lang="en">Manaus</placeName>
                 <idno type="jaraid">141</idno>
             </place>
             <place>
@@ -17667,33 +17662,27 @@
                 <idno type="jaraid">185</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Marseille</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مرسeلe</placeName>
+                <placeName xml:lang="fr">Marseille</placeName>
                 <idno type="jaraid">12</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mecca</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ة</placeName>
+                <placeName xml:lang="en">Mecca</placeName>
                 <idno type="jaraid">78</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Medina</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مeدنة</placeName>
+                <placeName xml:lang="en">Medina</placeName>
                 <idno type="jaraid">207</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mendoza</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ة</placeName>
+                <placeName xml:lang="en">Mendoza</placeName>
                 <idno type="jaraid">156</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mexico City</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مexco cتي</placeName>
+                <placeName xml:lang="en">Mexico City</placeName>
                 <idno type="jaraid">137</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Minneapolis</placeName>
-                <placeName change="#d2e154" xml:lang="ar">منepoلس</placeName>
+                <placeName xml:lang="en">Minneapolis</placeName>
                 <idno type="jaraid">135</idno>
             </place>
             <place>
@@ -17702,18 +17691,15 @@
                 <idno type="jaraid">67</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Montevideo</placeName>
-                <placeName change="#d2e154" xml:lang="ar">دeo</placeName>
+                <placeName xml:lang="en">Montevideo</placeName>
                 <idno type="jaraid">155</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Montreal</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ل</placeName>
+                <placeName xml:lang="en">Montreal</placeName>
                 <idno type="jaraid">136</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mosul</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مoسل</placeName>
+                <placeName xml:lang="en">Mosul</placeName>
                 <idno type="jaraid">27</idno>
             </place>
             <place>
@@ -17737,63 +17723,52 @@
                 <idno type="jaraid">32</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">New York</placeName>
-                <placeName change="#d2e154" xml:lang="ar">نeو</placeName>
+                <placeName xml:lang="en">New York</placeName>
                 <idno type="jaraid">45</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName></placeName>
-                <placeName change="#d2e154" xml:lang="ar">نcoسة , س</placeName>
+                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName></placeName>
                 <idno type="jaraid">31</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Nicteroy (Niterói?)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ن ( ن ) ?</placeName>
+                <placeName xml:lang="en">Nicteroy</placeName>
+                <placeName xml:lang="en">Niterói</placeName>
                 <idno type="jaraid">146</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Oliveira</placeName>
-                <placeName change="#d2e154" xml:lang="ar">oلveرة</placeName>
+                <placeName xml:lang="en">Oliveira</placeName>
                 <idno type="jaraid">147</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Oran</placeName>
-                <placeName change="#d2e154" xml:lang="ar">oرن</placeName>
+                <placeName xml:lang="en">Oran</placeName>
                 <idno type="jaraid">41</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Paris</placeName>
-                <placeName change="#d2e154" xml:lang="ar">pرس</placeName>
+                <placeName xml:lang="en">Paris</placeName>
                 <idno type="jaraid">11</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Pekalongan</placeName>
-                <placeName change="#d2e154" xml:lang="ar">peكن</placeName>
+                <placeName xml:lang="en">Pekalongan</placeName>
                 <idno type="jaraid">233</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Philadelphia</placeName>
-                <placeName change="#d2e154" xml:lang="ar">pهلة</placeName>
+                <placeName xml:lang="en">Philadelphia</placeName>
                 <idno type="jaraid">47</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Port Said</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سد</placeName>
+                <placeName xml:lang="en">Port Said</placeName>
                 <idno type="jaraid">30</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Porto Alegre</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ا</placeName>
+                <placeName xml:lang="en">Porto Alegre</placeName>
                 <idno type="jaraid">142</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Poá</placeName>
-                <placeName change="#d2e154" xml:lang="ar">poی</placeName>
+                <placeName xml:lang="en">Poá</placeName>
                 <idno type="jaraid">148</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Punjab</placeName>
-                <placeName change="#d2e154" xml:lang="ar">pنجب</placeName>
+                <placeName xml:lang="en">Punjab</placeName>
                 <idno type="jaraid">237</idno>
             </place>
             <place>
@@ -17827,8 +17802,7 @@
                 <idno type="jaraid">194</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Rio de Janeiro</placeName>
-                <placeName change="#d2e154" xml:lang="ar">رo دe جنeرo</placeName>
+                <placeName xml:lang="en">Rio de Janeiro</placeName>
                 <idno type="jaraid">56</idno>
             </place>
             <place>
@@ -17837,7 +17811,7 @@
                 <idno type="jaraid">226</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Saint Lawrence</placeName>
+                <placeName xml:lang="en">Saint Lawrence</placeName>
                 <placeName change="#d2e154" xml:lang="ar">سنت ل</placeName>
                 <idno type="jaraid">239</idno>
             </place>
@@ -17847,43 +17821,35 @@
                 <idno type="jaraid">99</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Salto (Oriental), Brazil</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سلتo ( oرeنتل ) , برزل</placeName>
+                <placeName xml:lang="en">Salto (Oriental), Brazil</placeName>
                 <idno type="jaraid">145</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">San Pedro de Macoris</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سن دe مcoرس</placeName>
+                <placeName xml:lang="en">San Pedro de Macoris</placeName>
                 <idno type="jaraid">154</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sanaa</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سنة</placeName>
+                <placeName xml:lang="en">Sanaa</placeName>
                 <idno type="jaraid">24</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Santiago</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سنتgo</placeName>
+                <placeName xml:lang="en">Santiago</placeName>
                 <idno type="jaraid">152</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Santiago del Estero</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سنتgo دeل</placeName>
+                <placeName xml:lang="en">Santiago del Estero</placeName>
                 <idno type="jaraid">157</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sayda</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سيدة</placeName>
-                <idno type="jaraid">217</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sfax</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سفx</placeName>
+                <placeName xml:lang="en">Sfax</placeName>
                 <idno type="jaraid">94</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Shabīn al-Kawm</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Shibīn al-Kawm</placeName>
+                <placeName xml:lang="en">Shibin el-Kom</placeName>
                 <placeName change="#d2e154" xml:lang="ar">شبين الكوم</placeName>
+                <idno type="jaraid">65</idno>
                 <idno type="jaraid">85</idno>
             </place>
             <place>
@@ -17892,59 +17858,42 @@
                 <idno type="jaraid">113</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Shibīn al-Kawm (Shibin el-Kom)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">شبين الكوم ( شبن الكoم )</placeName>
-                <idno type="jaraid">65</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Shiraz</placeName>
-                <placeName change="#d2e154" xml:lang="ar">شرز</placeName>
+                <placeName xml:lang="en">Shiraz</placeName>
                 <idno type="jaraid">23</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Singapore</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سنg</placeName>
+                <placeName xml:lang="en">Singapore</placeName>
                 <idno type="jaraid">210</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">St. Louis</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ست. لoس</placeName>
+                <placeName xml:lang="en">St. Louis</placeName>
                 <idno type="jaraid">133</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">St. Petersburg</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ست. رg</placeName>
+                <placeName xml:lang="en">St. Petersburg</placeName>
                 <idno type="jaraid">122</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Suez</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سeز</placeName>
+                <placeName xml:lang="en">Suez</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Suways</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سويس</placeName>
+                <idno type="jaraid">82</idno>
                 <idno type="jaraid">63</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Surabaya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سربية</placeName>
+                <placeName xml:lang="en">Surabaya</placeName>
                 <idno type="jaraid">213</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Susa</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سسة</placeName>
-                <idno type="jaraid">120</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Suways (Suez)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سويس ( سeز )</placeName>
-                <idno type="jaraid">82</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">São Paolo</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سão poلo</placeName>
-                <idno type="jaraid">49</idno>
-            </place>
-            <place>
+                <placeName xml:lang="en">Susa</placeName>
                 <placeName xml:lang="ar-Latn-x-ijmes">Sūsa</placeName>
                 <placeName change="#d2e154" xml:lang="ar">سوسة</placeName>
                 <idno type="jaraid">96</idno>
+                <idno type="jaraid">120</idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">São Paolo</placeName>
+                <idno type="jaraid">49</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Sūḥāj</placeName>
@@ -17952,14 +17901,8 @@
                 <idno type="jaraid">92</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Tangier</placeName>
-                <placeName change="#d2e154" xml:lang="ar">تنgeر</placeName>
+                <placeName xml:lang="en">Tangier</placeName>
                 <idno type="jaraid">44</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Tanta</placeName>
-                <placeName change="#d2e154" xml:lang="ar">تنتة</placeName>
-                <idno type="jaraid">58</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Taṭawān</placeName>
@@ -17967,53 +17910,45 @@
                 <idno type="jaraid">103</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Teheran</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ن</placeName>
+                <placeName xml:lang="en">Teheran</placeName>
                 <idno type="jaraid">209</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Terre Haute, IN</placeName>
-                <placeName change="#d2e154" xml:lang="ar">هتe , ان</placeName>
+                <placeName xml:lang="en">Terre Haute, IN</placeName>
                 <idno type="jaraid">139</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Tucumán</placeName>
-                <placeName change="#d2e154" xml:lang="ar">تcمین</placeName>
+                <placeName xml:lang="en">Tucumán</placeName>
                 <idno type="jaraid">150</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Tunis</placeName>
-                <placeName change="#d2e154" xml:lang="ar">تنس</placeName>
+                <placeName xml:lang="en">Tunis</placeName>
                 <idno type="jaraid">13</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">vة ( ملتة )</placeName>
+                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
                 <idno type="jaraid">14</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Washington, DC</placeName>
-                <placeName change="#d2e154" xml:lang="ar">وش , دc</placeName>
+                <placeName xml:lang="en">Washington, DC</placeName>
                 <idno type="jaraid">140</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Weltevreden</placeName>
-                <placeName change="#d2e154" xml:lang="ar"/>
+                <placeName xml:lang="en">Weltevreden</placeName>
                 <idno type="jaraid">214</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Wihrān (Oran)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">وهران ( oرن )</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Wihrān</placeName>
+                <placeName xml:lang="en">Oran</placeName>
+                <placeName change="#d2e154" xml:lang="ar">وهران</placeName>
                 <idno type="jaraid">98</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Woking</placeName>
-                <placeName change="#d2e154" xml:lang="ar">وoكنg</placeName>
+                <placeName xml:lang="en">Woking</placeName>
                 <idno type="jaraid">42</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Yogyakarta</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كرتة</placeName>
+                <placeName xml:lang="en">Yogyakarta</placeName>
                 <idno type="jaraid">234</idno>
             </place>
             <place>
@@ -18022,8 +17957,7 @@
                 <idno type="jaraid">110</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Zanzibar</placeName>
-                <placeName change="#d2e154" xml:lang="ar">زنزبر</placeName>
+                <placeName xml:lang="en">Zanzibar</placeName>
                 <idno type="jaraid">59</idno>
             </place>
             <place>
@@ -18049,21 +17983,13 @@
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿAbayah</placeName>
                 <placeName change="#d2e154" xml:lang="ar">عبيه</placeName>
-                <idno type="jaraid">219</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAbayeh</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عبيeه</placeName>
-                <idno type="jaraid">180</idno>
-            </place>
-            <place>
+                <placeName xml:lang="ar-Latn-EN">ʿAbayeh</placeName>
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿAbayh</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عبيه</placeName>
-                <idno type="jaraid">38</idno>
-            </place>
-            <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿAbayya</placeName>
                 <placeName change="#d2e154" xml:lang="ar">عبية</placeName>
+                <idno type="jaraid">38</idno>
+                <idno type="jaraid">180</idno>
+                <idno type="jaraid">219</idno>
                 <idno type="jaraid">218</idno>
             </place>
             <place>
@@ -18117,11 +18043,6 @@
                 <idno type="jaraid">43</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ḥilwān</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حلوان</placeName>
-                <idno type="jaraid">54</idno>
-            </place>
-            <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṣalīmā</placeName>
                 <placeName change="#d2e154" xml:lang="ar">صليمی</placeName>
                 <idno type="jaraid">167</idno>
@@ -18129,7 +18050,9 @@
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṣaydā</placeName>
                 <placeName change="#d2e154" xml:lang="ar">صيدی</placeName>
+                <placeName xml:lang="en">Sayda</placeName>
                 <idno type="jaraid">121</idno>
+                <idno type="jaraid">217</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṣūr</placeName>
@@ -18143,13 +18066,10 @@
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṭanṭā</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Tanta</placeName>
                 <placeName change="#d2e154" xml:lang="ar">طنطی</placeName>
+                <idno type="jaraid">58</idno>
                 <idno type="jaraid">76</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulus (al-Shām)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طرابلس ( الشام )</placeName>
-                <idno type="jaraid">158</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh</placeName>
@@ -18172,13 +18092,15 @@
                 <idno type="jaraid">101</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Gharb</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طرابلوس الغرب</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulus al-Gharb</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طرابلس الغرب</placeName>
                 <idno type="jaraid">16</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulūs al-Shām</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طرابلوس الشام</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭarābulus (al-Shām)</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طرابلس الشام</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طرابلس (الشام)</placeName>
+                <idno type="jaraid">158</idno>
                 <idno type="jaraid">46</idno>
             </place>
         </listPlace>
