@@ -44,6 +44,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
+            <tei:change when="2020-11-07" who="#pers_TG" xml:id="d6e176" xml:lang="en"
+                >Improved <tei:gi>place</tei:gi> nodes with GeoNames data, querying GeoNames for IDs (if already available) and toponyms, and adding alternative names, IDs, and geo-coded locations.</tei:change>
             <tei:change when="2020-11-07" who="#pers_TG" xml:id="d6e169" xml:lang="en"
                 >Improved <tei:gi>place</tei:gi> nodes with GeoNames data, querying GeoNames for IDs (if already available) and toponyms, and adding alternative names, IDs, and geo-coded locations.</tei:change>
             <tei:change when="2020-11-07" who="#pers_TG" xml:id="d6e157" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml"
@@ -17066,76 +17068,1581 @@
             </org>
         </listOrg>
         <listPlace>
-            <place>
+            <place type="town">
                 <placeName>Amman</placeName>
                 <idno type="jaraid">73</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">عمّان</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Amman</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Amman</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Amman</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Amman</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.95522, 35.94503</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Amman</tei:idno>
+                <tei:idno type="geon">250441</tei:idno>
             </place>
-            <place>
+            <place type="county">
                 <placeName>Madras</placeName>
                 <idno type="jaraid">74</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>18.29112, -77.44875</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">11495534</tei:idno>
             </place>
-            <place>
+            <place type="town">
                 <placeName xml:lang="ar-Latn-EN">Beni Suef</placeName>
                 <placeName xml:lang="ar-Latn-EN">Benu Suef</placeName>
                 <idno type="jaraid">64</idno>
                 <idno type="jaraid">81</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بني سويف</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>29.07441, 31.09785</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Beni_Suef</tei:idno>
+                <tei:idno type="geon">359173</tei:idno>
             </place>
-            <place>
+            <place type="town">
                 <placeName xml:lang="tr">Diyarbakır</placeName>
                 <idno type="jaraid">199</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ديار بكر</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Diyarbakır</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Diyarbakır</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Diyarbakır</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>37.91363, 40.21721</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Diyarbak%C4%B1r</tei:idno>
+                <tei:idno type="geon">316541</tei:idno>
             </place>
             <place type="town">
-                <placeName change="#d6e157" ref="oape:place:206 geon:8041193" xml:lang="ar-Latn-FR">Jounieh</placeName>
-                <idno type="jaraid">52</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جونية</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.41627, 36.15134</tei:geo>
-                </tei:location>
-                <tei:idno type="geon">8041193</tei:idno>
-            </place>
-            <place>
                 <placeName xml:lang="it">Livorno</placeName>
                 <idno type="jaraid">29</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ليفورنو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Livorno</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Livourne</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Livorno</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Livorno</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>43.54427, 10.32615</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Livorno</tei:idno>
+                <tei:idno type="geon">3174659</tei:idno>
             </place>
-            <place>
+            <place type="town">
                 <placeName xml:lang="fr">Marseille</placeName>
                 <idno type="jaraid">12</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مرسيليا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Marseille</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Marseille</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Marsilya</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>43.29695, 5.38107</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Marseille</tei:idno>
+                <tei:idno type="geon">2995469</tei:idno>
+            </place>
+            <place type="country">
+                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>
+                <idno type="jaraid">21</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Liban</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Libanon</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Lübnan</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.83333, 35.83333</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Lebanon</tei:idno>
+                <tei:idno type="geon">272103</tei:idno>
             </place>
             <place type="town">
-                <placeName change="#d6e157" ref="oape:place:15 geon:170063" xml:lang="en">Aleppo</placeName>
-                <idno type="jaraid">17</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حلب</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Alep</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Aleppo</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Halep</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>36.20124, 37.16117</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Aleppo</tei:idno>
-                <tei:idno type="geon">170063</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:225 geon:361058" xml:lang="en">Alexandria</placeName>
-                <idno type="jaraid">4</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">الإسكندرية</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Alexandrie</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Alexandria</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İskenderiye</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>31.20176, 29.91582</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Alexandria</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n80067694</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%8F</tei:idno>
-                <tei:idno type="geon">361058</tei:idno>
-            </place>
-            <place>
                 <placeName xml:lang="en">Algiers</placeName>
                 <idno type="jaraid">7</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">الجزائر</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Alger</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Algier</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Cezayir</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.73225, 3.08746</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Algiers</tei:idno>
+                <tei:idno type="geon">2507480</tei:idno>
             </place>
-            <place>
+            <place type="VAL">
                 <placeName xml:lang="en">Anfeh</placeName>
                 <idno type="jaraid">163</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.70418, 49.17048</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">11704844</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Aswan</placeName>
+                <idno type="jaraid">118</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">أسوان</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Assouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Assuan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Asvan</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>24.09082, 32.89942</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Aswan</tei:idno>
+                <tei:idno type="geon">359792</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Asyut</placeName>
+                <idno type="jaraid">37</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">أسيوط</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>27.18096, 31.18368</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Asyut</tei:idno>
+                <tei:idno type="geon">359783</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Bakhchysarai</placeName>
+                <idno type="jaraid">123</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bakhtchyssaraï</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bachtschyssaraj</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Bahçesaray</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>44.75525, 33.85782</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Bakhchysarai</tei:idno>
+                <tei:idno type="geon">712969</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Batavia</placeName>
+                <placeName xml:lang="en">Jakarta</placeName>
+                <idno type="jaraid">211</idno>
+                <idno type="jaraid">212</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جاكارتا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Jakarta</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Jakarta</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Cakarta</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-6.21462, 106.84513</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Jakarta</tei:idno>
+                <tei:idno type="geon">1642911</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Beerseba</placeName>
+                <idno type="jaraid">229</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بئر السبع</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Beer-Sheva</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Biʾr as-Sabʿ</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Beerşeba</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.25181, 34.7913</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Beersheba</tei:idno>
+                <tei:idno type="geon">295530</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Belo Horizonte</placeName>
+                <idno type="jaraid">143</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بيلو هوريزونتي</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Belo Horizonte</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Belo Horizonte</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Belo Horizonte</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-19.92083, -43.93778</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Belo_Horizonte</tei:idno>
+                <tei:idno type="geon">3470127</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Betlehem</placeName>
+                <idno type="jaraid">197</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>48.71667, 18.61667</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">3061095</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Bordeaux</placeName>
+                <idno type="jaraid">128</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوردو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bordeaux</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bordeaux</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>44.84044, -0.5805</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Bordeaux</tei:idno>
+                <tei:idno type="geon">3031582</tei:idno>
+            </place>
+            <place type="AREA">
+                <placeName xml:lang="en">Buitenzorg</placeName>
+                <idno type="jaraid">215</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>-25.05, 29.63333</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1014914</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
+                <idno type="jaraid">33</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Calcutta</placeName>
+                <idno type="jaraid">26</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">كلكتا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Calcutta</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Kalkutta</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Kalküta</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>22.56263, 88.36304</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Kolkata</tei:idno>
+                <tei:idno type="geon">1275004</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Campinas</placeName>
+                <idno type="jaraid">48</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">كامبيناس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Campinas</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Campinas</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-22.90556, -47.06083</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">3467865</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Campos</placeName>
+                <idno type="jaraid">144</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Campos</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Campos</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>39.43099, 3.01935</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">2520403</tei:idno>
+            </place>
+            <place type="HTL">
+                <placeName xml:lang="en">Cleveland, OH</placeName>
+                <idno type="jaraid">138</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>41.4567, -81.4888</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">6499980</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Concepción</placeName>
+                <idno type="jaraid">153</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">كونثبثيون، تشيلي</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Concepción</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Concepción</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Concepcion</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-36.82699, -73.04977</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Concepci%C3%B3n,_Chile</tei:idno>
+                <tei:idno type="geon">3893894</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Constantine</placeName>
+                <idno type="jaraid">35</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">قسنطينة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Constantine</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Constantine</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.365, 6.61472</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Constantine%2C_Algeria</tei:idno>
+                <tei:idno type="geon">2501152</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Cordóba, Argentina</placeName>
+                <idno type="jaraid">151</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">كوردوبا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Córdoba</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Córdoba</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-31.4135, -64.18105</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Argentina</tei:idno>
+                <tei:idno type="geon">3860259</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Delhi</placeName>
+                <idno type="jaraid">34</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">دلهي</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Delhi</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Delhi</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>28.65195, 77.23149</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Old_Delhi</tei:idno>
+                <tei:idno type="geon">1273294</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Detroit</placeName>
+                <idno type="jaraid">131</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ديترويت</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Détroit</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Detroit</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Detroit</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>42.33143, -83.04575</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Detroit</tei:idno>
+                <tei:idno type="geon">4990729</tei:idno>
+            </place>
+            <place type="country">
+                <placeName type="country" xml:lang="en">Egypt</placeName>
+                <idno type="jaraid">3</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جمهورية مصر العربية</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Égypte</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Ägypten</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Mısır</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>27, 30</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Egypt</tei:idno>
+                <tei:idno type="geon">357994</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Fall River, MA</placeName>
+                <idno type="jaraid">134</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Fez</placeName>
+                <idno type="jaraid">100</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">فاس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Fès</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Fès</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Fes</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.03313, -5.00028</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Fez,_Morocco</tei:idno>
+                <tei:idno type="geon">2548885</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Flaymbigh</placeName>
+                <idno type="jaraid">216</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Hamburg</placeName>
+                <idno type="jaraid">126</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">هامبورغ</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Hambourg</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Hamburg</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Hamburg</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>53.55073, 9.99302</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Hamburg</tei:idno>
+                <tei:idno type="geon">2911298</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Havana</placeName>
+                <idno type="jaraid">149</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">هافانا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">La Havane</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Havanna</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Havana</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>23.13302, -82.38304</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Havana</tei:idno>
+                <tei:idno type="geon">3553478</tei:idno>
+            </place>
+            <place type="country">
+                <placeName xml:lang="en">Kuwait</placeName>
+                <idno type="jaraid">232</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">دَوْلَة اَلْكُوَيْت</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Koweït</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Kuwait</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Kuveyt</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>29.5, 47.75</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Kuwait</tei:idno>
+                <tei:idno type="geon">285570</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Lahore</placeName>
+                <idno type="jaraid">22</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">لاهور</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Lahore</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Lahore</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Lahor</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.558, 74.35071</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Lahore</tei:idno>
+                <tei:idno type="geon">1172451</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Lawrence, MA</placeName>
+                <idno type="jaraid">132</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Manaus</placeName>
+                <idno type="jaraid">141</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Manaus</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Manaus</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Manaus</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-3.10194, -60.025</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Manaus</tei:idno>
+                <tei:idno type="geon">3663517</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Mendoza</placeName>
+                <idno type="jaraid">156</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مندوزا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Mendoza</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Mendoza</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-32.89084, -68.82717</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Mendoza%2C_Argentina</tei:idno>
+                <tei:idno type="geon">3844421</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Mexico City</placeName>
+                <idno type="jaraid">137</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مدينة مكسيكو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Mexico</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Mexiko-Stadt</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Ciudad de Mexico</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>19.42847, -99.12766</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Mexico_City</tei:idno>
+                <tei:idno type="geon">3530597</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Minneapolis</placeName>
+                <idno type="jaraid">135</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مينيابولس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Minneapolis</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Minneapolis</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Minneapolis</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>44.97997, -93.26384</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Minneapolis</tei:idno>
+                <tei:idno type="geon">5037649</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Montevideo</placeName>
+                <idno type="jaraid">155</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مونتفيدو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Montevideo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Montevideo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Montevideo</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-34.90328, -56.18816</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Montevideo</tei:idno>
+                <tei:idno type="geon">3441575</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Montreal</placeName>
+                <idno type="jaraid">136</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Montréal</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Montreal</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Montreal</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>45.50884, -73.58781</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Montreal</tei:idno>
+                <tei:idno type="geon">6077243</tei:idno>
+            </place>
+            <place type="HTL">
+                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
+                <idno type="jaraid">31</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.16304, 33.32701</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://www3.hilton.com/en/hotels/cyprus/hilton-nicosia-NICLEHI/index.html?WT.mc_id zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6NICLEHI</tei:idno>
+                <tei:idno type="geon">6465209</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Nicteroy</placeName>
+                <placeName xml:lang="en">Niterói</placeName>
+                <idno type="jaraid">146</idno>
+            </place>
+            <place type="AREA">
+                <placeName xml:lang="en">Oliveira</placeName>
+                <idno type="jaraid">147</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>-5.78333, -42.75</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">3393531</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Pekalongan</placeName>
+                <idno type="jaraid">233</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Pekalongan</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-6.8886, 109.6753</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Pekalongan</tei:idno>
+                <tei:idno type="geon">1631766</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Port Said</placeName>
+                <idno type="jaraid">30</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بور سعيد</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Port-Saïd</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Port Said</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.26531, 32.3019</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Port_Said</tei:idno>
+                <tei:idno type="geon">358619</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Porto Alegre</placeName>
+                <idno type="jaraid">142</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بورتو أليغري</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Porto Alegre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Porto Alegre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Porto Alegre</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-30.03283, -51.23019</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Porto_Alegre</tei:idno>
+                <tei:idno type="geon">3452925</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Poá</placeName>
+                <idno type="jaraid">148</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>-23.52806, -46.34472</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/POA</tei:idno>
+                <tei:idno type="geon">3453406</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="en">Punjab</placeName>
+                <idno type="jaraid">237</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.85, 72.31667</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Punjab,_Pakistan</tei:idno>
+                <tei:idno type="geon">1167710</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Salto (Oriental), Brazil</placeName>
+                <idno type="jaraid">145</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">San Pedro de Macoris</placeName>
+                <idno type="jaraid">154</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">San Pedro de Macorís</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>18.4539, -69.30864</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/San_Pedro_de_Macor%C3%ADs</tei:idno>
+                <tei:idno type="geon">3493032</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Sanaa</placeName>
+                <idno type="jaraid">24</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">صنعاء</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Sanaa</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sanaa</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>15.35472, 44.20667</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Sana%27a</tei:idno>
+                <tei:idno type="geon">71137</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="en">Santiago del Estero</placeName>
+                <idno type="jaraid">157</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>-28, -63.5</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Santiago_del_Estero_Province</tei:idno>
+                <tei:idno type="geon">3835868</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Sfax</placeName>
+                <idno type="jaraid">94</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">صفاقس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Sfax</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sfax</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Safakes</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.74056, 10.76028</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Sfax</tei:idno>
+                <tei:idno type="geon">2467454</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Shiraz</placeName>
+                <idno type="jaraid">23</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">شيراز</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Chiraz</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Schiras</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Şiraz</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>29.61031, 52.53113</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Shiraz</tei:idno>
+                <tei:idno type="geon">115019</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Singapore</placeName>
+                <idno type="jaraid">210</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سنغافورة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Singapour</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Singapur</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>1.28967, 103.85007</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Singapore</tei:idno>
+                <tei:idno type="geon">1880252</tei:idno>
+            </place>
+            <place type="RGNE">
+                <placeName xml:lang="en">St. Louis</placeName>
+                <idno type="jaraid">133</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>38.63162, -90.24925</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/St._Louis%2C_Missouri</tei:idno>
+                <tei:idno type="geon">6955119</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Surabaya</placeName>
+                <idno type="jaraid">213</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سورابايا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Surabaya</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Surabaya</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-7.24917, 112.75083</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Surabaya</tei:idno>
+                <tei:idno type="geon">1625822</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">São Paolo</placeName>
+                <idno type="jaraid">49</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ساو باولو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">São Paulo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">São Paulo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Sao Paulo</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-23.5475, -46.63611</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/S%C3%A3o_Paulo</tei:idno>
+                <tei:idno type="geon">3448439</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Tangier</placeName>
+                <idno type="jaraid">44</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">طنجة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Tanger</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Tanger</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.76727, -5.79975</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Tangier</tei:idno>
+                <tei:idno type="geon">2530335</tei:idno>
+            </place>
+            <place type="HTL">
+                <placeName xml:lang="en">Terre Haute, IN</placeName>
+                <idno type="jaraid">139</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>39.4608, -87.4138</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">6468546</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Tucumán</placeName>
+                <idno type="jaraid">150</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سان ميغيل دي توكومان</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">San Miguel de Tucumán</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">San Miguel de Tucumán</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-26.82414, -65.2226</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/San_Miguel_de_Tucum%C3%A1n</tei:idno>
+                <tei:idno type="geon">3836873</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
+                <idno type="jaraid">14</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Washington, DC</placeName>
+                <idno type="jaraid">140</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Washington</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Washington</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>38.89511, -77.03637</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Washington%2C_D.C.</tei:idno>
+                <tei:idno type="geon">4140963</tei:idno>
+            </place>
+            <place type="MT">
+                <placeName xml:lang="en">Weltevreden</placeName>
+                <idno type="jaraid">214</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>-31.03333, 25.38333</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">940616</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Woking</placeName>
+                <idno type="jaraid">42</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Woking</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>51.31903, -0.55893</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Woking</tei:idno>
+                <tei:idno type="geon">2633709</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Yogyakarta</placeName>
+                <idno type="jaraid">234</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">يوجياكرتا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Yogyakarta</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Yogyakarta</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-7.80139, 110.36472</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Yogyakarta</tei:idno>
+                <tei:idno type="geon">1621177</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Zanzibar</placeName>
+                <idno type="jaraid">59</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مدينة زنجبار</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sansibar-Stadt</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-6.16394, 39.19793</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">148730</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Kiftīn (<placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>)</placeName>
+                <idno type="jaraid">36</idno>
+            </place>
+            <place type="town">
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Jīza</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">الجيزة</placeName>
+                <idno type="jaraid">80</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Giza</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Gizeh</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Gizeh</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.00944, 31.20861</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Giza</tei:idno>
+                <tei:idno type="geon">360995</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Ḥilla</placeName>
+                <placeName change="#d2e154" xml:lang="ar">الحلة</placeName>
+                <idno type="jaraid">205</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.53333, 44.61667</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Babil_Governorate</tei:idno>
+                <tei:idno type="geon">98227</tei:idno>
+            </place>
+            <place>
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Ḥawāmidiyya</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">الحوامدية</placeName>
+                <idno type="jaraid">115</idno>
+            </place>
+            <place type="town">
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Kharṭūm</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">الخرطوم</placeName>
+                <idno type="jaraid">62</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Khartoum</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Khartoum</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Khartum</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Hartum</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>15.55177, 32.53241</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Khartoum</tei:idno>
+                <tei:idno type="geon">379252</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">al-Dār al-Bayḍāʾ</placeName>
+                <placeName change="#d2e154" xml:lang="ar">الدار البيضاء</placeName>
+                <idno type="jaraid">101</idno>
+                <idno type="jaraid">102</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Casablanca</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Casablanca</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Casablanca</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Dâr-ül-Beydâ</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.58831, -7.61138</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Casablanca</tei:idno>
+                <tei:idno type="geon">2553604</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Dāmūr</placeName>
+                <placeName change="#d2e154" xml:lang="ar">الدامور</placeName>
+                <idno type="jaraid">179</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.73, 35.45639</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Damour</tei:idno>
+                <tei:idno type="geon">280789</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Zaqāzīq</placeName>
+                <placeName change="#d2e154" xml:lang="ar">الزقازيق</placeName>
+                <idno type="jaraid">106</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Zagazig</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Zagazig</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.58768, 31.502</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Zagazig</tei:idno>
+                <tei:idno type="geon">359493</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-ʿAshshār</placeName>
+                <placeName change="#d2e154" xml:lang="ar">العشار</placeName>
+                <idno type="jaraid">206</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.51565, 47.84078</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">99577</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-ʿAmāra</placeName>
+                <placeName change="#d2e154" xml:lang="ar">العمارة</placeName>
+                <idno type="jaraid">204</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Amara</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.83561, 47.14483</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Amarah</tei:idno>
+                <tei:idno type="geon">99608</tei:idno>
+            </place>
+            <place type="town">
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Fayyūm</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">الفيوم</placeName>
+                <idno type="jaraid">50</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Al Fayyum</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Fayoum</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Al-Fayyum</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>29.30995, 30.8418</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Faiyum</tei:idno>
+                <tei:idno type="geon">361320</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Qurashiyya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">القرشية</placeName>
+                <idno type="jaraid">90</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.84703, 31.12326</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">360545</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Qayrawān</placeName>
+                <placeName change="#d2e154" xml:lang="ar">القيروان</placeName>
+                <idno type="jaraid">95</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Kairouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Kairouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Qairawān</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Kayravan</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.6781, 10.09633</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Kairouan</tei:idno>
+                <tei:idno type="geon">2473449</tei:idno>
+            </place>
+            <place type="town">
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">al-Maḥalla al-Kubrā</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">المحلة الكبری</placeName>
+                <idno type="jaraid">116</idno>
+                <idno type="jaraid">86</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.97063, 31.1669</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/El-Mahalla_El-Kubra</tei:idno>
+                <tei:idno type="geon">360829</tei:idno>
+            </place>
+            <place type="LCTY">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Maḥmūdiyya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">المحمودية</placeName>
+                <idno type="jaraid">114</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.54, 35.37056</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">6272181</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">al-Muʿallaqa</placeName>
+                <placeName change="#d2e154" xml:lang="ar">المعلقة</placeName>
+                <idno type="jaraid">221</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.91597, 35.8925</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">166829</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Minyā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">المنيی</placeName>
+                <idno type="jaraid">77</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Anṭākiya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">انطاكية</placeName>
+                <idno type="jaraid">192</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Antakya</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Antioche</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Antakya</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Antakya</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.20655, 36.15722</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Antakya</tei:idno>
+                <tei:idno type="geon">323779</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ihdin and Zighartā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">اهدن  وزغرتی</placeName>
+                <idno type="jaraid">159</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Biḥamdūn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بحمدون</placeName>
+                <idno type="jaraid">172</idno>
+            </place>
+            <place type="LCTY">
+                <placeName xml:lang="ar-Latn-x-ijmes">Barqa</placeName>
+                <placeName change="#d2e154" xml:lang="ar">برقة</placeName>
+                <idno type="jaraid">93</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.1456, 36.49291</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">11554090</tei:idno>
+            </place>
+            <place type="MT">
+                <placeName xml:lang="ar-Latn-x-ijmes">Burummānā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">برمانی</placeName>
+                <idno type="jaraid">168</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.44669, 60.63062</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1112306</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Biskra</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بسكرة</placeName>
+                <idno type="jaraid">97</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Biskra</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Biskra</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Biskra</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.85038, 5.72805</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Biskra</tei:idno>
+                <tei:idno type="geon">2503826</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Baskintā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بسكنتی</placeName>
+                <idno type="jaraid">170</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Baʿabdāt</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بعبدات</placeName>
+                <idno type="jaraid">169</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.89111, 35.6725</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Baabdat</tei:idno>
+                <tei:idno type="geon">277224</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Baʿbdā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بعبدی</placeName>
+                <idno type="jaraid">18</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Balbīs</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بلبيس</placeName>
+                <idno type="jaraid">119</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Bilbeis</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bilbeis</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.42039, 31.56223</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Bilbeis</tei:idno>
+                <tei:idno type="geon">358840</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Balqās</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بلقاس</placeName>
+                <idno type="jaraid">83</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.21452, 31.35798</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Belqas</tei:idno>
+                <tei:idno type="geon">358821</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Banha</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بنهة</placeName>
+                <idno type="jaraid">69</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Būlāq</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بولاق</placeName>
+                <idno type="jaraid">6</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.6223, 61.55484</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1146359</tei:idno>
+            </place>
+            <place type="HLL">
+                <placeName xml:lang="ar-Latn-x-ijmes">Bayt al-Dīn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بيت الدين</placeName>
+                <idno type="jaraid">19</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.69167, 35.58611</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">276770</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Bayt Shabāb</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بيت شباب</placeName>
+                <idno type="jaraid">166</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Bīkfayā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بيكفيی</placeName>
+                <idno type="jaraid">222</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Baynū (ʿAkkār)</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بينو ( عكار )</placeName>
+                <idno type="jaraid">225</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Taṭawān</placeName>
+                <placeName change="#d2e154" xml:lang="ar">تطوان</placeName>
+                <idno type="jaraid">103</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Tétouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Tétouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Tétouan</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Tetuan</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.57845, -5.36837</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/T%C3%A9touan</tei:idno>
+                <tei:idno type="geon">2528910</tei:idno>
+            </place>
+            <place type="HLLS">
+                <placeName xml:lang="ar-Latn-x-ijmes">Jabla</placeName>
+                <placeName change="#d2e154" xml:lang="ar">جبلة</placeName>
+                <idno type="jaraid">195</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>28.59111, 42.59466</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">105540</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Jubayl</placeName>
+                <placeName change="#d2e154" xml:lang="ar">جبيل</placeName>
+                <idno type="jaraid">164</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.94472, 36.70519</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">11432730</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Jisr Nahr Bayrūt</placeName>
+                <placeName change="#d2e154" xml:lang="ar">جسر نهر بيروت</placeName>
+                <idno type="jaraid">173</idno>
+            </place>
+            <place>
+                <placeName change="#d6e157" ref="oape:place:377" xml:lang="ar-Latn-x-ijmes">Ḥarīṣā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حريصی</placeName>
+                <idno type="jaraid">223</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ḥammānā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حمانی</placeName>
+                <idno type="jaraid">171</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ḥaydarābād</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حيدراباد</placeName>
+                <idno type="jaraid">43</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Hyderābād</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Hyderâbâd</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Hyderabad</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Haydarabad</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>25.39242, 68.37366</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Hyderabad%2C_Sindh</tei:idno>
+                <tei:idno type="geon">1176734</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Darʿun</placeName>
+                <placeName change="#d2e154" xml:lang="ar">درعن</placeName>
+                <idno type="jaraid">25</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Disūq</placeName>
+                <placeName change="#d2e154" xml:lang="ar">دسوق</placeName>
+                <idno type="jaraid">87</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.13259, 30.64784</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Desouk</tei:idno>
+                <tei:idno type="geon">358108</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Dimyāṭ</placeName>
+                <placeName xml:lang="en">Damietta   </placeName>
+                <placeName change="#d2e154" xml:lang="ar">دمياط</placeName>
+                <idno type="jaraid">57</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Damiette</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Damiette</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Dimyat</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.41648, 31.81332</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Damietta</tei:idno>
+                <tei:idno type="geon">358048</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Dayr al-Qamar</placeName>
+                <placeName change="#d2e154" xml:lang="ar">دير القمر</placeName>
+                <idno type="jaraid">20</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.69778, 35.56361</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Deir_al-Qamar</tei:idno>
+                <tei:idno type="geon">275655</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Zaftī</placeName>
+                <placeName change="#d2e154" xml:lang="ar">زفتي</placeName>
+                <idno type="jaraid">110</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.7142, 31.24425</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Zefta</tei:idno>
+                <tei:idno type="geon">346030</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Zaqāzīq</placeName>
+                <placeName change="#d2e154" xml:lang="ar">زقازيق</placeName>
+                <idno type="jaraid">68</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Safita</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سفتة</placeName>
+                <idno type="jaraid">226</idno>
+            </place>
+            <place type="AIRP">
+                <placeName xml:lang="ar-Latn-x-ijmes">Sakīkada</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سكيكدة</placeName>
+                <idno type="jaraid">99</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.93333, 6.95</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Skikda_Airport</tei:idno>
+                <tei:idno type="geon">6296372</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="en">Saint Lawrence</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سنت ل</placeName>
+                <idno type="jaraid">239</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.04861, 14.19778</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/San_Lawrenz</tei:idno>
+                <tei:idno type="geon">8299749</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Sūḥāj</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سوحاج</placeName>
+                <idno type="jaraid">92</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Sohag</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Sevhac</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>26.55695, 31.69478</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%85%D0%B0%D0%B3</tei:idno>
+                <tei:idno type="geon">347796</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Susa</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Sūsa</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سوسة</placeName>
+                <idno type="jaraid">96</idno>
+                <idno type="jaraid">120</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Sousse</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sousse</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.82539, 10.63699</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Sousse</tei:idno>
+                <tei:idno type="geon">2464915</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Suez</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Suways</placeName>
+                <placeName change="#d2e154" xml:lang="ar">سويس</placeName>
+                <idno type="jaraid">82</idno>
+                <idno type="jaraid">63</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Suez</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sues</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Süveyş</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>29.97371, 32.52627</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Suez</tei:idno>
+                <tei:idno type="geon">359796</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Shabīn al-Kawm</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Shibīn al-Kawm</placeName>
+                <placeName xml:lang="en">Shibin el-Kom</placeName>
+                <placeName change="#d2e154" xml:lang="ar">شبين الكوم</placeName>
+                <idno type="jaraid">65</idno>
+                <idno type="jaraid">85</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.55258, 31.00904</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Shibin_El_Kom</tei:idno>
+                <tei:idno type="geon">349158</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Sharbīn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">شربين</placeName>
+                <idno type="jaraid">113</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.19688, 31.5243</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Sherbin,_Egypt</tei:idno>
+                <tei:idno type="geon">349114</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṣalīmā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">صليمی</placeName>
+                <idno type="jaraid">167</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.25322, 62.49299</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1127822</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭahṭā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طهطی</placeName>
+                <idno type="jaraid">89</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>27.96017, 61.82161</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">8685944</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طوخ</placeName>
+                <idno type="jaraid">91</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>37.10934, 42.89109</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">446089</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh Qalyūbiyya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طوخ قليوبية</placeName>
+                <idno type="jaraid">88</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūl Karam</placeName>
+                <placeName change="#d2e154" xml:lang="ar">طول كرم</placeName>
+                <idno type="jaraid">198</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Tulkarm</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Tulkarem</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Tulkarem</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.31156, 35.0269</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Tulkarm</tei:idno>
+                <tei:idno type="geon">281577</tei:idno>
+            </place>
+            <place type="HLL">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿĀliya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عالية</placeName>
+                <idno type="jaraid">40</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.9159, 47.5276</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">7322637</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿAbd Lillī</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عبد للي</placeName>
+                <idno type="jaraid">224</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.20667, 35.72222</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">281028</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿIzbat al-Zaytūn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عزبة الزيتون</placeName>
+                <idno type="jaraid">109</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.82376, 30.99735</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">8624334</tei:idno>
+            </place>
+            <place type="MT">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿAkkā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عكی</placeName>
+                <idno type="jaraid">228</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.67069, 69.5251</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1472833</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿAmshīt</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عمشيت</placeName>
+                <idno type="jaraid">165</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.14777, 35.64435</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Amsheet</tei:idno>
+                <tei:idno type="geon">278944</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿAyn Zaḥaltā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عين زحلتی</placeName>
+                <idno type="jaraid">181</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Ghawānābārā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">غواناباری</placeName>
+                <idno type="jaraid">71</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Fāqūs</placeName>
+                <placeName change="#d2e154" xml:lang="ar">فاقوس</placeName>
+                <idno type="jaraid">108</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.72816, 31.79697</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Faqous</tei:idno>
+                <tei:idno type="geon">356989</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Furn al-Shubbāk</placeName>
+                <placeName change="#d2e154" xml:lang="ar">فرن الشباك</placeName>
+                <idno type="jaraid">174</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.87278, 35.52083</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">275158</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Qaṣabat Basharrāy</placeName>
+                <placeName change="#d2e154" xml:lang="ar">قصبة بشراي</placeName>
+                <idno type="jaraid">160</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Qaṣbat Jazzīn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">قصبة جزين</placeName>
+                <idno type="jaraid">184</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Qalʿat al-Qadmūs</placeName>
+                <placeName change="#d2e154" xml:lang="ar">قلعة القدموس</placeName>
+                <idno type="jaraid">227</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Qanā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">قنی</placeName>
+                <idno type="jaraid">112</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.43842, 41.87641</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">7046973</tei:idno>
+            </place>
+            <place type="SPNG">
+                <placeName xml:lang="ar-Latn-x-ijmes">Qaytūlī</placeName>
+                <placeName change="#d2e154" xml:lang="ar">قيتولي</placeName>
+                <idno type="jaraid">186</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.05862, 47.31862</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">11357888</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Kirkuk</placeName>
+                <placeName change="#d2e154" xml:lang="ar">كركك</placeName>
+                <idno type="jaraid">201</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.596, 65.41729</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1135214</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Kazimiyya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">كزمية</placeName>
+                <idno type="jaraid">200</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Ḥātā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">كفر حاتی</placeName>
+                <idno type="jaraid">161</idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Shīmā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">كفر شيمی</placeName>
+                <idno type="jaraid">176</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Matā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">كفر متی</placeName>
+                <idno type="jaraid">39</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.72611, 35.52917</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://ar.wikipedia.org/wiki/%D9%83%D9%81%D8%B1%D9%85%D8%AA%D9%89</tei:idno>
+                <tei:idno type="geon">272847</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Madīna ʿĀliyya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">مدينة عالية</placeName>
+                <idno type="jaraid">178</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Mardin</placeName>
+                <placeName change="#d2e154" xml:lang="ar">مردن</placeName>
+                <idno type="jaraid">231</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>26.65509, 58.52843</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">138208</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Mukallā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">مكلی</placeName>
+                <idno type="jaraid">208</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.28261, 67.15723</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">1450486</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Malawī</placeName>
+                <placeName change="#d2e154" xml:lang="ar">ملوي</placeName>
+                <idno type="jaraid">117</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>27.73264, 30.84129</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Mallawi</tei:idno>
+                <tei:idno type="geon">352951</tei:idno>
+            </place>
+            <place>
+                <placeName xml:lang="ar-Latn-x-ijmes">Malīlā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">مليلی</placeName>
+                <idno type="jaraid">104</idno>
+            </place>
+            <place type="town">
+                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Manṣūra</placeName>
+                <placeName change="#d2e154" type="city" xml:lang="ar">منصورة</placeName>
+                <idno type="jaraid">55</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Al Mansurah</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Mansourah</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Al-Mansura</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Mansura</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.03637, 31.38069</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Mansoura%2C_Egypt</tei:idno>
+                <tei:idno type="geon">360761</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Minya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">منية</placeName>
+                <idno type="jaraid">67</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.12624, 31.64313</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">352344</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="ar-Latn-x-ijmes">Mīt Ghamr</placeName>
+                <placeName change="#d2e154" xml:lang="ar">ميت غمر</placeName>
+                <idno type="jaraid">84</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.71247, 31.32334</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Mit_Ghamr</tei:idno>
+                <tei:idno type="geon">352180</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Naples</placeName>
+                <placeName change="#d2e154" xml:lang="ar">ن</placeName>
+                <idno type="jaraid">32</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">N'Djamena</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Ndjamena</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Indschamina</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>12.10672, 15.0444</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/N%27Djamena</tei:idno>
+                <tei:idno type="geon">2427123</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Najaf</placeName>
+                <placeName change="#d2e154" xml:lang="ar">نجف</placeName>
+                <idno type="jaraid">202</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Najaf</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Nadjaf</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Nadschaf</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Necef</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.02594, 44.34625</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Najaf</tei:idno>
+                <tei:idno type="geon">98860</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Wihrān</placeName>
+                <placeName xml:lang="en">Oran</placeName>
+                <placeName change="#d2e154" xml:lang="ar">وهران</placeName>
+                <idno type="jaraid">41</idno>
+                <idno type="jaraid">98</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Oran</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Oran</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.69906, -0.63588</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Oran</tei:idno>
+                <tei:idno type="geon">2485926</tei:idno>
+            </place>
+            <place type="county">
+                <placeName xml:lang="ar-Latn-x-ijmes">Bombay</placeName>
+                <placeName change="#d2e154" xml:lang="ar">ي</placeName>
+                <idno type="jaraid">8</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Region of Magallanes</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-52.50026, -73.00067</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Magallanes_and_Antartica_Chilena_Region</tei:idno>
+                <tei:idno type="geon">4036650</tei:idno>
             </place>
             <place type="country">
                 <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en"> <country xml:lang="en">Argentina</country> </placeName>
@@ -17153,128 +18660,6 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0</tei:idno>
                 <tei:idno type="geon">3865483</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Aswan</placeName>
-                <idno type="jaraid">118</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Asyut</placeName>
-                <idno type="jaraid">37</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:216 geon:98182" xml:lang="en">Baghdad</placeName>
-                <idno type="jaraid">5</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بغداد</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bagdad</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bagdad</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Bağdat</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.34058, 44.40088</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Baghdad</tei:idno>
-                <tei:idno type="geon">98182</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Bakhchysarai</placeName>
-                <idno type="jaraid">123</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:210 geon:99532" xml:lang="en">Basra</placeName>
-                <idno type="jaraid">53</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">البصرة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بصرة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bassorah</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Basra</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Basra</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>30.50852, 47.7804</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Basra</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%80%D0%B0</tei:idno>
-                <tei:idno type="geon">99532</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Batavia</placeName>
-                <idno type="jaraid">211</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Batavia (Jakarta)</placeName>
-                <idno type="jaraid">212</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Beerseba</placeName>
-                <idno type="jaraid">229</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:26 geon:276781" xml:lang="en">Beirut</placeName>
-                <idno type="jaraid">2</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بيروت</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Beyrouth</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Beirut</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Beyrut</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.88894, 35.49442</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Beirut</tei:idno>
-                <tei:idno type="geon">276781</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Belo Horizonte</placeName>
-                <idno type="jaraid">143</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:343 geon:2950159" xml:lang="en">Berlin</placeName>
-                <idno type="jaraid">125</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">برلين</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Berlin</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Berlin</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Berlin</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>52.52437, 13.41053</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Berlin</tei:idno>
-                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D1%96%D0%BD</tei:idno>
-                <tei:idno type="geon">2950159</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Betlehem</placeName>
-                <idno type="jaraid">197</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:325 geon:3181928" xml:lang="en">Bologna</placeName>
-                <idno type="jaraid">127</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بولونيا</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bologne</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bologna</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Bolonya</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>44.49381, 11.33875</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Bologna</tei:idno>
-                <tei:idno type="url">http://no.wikipedia.org/wiki/Bologna</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C%D1%8F</tei:idno>
-                <tei:idno type="url">http://sv.wikipedia.org/wiki/Bologna</tei:idno>
-                <tei:idno type="geon">3181928</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Bordeaux</placeName>
-                <idno type="jaraid">128</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:308 geon:4930956" xml:lang="en">Boston</placeName>
-                <idno type="jaraid">130</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوسطن</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Boston</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Boston</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Boston</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>42.35843, -71.05977</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Boston</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n79045553</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD</tei:idno>
-                <tei:idno type="geon">4930956</tei:idno>
-            </place>
             <place type="country">
                 <placeName change="#d6e157" ref="oape:place:363 geon:3469034" type="country" xml:lang="en">Brazil</placeName>
                 <idno type="jaraid">66</idno>
@@ -17287,175 +18672,6 @@
                 </tei:location>
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Brazil</tei:idno>
                 <tei:idno type="geon">3469034</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:362 geon:3435910" xml:lang="en">Buenos Aires</placeName>
-                <idno type="jaraid">51</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوينس آيرس</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Buenos Aires</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Buenos Aires</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>-34.61315, -58.37723</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Buenos_Aires</tei:idno>
-                <tei:idno type="geon">3435910</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Buitenzorg</placeName>
-                <idno type="jaraid">215</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
-                <idno type="jaraid">33</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:226 geon:360630" xml:lang="en">Cairo</placeName>
-                <idno type="jaraid">1</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">القاهرة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Le Caire</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Kairo</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Kahire</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>30.06263, 31.24967</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Cairo</tei:idno>
-                <tei:idno type="geon">360630</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Calcutta</placeName>
-                <idno type="jaraid">26</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Campinas</placeName>
-                <idno type="jaraid">48</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Campos</placeName>
-                <idno type="jaraid">144</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Casablanca</placeName>
-                <idno type="jaraid">102</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Cleveland, OH</placeName>
-                <idno type="jaraid">138</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Concepción</placeName>
-                <idno type="jaraid">153</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Constantine</placeName>
-                <idno type="jaraid">35</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Cordóba, Argentina</placeName>
-                <idno type="jaraid">151</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:61 geon:170654" xml:lang="en">Damascus</placeName>
-                <idno type="jaraid">15</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">دمشق</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Damas</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Damaskus</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Şam</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.5102, 36.29128</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Damascus</tei:idno>
-                <tei:idno type="geon">170654</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Delhi</placeName>
-                <idno type="jaraid">34</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Detroit</placeName>
-                <idno type="jaraid">131</idno>
-            </place>
-            <place>
-                <placeName type="country" xml:lang="en">Egypt</placeName>
-                <idno type="jaraid">3</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Fall River, MA</placeName>
-                <idno type="jaraid">134</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Fez</placeName>
-                <idno type="jaraid">100</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Flaymbigh</placeName>
-                <idno type="jaraid">216</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:291 geon:2660646" xml:lang="en">Geneva</placeName>
-                <idno type="jaraid">124</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جنيف</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Genève</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Genf</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Cenevre</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Genève</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>46.20222, 6.14569</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Geneva</tei:idno>
-                <tei:idno type="geon">2660646</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:35 geon:294801" xml:lang="en">Haifa</placeName>
-                <placeName change="#d6e157" ref="oape:place:35 geon:294801" xml:lang="en">Hayfa</placeName>
-                <idno type="jaraid">188</idno>
-                <idno type="jaraid">235</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حيفا</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Haïfa</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Haifa</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Hayfa</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>32.81841, 34.9885</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Haifa</tei:idno>
-                <tei:idno type="geon">294801</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:175 geon:170017" xml:lang="en">Hama</placeName>
-                <idno type="jaraid">190</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حماة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حماه</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Hama</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Hama</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>35.13179, 36.75783</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Hama</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B0</tei:idno>
-                <tei:idno type="geon">170017</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Hamburg</placeName>
-                <idno type="jaraid">126</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Havana</placeName>
-                <idno type="jaraid">149</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:176 geon:169577" xml:lang="en">Homs</placeName>
-                <idno type="jaraid">189</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">Ḩimş</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حمص</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مدينة حمص</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Homs</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Homs</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Humus</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>34.72682, 36.72339</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Homs</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BC%D1%81</tei:idno>
-                <tei:idno type="geon">169577</tei:idno>
             </place>
             <place type="country">
                 <placeName change="#d6e157" ref="oape:place:293 geon:1269750" xml:lang="en">India</placeName>
@@ -17472,38 +18688,24 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F</tei:idno>
                 <tei:idno type="geon">1269750</tei:idno>
             </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:3 geon:745044" xml:lang="en">Istanbul</placeName>
-                <idno type="jaraid">9</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">اسطنبول</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Byzance</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Istanbul</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Byzantion</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Istanbul</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İstanbul</tei:placeName>
+            <place type="county">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Najaf</placeName>
+                <placeName change="#d2e154 #d6e157" ref="oape:place:215 geon:98862" xml:lang="ar">النجف</placeName>
+                <idno type="jaraid">230</idno>
                 <tei:location source="#org_geon">
-                    <tei:geo>41.01384, 28.94966</tei:geo>
+                    <tei:geo>31.25, 43.83333</tei:geo>
                 </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Constantinople</tei:idno>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Istanbul</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n79034985</tei:idno>
-                <tei:idno type="url">http://no.wikipedia.org/wiki/Istanbul</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB</tei:idno>
-                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB</tei:idno>
-                <tei:idno type="geon">745044</tei:idno>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Najaf_Province</tei:idno>
+                <tei:idno type="geon">98862</tei:idno>
             </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:12 geon:293253" xml:lang="en">Jaffa</placeName>
-                <idno type="jaraid">196</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">يافا</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Jaffa</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Jaffa</tei:placeName>
+            <place type="county">
+                <placeName xml:lang="ar-Latn-x-ijmes">Marjaʿuyūn</placeName>
+                <placeName change="#d2e154 #d6e157" ref="oape:place:40 geon:271225" xml:lang="ar">مرجعيون</placeName>
+                <idno type="jaraid">185</idno>
                 <tei:location source="#org_geon">
-                    <tei:geo>32.05043, 34.75224</tei:geo>
+                    <tei:geo>33.27511, 35.53822</tei:geo>
                 </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Jaffa</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%AF%D1%84%D1%84%D0%B0</tei:idno>
-                <tei:idno type="geon">293253</tei:idno>
+                <tei:idno type="geon">271225</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:6 geon:281184" xml:lang="en">Jerusalem</placeName>
@@ -17540,13 +18742,112 @@
                 <tei:idno type="url">https://ru.wikipedia.org/wiki/%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC</tei:idno>
                 <tei:idno type="geon">281184</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Kuwait</placeName>
-                <idno type="jaraid">232</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:3 geon:745044" xml:lang="en">Istanbul</placeName>
+                <idno type="jaraid">9</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">اسطنبول</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Byzance</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Istanbul</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Byzantion</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Istanbul</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İstanbul</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>41.01384, 28.94966</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Constantinople</tei:idno>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Istanbul</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n79034985</tei:idno>
+                <tei:idno type="url">http://no.wikipedia.org/wiki/Istanbul</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB</tei:idno>
+                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB</tei:idno>
+                <tei:idno type="geon">745044</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Lahore</placeName>
-                <idno type="jaraid">22</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:13 geon:311111" xml:lang="ar-Latn-x-ijmes">Iskandarūna</placeName>
+                <placeName change="#d2e154" xml:lang="ar">اسكندرونة</placeName>
+                <idno type="jaraid">191</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">İskenderun</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">İskenderun</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">İskenderun</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İskenderun</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.58718, 36.17347</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/%C4%B0skenderun</tei:idno>
+                <tei:idno type="geon">311111</tei:idno>
+            </place>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:225 geon:361058" xml:lang="en">Alexandria</placeName>
+                <idno type="jaraid">4</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">الإسكندرية</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Alexandrie</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Alexandria</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İskenderiye</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>31.20176, 29.91582</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Alexandria</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n80067694</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%8F</tei:idno>
+                <tei:idno type="geon">361058</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Batrūn</placeName>
+                <placeName change="#d2e154 #d6e157" ref="oape:place:204 geon:280328" xml:lang="ar">البترون</placeName>
+                <idno type="jaraid">162</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.25528, 35.65806</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Batroun</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BD</tei:idno>
+                <tei:idno type="geon">280328</tei:idno>
+            </place>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:210 geon:99532" xml:lang="en">Basra</placeName>
+                <idno type="jaraid">53</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">البصرة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بصرة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bassorah</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Basra</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Basra</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.50852, 47.7804</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Basra</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%80%D0%B0</tei:idno>
+                <tei:idno type="geon">99532</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Ḥadath</placeName>
+                <placeName change="#d2e154 #d6e157" ref="oape:place:207 geon:280134" xml:lang="ar">الحدث</placeName>
+                <idno type="jaraid">175</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.83333, 35.53333</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Hadeth%2C_Beirut</tei:idno>
+                <tei:idno type="geon">280134</tei:idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Al-Shuwayfāt</placeName>
+                <placeName change="#d2e154 #d6e157" ref="oape:place:370 geon:8134087" xml:lang="ar">الشويفات</placeName>
+                <idno type="jaraid">177</idno>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.00806, 31.40942</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">8134087</tei:idno>
+            </place>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:226 geon:360630" xml:lang="en">Cairo</placeName>
+                <idno type="jaraid">1</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">القاهرة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Le Caire</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Kairo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Kahire</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.06263, 31.24967</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Cairo</tei:idno>
+                <tei:idno type="geon">360630</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:19 geon:173576" xml:lang="en">Latakia</placeName>
@@ -17563,60 +18864,6 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B0%D0%BA%D0%B8%D1%8F</tei:idno>
                 <tei:idno type="geon">173576</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Lawrence, MA</placeName>
-                <idno type="jaraid">132</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>
-                <idno type="jaraid">21</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:331 geon:2643743" xml:lang="en">London</placeName>
-                <idno type="jaraid">10</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">لندن</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Londres</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">London</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Londra</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>51.50853, -0.12574</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/London</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n79005665</tei:idno>
-                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD</tei:idno>
-                <tei:idno type="geon">2643743</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:294 geon:1264733" xml:lang="en">Lucknow</placeName>
-                <idno type="jaraid">70</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">لكهنؤ</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Lucknow</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Lucknow</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>26.83928, 80.92313</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Lucknow</tei:idno>
-                <tei:idno type="geon">1264733</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Manaus</placeName>
-                <idno type="jaraid">141</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:220 geon:104515" xml:lang="en">Mecca</placeName>
-                <idno type="jaraid">78</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مكة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مكة المكرمة</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">La Mecque</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Mekka</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Mekke</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>21.42664, 39.82563</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Mecca</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D0%BA%D0%B0</tei:idno>
-                <tei:idno type="geon">104515</tei:idno>
-            </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:218 geon:109223" xml:lang="en">Medina</placeName>
                 <idno type="jaraid">207</idno>
@@ -17632,26 +18879,6 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0</tei:idno>
                 <tei:idno type="geon">109223</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Mendoza</placeName>
-                <idno type="jaraid">156</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Mexico City</placeName>
-                <idno type="jaraid">137</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Minneapolis</placeName>
-                <idno type="jaraid">135</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Montevideo</placeName>
-                <idno type="jaraid">155</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Montreal</placeName>
-                <idno type="jaraid">136</idno>
-            </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:211 geon:99072" xml:lang="en">Mosul</placeName>
                 <idno type="jaraid">27</idno>
@@ -17665,36 +18892,6 @@
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Mosul</tei:idno>
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%83%D0%BB</tei:idno>
                 <tei:idno type="geon">99072</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:303 geon:5128581" xml:lang="en">New York</placeName>
-                <idno type="jaraid">45</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">نيويورك</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">New York</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">New York City</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">New York</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>40.71427, -74.00597</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/New_York_City</tei:idno>
-                <tei:idno type="geon">5128581</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
-                <idno type="jaraid">31</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Nicteroy</placeName>
-                <placeName xml:lang="en">Niterói</placeName>
-                <idno type="jaraid">146</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Oliveira</placeName>
-                <idno type="jaraid">147</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Oran</placeName>
-                <idno type="jaraid">41</idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:322 geon:2988507" xml:lang="en">Paris</placeName>
@@ -17719,383 +18916,19 @@
                 <tei:idno type="url">http://www.paris.fr</tei:idno>
                 <tei:idno type="geon">2988507</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="en">Pekalongan</placeName>
-                <idno type="jaraid">233</idno>
-            </place>
             <place type="town">
-                <placeName change="#d6e157" ref="oape:place:315 geon:4560349" xml:lang="en">Philadelphia</placeName>
-                <idno type="jaraid">47</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">فيلادلفيا</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Philadelphie</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Philadelphia</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Philadelphia</tei:placeName>
+                <placeName change="#d6e157" ref="oape:place:343 geon:2950159" xml:lang="en">Berlin</placeName>
+                <idno type="jaraid">125</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">برلين</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Berlin</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Berlin</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Berlin</tei:placeName>
                 <tei:location source="#org_geon">
-                    <tei:geo>39.95233, -75.16379</tei:geo>
+                    <tei:geo>52.52437, 13.41053</tei:geo>
                 </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Philadelphia</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n78095520</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F</tei:idno>
-                <tei:idno type="geon">4560349</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Port Said</placeName>
-                <idno type="jaraid">30</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Porto Alegre</placeName>
-                <idno type="jaraid">142</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Poá</placeName>
-                <idno type="jaraid">148</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Punjab</placeName>
-                <idno type="jaraid">237</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:380 geon:3451190" xml:lang="en">Rio de Janeiro</placeName>
-                <idno type="jaraid">56</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ريو دي جانيرو</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Rio de Janeiro</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Rio de Janeiro</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Rio de Janeiro</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>-22.90642, -43.18223</tei:geo>
-                </tei:location>
-                <tei:idno type="url">https://en.wikipedia.org/wiki/Rio_de_Janeiro</tei:idno>
-                <tei:idno type="geon">3451190</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Salto (Oriental), Brazil</placeName>
-                <idno type="jaraid">145</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">San Pedro de Macoris</placeName>
-                <idno type="jaraid">154</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Sanaa</placeName>
-                <idno type="jaraid">24</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:286 geon:3871336" xml:lang="en">Santiago</placeName>
-                <idno type="jaraid">152</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سانتياغو</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Santiago du Chili</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Santiago de Chile</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Santiago</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>-33.45694, -70.64827</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Santiago</tei:idno>
-                <tei:idno type="geon">3871336</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Santiago del Estero</placeName>
-                <idno type="jaraid">157</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Sfax</placeName>
-                <idno type="jaraid">94</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Shiraz</placeName>
-                <idno type="jaraid">23</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Singapore</placeName>
-                <idno type="jaraid">210</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">St. Louis</placeName>
-                <idno type="jaraid">133</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:355 geon:498817" xml:lang="en">St. Petersburg</placeName>
-                <idno type="jaraid">122</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سانت بطرسبرغ</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Saint-Pétersbourg</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sankt Petersburg</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Sankt Peterburg</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>59.93863, 30.31413</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3</tei:idno>
-                <tei:idno type="geon">498817</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Surabaya</placeName>
-                <idno type="jaraid">213</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">São Paolo</placeName>
-                <idno type="jaraid">49</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Tangier</placeName>
-                <idno type="jaraid">44</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:300 geon:112931" xml:lang="en">Teheran</placeName>
-                <idno type="jaraid">209</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">طهران</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Téhéran</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Teheran</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Tahran</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>35.69439, 51.42151</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Tehran</tei:idno>
-                <tei:idno type="url">http://id.loc.gov/authorities/names/n79039626</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD</tei:idno>
-                <tei:idno type="geon">112931</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Terre Haute, IN</placeName>
-                <idno type="jaraid">139</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Tucumán</placeName>
-                <idno type="jaraid">150</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:333 geon:2464470" xml:lang="en">Tunis</placeName>
-                <idno type="jaraid">13</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">تونس</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Tunis</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Tunis</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Tunus</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>36.81897, 10.16579</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Tunis</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81_%28%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29</tei:idno>
-                <tei:idno type="geon">2464470</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
-                <idno type="jaraid">14</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Washington, DC</placeName>
-                <idno type="jaraid">140</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Weltevreden</placeName>
-                <idno type="jaraid">214</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Woking</placeName>
-                <idno type="jaraid">42</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Yogyakarta</placeName>
-                <idno type="jaraid">234</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Zanzibar</placeName>
-                <idno type="jaraid">59</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kiftīn (<placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>)</placeName>
-                <idno type="jaraid">36</idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:192 geon:248382" xml:lang="ar-Latn-x-ijmes">Maʿān</placeName>
-                <idno type="jaraid">72</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">معان</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Ma'an</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>30.19624, 35.73405</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Ma%27an</tei:idno>
-                <tei:idno type="geon">248382</tei:idno>
-            </place>
-            <place type="town">
-                <placeName change="#d6e157" ref="oape:place:13 geon:311111" xml:lang="ar-Latn-x-ijmes">Iskandarūna</placeName>
-                <placeName change="#d2e154" xml:lang="ar">اسكندرونة</placeName>
-                <idno type="jaraid">191</idno>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="en">İskenderun</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">İskenderun</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="de">İskenderun</tei:placeName>
-                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">İskenderun</tei:placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>36.58718, 36.17347</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/%C4%B0skenderun</tei:idno>
-                <tei:idno type="geon">311111</tei:idno>
-            </place>
-            <place type="town">
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Batrūn</placeName>
-                <placeName change="#d2e154 #d6e157" ref="oape:place:204 geon:280328" xml:lang="ar">البترون</placeName>
-                <idno type="jaraid">162</idno>
-                <tei:location source="#org_geon">
-                    <tei:geo>34.25528, 35.65806</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Batroun</tei:idno>
-                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BD</tei:idno>
-                <tei:idno type="geon">280328</tei:idno>
-            </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Jīza</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">الجيزة</placeName>
-                <idno type="jaraid">80</idno>
-            </place>
-            <place type="town">
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Ḥadath</placeName>
-                <placeName change="#d2e154 #d6e157" ref="oape:place:207 geon:280134" xml:lang="ar">الحدث</placeName>
-                <idno type="jaraid">175</idno>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.83333, 35.53333</tei:geo>
-                </tei:location>
-                <tei:idno type="url">https://en.wikipedia.org/wiki/Hadeth%2C_Beirut</tei:idno>
-                <tei:idno type="geon">280134</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Ḥilla</placeName>
-                <placeName change="#d2e154" xml:lang="ar">الحلة</placeName>
-                <idno type="jaraid">205</idno>
-            </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Ḥawāmidiyya</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">الحوامدية</placeName>
-                <idno type="jaraid">115</idno>
-            </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Kharṭūm</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">الخرطوم</placeName>
-                <idno type="jaraid">62</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">al-Dār al-Bayḍāʾ</placeName>
-                <placeName change="#d2e154" xml:lang="ar">الدار البيضاء</placeName>
-                <idno type="jaraid">101</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Dāmūr</placeName>
-                <placeName change="#d2e154" xml:lang="ar">الدامور</placeName>
-                <idno type="jaraid">179</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Zaqāzīq</placeName>
-                <placeName change="#d2e154" xml:lang="ar">الزقازيق</placeName>
-                <idno type="jaraid">106</idno>
-            </place>
-            <place type="town">
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Shuwayfāt</placeName>
-                <placeName change="#d2e154 #d6e157" ref="oape:place:370 geon:8134087" xml:lang="ar">الشويفات</placeName>
-                <idno type="jaraid">177</idno>
-                <tei:location source="#org_geon">
-                    <tei:geo>30.00806, 31.40942</tei:geo>
-                </tei:location>
-                <tei:idno type="geon">8134087</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-ʿAshshār</placeName>
-                <placeName change="#d2e154" xml:lang="ar">العشار</placeName>
-                <idno type="jaraid">206</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-ʿAmāra</placeName>
-                <placeName change="#d2e154" xml:lang="ar">العمارة</placeName>
-                <idno type="jaraid">204</idno>
-            </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Fayyūm</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">الفيوم</placeName>
-                <idno type="jaraid">50</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Qurashiyya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">القرشية</placeName>
-                <idno type="jaraid">90</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Qayrawān</placeName>
-                <placeName change="#d2e154" xml:lang="ar">القيروان</placeName>
-                <idno type="jaraid">95</idno>
-            </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Al-Maḥalla al-Kubrā</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">المحلة الكبری</placeName>
-                <idno type="jaraid">116</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">al-Maḥalla al-Kubrā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">المحلة الكبری</placeName>
-                <idno type="jaraid">86</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Maḥmūdiyya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">المحمودية</placeName>
-                <idno type="jaraid">114</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">al-Muʿallaqa</placeName>
-                <placeName change="#d2e154" xml:lang="ar">المعلقة</placeName>
-                <idno type="jaraid">221</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Minyā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">المنيی</placeName>
-                <idno type="jaraid">77</idno>
-            </place>
-            <place type="county">
-                <placeName xml:lang="ar-Latn-x-ijmes">Al-Najaf</placeName>
-                <placeName change="#d2e154 #d6e157" ref="oape:place:215 geon:98862" xml:lang="ar">النجف</placeName>
-                <idno type="jaraid">230</idno>
-                <tei:location source="#org_geon">
-                    <tei:geo>31.25, 43.83333</tei:geo>
-                </tei:location>
-                <tei:idno type="url">http://en.wikipedia.org/wiki/Najaf_Province</tei:idno>
-                <tei:idno type="geon">98862</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Anṭākiya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">انطاكية</placeName>
-                <idno type="jaraid">192</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ihdin and Zighartā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">اهدن  وزغرتی</placeName>
-                <idno type="jaraid">159</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Biḥamdūn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بحمدون</placeName>
-                <idno type="jaraid">172</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Barqa</placeName>
-                <placeName change="#d2e154" xml:lang="ar">برقة</placeName>
-                <idno type="jaraid">93</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Burummānā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">برمانی</placeName>
-                <idno type="jaraid">168</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Biskra</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بسكرة</placeName>
-                <idno type="jaraid">97</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baskintā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بسكنتی</placeName>
-                <idno type="jaraid">170</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baʿabdāt</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بعبدات</placeName>
-                <idno type="jaraid">169</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baʿbdā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بعبدی</placeName>
-                <idno type="jaraid">18</idno>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Berlin</tei:idno>
+                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D1%96%D0%BD</tei:idno>
+                <tei:idno type="geon">2950159</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:162 geon:277130" xml:lang="ar-Latn-x-ijmes">Baʿalbak</placeName>
@@ -18111,60 +18944,88 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B0%D0%BB%D1%8C%D0%B1%D0%B5%D0%BA</tei:idno>
                 <tei:idno type="geon">277130</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Balbīs</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بلبيس</placeName>
-                <idno type="jaraid">119</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:216 geon:98182" xml:lang="en">Baghdad</placeName>
+                <idno type="jaraid">5</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بغداد</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bagdad</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bagdad</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Bağdat</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.34058, 44.40088</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Baghdad</tei:idno>
+                <tei:idno type="geon">98182</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Balqās</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بلقاس</placeName>
-                <idno type="jaraid">83</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:308 geon:4930956" xml:lang="en">Boston</placeName>
+                <idno type="jaraid">130</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوسطن</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Boston</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Boston</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Boston</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>42.35843, -71.05977</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Boston</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n79045553</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD</tei:idno>
+                <tei:idno type="geon">4930956</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Banha</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بنهة</placeName>
-                <idno type="jaraid">69</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:325 geon:3181928" xml:lang="en">Bologna</placeName>
+                <idno type="jaraid">127</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بولونيا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Bologne</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Bologna</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Bolonya</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>44.49381, 11.33875</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Bologna</tei:idno>
+                <tei:idno type="url">http://no.wikipedia.org/wiki/Bologna</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C%D1%8F</tei:idno>
+                <tei:idno type="url">http://sv.wikipedia.org/wiki/Bologna</tei:idno>
+                <tei:idno type="geon">3181928</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Būlāq</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بولاق</placeName>
-                <idno type="jaraid">6</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:362 geon:3435910" xml:lang="en">Buenos Aires</placeName>
+                <idno type="jaraid">51</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوينس آيرس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Buenos Aires</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Buenos Aires</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-34.61315, -58.37723</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Buenos_Aires</tei:idno>
+                <tei:idno type="geon">3435910</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bayt al-Dīn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بيت الدين</placeName>
-                <idno type="jaraid">19</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:26 geon:276781" xml:lang="en">Beirut</placeName>
+                <idno type="jaraid">2</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بيروت</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Beyrouth</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Beirut</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Beyrut</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.88894, 35.49442</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Beirut</tei:idno>
+                <tei:idno type="geon">276781</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bayt Shabāb</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بيت شباب</placeName>
-                <idno type="jaraid">166</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bīkfayā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بيكفيی</placeName>
-                <idno type="jaraid">222</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baynū (ʿAkkār)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بينو ( عكار )</placeName>
-                <idno type="jaraid">225</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Taṭawān</placeName>
-                <placeName change="#d2e154" xml:lang="ar">تطوان</placeName>
-                <idno type="jaraid">103</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Jabla</placeName>
-                <placeName change="#d2e154" xml:lang="ar">جبلة</placeName>
-                <idno type="jaraid">195</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Jubayl</placeName>
-                <placeName change="#d2e154" xml:lang="ar">جبيل</placeName>
-                <idno type="jaraid">164</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:333 geon:2464470" xml:lang="en">Tunis</placeName>
+                <idno type="jaraid">13</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">تونس</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Tunis</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Tunis</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Tunus</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.81897, 10.16579</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Tunis</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81_%28%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29</tei:idno>
+                <tei:idno type="geon">2464470</tei:idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Jidda</placeName>
@@ -18181,15 +19042,41 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%B4%D0%B4%D0%B0</tei:idno>
                 <tei:idno type="geon">105343</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Jisr Nahr Bayrūt</placeName>
-                <placeName change="#d2e154" xml:lang="ar">جسر نهر بيروت</placeName>
-                <idno type="jaraid">173</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:291 geon:2660646" xml:lang="en">Geneva</placeName>
+                <idno type="jaraid">124</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جنيف</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Genève</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Genf</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Cenevre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Genève</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>46.20222, 6.14569</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Geneva</tei:idno>
+                <tei:idno type="geon">2660646</tei:idno>
             </place>
-            <place>
-                <placeName change="#d6e157" ref="oape:place:377" xml:lang="ar-Latn-x-ijmes">Ḥarīṣā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حريصی</placeName>
-                <idno type="jaraid">223</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:206 geon:8041193" xml:lang="ar-Latn-FR">Jounieh</placeName>
+                <idno type="jaraid">52</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">جونية</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.41627, 36.15134</tei:geo>
+                </tei:location>
+                <tei:idno type="geon">8041193</tei:idno>
+            </place>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:15 geon:170063" xml:lang="en">Aleppo</placeName>
+                <idno type="jaraid">17</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حلب</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Alep</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Aleppo</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Halep</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.20124, 37.16117</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Aleppo</tei:idno>
+                <tei:idno type="geon">170063</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:227 geon:355795" xml:lang="en">Helwan</placeName>
@@ -18204,25 +19091,47 @@
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BB%D1%83%D0%B0%D0%BD</tei:idno>
                 <tei:idno type="geon">355795</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ḥammānā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حمانی</placeName>
-                <idno type="jaraid">171</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:175 geon:170017" xml:lang="en">Hama</placeName>
+                <idno type="jaraid">190</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حماة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حماه</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Hama</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Hama</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.13179, 36.75783</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Hama</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B0</tei:idno>
+                <tei:idno type="geon">170017</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ḥaydarābād</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حيدراباد</placeName>
-                <idno type="jaraid">43</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:35 geon:294801" xml:lang="en">Haifa</placeName>
+                <placeName change="#d6e157" ref="oape:place:35 geon:294801" xml:lang="en">Hayfa</placeName>
+                <idno type="jaraid">188</idno>
+                <idno type="jaraid">235</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حيفا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Haïfa</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Haifa</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Hayfa</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.81841, 34.9885</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Haifa</tei:idno>
+                <tei:idno type="geon">294801</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Darʿun</placeName>
-                <placeName change="#d2e154" xml:lang="ar">درعن</placeName>
-                <idno type="jaraid">25</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Disūq</placeName>
-                <placeName change="#d2e154" xml:lang="ar">دسوق</placeName>
-                <idno type="jaraid">87</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:61 geon:170654" xml:lang="en">Damascus</placeName>
+                <idno type="jaraid">15</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">دمشق</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Damas</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Damaskus</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Şam</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.5102, 36.29128</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Damascus</tei:idno>
+                <tei:idno type="geon">170654</tei:idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Damanhūr</placeName>
@@ -18235,12 +19144,6 @@
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Damanhur</tei:idno>
                 <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BC%D0%B0%D0%BD%D1%85%D1%83%D1%80</tei:idno>
                 <tei:idno type="geon">358448</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Dimyāṭ</placeName>
-                <placeName xml:lang="en">Damietta   </placeName>
-                <placeName change="#d2e154" xml:lang="ar">دمياط</placeName>
-                <idno type="jaraid">57</idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:16 geon:170794" xml:lang="ar-Latn-x-ijmes">Dayr al-Zūr</placeName>
@@ -18259,10 +19162,18 @@
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Deir_ez-Zor</tei:idno>
                 <tei:idno type="geon">170794</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Dayr al-Qamar</placeName>
-                <placeName change="#d2e154" xml:lang="ar">دير القمر</placeName>
-                <idno type="jaraid">20</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:380 geon:3451190" xml:lang="en">Rio de Janeiro</placeName>
+                <idno type="jaraid">56</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">ريو دي جانيرو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Rio de Janeiro</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Rio de Janeiro</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Rio de Janeiro</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-22.90642, -43.18223</tei:geo>
+                </tei:location>
+                <tei:idno type="url">https://en.wikipedia.org/wiki/Rio_de_Janeiro</tei:idno>
+                <tei:idno type="geon">3451190</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:166 geon:266045" xml:lang="ar-Latn-x-ijmes">Zaḥla</placeName>
@@ -18278,67 +19189,31 @@
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Zahl%C3%A9</tei:idno>
                 <tei:idno type="geon">266045</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Zaftī</placeName>
-                <placeName change="#d2e154" xml:lang="ar">زفتي</placeName>
-                <idno type="jaraid">110</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:355 geon:498817" xml:lang="en">St. Petersburg</placeName>
+                <idno type="jaraid">122</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سانت بطرسبرغ</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Saint-Pétersbourg</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sankt Petersburg</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Sankt Peterburg</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>59.93863, 30.31413</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3</tei:idno>
+                <tei:idno type="geon">498817</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Zaqāzīq</placeName>
-                <placeName change="#d2e154" xml:lang="ar">زقازيق</placeName>
-                <idno type="jaraid">68</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Safita</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سفتة</placeName>
-                <idno type="jaraid">226</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sakīkada</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سكيكدة</placeName>
-                <idno type="jaraid">99</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Saint Lawrence</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سنت ل</placeName>
-                <idno type="jaraid">239</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sūḥāj</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سوحاج</placeName>
-                <idno type="jaraid">92</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Susa</placeName>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sūsa</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سوسة</placeName>
-                <idno type="jaraid">96</idno>
-                <idno type="jaraid">120</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Suez</placeName>
-                <placeName xml:lang="ar-Latn-x-ijmes">Suways</placeName>
-                <placeName change="#d2e154" xml:lang="ar">سويس</placeName>
-                <idno type="jaraid">82</idno>
-                <idno type="jaraid">63</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Shabīn al-Kawm</placeName>
-                <placeName xml:lang="ar-Latn-x-ijmes">Shibīn al-Kawm</placeName>
-                <placeName xml:lang="en">Shibin el-Kom</placeName>
-                <placeName change="#d2e154" xml:lang="ar">شبين الكوم</placeName>
-                <idno type="jaraid">65</idno>
-                <idno type="jaraid">85</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Sharbīn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">شربين</placeName>
-                <idno type="jaraid">113</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṣalīmā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">صليمی</placeName>
-                <idno type="jaraid">167</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:286 geon:3871336" xml:lang="en">Santiago</placeName>
+                <idno type="jaraid">152</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">سانتياغو</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Santiago du Chili</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Santiago de Chile</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Santiago</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>-33.45694, -70.64827</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Santiago</tei:idno>
+                <tei:idno type="geon">3871336</tei:idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṣūr</placeName>
@@ -18413,30 +19288,20 @@
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Tanta</tei:idno>
                 <tei:idno type="geon">347497</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭahṭā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طهطی</placeName>
-                <idno type="jaraid">89</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طوخ</placeName>
-                <idno type="jaraid">91</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh Qalyūbiyya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طوخ قليوبية</placeName>
-                <idno type="jaraid">88</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ṭūl Karam</placeName>
-                <placeName change="#d2e154" xml:lang="ar">طول كرم</placeName>
-                <idno type="jaraid">198</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿĀliya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عالية</placeName>
-                <idno type="jaraid">40</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:300 geon:112931" xml:lang="en">Teheran</placeName>
+                <idno type="jaraid">209</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">طهران</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Téhéran</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Teheran</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Tahran</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.69439, 51.42151</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Tehran</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n79039626</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD</tei:idno>
+                <tei:idno type="geon">112931</tei:idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿĀlayah</placeName>
@@ -18447,11 +19312,6 @@
                 </tei:location>
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Aley</tei:idno>
                 <tei:idno type="geon">280425</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAbd Lillī</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عبد للي</placeName>
-                <idno type="jaraid">224</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿAbayah</placeName>
@@ -18469,55 +19329,20 @@
                 </tei:location>
                 <tei:idno type="geon">276789</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿIzbat al-Zaytūn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عزبة الزيتون</placeName>
-                <idno type="jaraid">109</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAkkā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عكی</placeName>
-                <idno type="jaraid">228</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAmshīt</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عمشيت</placeName>
-                <idno type="jaraid">165</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAyn Zaḥaltā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عين زحلتی</placeName>
-                <idno type="jaraid">181</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ghawānābārā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">غواناباری</placeName>
-                <idno type="jaraid">71</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Fāqūs</placeName>
-                <placeName change="#d2e154" xml:lang="ar">فاقوس</placeName>
-                <idno type="jaraid">108</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Furn al-Shubbāk</placeName>
-                <placeName change="#d2e154" xml:lang="ar">فرن الشباك</placeName>
-                <idno type="jaraid">174</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Qaṣabat Basharrāy</placeName>
-                <placeName change="#d2e154" xml:lang="ar">قصبة بشراي</placeName>
-                <idno type="jaraid">160</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Qaṣbat Jazzīn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">قصبة جزين</placeName>
-                <idno type="jaraid">184</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Qalʿat al-Qadmūs</placeName>
-                <placeName change="#d2e154" xml:lang="ar">قلعة القدموس</placeName>
-                <idno type="jaraid">227</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:315 geon:4560349" xml:lang="en">Philadelphia</placeName>
+                <idno type="jaraid">47</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">فيلادلفيا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Philadelphie</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Philadelphia</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Philadelphia</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>39.95233, -75.16379</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Philadelphia</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n78095520</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F</tei:idno>
+                <tei:idno type="geon">4560349</tei:idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:188 geon:173334" xml:lang="ar-Latn-x-ijmes">Qunayṭra</placeName>
@@ -18528,16 +19353,6 @@
                 </tei:location>
                 <tei:idno type="url">http://en.wikipedia.org/wiki/Quneitra</tei:idno>
                 <tei:idno type="geon">173334</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Qanā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">قنی</placeName>
-                <idno type="jaraid">112</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Qaytūlī</placeName>
-                <placeName change="#d2e154" xml:lang="ar">قيتولي</placeName>
-                <idno type="jaraid">186</idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:372 geon:94824" xml:lang="ar-Latn-x-ijmes">Karbala</placeName>
@@ -18556,16 +19371,6 @@
                 <tei:idno type="url">https://en.wikipedia.org/wiki/Karbala</tei:idno>
                 <tei:idno type="url">https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B1%D0%B5%D0%BB%D0%B0</tei:idno>
                 <tei:idno type="geon">94824</tei:idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kirkuk</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كركك</placeName>
-                <idno type="jaraid">201</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kazimiyya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كزمية</placeName>
-                <idno type="jaraid">200</idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:356 geon:551487" xml:lang="ar-Latn-x-ijmes">Kazan</placeName>
@@ -18589,90 +19394,100 @@
                 </tei:location>
                 <tei:idno type="geon">354365</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Ḥātā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كفر حاتی</placeName>
-                <idno type="jaraid">161</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Shīmā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كفر شيمی</placeName>
-                <idno type="jaraid">176</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kafr Matā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">كفر متی</placeName>
-                <idno type="jaraid">39</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Madīna ʿĀliyya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مدينة عالية</placeName>
-                <idno type="jaraid">178</idno>
-            </place>
-            <place type="county">
-                <placeName xml:lang="ar-Latn-x-ijmes">Marjaʿuyūn</placeName>
-                <placeName change="#d2e154 #d6e157" ref="oape:place:40 geon:271225" xml:lang="ar">مرجعيون</placeName>
-                <idno type="jaraid">185</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:294 geon:1264733" xml:lang="en">Lucknow</placeName>
+                <idno type="jaraid">70</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">لكهنؤ</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Lucknow</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Lucknow</tei:placeName>
                 <tei:location source="#org_geon">
-                    <tei:geo>33.27511, 35.53822</tei:geo>
+                    <tei:geo>26.83928, 80.92313</tei:geo>
                 </tei:location>
-                <tei:idno type="geon">271225</tei:idno>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Lucknow</tei:idno>
+                <tei:idno type="geon">1264733</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mardin</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مردن</placeName>
-                <idno type="jaraid">231</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:331 geon:2643743" xml:lang="en">London</placeName>
+                <idno type="jaraid">10</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">لندن</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Londres</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">London</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Londra</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>51.50853, -0.12574</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/London</tei:idno>
+                <tei:idno type="url">http://id.loc.gov/authorities/names/n79005665</tei:idno>
+                <tei:idno type="url">http://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD</tei:idno>
+                <tei:idno type="geon">2643743</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mukallā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مكلی</placeName>
-                <idno type="jaraid">208</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:192 geon:248382" xml:lang="ar-Latn-x-ijmes">Maʿān</placeName>
+                <idno type="jaraid">72</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">معان</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Ma'an</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>30.19624, 35.73405</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Ma%27an</tei:idno>
+                <tei:idno type="geon">248382</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Malawī</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ملوي</placeName>
-                <idno type="jaraid">117</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:220 geon:104515" xml:lang="en">Mecca</placeName>
+                <idno type="jaraid">78</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مكة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مكة المكرمة</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">La Mecque</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Mekka</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Mekke</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>21.42664, 39.82563</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Mecca</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D0%BA%D0%B0</tei:idno>
+                <tei:idno type="geon">104515</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Malīlā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">مليلی</placeName>
-                <idno type="jaraid">104</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:303 geon:5128581" xml:lang="en">New York</placeName>
+                <idno type="jaraid">45</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">نيويورك</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">New York</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">New York City</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">New York</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>40.71427, -74.00597</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/New_York_City</tei:idno>
+                <tei:idno type="geon">5128581</tei:idno>
             </place>
-            <place>
-                <placeName type="city" xml:lang="ar-Latn-x-ijmes">Manṣūra</placeName>
-                <placeName change="#d2e154" type="city" xml:lang="ar">منصورة</placeName>
-                <idno type="jaraid">55</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:12 geon:293253" xml:lang="en">Jaffa</placeName>
+                <idno type="jaraid">196</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">يافا</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Jaffa</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Jaffa</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.05043, 34.75224</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Jaffa</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%AF%D1%84%D1%84%D0%B0</tei:idno>
+                <tei:idno type="geon">293253</tei:idno>
             </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Minya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">منية</placeName>
-                <idno type="jaraid">67</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Mīt Ghamr</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ميت غمر</placeName>
-                <idno type="jaraid">84</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Naples</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ن</placeName>
-                <idno type="jaraid">32</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Najaf</placeName>
-                <placeName change="#d2e154" xml:lang="ar">نجف</placeName>
-                <idno type="jaraid">202</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Wihrān</placeName>
-                <placeName xml:lang="en">Oran</placeName>
-                <placeName change="#d2e154" xml:lang="ar">وهران</placeName>
-                <idno type="jaraid">98</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bombay</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ي</placeName>
-                <idno type="jaraid">8</idno>
+            <place type="town">
+                <placeName change="#d6e157" ref="oape:place:176 geon:169577" xml:lang="en">Homs</placeName>
+                <idno type="jaraid">189</idno>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">Ḩimş</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">حمص</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">مدينة حمص</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Homs</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Homs</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Humus</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.72682, 36.72339</tei:geo>
+                </tei:location>
+                <tei:idno type="url">http://en.wikipedia.org/wiki/Homs</tei:idno>
+                <tei:idno type="url">http://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BC%D1%81</tei:idno>
+                <tei:idno type="geon">169577</tei:idno>
             </place>
         </listPlace>
     </standOff>
