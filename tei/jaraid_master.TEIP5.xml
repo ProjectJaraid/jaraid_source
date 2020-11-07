@@ -1162,7 +1162,7 @@
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9" xml:lang="en"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1875-1914</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBL"
-                     xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs>, <rs xml:lang="en" ref="#hMJU">MJU</rs>: 1870-1947</cell>
+                     xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs>, <rs xml:lang="en" ref="#hMJU">MJU</rs>: 1870-1947; <ref target="https://gpa.eastview.com/crl/mena/newspapers/bshr" resp="#pAM" xml:lang="en">online 1870-1920</ref></cell>
                </row>
                <row n="59" role="data" xml:id="t1r59" xml:lang="en">
                   <cell n="1" xml:lang="en"> <date when="1870" xml:lang="en">1870</date> </cell>
@@ -13918,7 +13918,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Qādir Ḥamza</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930</ref></rs>, <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba" xml:lang="en">online, 1940-52</ref></cell>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930</ref></rs>, <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba" resp="#pAM" xml:lang="en">online, 1940-52</ref></cell>
                </row>
                <row n="1213" resp="#pAM" role="data" xml:id="t1r1225" xml:lang="en">
                   <cell n="1"> <date notAfter="1927-01-31" notBefore="1927-01-01">1927</date> </cell>
@@ -22755,7 +22755,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿUmar b. Qaddūr</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </cell>
-                  <cell n="9" xml:lang="en"> <rs xml:lang="en"/> </cell>
+                  <cell n="9" xml:lang="en"> <ref target="https://gpa.eastview.com/crl/mena/newspapers/alfq" resp="#pAM" xml:lang="en">online 1913-1921</ref> </cell>
                </row>
                <row n="2016" resp="#pAM" role="data" xml:id="t1r2028" xml:lang="en">
                   <cell n="1"> <date when="1924" xml:lang="en">1924</date> </cell>
@@ -26098,7 +26098,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Jibrān Musawwaḥ</persName></cell>
                   <cell n="7" xml:lang="en"><rs ref="#aSF" xml:lang="en">SF</rs>: bilingual "La Hermandad", if SF's data is correct the first year of publication must be 1914</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#aSF" xml:lang="en">SF</rs></cell>
-                  <cell n="9"><rs ref="hMMWB" resp="#pSF" xml:lang="en">MMWB</rs>: single issue (8 August 1922 = vol. 8, n. 1)</cell>
+                  <cell n="9"><rs ref="hMMWB" resp="#pSF" xml:lang="en">MMWB</rs>: single issue (8 August 1922 = vol. 8, n. 1); <ref target="https://gpa.eastview.com/crl/mena/newspapers/ikha" resp="#pAM" xml:lang="en">1922 online</ref> (together with issued published in Hama, Syria earlier)</cell>
                </row>
                
                <row n="2293" role="data" resp="#pAM"  xml:id="t1r2305" xml:lang="en">
@@ -26815,7 +26815,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Bishāra ʿAbd Allāh al-Khūrī</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9" xml:lang="en"><ref resp="#pAM" target="https://gpa.eastview.com/crl/mena/newspapers/barq" xml:lang="en">online 1925</ref></cell>
                </row>
                
                <row n="2352" role="data" resp="#pAM"  xml:id="t1r2364" xml:lang="en">
@@ -27187,7 +27187,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad al-Bāqir</persName>, <persName xml:lang="en">Naṣūḥ Bakdāsh</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlBalagh1911OttomanEmpireArabic" xml:lang="en">1911</ref>, <ref target="https://archive.org/details/AlBalagh1912OttomanEmpireArabic" xml:lang="en">1912</ref>; <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba" xml:lang="en">1918-1920</ref> (mistakenly identified and grouped with a later Cairo al-Balāgh)</cell>
+                  <cell n="9"><rs ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlBalagh1911OttomanEmpireArabic" xml:lang="en">1911</ref>, <ref target="https://archive.org/details/AlBalagh1912OttomanEmpireArabic" xml:lang="en">1912</ref>; <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba"  resp="#pAM" xml:lang="en">1918-1920</ref> (mistakenly identified and grouped with a later Cairo al-Balāgh)</cell>
                </row>
                
                <row n="2383" role="data" resp="#pAM"  xml:id="t1r2395" xml:lang="en">
@@ -27703,7 +27703,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Al-Maṭrān Jarāsīmūs Masarra</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"/>
+                  <cell n="9" xml:lang="en"><ref target="https://gpa.eastview.com/crl/mena/newspapers/hady" resp="#pAM" xml:lang="en">1923</ref>(only one issue)</cell>
                </row>
                
                <row n="2426" role="data" resp="#pAM"  xml:id="t1r2438" xml:lang="en">
@@ -30251,7 +30251,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Yūsuf al-ʿĪsā</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1920-24, 1941-55; online <ref target="https://archive.org/details/AlefBaa1920SyriaArabic" xml:lang="en">1920</ref>, <ref target="https://archive.org/details/AlefBaa1921SyriaArabic" xml:lang="en">1921</ref>, <ref target="https://archive.org/details/AlefBaa1922SyriaArabic" xml:lang="en">1922</ref>, <ref target="https://archive.org/details/AlefBaa1923SyriaArabic" xml:lang="en">1923</ref>, <ref target="https://archive.org/details/AlefBaa1924SyriaArabic" xml:lang="en">1924</ref></cell>
+                  <cell n="9"><rs resp="#pAM" ref="#hMJU" xml:lang="en">MJU</rs>: 1920-24, 1941-55; online <ref target="https://archive.org/details/AlefBaa1920SyriaArabic" xml:lang="en">1920</ref>, <ref target="https://archive.org/details/AlefBaa1921SyriaArabic" xml:lang="en">1921</ref>, <ref target="https://archive.org/details/AlefBaa1922SyriaArabic" xml:lang="en">1922</ref>, <ref target="https://archive.org/details/AlefBaa1923SyriaArabic" xml:lang="en">1923</ref>, <ref target="https://archive.org/details/AlefBaa1924SyriaArabic" xml:lang="en">1924</ref>, <ref target="https://gpa.eastview.com/crl/mena/newspapers/abab" resp="#pAM" xml:lang="en">1921, 1944-1954</ref></cell>
                </row>
                
                <row n="2637" role="data" resp="#pAM"  xml:id="t1r2649" xml:lang="en">
@@ -30299,7 +30299,7 @@
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Qāsim al-Haymānī</persName>, <persName xml:lang="en">Shafīq Shabīb</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><ref target="https://gpa.eastview.com/crl/mena/newspapers/faya" resp="#pAM" xml:lang="en">online 1924-1926</ref> (only one issue in each year)</cell>
                </row>
                
                <row n="2641" role="data" resp="#pAM"  xml:id="t1r2653" xml:lang="en">
@@ -30883,15 +30883,15 @@
                
                
                <row n="2689" role="data" resp="#pAM"  xml:id="t1r2701" xml:lang="en">
-                  <cell n="1"> <date when="1919-03-01" xml:lang="en">1919</date> </cell>
-                  <cell n="2" xml:lang="en">March/1</cell>
+                  <cell n="1"> <date when="1913" xml:lang="en">1913</date> </cell>
+                  <cell n="2" xml:lang="en"></cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="en"> <name xml:lang="en">Al-Ikhāʾ</name> </cell>
                   <cell n="5" xml:lang="en"> <placeName xml:lang="en">Hama</placeName> </cell>
                   <cell n="6" xml:lang="en"><persName xml:lang="en">Jibrān Massawaḥ</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
-                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs>: 1919; is corrected based on vol.6, n.4 (8 Oct 1919)</cell>
+                  <cell n="9"><ref target="https://gpa.eastview.com/crl/mena/newspapers/ikha" resp="#pAM" xml:lang="en"> 1919-1923 online</ref></cell>
                </row>
                
                <row n="2690" role="data" resp="#pAM"  xml:id="t1r2702" xml:lang="en">
@@ -36883,7 +36883,7 @@
                    <cell n="6" xml:lang="en"><persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Jibrān Massawaḥ</persName>, <persName xml:lang="ar-Latn-x-ijmes" resp="#pTG">Jamīl Massawaḥ</persName></cell>
                   <cell n="7" xml:lang="en" resp="#pTG">weekly</cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"></cell>
+                  <cell n="9" xml:lang="en"><ref target="https://gpa.eastview.com/crl/mena/newspapers/ikha" resp="#pAM" xml:lang="en">1910 online</ref></cell>
                </row>
                
                
