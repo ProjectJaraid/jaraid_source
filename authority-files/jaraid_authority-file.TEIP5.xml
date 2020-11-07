@@ -3944,7 +3944,7 @@
             </person>
             <person xml:id="person_390.d5e2654">
                 <persName xml:id="persName_409.d5e2656" xml:lang="de"><surname>Hartmann</surname></persName>
-                <persName xml:lang="de"><forename>Martin</forename> <surname>Hartmann</surname>
+                <persName xml:lang="de"><forename>Martin</forename> <surname>Hartmann</surname></persName>
                 <persName change="#d2e154" xml:lang="ar">هرتمن</persName>
                 <tei:persName change="#d5e126" corresp="#persName_409.d5e2656" type="flattened" xml:id="persName_1.d1960e1" xml:lang="en">Hartmann</tei:persName>
                 <idno type="jaraid">390</idno>
