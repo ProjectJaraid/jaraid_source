@@ -44,9 +44,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
-            <tei:change when="2020-11-07" who="#pers_TG" xml:id="d6e185" xml:lang="en"
-                >Improved <tei:gi>place</tei:gi> nodes with GeoNames data, querying GeoNames for IDs (if already available) and toponyms, and adding alternative names, IDs, and geo-coded locations.</tei:change>
-            <tei:change when="2020-11-07" xml:id="d2e182" xml:lang="en">Automatically translated IJMES transcription of titles and names into Arabic script</tei:change>
+            <change when="2020-11-07" who="#pers_TG" xml:id="d6e185" xml:lang="en"
+                >Improved <gi>place</gi> nodes with GeoNames data, querying GeoNames for IDs (if already available) and toponyms, and adding alternative names, IDs, and geo-coded locations.</change>
+            <change when="2020-11-07" xml:id="d2e182" xml:lang="en">Automatically translated IJMES transcription of titles and names into Arabic script</change>
             <change when="2020-11-07" who="#pers_TG" xml:id="d6e176" xml:lang="en"
                 >Improved <gi>place</gi> nodes with GeoNames data, querying GeoNames for IDs (if already available) and toponyms, and adding alternative names, IDs, and geo-coded locations.</change>
             <change when="2020-11-07" who="#pers_TG" xml:id="d6e169" xml:lang="en"
@@ -17214,38 +17214,12 @@
         </listOrg>
         <listPlace>
             <place>
-                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
-                <idno type="jaraid">33</idno>
-                <idno type="geon">2525473</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Fall River, MA</placeName>
-                <idno type="jaraid">134</idno>
-                <idno type="geon">4936159</idno>
-            </place>
-            <place>
                 <placeName xml:lang="en">Flaymbigh</placeName>
                 <idno type="jaraid">216</idno>
             </place>
             <place>
-                <placeName xml:lang="en">Lawrence, MA</placeName>
-                <idno type="jaraid">132</idno>
-                <idno type="geon">4941720</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Nicteroy</placeName>
-                <placeName xml:lang="en">Niterói</placeName>
-                <idno type="jaraid">146</idno>
-                <idno type="geon">3456283</idno>
-            </place>
-            <place>
                 <placeName xml:lang="en">Salto (Oriental), Brazil</placeName>
                 <idno type="jaraid">145</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
-                <idno type="jaraid">14</idno>
-                <idno type="geon">2562305</idno>
             </place>
             <place>
                 <placeName type="city" xml:lang="ar-Latn-x-ijmes">al-Ḥawāmidiyya</placeName>
@@ -17263,45 +17237,9 @@
                 <idno type="jaraid">159</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Biḥamdūn</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بحمدون</placeName>
-                <idno type="jaraid">172</idno>
-                <idno type="geon">276633</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baskintā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بسكنتی</placeName>
-                <idno type="jaraid">170</idno>
-                <idno type="geon">276463</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baʿbdā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بعبدا</placeName>
-                <idno type="jaraid">18</idno>
-                <idno type="geon">277226</idno>
-            </place>
-            <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Banha</placeName>
                 <placeName change="#d2e154" xml:lang="ar">بنهة</placeName>
                 <idno type="jaraid">69</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bayt Shabāb</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بيت شباب</placeName>
-                <idno type="jaraid">166</idno>
-                <idno type="geon">276692</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Bīkfayā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بيكفيی</placeName>
-                <idno type="jaraid">222</idno>
-                <idno type="geon">276605</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Baynū (ʿAkkār)</placeName>
-                <placeName change="#d2e154" xml:lang="ar">بينو ( عكار )</placeName>
-                <idno type="jaraid">225</idno>
-                <idno type="geon">276785</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Jisr Nahr Bayrūt</placeName>
@@ -17309,38 +17247,9 @@
                 <idno type="jaraid">173</idno>
             </place>
             <place>
-                <placeName change="#d6e157" ref="oape:place:377" xml:lang="ar-Latn-x-ijmes">Ḥarīsā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حريسا</placeName>
-                <idno type="jaraid">223</idno>
-                <idno type="geon">274349</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Ḥammānā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">حمانی</placeName>
-                <idno type="jaraid">171</idno>
-                <idno type="geon">274652</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Darʿun</placeName>
-                <placeName change="#d2e154" xml:lang="ar">درعن</placeName>
-                <idno type="jaraid">25</idno>
-                <idno type="geon">275761</idno>
-            </place>
-            <place>
-                <placeName xml:lang="en">Safita</placeName>
-                <idno type="jaraid">226</idno>
-                <idno type="geon">165060</idno>
-            </place>
-            <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh Qalyūbiyya</placeName>
                 <placeName change="#d2e154" xml:lang="ar">طوخ قليوبية</placeName>
                 <idno type="jaraid">88</idno>
-            </place>
-            <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿAyn Zaḥaltā</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عين زحلتا</placeName>
-                <idno type="jaraid">181</idno>
-                <idno type="geon">277378</idno>
             </place>
             <place>
                 <placeName xml:lang="ar-Latn-x-ijmes">Ghawānābārā</placeName>
@@ -17616,6 +17525,17 @@
                 <idno type="geon">6077243</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="en">Nicteroy</placeName>
+                <placeName xml:lang="en">Niterói</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="fr">Niterói</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="de">Niterói</placeName>
+                <location source="#org_geon">
+                    <geo>-22.88333, -43.10361</geo>
+                </location>
+                <idno type="jaraid">146</idno>
+                <idno type="geon">3456283</idno>
+            </place>
+            <place type="town">
                 <placeName xml:lang="en">Pekalongan</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Pekalongan</placeName>
                 <location source="#org_geon">
@@ -17664,6 +17584,17 @@
                 <idno type="jaraid">42</idno>
                 <idno type="url">https://en.wikipedia.org/wiki/Woking</idno>
                 <idno type="geon">2633709</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Safita</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar-Latn-x-ijmes">Ṣāfītā</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">صافيتا</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">برج صافيتا</placeName>
+                <location source="#org_geon">
+                    <geo>34.82099, 36.11773</geo>
+                </location>
+                <idno type="jaraid">226</idno>
+                <idno type="geon">165060</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="en">Aswan</placeName>
@@ -18079,6 +18010,15 @@
                 <idno type="geon">2988507</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Biḥamdūn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بحمدون</placeName>
+                <location source="#org_geon">
+                    <geo>33.795, 35.65111</geo>
+                </location>
+                <idno type="jaraid">172</idno>
+                <idno type="geon">276633</idno>
+            </place>
+            <place type="town">
                 <placeName change="#d6e157" ref="oape:place:343 geon:2950159" xml:lang="en">Berlin</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">برلين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Berlin</placeName>
@@ -18104,6 +18044,24 @@
                 <idno type="jaraid">97</idno>
                 <idno type="url">https://en.wikipedia.org/wiki/Biskra</idno>
                 <idno type="geon">2503826</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Baskintā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بسكنتی</placeName>
+                <location source="#org_geon">
+                    <geo>33.94417, 35.7875</geo>
+                </location>
+                <idno type="jaraid">170</idno>
+                <idno type="geon">276463</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Baʿbdā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بعبدا</placeName>
+                <location source="#org_geon">
+                    <geo>33.83389, 35.54417</geo>
+                </location>
+                <idno type="jaraid">18</idno>
+                <idno type="geon">277226</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Baʿabdāt</placeName>
@@ -18266,6 +18224,15 @@
                 <idno type="geon">3435910</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Bayt Shabāb</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بيت شباب</placeName>
+                <location source="#org_geon">
+                    <geo>33.93083, 35.67222</geo>
+                </location>
+                <idno type="jaraid">166</idno>
+                <idno type="geon">276692</idno>
+            </place>
+            <place type="town">
                 <placeName change="#d6e157" ref="oape:place:26 geon:276781" xml:lang="en">Beirut</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">بيروت</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Beyrouth</placeName>
@@ -18279,6 +18246,15 @@
                 <idno type="geon">276781</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Bīkfayā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بيكفيی</placeName>
+                <location source="#org_geon">
+                    <geo>33.92222, 35.68306</geo>
+                </location>
+                <idno type="jaraid">222</idno>
+                <idno type="geon">276605</idno>
+            </place>
+            <place type="town">
                 <placeName xml:lang="en">Belo Horizonte</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">بيلو هوريزونتي</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Belo Horizonte</placeName>
@@ -18290,6 +18266,15 @@
                 <idno type="jaraid">143</idno>
                 <idno type="url">https://en.wikipedia.org/wiki/Belo_Horizonte</idno>
                 <idno type="geon">3470127</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Baynū (ʿAkkār)</placeName>
+                <placeName change="#d2e154" xml:lang="ar">بينو ( عكار )</placeName>
+                <location source="#org_geon">
+                    <geo>34.53778, 36.17889</geo>
+                </location>
+                <idno type="jaraid">225</idno>
+                <idno type="geon">276785</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Taṭawān</placeName>
@@ -18382,6 +18367,15 @@
                 <idno type="geon">8041193</idno>
             </place>
             <place type="town">
+                <placeName change="#d6e157" ref="oape:place:377" xml:lang="ar-Latn-x-ijmes">Ḥarīsā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حريسا</placeName>
+                <location source="#org_geon">
+                    <geo>33.98222, 35.65917</geo>
+                </location>
+                <idno type="jaraid">223</idno>
+                <idno type="geon">274349</idno>
+            </place>
+            <place type="town">
                 <placeName change="#d6e157" ref="oape:place:15 geon:170063" xml:lang="en">Aleppo</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">حلب</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Alep</placeName>
@@ -18422,6 +18416,15 @@
                 <idno type="geon">170017</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Ḥammānā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">حمانی</placeName>
+                <location source="#org_geon">
+                    <geo>33.82583, 35.73472</geo>
+                </location>
+                <idno type="jaraid">171</idno>
+                <idno type="geon">274652</idno>
+            </place>
+            <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Ḥaydarābād</placeName>
                 <placeName change="#d2e154" xml:lang="ar">حيدراباد</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="en">Hyderābād</placeName>
@@ -18449,6 +18452,15 @@
                 <idno type="jaraid">235</idno>
                 <idno type="url">http://en.wikipedia.org/wiki/Haifa</idno>
                 <idno type="geon">294801</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">Darʿun</placeName>
+                <placeName change="#d2e154" xml:lang="ar">درعن</placeName>
+                <location source="#org_geon">
+                    <geo>33.97722, 35.65861</geo>
+                </location>
+                <idno type="jaraid">25</idno>
+                <idno type="geon">275761</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Disūq</placeName>
@@ -18987,6 +18999,15 @@
                 <idno type="geon">250441</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿAyn Zaḥaltā</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عين زحلتا</placeName>
+                <location source="#org_geon">
+                    <geo>33.74194, 35.69972</geo>
+                </location>
+                <idno type="jaraid">181</idno>
+                <idno type="geon">277378</idno>
+            </place>
+            <place type="town">
                 <placeName xml:lang="en">Fez</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">فاس</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Fès</placeName>
@@ -19010,6 +19031,18 @@
                 <idno type="geon">356989</idno>
             </place>
             <place type="town">
+                <placeName xml:lang="en">Valetta (<geogName type="island" xml:lang="en">Malta</geogName>)</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">فاليتا</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="fr">La Valette</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="de">Valletta</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="tr">Valletta</placeName>
+                <location source="#org_geon">
+                    <geo>35.89968, 14.5148</geo>
+                </location>
+                <idno type="jaraid">14</idno>
+                <idno type="geon">2562305</idno>
+            </place>
+            <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Furn al-Shubbāk</placeName>
                 <placeName change="#d2e154" xml:lang="ar">فرن الشباك</placeName>
                 <location source="#org_geon">
@@ -19017,6 +19050,15 @@
                 </location>
                 <idno type="jaraid">174</idno>
                 <idno type="geon">275158</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Fall River, MA</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">فول ريفر</placeName>
+                <location source="#org_geon">
+                    <geo>41.70149, -71.15505</geo>
+                </location>
+                <idno type="jaraid">134</idno>
+                <idno type="geon">4936159</idno>
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:315 geon:4560349" xml:lang="en">Philadelphia</placeName>
@@ -19063,6 +19105,18 @@
                 </location>
                 <idno type="jaraid">112</idno>
                 <idno type="geon">7046973</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">كالياري</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="fr">Cagliari</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="de">Cagliari</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="tr">Cagliari</placeName>
+                <location source="#org_geon">
+                    <geo>39.23054, 9.11917</geo>
+                </location>
+                <idno type="jaraid">33</idno>
+                <idno type="geon">2525473</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="en">Campinas</placeName>
@@ -19211,6 +19265,16 @@
                 <idno type="url">http://id.loc.gov/authorities/names/n79005665</idno>
                 <idno type="url">http://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD</idno>
                 <idno type="geon">2643743</idno>
+            </place>
+            <place type="town">
+                <placeName xml:lang="en">Lawrence, MA</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">لورانس</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="fr">Lawrence</placeName>
+                <location source="#org_geon">
+                    <geo>42.70704, -71.16311</geo>
+                </location>
+                <idno type="jaraid">132</idno>
+                <idno type="geon">4941720</idno>
             </place>
             <place type="town">
                 <placeName xml:lang="it">Livorno</placeName>
