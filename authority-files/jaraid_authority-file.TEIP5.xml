@@ -2790,7 +2790,7 @@
             </person>
             <person xml:id="person_760.d5e4936">
                 <persName xml:id="persName_779.d5e4938" xml:lang="ar-Latn-x-ijmes">Bashīr bin Fatḥ Allāh</persName>
-                <persName change="#d2e182" xml:lang="ar">بشير بن فتح الاه</persName>
+                <persName change="#d2e182" xml:lang="ar">بشير بن فتح الله</persName>
                 <persName change="#d5e126" corresp="#persName_779.d5e4938" type="flattened" xml:id="persName_1.d1366e1" xml:lang="ar-Latn-x-ijmes">BashīrbinFatḥAllāh</persName>
                 <idno type="jaraid">760</idno>
             </person>
@@ -6366,7 +6366,7 @@
             </person>
             <person xml:id="person_741.d5e4819">
                 <persName xml:id="persName_760.d5e4821" xml:lang="ar-Latn-x-ijmes">Luṭfī Bey ʿAyrūṭ</persName>
-                <persName change="#d2e182" xml:lang="ar">لطفي بeي عيروط</persName>
+                <persName change="#d2e182" xml:lang="ar">لطفي بك عيروط</persName>
                 <persName change="#d5e126" corresp="#persName_760.d5e4821" type="flattened" xml:id="persName_1.d3148e1" xml:lang="ar-Latn-x-ijmes">LuṭfīBeyʿAyrūṭ</persName>
                 <idno type="jaraid">741</idno>
             </person>
@@ -6735,7 +6735,7 @@
             </person>
             <person xml:id="person_793.d5e5140">
                 <persName xml:id="persName_812.d5e5142" xml:lang="ar-Latn-x-ijmes">Maḥmūd Bey Ḥasīb</persName>
-                <persName change="#d2e182" xml:lang="ar">محمود بeي حسيب</persName>
+                <persName change="#d2e182" xml:lang="ar">محمود بك حسيب</persName>
                 <persName change="#d5e126" corresp="#persName_812.d5e5142" type="flattened" xml:id="persName_1.d3331e1" xml:lang="ar-Latn-x-ijmes">MaḥmūdBeyḤasīb</persName>
                 <idno type="jaraid">793</idno>
             </person>
@@ -6993,7 +6993,7 @@
             </person>
             <person xml:id="person_742.d5e4825">
                 <persName xml:id="persName_761.d5e4827" xml:lang="ar-Latn-x-ijmes">Maḥmūd Zakī Bey</persName>
-                <persName change="#d2e182" xml:lang="ar">محمود زكي بeي  </persName>
+                <persName change="#d2e182" xml:lang="ar">محمود زكي بك  </persName>
                 <persName change="#d5e126" corresp="#persName_761.d5e4827" type="flattened" xml:id="persName_1.d3460e1" xml:lang="ar-Latn-x-ijmes">MaḥmūdZakīBey</persName>
                 <idno type="jaraid">742</idno>
             </person>
@@ -7576,7 +7576,7 @@
             </person>
             <person xml:id="person_717.d5e4671">
                 <persName xml:id="persName_736.d5e4673" xml:lang="ar-Latn-x-ijmes">Muḥammad Bey Abū Shādī</persName>
-                <persName change="#d2e182" xml:lang="ar">محمد بeي ابو شادي</persName>
+                <persName change="#d2e182" xml:lang="ar">محمد بك ابو شادي</persName>
                 <persName change="#d5e126" corresp="#persName_736.d5e4673" type="flattened" xml:id="persName_1.d3748e1" xml:lang="ar-Latn-x-ijmes">MuḥammadBeyAbūShādī</persName>
                 <idno type="jaraid">717</idno>
             </person>
@@ -9297,7 +9297,7 @@
             </person>
             <person xml:id="person_794.d5e5146">
                 <persName xml:id="persName_813.d5e5148" xml:lang="ar-Latn-x-ijmes">Muṣṭafā ʿAbd Allāh</persName>
-                <persName change="#d2e182" xml:lang="ar">مصطفی عبد الاه</persName>
+                <persName change="#d2e182" xml:lang="ar">مصطفی عبد الله</persName>
                 <persName change="#d5e126" corresp="#persName_813.d5e5148" type="flattened" xml:id="persName_1.d4603e1" xml:lang="ar-Latn-x-ijmes">MuṣṭafāʿAbdAllāh</persName>
                 <idno type="jaraid">794</idno>
             </person>
@@ -13569,13 +13569,13 @@
             </person>
             <person xml:id="person_712.d5e4640">
                 <persName xml:id="persName_731.d5e4642" xml:lang="ar-Latn-x-ijmes">ʿAbd Allāh Ḥassūn</persName>
-                <persName change="#d2e182" xml:lang="ar">عبد الاه حسون</persName>
+                <persName change="#d2e182" xml:lang="ar">عبد الله حسون</persName>
                 <persName change="#d5e126" corresp="#persName_731.d5e4642" type="flattened" xml:id="persName_1.d6727e1" xml:lang="ar-Latn-x-ijmes">ʿAbdAllāhḤassūn</persName>
                 <idno type="jaraid">712</idno>
             </person>
             <person xml:id="person_695.d5e4536">
                 <persName xml:id="persName_714.d5e4538" xml:lang="ar-Latn-x-ijmes">ʿAbd Allāh Ṭāhir</persName>
-                <persName change="#d2e182" xml:lang="ar">عبد الاه طاهر</persName>
+                <persName change="#d2e182" xml:lang="ar">عبد الله طاهر</persName>
                 <persName change="#d5e126" corresp="#persName_714.d5e4538" type="flattened" xml:id="persName_1.d6730e1" xml:lang="ar-Latn-x-ijmes">ʿAbdAllāhṬāhir</persName>
                 <idno type="jaraid">695</idno>
             </person>
@@ -14748,7 +14748,7 @@
             </person>
             <person xml:id="person_731.d5e4758">
                 <persName xml:id="persName_750.d5e4760" xml:lang="ar-Latn-x-ijmes">ʿAlī Ḥāfī Bey</persName>
-                <persName change="#d2e182" xml:lang="ar">علي حافي بeي</persName>
+                <persName change="#d2e182" xml:lang="ar">علي حافي بك</persName>
                 <persName change="#d5e126" corresp="#persName_750.d5e4760" type="flattened" xml:id="persName_1.d7315e1" xml:lang="ar-Latn-x-ijmes">ʿAlīḤāfīBey</persName>
                 <idno type="jaraid">731</idno>
             </person>
@@ -14904,7 +14904,7 @@
             </person>
             <person xml:id="person_714.d5e4653">
                 <persName xml:id="persName_733.d5e4655" xml:lang="ar-Latn-x-ijmes">ʿAṭā Bey Ḥusnī</persName>
-                <persName change="#d2e182" xml:lang="ar">عطی بeي حسني</persName>
+                <persName change="#d2e182" xml:lang="ar">عطی بك حسني</persName>
                 <persName change="#d5e126" corresp="#persName_733.d5e4655" type="flattened" xml:id="persName_1.d7393e1" xml:lang="ar-Latn-x-ijmes">ʿAṭāBeyḤusnī</persName>
                 <idno type="jaraid">714</idno>
             </person>
@@ -15704,7 +15704,7 @@
             </person>
             <person xml:id="person_720.d5e4690">
                 <persName xml:id="persName_739.d5e4692" xml:lang="ar-Latn-x-ijmes">Ḥasan ʿAlī ʿAbd Allāh</persName>
-                <persName change="#d2e182" xml:lang="ar">حسن علي عبد الاه</persName>
+                <persName change="#d2e182" xml:lang="ar">حسن علي عبد الله</persName>
                 <persName change="#d5e126" corresp="#persName_739.d5e4692" type="flattened" xml:id="persName_1.d7792e1" xml:lang="ar-Latn-x-ijmes">ḤasanʿAlīʿAbdAllāh</persName>
                 <idno type="jaraid">720</idno>
             </person>
