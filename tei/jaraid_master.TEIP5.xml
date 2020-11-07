@@ -13918,7 +13918,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">ʿAbd al-Qādir Ḥamza</persName> </cell>
                   <cell n="7" xml:lang="en"/>
                   <cell n="8" xml:lang="en"> <rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930</ref></rs></cell>
+                  <cell n="9"><rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-226689" xml:lang="en">online, 1926-1930</ref></rs>, <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba" xml:lang="en">online, 1940-52</ref></cell>
                </row>
                <row n="1213" resp="#pAM" role="data" xml:id="t1r1225" xml:lang="en">
                   <cell n="1"> <date notAfter="1927-01-31" notBefore="1927-01-01">1927</date> </cell>
@@ -27187,7 +27187,7 @@
                   <cell n="6" xml:lang="en"> <persName xml:lang="en">Muḥammad al-Bāqir</persName>, <persName xml:lang="en">Naṣūḥ Bakdāsh</persName></cell>
                   <cell n="7" xml:lang="en"></cell>
                   <cell n="8" xml:lang="en"><rs ref="#agt" xml:lang="en">Ṭ</rs></cell>
-                  <cell n="9"><rs ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlBalagh1911OttomanEmpireArabic" xml:lang="en">1911</ref>, <ref target="https://archive.org/details/AlBalagh1912OttomanEmpireArabic" xml:lang="en">1912</ref></cell>
+                  <cell n="9"><rs ref="#hMJU" xml:lang="en">MJU</rs>, online <ref target="https://archive.org/details/AlBalagh1911OttomanEmpireArabic" xml:lang="en">1911</ref>, <ref target="https://archive.org/details/AlBalagh1912OttomanEmpireArabic" xml:lang="en">1912</ref>; <ref target="https://gpa.eastview.com/crl/mena/newspapers/alba" xml:lang="en">1918-1920</ref> (mistakenly identified and grouped with a later Cairo al-Balāgh)</cell>
                </row>
                
                <row n="2383" role="data" resp="#pAM"  xml:id="t1r2395" xml:lang="en">
