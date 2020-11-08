@@ -39,4 +39,4 @@ Notes:
 
 # Quick web display using TEI boilerplate
 
-One can quickly view the most current data using `gh-pages` and XSLT 1 transformations in a web browser. To do so click [here](https://ProjectJaraid.github.io/jaraid_source/tei/jaraid_master.TEIP5.xml). If boilerplate does not work, the current data is displayed at https://mestyan.github.io/AdamJaraidExperiment/.
+One can quickly view the most current data using `gh-pages` and XSLT 1 transformations in a web browser. To do so click [here](https://ProjectJaraid.github.io/jaraid_source/tei/jaraid_master.TEIP5.xml). If boilerplate does not work, the current data is displayed at <ref target="https://projectjaraid.github.io/">Project Jaraid</ref> website.
