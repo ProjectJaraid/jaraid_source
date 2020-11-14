@@ -3,7 +3,7 @@ title: "Readme: Project Jarāʾid source files"
 author:
   - Till Grallert
   - Adam Mestyan
-date: 2020-05-20
+date: 2020-11-14
 ---
 
 Currently all data is kept in a single TEI XML file that mirrors the original source with prose sections for the introduction and glossaries and with two tables that contain information on individual periodicals. Documentation of changes within the source file is not necessary since GitHub commits document the changes.
