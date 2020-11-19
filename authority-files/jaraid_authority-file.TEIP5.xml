@@ -18446,8 +18446,8 @@
                 <idno type="geon">294801</idno>
             </place>
             <place type="town">
-                <placeName xml:lang="ar-Latn-x-ijmes">Darʿun</placeName>
-                <placeName change="#d2e154" xml:lang="ar">درعن</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Darʿūn</placeName>
+                <placeName change="#d2e154" xml:lang="ar">درعون</placeName>
                 <location source="#org_geon">
                     <geo>33.97722, 35.65861</geo>
                 </location>
