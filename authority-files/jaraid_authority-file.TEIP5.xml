@@ -1280,10 +1280,10 @@
                 <idno type="jaraid">253</idno>
             </person>
             <person xml:id="person_2513.d5e15747">
-                <persName xml:id="persName_2532.d5e15749" xml:lang="ar-Latn-x-ijmes">Al-Shaykh Muṣtafā al-Ghalāyinī</persName>
-                <persName change="#d2e154" xml:id="persName_537.d5e2813" xml:lang="ar">الشيخ مصتفی الغلايني</persName>
-                <tei:persName change="#d5e194" corresp="#persName_537.d5e2813" type="flattened" xml:lang="ar">الشيخمصتفیالغلايني</tei:persName>
-                <persName change="#d5e126" corresp="#persName_2532.d5e15749" type="flattened" xml:id="persName_1.d529e1" xml:lang="en">AlShaykhMuṣtafāalGhalāyinī</persName>
+                <persName xml:id="persName_2532.d5e15749" xml:lang="ar-Latn-x-ijmes">Al-Shaykh Muṣṭafā al-Ghalāyinī</persName>
+                <persName change="#d2e154" xml:id="persName_537.d5e2813" xml:lang="ar">الشيخ مصطفی الغلايني</persName>
+                <tei:persName change="#d5e194" corresp="#persName_537.d5e2813" type="flattened" xml:lang="ar">الشيخمصطفیالغلايني</tei:persName>
+                <persName change="#d5e126" corresp="#persName_2532.d5e15749" type="flattened" xml:id="persName_1.d529e1" xml:lang="en">AlShaykhMuṣṭafāalGhalāyinī</persName>
                 <idno type="jaraid">2513</idno>
             </person>
             <person xml:id="person_843.d5e5448">
@@ -10781,10 +10781,10 @@
                 <idno type="jaraid">2678</idno>
             </person>
             <person xml:id="person_2566.d5e16073">
-                <persName xml:id="persName_2585.d5e16075" xml:lang="ar-Latn-x-ijmes">Muṣtafā al-Bārūdī</persName>
-                <persName change="#d2e154" xml:id="persName_4560.d5e23140" xml:lang="ar">مصتفی البارودي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_4560.d5e23140" type="flattened" xml:lang="ar">مصتفیالبارودي</tei:persName>
-                <persName change="#d5e126" corresp="#persName_2585.d5e16075" type="flattened" xml:id="persName_1.d4537e1" xml:lang="en">MuṣtafāalBārūdī</persName>
+                <persName xml:id="persName_2585.d5e16075" xml:lang="ar-Latn-x-ijmes">Muṣṭafā al-Bārūdī</persName>
+                <persName change="#d2e154" xml:id="persName_4560.d5e23140" xml:lang="ar">مصطفی البارودي</persName>
+                <tei:persName change="#d5e194" corresp="#persName_4560.d5e23140" type="flattened" xml:lang="ar">مصطفیالبارودي</tei:persName>
+                <persName change="#d5e126" corresp="#persName_2585.d5e16075" type="flattened" xml:id="persName_1.d4537e1" xml:lang="en">MuṣṭafāalBārūdī</persName>
                 <idno type="jaraid">2566</idno>
             </person>
             <person xml:id="person_321.d5e2228">
