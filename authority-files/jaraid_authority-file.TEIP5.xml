@@ -406,6 +406,7 @@
                 <idno type="jaraid">1221</idno>
             </person>
             <person xml:id="person_2629.d5e16462">
+                <!-- this is probably an organization rather than a person -->
                 <persName xml:id="persName_2648.d5e16464" xml:lang="ar-Latn-x-ijmes">Al-Amīr Nasīb Shihāb wa-Shurakāʾuhu</persName>
                 <persName change="#d2e154" xml:id="persName_171.d5e963" xml:lang="ar">الامير نسيب شهاب الشركاؤه</persName>
                 <tei:persName change="#d5e194" corresp="#persName_171.d5e963" type="flattened" xml:lang="ar">الاميرنسيبشهابالشركاؤه</tei:persName>
@@ -666,6 +667,7 @@
                 <idno type="jaraid">1984</idno>
             </person>
             <person xml:id="person_1367.d5e8680">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1386.d5e8682" xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Fūtūghrāfiyya al-Miṣriyya</persName>
                 <persName change="#d2e154" xml:id="persName_279.d5e1509" xml:lang="ar">الجمعية الفوتوغرافية المصرية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_279.d5e1509" type="flattened" xml:lang="ar">الجمعيةالفوتوغرافيةالمصرية</tei:persName>
@@ -673,6 +675,7 @@
                 <idno type="jaraid">1367</idno>
             </person>
             <person xml:id="person_1586.d5e10030">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1605.d5e10032" xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Sanīya al-Khayriyya</persName>
                 <persName change="#d2e154" xml:id="persName_282.d5e1524" xml:lang="ar">الجمعية السنيية الخيرية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_282.d5e1524" type="flattened" xml:lang="ar">الجمعيةالسنييةالخيرية</tei:persName>
@@ -680,6 +683,7 @@
                 <idno type="jaraid">1586</idno>
             </person>
             <person xml:id="person_1688.d5e10659">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1707.d5e10661" xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Waṭaniyya al-Miṣriyya</persName>
                 <persName change="#d2e154" xml:id="persName_285.d5e1539" xml:lang="ar">الجمعية الوطنية المصرية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_285.d5e1539" type="flattened" xml:lang="ar">الجمعيةالوطنيةالمصرية</tei:persName>
@@ -687,6 +691,7 @@
                 <idno type="jaraid">1688</idno>
             </person>
             <person xml:id="person_1651.d5e10431">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1670.d5e10433" xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Widādiyya li-Muʿallimī al-Lugha al-ʿArabiyya</persName>
                 <persName change="#d2e154" xml:id="persName_288.d5e1555" xml:lang="ar">الجمعية الودادية المعلمي اللغة العربية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_288.d5e1555" type="flattened" xml:lang="ar">الجمعيةالوداديةالمعلمياللغةالعربية</tei:persName>
@@ -694,6 +699,7 @@
                 <idno type="jaraid">1651</idno>
             </person>
             <person xml:id="person_1526.d5e9660">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1545.d5e9662" xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿIlmiyya li-l-Ṭalba</persName>
                 <persName change="#d2e154" xml:id="persName_291.d5e1570" xml:lang="ar">الجمعية العلمية الل-طلب</persName>
                 <tei:persName change="#d5e194" corresp="#persName_291.d5e1570" type="flattened" xml:lang="ar">الجمعيةالعلميةاللطلب</tei:persName>
@@ -701,6 +707,7 @@
                 <idno type="jaraid">1526</idno>
             </person>
             <person xml:id="person_990.d5e6355">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1009.d5e6357" xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Amīrkiyya</persName>
                 <persName change="#d2e154" xml:id="persName_294.d5e1585" xml:lang="ar">الجامعة الاميركية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_294.d5e1585" type="flattened" xml:lang="ar">الجامعةالاميركية</tei:persName>
