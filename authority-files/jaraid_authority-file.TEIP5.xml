@@ -446,30 +446,30 @@
                 <idno type="jaraid">826</idno>
             </person>
             <person xml:id="person_2543.d5e15932">
-                <persName xml:id="persName_2562.d5e15934" xml:lang="ar-Latn-x-ijmes">Al-Arshmandarīt Barnardis Ghuṣn</persName>
-                <persName change="#d2e154" xml:id="persName_186.d5e1039" xml:lang="ar">الاندريت برنردس غصن</persName>
-                <tei:persName change="#d5e194" corresp="#persName_186.d5e1039" type="flattened" xml:lang="ar">الاندريتبرنردسغصن</tei:persName>
-                <persName change="#d5e126" corresp="#persName_2562.d5e15934" type="flattened" xml:id="persName_1.d172e1" xml:lang="en">AlArshmandarītBarnardisGhuṣn</persName>
+                <persName xml:id="persName_2562.d5e15934" xml:lang="ar-Latn-x-ijmes">Al-Arshimandrīt Barnardis Ghuṣn</persName>
+                <persName change="#d2e154" xml:id="persName_186.d5e1039" xml:lang="ar">الاشمندريت برنردس غصن</persName>
+                <tei:persName change="#d5e194" corresp="#persName_186.d5e1039" type="flattened" xml:lang="ar">الاشمندريتبرنردسغصن</tei:persName>
+                <persName change="#d5e126" corresp="#persName_2562.d5e15934" type="flattened" xml:id="persName_1.d172e1" xml:lang="en">AlArshimandrītBarnardisGhuṣn</persName>
                 <idno type="jaraid">2543</idno>
             </person>
             <person xml:id="person_358.d5e2456">
-                <persName xml:id="persName_377.d5e2458" xml:lang="ar-Latn-x-ijmes">Al-Arshmandrīt Aliksyūs Kātib</persName>
-                <persName change="#d2e154" xml:id="persName_189.d5e1054" xml:lang="ar">الاندريت الكسيوس كاتب</persName>
-                <tei:persName change="#d5e194" corresp="#persName_189.d5e1054" type="flattened" xml:lang="ar">الاندريتالكسيوسكاتب</tei:persName>
-                <persName change="#d5e126" corresp="#persName_377.d5e2458" type="flattened" xml:id="persName_1.d175e1" xml:lang="en">AlArshmandrītAliksyūsKātib</persName>
+                <persName xml:id="persName_377.d5e2458" xml:lang="ar-Latn-x-ijmes">Al-Arshimandrīt Aliksyūs Kātib</persName>
+                <persName change="#d2e154" xml:id="persName_189.d5e1054" xml:lang="ar">الاشمندريت الكسيوس كاتب</persName>
+                <tei:persName change="#d5e194" corresp="#persName_189.d5e1054" type="flattened" xml:lang="ar">الاشمندريتالكسيوسكاتب</tei:persName>
+                <persName change="#d5e126" corresp="#persName_377.d5e2458" type="flattened" xml:id="persName_1.d175e1" xml:lang="en">AlArshimandrītAliksyūsKātib</persName>
                 <idno type="jaraid">358</idno>
             </person>
             <person xml:id="person_2291.d5e14378">
                 <persName xml:id="persName_2310.d5e14380" xml:lang="ar-Latn-x-ijmes">Al-Arshmandīt Aghnāṭiyūs</persName>
-                <persName change="#d2e154" xml:id="persName_192.d5e1069" xml:lang="ar">الانديت اغناطيوس</persName>
-                <tei:persName change="#d5e194" corresp="#persName_192.d5e1069" type="flattened" xml:lang="ar">الانديتاغناطيوس</tei:persName>
+                <persName change="#d2e154" xml:id="persName_192.d5e1069" xml:lang="ar">الاشمندريت اغناطيوس</persName>
+                <tei:persName change="#d5e194" corresp="#persName_192.d5e1069" type="flattened" xml:lang="ar">الاشمندريتاغناطيوس</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2310.d5e14380" type="flattened" xml:id="persName_1.d178e1" xml:lang="en">AlArshmandītAghnāṭiyūs</persName>
                 <idno type="jaraid">2291</idno>
             </person>
             <person xml:id="person_1788.d5e11276">
                 <persName xml:id="persName_1807.d5e11278" xml:lang="ar-Latn-x-ijmes">Al-Arshmandīt Anṭūniyūs Bashīr</persName>
-                <persName change="#d2e154" xml:id="persName_195.d5e1084" xml:lang="ar">الانديت انطونيوس بشير</persName>
-                <tei:persName change="#d5e194" corresp="#persName_195.d5e1084" type="flattened" xml:lang="ar">الانديتانطونيوسبشير</tei:persName>
+                <persName change="#d2e154" xml:id="persName_195.d5e1084" xml:lang="ar">الاشمندريت انطونيوس بشير</persName>
+                <tei:persName change="#d5e194" corresp="#persName_195.d5e1084" type="flattened" xml:lang="ar">الاشمندريتانطونيوسبشير</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1807.d5e11278" type="flattened" xml:id="persName_1.d181e1" xml:lang="en">AlArshmandītAnṭūniyūsBashīr</persName>
                 <idno type="jaraid">1788</idno>
             </person>
@@ -1112,6 +1112,7 @@
                 <idno type="jaraid">1609</idno>
             </person>
             <person xml:id="person_239.d5e1722">
+                <!-- this is an organization -->
                 <persName xml:id="persName_258.d5e1724" xml:lang="ar-Latn-x-ijmes">Al-Rūm al-Kāthūlīk</persName>
                 <persName change="#d2e154" xml:id="persName_465.d5e2449" xml:lang="ar">الروم الكاثوليك</persName>
                 <tei:persName change="#d5e194" corresp="#persName_465.d5e2449" type="flattened" xml:lang="ar">الرومالكاثوليك</tei:persName>
