@@ -370,30 +370,18 @@
                 <tei:persName change="#d5e194" corresp="#persName_150.d5e857" type="flattened" xml:lang="ar">الاميرامينارسلان</tei:persName>
                 <persName change="#d5e126" corresp="#persName_362.d5e2366" type="flattened" xml:id="persName_1.d136e1" xml:lang="en">AlAmīrAmīnArslān</persName>
                 <idno type="jaraid">343</idno>
+                <idno type="jaraid">401</idno>
                 <tei:idno change="#d5e194" type="VIAF">19538764</tei:idno>
                 <tei:idno change="#d5e194" type="wiki">Q1337728</tei:idno>
                 <tei:birth change="#d5e194" resp="viaf" when="1868-07-13">1868-07-13</tei:birth>
                 <tei:death change="#d5e194" resp="viaf" when="1943-01-09">1943-01-09</tei:death>
-            </person>
-            <person xml:id="person_401.d5e2721">
-                <persName xml:id="persName_420.d5e2723" xml:lang="ar-Latn-x-ijmes">Al-Amīr Amīn Arslān /Arsalān</persName>
-                <persName change="#d2e154" xml:id="persName_153.d5e872" xml:lang="ar">الامير امين ارسلان ارسلان /</persName>
-                <tei:persName change="#d5e194" corresp="#persName_153.d5e872" type="flattened" xml:lang="ar">الاميرامينارسلانارسلان</tei:persName>
-                <persName change="#d5e126" corresp="#persName_420.d5e2723" type="flattened" xml:id="persName_1.d139e1" xml:lang="en">AlAmīrAmīnArslānArsalān</persName>
-                <idno type="jaraid">401</idno>
-            </person>
-            <person xml:id="person_2062.d5e12965">
-                <persName xml:id="persName_2081.d5e12967" xml:lang="ar-Latn-x-ijmes">Al-Amīr Asʿad Al-Ayyūbī</persName>
-                <persName change="#d2e154" xml:id="persName_156.d5e887" xml:lang="ar">الامير اسعد الايوبي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_156.d5e887" type="flattened" xml:lang="ar">الاميراسعدالايوبي</tei:persName>
-                <persName change="#d5e126" corresp="#persName_2081.d5e12967" type="flattened" xml:id="persName_1.d142e1" xml:lang="en">AlAmīrAsʿadAlAyyūbī</persName>
-                <idno type="jaraid">2062</idno>
             </person>
             <person xml:id="person_2068.d5e13002">
                 <persName xml:id="persName_2087.d5e13004" xml:lang="ar-Latn-x-ijmes">Al-Amīr Asʿad al-Ayyūbī</persName>
                 <persName change="#d2e154" xml:id="persName_159.d5e902" xml:lang="ar">الامير اسعد الايوبي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_159.d5e902" type="flattened" xml:lang="ar">الاميراسعدالايوبي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2087.d5e13004" type="flattened" xml:id="persName_1.d145e1" xml:lang="en">AlAmīrAsʿadalAyyūbī</persName>
+                <idno type="jaraid">2062</idno>
                 <idno type="jaraid">2068</idno>
             </person>
             <person xml:id="person_848.d5e5479">
@@ -491,19 +479,15 @@
                 <persName change="#d5e126" corresp="#persName_1788.d5e11161" type="flattened" xml:id="persName_1.d184e1" xml:lang="en">AlAsqafRufāʾīlHawāwīnī</persName>
                 <idno type="jaraid">1769</idno>
             </person>
-            <person xml:id="person_1178.d5e7514">
-                <persName xml:id="persName_1197.d5e7516" xml:lang="ar-Latn-x-ijmes">Al-Bashīr al-Fūratī</persName>
-                <persName change="#d2e154" xml:id="persName_201.d5e1115" xml:lang="ar">البشير الفورتي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_201.d5e1115" type="flattened" xml:lang="ar">البشيرالفورتي</tei:persName>
-                <persName change="#d5e126" corresp="#persName_1197.d5e7516" type="flattened" xml:id="persName_1.d187e1" xml:lang="en">AlBashīralFūratī</persName>
-                <idno type="jaraid">1178</idno>
-            </person>
             <person xml:id="person_1166.d5e7440">
+                <persName xml:id="persName_1197.d5e7516" xml:lang="ar-Latn-x-ijmes">Al-Bashīr al-Fūratī</persName>
                 <persName xml:id="persName_1185.d5e7442" xml:lang="ar-Latn-x-ijmes">Al-Bashīr al-Fūrtī</persName>
                 <persName change="#d2e154" xml:id="persName_204.d5e1130" xml:lang="ar">البشير الفورتي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_204.d5e1130" type="flattened" xml:lang="ar">البشيرالفورتي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1185.d5e7442" type="flattened" xml:id="persName_1.d190e1" xml:lang="en">AlBashīralFūrtī</persName>
+                <persName change="#d5e126" corresp="#persName_1197.d5e7516" type="flattened" xml:id="persName_1.d187e1" xml:lang="en">AlBashīralFūratī</persName>
                 <idno type="jaraid">1166</idno>
+                <idno type="jaraid">1178</idno>
             </person>
             <person xml:id="person_1165.d5e7434">
                 <persName xml:id="persName_1184.d5e7436" xml:lang="ar-Latn-x-ijmes">Al-Bashīr al-Qarawī</persName>
