@@ -862,6 +862,7 @@
                 <idno type="jaraid">834</idno>
             </person>
             <person xml:id="person_1432.d5e9080">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1451.d5e9082" xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Tawfīqiyya</persName>
                 <persName change="#d2e154" xml:id="persName_360.d5e1919" xml:lang="ar">المدرسة التوفيقية</persName>
                 <tei:persName change="#d5e194" corresp="#persName_360.d5e1919" type="flattened" xml:lang="ar">المدرسةالتوفيقية</tei:persName>
@@ -869,6 +870,7 @@
                 <idno type="jaraid">1432</idno>
             </person>
             <person xml:id="person_2081.d5e13083">
+                <!-- this is an organization -->
                 <persName xml:id="persName_2100.d5e13085" xml:lang="ar-Latn-x-ijmes">Al-Madāris</persName>
                 <persName change="#d2e154" xml:id="persName_363.d5e1934" xml:lang="ar">المدارس</persName>
                 <tei:persName change="#d5e194" corresp="#persName_363.d5e1934" type="flattened" xml:lang="ar">المدارس</tei:persName>
@@ -876,6 +878,7 @@
                 <idno type="jaraid">2081</idno>
             </person>
             <person xml:id="person_1438.d5e9117">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1457.d5e9119" xml:lang="ar-Latn-x-ijmes">Al-Maḥfal al-Akbar al-Waṭanī al-Miṣrī</persName>
                 <persName change="#d2e154" xml:id="persName_366.d5e1949" xml:lang="ar">المحفل الاكبر الوطني المصري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_366.d5e1949" type="flattened" xml:lang="ar">المحفلالاكبرالوطنيالمصري</tei:persName>
@@ -883,6 +886,7 @@
                 <idno type="jaraid">1438</idno>
             </person>
             <person xml:id="person_1295.d5e8236">
+                <!-- this is an organization -->
                 <persName xml:id="persName_1314.d5e8238" xml:lang="ar-Latn-x-ijmes">Al-Maḥfal al-Akbar al-Ūrshulīmī</persName>
                 <persName change="#d2e154" xml:id="persName_369.d5e1964" xml:lang="ar">المحفل الاكبر الورشليمي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_369.d5e1964" type="flattened" xml:lang="ar">المحفلالاكبرالورشليمي</tei:persName>
@@ -953,6 +957,7 @@
                 <idno type="jaraid">2438</idno>
             </person>
             <person xml:id="person_1985.d5e12491">
+                <!-- this is an organization -->
                 <persName xml:id="persName_2004.d5e12493" xml:lang="ar-Latn-x-ijmes">Al-Mursilūn al-Amīrkān</persName>
                 <persName change="#d2e154" xml:id="persName_399.d5e2116" xml:lang="ar">المرسلون الاميركان</persName>
                 <tei:persName change="#d5e194" corresp="#persName_399.d5e2116" type="flattened" xml:lang="ar">المرسلونالاميركان</tei:persName>
