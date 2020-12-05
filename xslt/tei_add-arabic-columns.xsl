@@ -12,7 +12,8 @@
     <xsl:include href="functions_arabic-transcription.xsl"/>
     
     <xsl:param name="p_id-change" select="generate-id(//tei:change[last()])"/>
-    <xsl:param name="p_url-authority" select="'../../jaraid_source/authority-files/jaraid_authority-file.TEIP5.xml'"/>
+    <xsl:param name="p_id-editor" select="'pers_TG'"/>
+    <xsl:param name="p_url-authority" select="'../authority-files/jaraid_authority-file.TEIP5.xml'"/>
     <xsl:variable name="v_file-entities-master" select="doc($p_url-authority)"/>
     
     <xsl:template match="/">
@@ -137,4 +138,20 @@
     </xsl:template>
     
     <xsl:template match="@xml:id | @change" mode="m_copy-from-authority-file"/>
+    
+    <!-- generate documentation of change -->
+    <xsl:template match="tei:revisionDesc" priority="100">
+        <xsl:copy>
+            <xsl:apply-templates select="@*"/>
+            <xsl:element name="change">
+                <xsl:attribute name="when"
+                    select="format-date(current-date(), '[Y0001]-[M01]-[D01]')"/>
+                <xsl:attribute name="who" select="concat('#', $p_id-editor)"/>
+                <xsl:attribute name="xml:id" select="$p_id-change"/>
+                <xsl:attribute name="xml:lang" select="'en'"/>
+                <xsl:text>Updated Arabic content of rows 11 and 12 based on recent changes to the authority file</xsl:text>
+            </xsl:element>
+            <xsl:apply-templates select="node()"/>
+        </xsl:copy>
+    </xsl:template>
 </xsl:stylesheet>
