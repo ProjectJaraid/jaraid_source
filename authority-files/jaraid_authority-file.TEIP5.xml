@@ -61,9 +61,6 @@
     </teiHeader>
     <standOff>
         <listPerson>
-            <person xml:id="person_684.d5e4469">
-                <idno type="jaraid">684</idno>
-            </person>
             <person xml:id="person_683.d5e4463">
                 <persName xml:id="persName_702.d5e4465" xml:lang="en">?</persName>
                 <idno type="jaraid">683</idno>
