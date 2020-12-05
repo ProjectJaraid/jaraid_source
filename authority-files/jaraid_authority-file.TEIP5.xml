@@ -42,6 +42,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
+            <change when="2020-12-05" who="#pers_TG" xml:lang="en">Change to trigger the GitHub action</change>
             <tei:change when="2020-11-20" who="#pers_TG" xml:id="d5e194" xml:lang="en"
                 >Improved <tei:gi>person</tei:gi> nodes with <tei:tag>persName type="noAddName"</tei:tag> and <tei:tag>persName type="flattened"</tei:tag> children and by querying VIAF for those with VIAF IDs, adding <tei:gi>birth</tei:gi>, <tei:gi>death</tei:gi>, and <tei:gi>idno</tei:gi>.</tei:change>
             <tei:change when="2020-11-19" who="#pers_TG" xml:id="d3e179" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml"
