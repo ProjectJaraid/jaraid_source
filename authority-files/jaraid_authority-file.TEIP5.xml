@@ -12718,8 +12718,8 @@
             </person>
             <person xml:id="person_42.d5e508">
                 <persName xml:id="persName_61.d5e510" xml:lang="ar-Latn-x-ijmes">Rāshid Bāshā</persName>
-                <persName change="#d2e154" xml:id="persName_5380.d5e27281" xml:lang="ar">راشد باشی</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5380.d5e27281" type="flattened" xml:lang="ar">راشدباشی</tei:persName>
+                <persName change="#d2e154" xml:id="persName_5380.d5e27281" xml:lang="ar">راشد باشا</persName>
+                <tei:persName change="#d5e194" corresp="#persName_5380.d5e27281" type="flattened" xml:lang="ar">راشد باش</tei:persName>
                 <persName change="#d5e126" corresp="#persName_61.d5e510" type="flattened" xml:id="persName_1.d5353e1" xml:lang="en">RāshidBāshā</persName>
                 <idno type="jaraid">42</idno>
             </person>
