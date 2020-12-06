@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-   schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader xml:lang="en">
       <fileDesc xml:lang="en">
          <titleStmt xml:lang="en">
@@ -59,8 +58,7 @@
                   and a reference to the contributor's xml:id -->
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en"
-                  >The 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
+               <resp xml:lang="en">The 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
                   the website, including indexes, maps, and rss feeds</resp>
                <persName sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
             </respStmt>
@@ -92,8 +90,7 @@
       </fileDesc>
       <encodingDesc xml:lang="en">
          <projectDesc xml:lang="en">
-            <p xml:lang="en"
-               >The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
+            <p xml:lang="en">The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
                from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file. The 2020 Edition was produced through Github by Adam Mestyan et al.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
@@ -101,21 +98,16 @@
             <p xml:lang="en">New entries should be made using copies of the model entry at the end of the first
                table (<tag xml:lang="en">table xml:id="t1"</tag>).</p>
             <p xml:lang="en">All changes, additions, etc. should be marked with <att xml:lang="en">resp</att> and a reference to
-               the contributors above, i.e. <att xml:lang="en"
-               >resp</att>="#pTG".</p>
+               the contributors above, i.e. <att xml:lang="en">resp</att>="#pTG".</p>
             <p xml:lang="en">Changes are to be recorded in the <gi xml:lang="en">revisionDesc</gi> of this file as
-                  <gi xml:lang="en">change</gi> nodes with a <att xml:lang="en"
-               >who</att>, <att xml:lang="en">when</att>, and <att xml:lang="en">type</att>
-               attribute. The <att xml:lang="en"
-               >type</att> can take the following values: 'content', 'xml' </p>
+                  <gi xml:lang="en">change</gi> nodes with a <att xml:lang="en">who</att>, <att xml:lang="en">when</att>, and <att xml:lang="en">type</att>
+               attribute. The <att xml:lang="en">type</att> can take the following values: 'content', 'xml' </p>
             <p xml:lang="en">Internal references to holding institutions use the <gi xml:lang="en">rs</gi> tag and a
-                  <att xml:lang="en">ref</att> attribute pointing to an <att
-               xml:lang="en">xml:id</att> that starts with 'h',
+                  <att xml:lang="en">ref</att> attribute pointing to an <att xml:lang="en">xml:id</att> that starts with 'h',
                i.e. <tag xml:lang="en">rs ref=#hINL</tag> for Iraqi National Library.</p>
             <p xml:lang="en">Various information still needs to be encoded: <list xml:lang="en">
                <item xml:lang="en">the date of the last publication (cell 3) is only partially encoded</item>
-               <item xml:lang="en"
-                  >persNames need further granulation and mark-up of forename, surname, and
+               <item xml:lang="en">persNames need further granulation and mark-up of forename, surname, and
                      honorary titles. All the contributors should be included in a persList in the
                      teiHeader for reference. Such a list could be compiled using the index of
                      persons produced for output on the website</item>
@@ -139,14 +131,11 @@
             <language ident="it">Italian</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc>
-         <tei:change when="2020-10-13" who="#pers_TG" xml:id="d3e776" xml:lang="en">Added references to local authority file (<tei:ref
-            target="../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml"
-            >../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</tei:ref>) and to OCLC (WorldCat) IDs to <tei:gi>titles</tei:gi>s without such references based on  <tei:gi>biblStruct</tei:gi>s mentioned in the authority file (bibliography).</tei:change>
+      <revisionDesc><change when="2020-12-06" who="#github" xml:id="d2e783" xml:lang="en">Updated Arabic content of rows 11 and 12 based on recent changes to the authority file</change>
+         <tei:change when="2020-10-13" who="#pers_TG" xml:id="d3e776" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml">../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</tei:ref>) and to OCLC (WorldCat) IDs to <tei:gi>titles</tei:gi>s without such references based on  <tei:gi>biblStruct</tei:gi>s mentioned in the authority file (bibliography).</tei:change>
          <tei:change when="2020-10-13" xml:id="d2e773" xml:lang="en">Automatically translated IJMES transcription of titles and names into Arabic script</tei:change>
          <tei:change when="2020-10-13" xml:id="d2e765" xml:lang="en">Converted tabular bibliographic data to lists of <tei:gi>biblStruct</tei:gi>.</tei:change>
-         <change when="2020-05-22" who="#pAm" xml:lang="en"
-            >AM adds transliterated data for journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, and from other sources, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) some illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterates the Arabic there are differences compared to Ṭarrāzī's transliterated data; source of data is always indicated</change>
+         <change when="2020-05-22" who="#pAm" xml:lang="en">AM adds transliterated data for journals 1901-1929 from Ṭarrāzī, vol. 2. pt.4 from the Arabic list, and from other sources, without cross-checking or without collections; principles: 1) if there were two editors with the same family name (like Imīl and Shukrī Zaydān) I added them separately (Imīl Zaydān, Shukrī Zaydān) 2) some illustrated journals noted in notes 3) certain journals cross-referncess in notes because they are similar/perhaps duplicate/or same owners 4) since AM transliterates the Arabic there are differences compared to Ṭarrāzī's transliterated data; source of data is always indicated</change>
          <change when="2019-04-17" who="#pAM" xml:lang="en">adds Nicole Hayat and her online suggestions</change>
          <change when="2019-02-27" who="#pAM" xml:lang="en">corrects bibliographical data based on new data in email from Sadgrove and his own research, deleted t1r32, t1r170</change>
          <change when="2018-01-04" who="#pAM" xml:lang="en">adds holdings to <ref target="#t1r375" xml:lang="en">Al-Hilāl</ref>, and <ref target="#t1r100" xml:lang="en"> al-Ahrām</ref> </change>
@@ -181,13 +170,10 @@
          <change when="2014-04-13" who="#pAM" xml:lang="en"> added contributor Daniel Newman</change>
          <change when="2014-04-13" who="#pAM" xml:lang="en"> added corrections provided by Daniel Newman</change>
          <change when="2014-04-13" who="#pAM" xml:lang="en"> added corrections provided by Till Grallert</change>
-         <change type="xml" when="2013-04-24" who="#pTG" xml:lang="en"
-            > corrected some errors introduced in the
-            previous update, included an erroneous reference to #hBOSJ. As the xslt ingnors the <gi xml:lang="en"
-            >del</gi>
+         <change type="xml" when="2013-04-24" who="#pTG" xml:lang="en"> corrected some errors introduced in the
+            previous update, included an erroneous reference to #hBOSJ. As the xslt ingnors the <gi xml:lang="en">del</gi>
             tag in cell 9 (references to holding institutions), I finally deleted the references
-            marked as such in May 2012, i.e. in rows <ref target="#t1r25"
-            xml:lang="en">t1r25</ref>, t1r339,
+            marked as such in May 2012, i.e. in rows <ref target="#t1r25" xml:lang="en">t1r25</ref>, t1r339,
             t1r133</change>
          <change type="xml" when="2013-04-16" who="#pTG" xml:lang="en"> made some changes to the internal
             links</change>
@@ -202,14 +188,12 @@
             persNames</change>
          <change when="2012-10-19" who="#pTG" xml:lang="en">corrected the references to Ibrāhīm ʿAbduh based on
             Adam Mestyan's data</change>
-         <change when="2012-10-15" who="#pTG" xml:lang="en"
-            >After inquiring with Philip Sadgrove, it was
+         <change when="2012-10-15" who="#pTG" xml:lang="en">After inquiring with Philip Sadgrove, it was
             established that Ibrāhīm ʿAbduh is indeed not the name of a collection but points
             towards the source of information</change>
          <change type="xml" when="2012-10-10" who="#pTG" xml:lang="en"> made some corrections to the markup,
             correcting minor errors introduced by the previous additions</change>
-         <change when="2012-10-10" who="#pTG" xml:lang="en">added 3 periodicals to the chronology (<ref target="#t1r847" xml:lang="en">t1r847</ref>, <ref target="#t1r848" xml:lang="en"
-            >t1r848</ref>, and <ref target="#t1r849" xml:lang="en">t1r849</ref>), added further holding institutions (UPenn, Stan, and
+         <change when="2012-10-10" who="#pTG" xml:lang="en">added 3 periodicals to the chronology (<ref target="#t1r847" xml:lang="en">t1r847</ref>, <ref target="#t1r848" xml:lang="en">t1r848</ref>, and <ref target="#t1r849" xml:lang="en">t1r849</ref>), added further holding institutions (UPenn, Stan, and
             Col)</change>
          <change when="2012-10-09" who="#pAM" xml:lang="en"> added some new data from MEC</change>
          <change when="2012-10-09" who="#pAM" xml:lang="en"> corrected t1r11 based on HA</change>
@@ -230,8 +214,7 @@
             resources</change>
          <change type="xml" when="2012-08-16" who="#pTG" xml:lang="en"> added abbreviations for months longer then
             5 letters</change>
-         <change type="xml" when="2012-08-16" who="#pTG" xml:lang="en"
-            > included the day and month of the first
+         <change type="xml" when="2012-08-16" who="#pTG" xml:lang="en"> included the day and month of the first
             issue (cell 2) in the @when, @notBefore, and @notAfter attributes of cell 1 through XSLT
             conversion</change>
          <change when="2012-07-26" who="#pTG" xml:lang="en"> added references to the al-Aqṣā collection</change>
@@ -252,8 +235,7 @@
          <change when="2012-06-01" who="#pTG" xml:lang="en"> incorporated some last abbreviations: EN (=BnF), IE,
             Ind Off, and omitted Beir</change>
          <change when="2012-05-30" who="#pAM" xml:lang="en"> corrected typos, changed Alg Lib to BnA and BM to BL </change>
-         <change type="xml" when="2012-05-30" who="#pTG" xml:lang="en"
-            > deleted "Cent Lib"; replace "Lan" and "Lan
+         <change type="xml" when="2012-05-30" who="#pTG" xml:lang="en"> deleted "Cent Lib"; replace "Lan" and "Lan
             Or" with "INALCO"; marked TGK and THC as deleted; marked up the last place names; found
             another holding institution not yet accounted for: "EN"</change>
          <change when="2012-05-29" who="#pAM" xml:lang="en"> corrected typos, added some data, clarified L’Oranais </change>
@@ -272,14 +254,12 @@
             the position of the row in the original data as provided</change>
          <change type="xml" when="2012-04-10" who="#pTG" xml:lang="en">Original TEI enhanced with semantic markup,
             including dates, placeName, and references to the legend</change>
-         <change when="2012-04-10" who="#pTG" xml:lang="en"
-            >Unified the references to "BLO = Bodleian Library,
+         <change when="2012-04-10" who="#pTG" xml:lang="en">Unified the references to "BLO = Bodleian Library,
             Oxford" and "Bod = Bodliean Library, Oxford" as "Bod = Bodleian Library,
             Oxford"</change>
          <change when="2012-04-10" who="#pTG" xml:lang="en">Changed "LC" and "OB" to the commonly used "LoC" and
             "OIB"</change>
-         <change when="2012-04-10" who="#pTG" xml:lang="en"
-            >Added missing values to the list of abbreviations:
+         <change when="2012-04-10" who="#pTG" xml:lang="en">Added missing values to the list of abbreviations:
             DKQW, "Baghdad Univ", "CU", "DKT", "Dur", "DWQ", "Lan", "National Library of Israel",
             BM, Tet, Alg Lib </change>
          <change type="xml" when="2012-04-10" who="#pTG" xml:lang="en">Performed some transformations with custom
@@ -296,15 +276,13 @@
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
             <p xml:id="p2" xml:lang="en">With a major contribution from Philip Sadgrove</p>
-            <p xml:id="p3" xml:lang="en"
-               >and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
+            <p xml:id="p3" xml:lang="en">and contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:id="p6" xml:lang="en"
-               >2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Hugh Cayless and Till Grallert</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan; XSLT by Hugh Cayless and Till Grallert</p>
             <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
@@ -318,23 +296,19 @@
          <div type="chapter" xml:id="dIntro" xml:lang="en">
             <head xml:lang="en">Introductory Notes</head>
             <p xml:lang="en">This website provides a chronology of Arabic periodicals between 1800 and 1929.</p>
-            <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en"
-               >and</hi> in another language (such as the usual pair of Arabic and
+            <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en">and</hi> in another language (such as the usual pair of Arabic and
                Ottoman Turkish) or in Arabic written in a different script (such as Judeo-Arabic)
                during the period from 1800 to 1929, this chronology is certainly incomplete.
                Furthermore, there remain numerous problems with dating and locating individual
                publications as well as identifying their owners, editors, or publishers.</p>
-            <p xml:lang="en"
-               >Thus, at the moment we consciously publish a working draft with the purpose of making
+            <p xml:lang="en">Thus, at the moment we consciously publish a working draft with the purpose of making
                our information available to the scholarly community. We welcome all readers to
-               submit any comment, corrections, and new data using <ref
-               rend="external" target="https://scholars.duke.edu/person/Adam.Mestyan"> <persName ref="#pAM" xml:lang="en">Adam Mestyan</persName>
+               submit any comment, corrections, and new data using <ref rend="external" target="https://scholars.duke.edu/person/Adam.Mestyan"> <persName ref="#pAM" xml:lang="en">Adam Mestyan</persName>
                </ref>'s official email address. We would like to ask all contributors to always refer to
                the ID of each title – in case of comments on existing entries – and cite
                their sources, as otherwise we cannot consider the submission for being included in
                the table. Every contribution will be acknowledged.</p>
-            <p xml:lang="en"
-               >We chose to present the core data as a table containing information on titles, dates
+            <p xml:lang="en">We chose to present the core data as a table containing information on titles, dates
                of first and last issue published, place(s) of publication, names of publishers and
                editors, language(s) of publication, and available collections. In addition, we
                provide various indexes of holding institutions and locations, as well as a bibliography of the
@@ -345,48 +319,34 @@
          </div>
          <div xml:id="dVersionHist" xml:lang="en">
             <head xml:lang="en">I. Version History</head>
-            <p xml:lang="en"
-               >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName
-               xml:lang="en">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"> <hi rend="italic" xml:lang="en">Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi>
-               </name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName xml:lang="en"
-               >Adam Mestyan</persName> added manually during 2020. This data is enriched and checked against <persName ref="#pAM" xml:lang="en">Adam Mestyan</persName>'s personal research, <persName
-               ref="#pTG" xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/"
-               >OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links any time</p>
-            <p xml:lang="en"
-               >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
+            <p xml:lang="en">The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName xml:lang="en">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"> <hi rend="italic" xml:lang="en">Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi>
+               </name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName xml:lang="en">Adam Mestyan</persName> added manually during 2020. This data is enriched and checked against <persName ref="#pAM" xml:lang="en">Adam Mestyan</persName>'s personal research, <persName ref="#pTG" xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/">OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products. We welcome readers to submit new data, corrections, and links any time</p>
+            <p xml:lang="en">The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
-                  enrich and correct our data.The 2015 archived version of that list can be seen <ref
-               target="https://archiv.zmo.de/jaraid/index.html">here</ref>; and a 2019 version is <ref target="https://projectjaraid.github.io/v1/">here</ref>.</p>
+                  enrich and correct our data.The 2015 archived version of that list can be seen <ref target="https://archiv.zmo.de/jaraid/index.html">here</ref>; and a 2019 version is <ref target="https://projectjaraid.github.io/v1/">here</ref>.</p>
          </div>
          <div xml:id="dTrans" xml:lang="en">
             <head xml:lang="en">II. Transliteration</head>
-            <p xml:lang="en">Currently we provide transliterations only, following the <ref
-               target="https://www.cambridge.org/core/services/aop-file-manager/file/57d83390f6ea5a022234b400/TransChart.pdf"
-               > IJMES-standard</ref>. An extended, Arabic journal bibliographical database is under construction.</p>
+            <p xml:lang="en">Currently we provide transliterations only, following the <ref target="https://www.cambridge.org/core/services/aop-file-manager/file/57d83390f6ea5a022234b400/TransChart.pdf"> IJMES-standard</ref>. An extended, Arabic journal bibliographical database is under construction.</p>
          </div>
          <div xml:id="dPer" xml:lang="en">
             <head xml:lang="en">III. Period, time</head>
-            <p xml:lang="en"
-               >The choice for a limited period was arbitrary and due to constrains in resources.
+            <p xml:lang="en">The choice for a limited period was arbitrary and due to constrains in resources.
                   We used the Gregorian calendar out of convenience. At a later point, we plan to
                   insert the dates according to the calendars indicated by the mastheads of the
                   respective periodical (Hijrī, Coptic, Rūmī, Armenian, Greek, Jewish etc.).</p>
          </div>
          <div xml:id="dDef" xml:lang="en">
             <head xml:lang="en">IV. The definition of a periodical</head>
-            <p xml:lang="en"
-               >A periodical here means a printed product that was established with the conscious
+            <p xml:lang="en">A periodical here means a printed product that was established with the conscious
                   aim to distribute it to the reading public on a regular basis (daily, weekly,
-                  monthly, etc.). We do not make a distinction between newspaper (<hi
-               rend="italic" xml:lang="en">jarīda</hi> or <hi rend="italic" xml:lang="en">ṣaḥīfa</hi>) and magazine (<hi rend="italic" xml:lang="en"
-               >majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
+                  monthly, etc.). We do not make a distinction between newspaper (<hi rend="italic" xml:lang="en">jarīda</hi> or <hi rend="italic" xml:lang="en">ṣaḥīfa</hi>) and magazine (<hi rend="italic" xml:lang="en">majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
          </div>
          <div xml:id="dAvail" xml:lang="en">
             <head xml:lang="en">V. Availability</head>
-            <p xml:lang="en"
-               >We could not check all periodicals in the indicated collections. The authors of
+            <p xml:lang="en">We could not check all periodicals in the indicated collections. The authors of
                   this database do not hold any responsibility for the actual holdings or the
                   accessibility of the indicated copies.</p>
          </div>
@@ -398,14 +358,11 @@
          <div xml:id="dAgen" xml:lang="en">
             <head xml:lang="en"> Legend:</head>
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
-            <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en"
-               >not</hi> in the Dār al-Kutub
+            <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en">not</hi> in the Dār al-Kutub
                   catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār)</p>
-            <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en"
-               >Taṭawwur al-ṣiḥāfa
+            <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en">Taṭawwur al-ṣiḥāfa
                      al-Miṣriyya: 1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982)</add> </p>
-            <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en"
-               >L’Influence française sur la formation de
+            <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en">L’Influence française sur la formation de
                   la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973)</p>
             <p xml:lang="en">S = Sadgrove’s data (his contribution, based on his own research)</p>
             <p xml:lang="en">Ṭ = Ṭarrāzī’s data (from his book)</p>
@@ -414,162 +371,125 @@
             <head xml:lang="en">Bibliography / Sources</head>
             <div xml:id="dMajS" xml:lang="en">
                <note xml:id="sourcesNote" xml:lang="en">
-                  See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"
-                  > Zotero</ref>, too, created and curated by Till Grallert.
+                  See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"> Zotero</ref>, too, created and curated by Till Grallert.
                </note>
                <head xml:lang="en">Major sources</head>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Fihris al-Dawriyyāt
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Fihris al-Dawriyyāt
                         al-ʿArabiyya allatī Taqtinīhā al-Dār</hi>, 2 vols. (Cairo: Maṭbaʿat Dār
                         al-Kutub al-Miṣriyya, 1996), vol. 1.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman Periodicals<hi rend="italic" xml:lang="tr"
-                  > (Osmanlı
+               <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman Periodicals<hi rend="italic" xml:lang="tr"> (Osmanlı
                         Gazeteler),</hi> Atatürk Milli Kütüphanesi, Istanbul, Turkey.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fīlīp dī Ṭarrāzī (Philip de Tarrazi), <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Tāʾrīkh al-Ṣiḥāfa
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fīlīp dī Ṭarrāzī (Philip de Tarrazi), <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Tāʾrīkh al-Ṣiḥāfa
                         al-ʿArabiyya</hi>, 2 vols. (Beirut: Maṭbaʿat al-Adabiyya, 1913,
                         1933).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="fr">Abdelghani Ahmed-Bioud, Hasan Hanafi, and Habib Feki, <hi rend="italic" xml:lang="fr"
-                  >3200 revues et journaux arabes: de 1800 à 1965, titres arabes et titres
+               <p xml:lang="en"> <bibl xml:lang="fr">Abdelghani Ahmed-Bioud, Hasan Hanafi, and Habib Feki, <hi rend="italic" xml:lang="fr">3200 revues et journaux arabes: de 1800 à 1965, titres arabes et titres
                         translittérés</hi> (Paris: Bibliothèque nationale de France,
                         1969).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Miṣriyya:
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Miṣriyya:
                         1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982) and other works
                         by the same author.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Martin Hartmann, <hi rend="italic" xml:lang="en">The Arabic Press in Egypt</hi>
                         (London: Luzac, 1899).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="en"
-                  >Encyclopedia of Islam, Second Edition</hi>, art. “djarīda”
+               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="en">Encyclopedia of Islam, Second Edition</hi>, art. “djarīda”
                         (Eds., Ph.K. Hitti, H. Massé, V.Günyol, A. Mango, Ch. Quelquejay, R.
                         Loewenthal, J. Carnochan).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Ami Ayalon, <hi rend="italic" xml:lang="en"
-                  >The Press in the Arab Middle East - A
+               <p xml:lang="en"> <bibl xml:lang="en">Ami Ayalon, <hi rend="italic" xml:lang="en">The Press in the Arab Middle East - A
                         History</hi> (New York-Oxford: Oxford University Press, 1995).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Shmuel Moreh and Philip Sadgrove, <hi rend="italic" xml:lang="en"
-                  >Jewish Contributions
+               <p xml:lang="en"> <bibl xml:lang="en">Shmuel Moreh and Philip Sadgrove, <hi rend="italic" xml:lang="en">Jewish Contributions
                         to Nineteenth Century Arabic Theatre</hi> (Suppl. of Journal of Semitic
                         Studies 6; Oxford University Press, 1996).</bibl>
                </p>
             </div>
             <div xml:id="dMinS" xml:lang="en">
                <head xml:lang="en">Additional useful sources:</head>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fatḥī al-Ibyārī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Ṣiḥāfatunā al-iqlīmiyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fatḥī al-Ibyārī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Ṣiḥāfatunā al-iqlīmiyya
                         wa’l-Iskandariyya</hi> (Cairo: al-Ḥayʾa al-Miṣriyya al-ʿĀmma li’l-Kitāb,
                         1977).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Nashʾat al-ṣiḥāfa al-Sūriyya. ʿArḍ
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Nashʾat al-ṣiḥāfa al-Sūriyya. ʿArḍ
                         li’l-qawmiyya fī ṭaur al-nashʾa min al-ʿahd al-ʿuthmānī ḥattā qiyām
                         al-dawla al-ʿArabiyya</hi> (Cairo: Dār al-Nahḍa al-ʿArabiyya,
                         1972).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Sūriyya. ʿArḍ
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Sūriyya. ʿArḍ
                         li’l-qawmiyya fī ṭaur al-taṭawwur min al-ʿahd al-Faransī ḥattā qiyām
                         dawlat al-waḥda</hi> (Cairo: Dār al-Nahḍa al- ‘Arabiyya, 1973).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-ʿArabiyya fī Filasṭīn,
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-ʿArabiyya fī Filasṭīn,
                         al-Urdunn, Sūriyā wa-Lubnān</hi> (Cairo: Muʾassasat Sijill al-ʿArab,
                         1982).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Salaheddine Boustany, “The Press During the French Expedition in Egypt
-                        1798-1801,” <hi rend="italic" xml:lang="fr"
-                  >Cahiers d’histoire egyptienne</hi> (1954):
+                        1798-1801,” <hi rend="italic" xml:lang="fr">Cahiers d’histoire egyptienne</hi> (1954):
                         1-30.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Donald J. Cioeta, “Thamarāt al-Funūn – Syria’s First Islamic Newspaper,”
                         unpublished Ph.D. thesis (Chicago, 1979).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Yūsuf Asʿad Dāghir, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Qāmūs al-Ṣiḥāfa al-Lubnāniyya,
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Yūsuf Asʿad Dāghir, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Qāmūs al-Ṣiḥāfa al-Lubnāniyya,
                         1858-1974</hi> (Beirut: Al-Maktaba al-Sharqiyya, 1978).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Ziad Fahmy, <hi rend="italic" xml:lang="en"
-                  >Ordinary Egyptians - Creating the Modern
+               <p xml:lang="en"> <bibl xml:lang="en">Ziad Fahmy, <hi rend="italic" xml:lang="en">Ordinary Egyptians - Creating the Modern
                         Nation through Popular Culture</hi> (Standford University Press,
                         2011).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="fr">Rouchdi Fakkar, <hi rend="italic" xml:lang="fr"
-                  >L’influence française sur la formation
+               <p xml:lang="en"> <bibl xml:lang="fr">Rouchdi Fakkar, <hi rend="italic" xml:lang="fr">L’influence française sur la formation
                         de la presse litteraire en Egypte au XIX siècle</hi> (Paris,
                         1973).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-Lubnāniyya - al-qāmūs
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-Lubnāniyya - al-qāmūs
                         al-muṣawwar: 1858–1958</hi> (Beirut: Dār al-Niḍāl, 1997).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Sūriyya fī miʾat ʿām
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Sūriyya fī miʾat ʿām
                         (1865–1965)</hi>, 2 vols. (Beirut: Dār al-Niḍāl, 1982-1983).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Anwar al-Jundī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-ʿArabiyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Anwar al-Jundī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-ʿArabiyya
                         wa-atharu-hā fi’l-adab al-ʿArabī al-muʾāṣir,</hi> 2 vols. (Cairo:
                         Maṭbaʿat al-Risāla, 1962-1967).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Mihyār ʿAdnān al-Mallūḥī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Muʿjam al-jarāʾid al-Sūriyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Mihyār ʿAdnān al-Mallūḥī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Muʿjam al-jarāʾid al-Sūriyya
                         1865-1965</hi> (Dimashq: al-Ūlā li-l-Nashr wa-l-Tawsīʿ, 2002).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="de">Ahmed Muddathir, <hi rend="italic" xml:lang="de"
-                  >Die arabische Presse in den
+               <p xml:lang="en"> <bibl xml:lang="de">Ahmed Muddathir, <hi rend="italic" xml:lang="de">Die arabische Presse in den
                         Maghreb-Staaten</hi>, Hamburger Beiträge zur Afrikakunde (3) (Hamburg,
                         Pfaffenhofen: Deutsches Institut für Afrika-Forschung/Afrika Verlag,
                         1966).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Aḥmad al-Mujāzī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Dirāsāt fi’l-iʿlām al-fannī
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Aḥmad al-Mujāzī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Dirāsāt fi’l-iʿlām al-fannī
                         wa’l-ṣiḥāfa al-mutakhaṣṣiṣa,</hi> 3 vols. (Cairo: al-Hayʾa al-Miṣriyya
                         al-ʿĀmma li’l-Kitāb, 1978-1984).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Adīb Muruwwah, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-ʿarabiyya. Nashʾatu-hā
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Adīb Muruwwah, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-ʿarabiyya. Nashʾatu-hā
                         wa-taṭawwuru-hā</hi> (Beirut: Dār Maktabat al-Ḥayāt, 1961).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Nadwa Taʾrīkh al-ṭibāʿa al-ʿArabiyya ḥattā intihāʾ al-qarn
+               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Nadwa Taʾrīkh al-ṭibāʿa al-ʿArabiyya ḥattā intihāʾ al-qarn
                            al-tāsiʿ ʿashar</hi> (Abu Dhabi, 1996).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="fr">Joseph Nasrallah, <hi rend="italic" xml:lang="en">L’Imprimerie au Liban</hi> (Harissa:
                         Imprimerie de S. Paul, 1949).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Shams al-Dīn al-Rifāʿī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taʾrīkh al-ṣiḥāfa
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Shams al-Dīn al-Rifāʿī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taʾrīkh al-ṣiḥāfa
                         al-Sūriyya</hi> (Cairo: Dār al-Maʿārif, 1969)</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"
-                  >Philip C. Sadgrove, “The Development of the Arabic periodical press and
+               <p xml:lang="en"> <bibl xml:lang="en">Philip C. Sadgrove, “The Development of the Arabic periodical press and
                         its role in the literary life of Egypt (1798–1882),” unpublished Ph.D.
                         thesis (University of Edinburgh, 1983).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Philip C. Sadgrove, “The European Press in Khedive Ismāʿīl’s Egypt
-                        (1863-66): A Neglected Field,” <hi rend="italic"
-                  xml:lang="en">Supplement of Semitic
+                        (1863-66): A Neglected Field,” <hi rend="italic" xml:lang="en">Supplement of Semitic
                            Studies</hi>, 24 (2008): 109-128.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">ʿAbd al-ʿAzīz Sharaf, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-waḥda wa’l-tanawwuʿ fī tārīkh
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">ʿAbd al-ʿAzīz Sharaf, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-waḥda wa’l-tanawwuʿ fī tārīkh
                         al-ṣiḥāfa al-ʿArabiyya</hi>, (Cairo: Al-Hayʾa al-Miṣriyya al-ʿĀmma
                         li’l-Kitāb, 2002).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Hilāl al-Shāyijī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa fi’l-Kuwayt wa’l-Baḥrayn
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Hilāl al-Shāyijī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa fi’l-Kuwayt wa’l-Baḥrayn
                         mundhū nashʾati-hā ḥattā ʿahd al-istiqlāl</hi> (Al-Manāma: Maṭbūʿāt
                         Bānūrāmā al-Khalīj, 1989).</bibl>
                </p>
             </div>
             <div xml:id="dCat" xml:lang="en">
                <head xml:lang="en">Union Catalogues</head>
-               <p xml:lang="en"> <bibl xml:lang="en">Atabaki, Touraj and Solmaz Rustămova-Tohidi. <hi rend="italic" xml:lang="en"
-                  >Baku
+               <p xml:lang="en"> <bibl xml:lang="en">Atabaki, Touraj and Solmaz Rustămova-Tohidi. <hi rend="italic" xml:lang="en">Baku
                         Documents: Union Catalogue of Persian, Azerbaijani, Ottoman Turkish and
                         Arabic Serials and Newspapers in the Libraries of the Republic of
                         Azerbaijan.</hi> London: Tauris Academic Studies, 1995.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Auchterlonie, James Paul Crawford and Yasin Hamid Safadi. <hi rend="italic" xml:lang="en"
-                  >Union Catalogue of Arabic Serials and Newspapers in British
+               <p xml:lang="en"> <bibl xml:lang="en">Auchterlonie, James Paul Crawford and Yasin Hamid Safadi. <hi rend="italic" xml:lang="en">Union Catalogue of Arabic Serials and Newspapers in British
                         Libraries.</hi> London: Mansell Information Publishing, 1977.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">De Jong, Fred. "Arabic Periodicals Published in Syria Before 1946: The
-                        Holdings of Zahiriyya Library in Damascus."<hi
-                  rend="italic" xml:lang="en"> Bibliotheca
+                        Holdings of Zahiriyya Library in Damascus."<hi rend="italic" xml:lang="en"> Bibliotheca
                            Orientalis </hi>36 (1979): 292-300.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hasan. <hi rend="italic" xml:lang="tr"
-                  >Baslangicindan Harf Devrimine Kadar
+               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hasan. <hi rend="italic" xml:lang="tr">Baslangicindan Harf Devrimine Kadar
                         Osmanli-Türk Süreli Yayinlar Ve Gazeteler Bibliyografyasi Ve Toplu
                         Katalogu, 1828-1928. </hi>3 vols. Ankara: Enformasyon ve Dokümantasyon
                         Hizmetleri Vakfi, 2000.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hazirlayan Hasan and Ekmeleddin Ihsanoglu. <hi rend="italic" xml:lang="tr"
-                  >Istambul Kütüphaneleri Arap Harfli Süreli Yayinlar Toplu Katalogu:
+               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hazirlayan Hasan and Ekmeleddin Ihsanoglu. <hi rend="italic" xml:lang="tr">Istambul Kütüphaneleri Arap Harfli Süreli Yayinlar Toplu Katalogu:
                         1828-1928 = Union Catalogue of the Periodicals in Arabic Script in the
                         Libraries of Istambul.</hi> Istambul: The Research Centre for Islamic
                         History, Art and Culture, 1986.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">El-Hadi, Mohamed M. <hi rend="italic" xml:lang="en"
-                  >Union List of Arabic Serials in the
+               <p xml:lang="en"> <bibl xml:lang="en">El-Hadi, Mohamed M. <hi rend="italic" xml:lang="en">Union List of Arabic Serials in the
                         United States: The Arabic Serial Holdings of Seventeen Libraries.</hi>
                         Vol.75 of Occasional papers. Urbana: University of Illinois, Graduate School
                         of Library and Information Science, 1965.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Hopwood, Derek. <hi rend="italic" xml:lang="en"
-                  >Arabic Periodicals in Oxford: A Union
+               <p xml:lang="en"> <bibl xml:lang="en">Hopwood, Derek. <hi rend="italic" xml:lang="en">Arabic Periodicals in Oxford: A Union
                         List.</hi> Oxford: St. Antony's College, 1970.</bibl> </p>
             </div>
          </div>
@@ -597,8 +517,7 @@
                   <note type="comment">in <lang xml:lang="en">French</lang> with some parts in Arabic</note>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>:1799-1800, 3 vols, reprint
-                     <placeName xml:lang="en">Beirut</placeName>, <rs ref="#hBNF" xml:lang="en"
-                     >BnF: <ref target="http://gallica.bnf.fr/ark:/12148/cb327543805/date.r=.langFR" xml:lang="en">online</ref> </rs> </note>
+                     <placeName xml:lang="en">Beirut</placeName>, <rs ref="#hBNF" xml:lang="en">BnF: <ref target="http://gallica.bnf.fr/ark:/12148/cb327543805/date.r=.langFR" xml:lang="en">online</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r2">
                   <monogr>
@@ -613,11 +532,9 @@
                      </imprint>
                   </monogr>
                   <note type="comment">proposed journal in Arabic by <persName xml:lang="en">General Menou</persName> in
-                     the last years of the <lang xml:lang="en"
-                     >French</lang> occupation (proposed editor: Shaykh
+                     the last years of the <lang xml:lang="en">French</lang> occupation (proposed editor: Shaykh
                         <persName xml:lang="en">Ismāʿīl al-Khashshāb</persName>) – never realised</note>
-                  <note type="sources">Boustany, “The Press During the French Expedition in <placeName type="country" xml:lang="en">Egypt</placeName> 1798-1801,” 27, <rs ref="#agt" xml:lang="en"
-                     >Ṭ</rs> =
+                  <note type="sources">Boustany, “The Press During the French Expedition in <placeName type="country" xml:lang="en">Egypt</placeName> 1798-1801,” 27, <rs ref="#agt" xml:lang="en">Ṭ</rs> =
                      <placeName xml:lang="en">Alexandria</placeName> </note>
                   <note type="holdings"/>
                </biblStruct>
@@ -636,9 +553,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">bulletin with limited circulation in <lang xml:lang="en">Ottoman Turkish</lang> and
-                     Arabic, handwritten, then lithography. <add resp="#pAM"
-                     xml:lang="en"> <rs ref="#abd2" xml:lang="en">ʿAbd</rs>: established in <date when="1822" xml:lang="en"
-                     >1822</date> and
+                     Arabic, handwritten, then lithography. <add resp="#pAM" xml:lang="en"> <rs ref="#abd2" xml:lang="en">ʿAbd</rs>: established in <date when="1822" xml:lang="en">1822</date> and
                         remained in publication even after <date when="1828" xml:lang="en">1828</date> </add> </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> </note>
@@ -679,9 +594,7 @@
                      Arabic</note>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hZAGH" xml:lang="en">Zagh</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>,
-                        <rs ref="#hIU"
-                     xml:lang="en">IÜ</rs>, <rs ref="#hDKQM" xml:lang="en">DKQM: almost complete</rs>, <rs ref="#hAKI" xml:lang="en">AKI: 1263, 1265-7</rs>, <rs ref="#hBNF" xml:lang="en"
-                     >BnF: from nr. 3 (5
+                        <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hDKQM" xml:lang="en">DKQM: almost complete</rs>, <rs ref="#hAKI" xml:lang="en">AKI: 1263, 1265-7</rs>, <rs ref="#hBNF" xml:lang="en">BnF: from nr. 3 (5
                         January 1829) (cote: Res GR Fol NFZ 13)</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hYL" xml:lang="en">Yale</rs>. </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r6">
@@ -715,8 +628,7 @@
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">French</lang>, <lang xml:lang="en">French</lang> and Arabic</note>
                   <note type="sources">one issue from 12 July 1839, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBNA" xml:lang="en">BnA</rs>, <add resp="#pHA" xml:lang="en"> <rs ref="#hSTAN" xml:lang="en"
-                     >Stan: 1905, 1906-1928 (call no:  NEWS COLL. ALGERIA
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBNA" xml:lang="en">BnA</rs>, <add resp="#pHA" xml:lang="en"> <rs ref="#hSTAN" xml:lang="en">Stan: 1905, 1906-1928 (call no:  NEWS COLL. ALGERIA
                            1905:DEC.24-1906)</rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r8">
@@ -737,8 +649,7 @@
                      typography</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL: 1864, 1867, 1894-99</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1847-, (cote:
-                        JO 3033 [BIS])</rs>, <rs
-                     ref="#hBNA" xml:lang="en">BnA</rs> </note>
+                        JO 3033 [BIS])</rs>, <rs ref="#hBNA" xml:lang="en">BnA</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r9">
                   <monogr>
@@ -754,8 +665,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> Became <name xml:lang="en">Taqwīm al-Akhbār wa’l-Ḥawādith
-                        al-Tijāriyya wa’l-Iʿlānāt al-Malikiyya</name>. <rs ref="#abd2" xml:lang="en"
-                     >ʿAbd</rs>:
+                        al-Tijāriyya wa’l-Iʿlānāt al-Malikiyya</name>. <rs ref="#abd2" xml:lang="en">ʿAbd</rs>:
                         <name xml:lang="en">al-Jarīda al-Tijāriyya al-Zirāʿiyya</name> established in <date when="1848" xml:lang="en">1848</date> </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs>; <rs ref="#agt" xml:lang="en">Ṭ</rs> gives different title</note>
                   <note type="holdings"/>
@@ -789,16 +699,13 @@
                         <date type="onset" when="1852-01-06" xml:lang="en">1852</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <add resp="#pHA" xml:lang="en">later changed into <orgName xml:lang="en"
-                     >al-Jam'iyya al-Sūriyya li'l-funūn
+                  <note type="comment"> <add resp="#pHA" xml:lang="en">later changed into <orgName xml:lang="en">al-Jam'iyya al-Sūriyya li'l-funūn
                                     wa'l-ʿulūm</orgName>, officers were elected on 6 January 1852,
                                 the first volume was later printed at the American Board of
                                 Commissioners for Foreign Missions' press in Beirut</add> </note>
                   <note type="sources"> </note>
-                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>?, 1852, 1868-79 issues reprinted by <bibl xml:lang="en"
-                     >Yusuf Q. Khuri
-                        (Beirut: Dar al-Hamra',1990)</bibl>, <add resp="#pHA" xml:lang="en"> <rs ref="#hCOL" xml:lang="en"
-                     >Col (Butler Stacks, call no: 892.06 Sy8, first volume
+                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>?, 1852, 1868-79 issues reprinted by <bibl xml:lang="en">Yusuf Q. Khuri
+                        (Beirut: Dar al-Hamra',1990)</bibl>, <add resp="#pHA" xml:lang="en"> <rs ref="#hCOL" xml:lang="en">Col (Butler Stacks, call no: 892.06 Sy8, first volume
                            only)</rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r12">
@@ -931,9 +838,7 @@
                   </monogr>
                   <note type="comment">Arabic From 1868/1870? in Arabic and <lang xml:lang="en">French</lang> </note>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB: 1858-1868, 1881-1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBL"
-                     xml:lang="en">BL: 1858-1868</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hMK" xml:lang="en">MK: 1858-1860</rs>, <rs
-                     ref="#hFUI" xml:lang="en">FUI: 1881-1888</rs>, <rs ref="#hSBB" xml:lang="en">SBB: 1858-65</rs>, <rs ref="#hUH" xml:lang="en">UH</rs>, <rs ref="#hKEW" xml:lang="en">Kew</rs>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB: 1858-1868, 1881-1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBL" xml:lang="en">BL: 1858-1868</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hMK" xml:lang="en">MK: 1858-1860</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1881-1888</rs>, <rs ref="#hSBB" xml:lang="en">SBB: 1858-65</rs>, <rs ref="#hUH" xml:lang="en">UH</rs>, <rs ref="#hKEW" xml:lang="en">Kew</rs>
                   </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r23">
@@ -970,10 +875,7 @@
                   </monogr>
                   <note type="comment">Arabic, rarely <lang xml:lang="en">Ottoman Turkish</lang> articles</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: preparations for digitization, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hPUL" xml:lang="en">Prin</rs>, <rs
-                     ref="#hHTU" xml:lang="en">HTU</rs>, <rs ref="#hAKI" xml:lang="en">AKI: 1869-1877</rs>, <rs ref="#hAKID" xml:lang="en">AKID: 1861-1863</rs>, <rs ref="#hDKQ" xml:lang="en"
-                     >DKQ: ?</rs>, <rs ref="#hBL" xml:lang="en">BL: 1861, 1862, 1877</rs>, <rs ref="#hMEC" xml:lang="en">MEC microfilm: 1868-1873/1877-1879/1881-1883</rs>, <rs ref="#hSOAS"
-                     xml:lang="en">SOAS: 1860</rs> </note>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: preparations for digitization, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hPUL" xml:lang="en">Prin</rs>, <rs ref="#hHTU" xml:lang="en">HTU</rs>, <rs ref="#hAKI" xml:lang="en">AKI: 1869-1877</rs>, <rs ref="#hAKID" xml:lang="en">AKID: 1861-1863</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ: ?</rs>, <rs ref="#hBL" xml:lang="en">BL: 1861, 1862, 1877</rs>, <rs ref="#hMEC" xml:lang="en">MEC microfilm: 1868-1873/1877-1879/1881-1883</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS: 1860</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r26">
                   <monogr>
@@ -991,8 +893,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, reprint
-                        <placeName xml:lang="en"
-                     >Beirut</placeName> 1990 </note>
+                        <placeName xml:lang="en">Beirut</placeName> 1990 </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r27">
                   <monogr>
@@ -1008,13 +909,11 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official journal of <orgName xml:lang="en">Beylical government</orgName>; founded by
-                        <persName xml:lang="en"
-                     >General Ḥusayn</persName> with the editor
+                        <persName xml:lang="en">General Ḥusayn</persName> with the editor
                         <persName xml:lang="en">Carletti</persName> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL: 1860-1875</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1888 (cote JO
-                        9121)</rs>, <rs ref="#hDKWT"
-                     xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </note>
+                        9121)</rs>, <rs ref="#hDKWT" xml:lang="en">DKWT</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r29">
                   <monogr>
@@ -1097,10 +996,8 @@
                   <note type="sources"> <add resp="#pTG" xml:lang="en">Ṭarrāzī I:67 (1913) mentions that sūriye is still published
                         today.</add> </note>
                   <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>,
-                        <rs
-                     ref="#hFUI" xml:lang="en">FUI: 1882-1888</rs>, <rs ref="#hHTU" xml:lang="en">HTU: 1899-1902</rs>,
-                        <rs ref="#hMK" xml:lang="en">MK</rs>, <rs ref="#hLEN"
-                     xml:lang="en">Len</rs>, <rs ref="#hDKW" xml:lang="en">DKW</rs> </note>
+                        <rs ref="#hFUI" xml:lang="en">FUI: 1882-1888</rs>, <rs ref="#hHTU" xml:lang="en">HTU: 1899-1902</rs>,
+                        <rs ref="#hMK" xml:lang="en">MK</rs>, <rs ref="#hLEN" xml:lang="en">Len</rs>, <rs ref="#hDKW" xml:lang="en">DKW</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r37">
                   <monogr>
@@ -1133,8 +1030,7 @@
                         <date type="onset" when="1866-01-01" xml:lang="en">1866</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">This replaced <name xml:lang="en">Akhbār ʿan Intishār al-Anjīl</name>, then in <date when="1871" xml:lang="en">1871</date> replaced by <name xml:lang="en"
-                     >Al-Nashra al-ʿUsbūʿiyya</name> </note>
+                  <note type="comment">This replaced <name xml:lang="en">Akhbār ʿan Intishār al-Anjīl</name>, then in <date when="1871" xml:lang="en">1871</date> replaced by <name xml:lang="en">Al-Nashra al-ʿUsbūʿiyya</name> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hNEST" xml:lang="en">NEST: 1866-71</rs> </note>
                </biblStruct>
@@ -1169,8 +1065,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">Ottoman Turkish</lang>, then <lang xml:lang="en">Ottoman
-                        Turkish</lang> and Arabic. <date when="1864" xml:lang="en"
-                     >1864</date> lithography, <date when="1870" xml:lang="en">1870</date> typography</note>
+                        Turkish</lang> and Arabic. <date when="1864" xml:lang="en">1864</date> lithography, <date when="1870" xml:lang="en">1870</date> typography</note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>=1870</note>
                   <note type="holdings"> <rs ref="#hHTU" xml:lang="en">HTU</rs> </note>
                </biblStruct>
@@ -1293,18 +1188,14 @@
                         <date type="terminus" when="1878" xml:lang="en">1878</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">Only existing copies so far <date xml:lang="en">1869 spring</date>-<date xml:lang="en"
-                     >1871
+                  <note type="comment">Only existing copies so far <date xml:lang="en">1869 spring</date>-<date xml:lang="en">1871
                         spring</date>. It is said that it was suspended in 1872; Abbas Hilmi,
                      Mémoires d’un souverain (Le Caire: Cedej, 1994), 39. In Dāghir, 395,
-                        <persName
-                     xml:lang="en">Ḥabīb Gharzūzī</persName> is given as co-founder. Ayalon: replaced
-                     by <name xml:lang="en">Rawḍat al-Akhbār</name> in <date when="1874"
-                     xml:lang="en">1874</date>.</note>
+                        <persName xml:lang="en">Ḥabīb Gharzūzī</persName> is given as co-founder. Ayalon: replaced
+                     by <name xml:lang="en">Rawḍat al-Akhbār</name> in <date when="1874" xml:lang="en">1874</date>.</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>= 1866</note>
                   <note type="holdings"> <rs ref="#hIDEO" xml:lang="en">IDEO: 1869-1871</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ: vol 4
-                        (1870-71)</rs>, <rs ref="#hNLI"
-                     xml:lang="en">NLoI: vol 4 (1870-71)</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hUUL" xml:lang="en">Utah: vol 4 (1870-71)</rs> </add>; <rs ref="#hAUB" xml:lang="en">AUB?</rs>
+                        (1870-71)</rs>, <rs ref="#hNLI" xml:lang="en">NLoI: vol 4 (1870-71)</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hUUL" xml:lang="en">Utah: vol 4 (1870-71)</rs> </add>; <rs ref="#hAUB" xml:lang="en">AUB?</rs>
                   </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r51">
@@ -1369,11 +1260,9 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official journal (established by <persName xml:lang="en">Midhat Pasha</persName>,
-                     wālī). <lang xml:lang="en"
-                     >Ottoman Turkish</lang> and Arabic</note>
+                     wālī). <lang xml:lang="en">Ottoman Turkish</lang> and Arabic</note>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hHTU" xml:lang="en">HTU</rs>, <rs ref="#hBU" xml:lang="en">UBagh: 1286-1288 aH</rs> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref
-                     target="http://www.wdl.org/en/search/?collection=al-zaura-newspaper-collection&amp;grouping=9956" xml:lang="en">50 issues at World Digital Library</ref>)</note>
+                  <note type="holdings"> <rs ref="#hHTU" xml:lang="en">HTU</rs>, <rs ref="#hBU" xml:lang="en">UBagh: 1286-1288 aH</rs> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="http://www.wdl.org/en/search/?collection=al-zaura-newspaper-collection&amp;grouping=9956" xml:lang="en">50 issues at World Digital Library</ref>)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r57">
                   <monogr>
@@ -1406,8 +1295,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1875-1914</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBL"
-                     xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs> </note>
+                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1875-1914</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBL" xml:lang="en">BL: 1870-1875, 1877-1914</rs>, <rs ref="#hBNF" xml:lang="en">BnF: 1873-76, 1890, 1913-14</rs>, <rs ref="#hFUI" xml:lang="en">FUI: 1875-1914</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r59">
                   <monogr>
@@ -1442,8 +1330,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs> microfilm: 1879-1884; <rs ref="#hSBB" xml:lang="en">SBB: 1870-1874</rs>; <rs
-                     ref="#hIDEO" xml:lang="en">IDEO</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs> microfilm: 1879-1884; <rs ref="#hSBB" xml:lang="en">SBB: 1870-1874</rs>; <rs ref="#hIDEO" xml:lang="en">IDEO</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r61">
                   <monogr>
@@ -1459,19 +1346,12 @@
                      </imprint>
                   </monogr>
                   <note type="comment">in Ghādir, 395: <persName xml:lang="en">Buṭrus al-Bustānī</persName>,
-                        <persName xml:lang="en">Salīm al-Bustānī</persName>, and <persName
-                     xml:lang="en">Najīb
+                        <persName xml:lang="en">Salīm al-Bustānī</persName>, and <persName xml:lang="en">Najīb
                         al-Bustānī</persName> </note>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF" xml:lang="en">BnF:
-                        1871-1874</rs>, <rs
-                     ref="#hDKW" xml:lang="en">DKW</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: <rs ref="#hINA" xml:lang="en">INALCO</rs> , <rs ref="#hIDEO" xml:lang="en">IDEO</rs>, <rs ref="#hMEC"
-                     xml:lang="en">MEC</rs>, <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hIMA" xml:lang="en">IMA: 1870-1882 (<ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="en">online</ref>)</rs>, <rs ref="#hFUAS" xml:lang="en"
-                     >FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB:
-                        complete (50 PF 12, 4" Ad 5922)</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hEAP119"
-                     xml:lang="en">Aqṣā: 1874 (<ref target="http://eap.bl.uk/database/overview_item.a4d?catId=838;r=18795" xml:lang="en">EAP119/1/6</ref>)</rs>, <rs ref="#hPUL" xml:lang="en"
-                     >Prin: complete (online at <ref target="http://catalog.hathitrust.org/Record/008882426" xml:lang="en">HathiTrust</ref>)</rs>. </note>
+                        1871-1874</rs>, <rs ref="#hDKW" xml:lang="en">DKW</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: <rs ref="#hINA" xml:lang="en">INALCO</rs> , <rs ref="#hIDEO" xml:lang="en">IDEO</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hIMA" xml:lang="en">IMA: 1870-1882 (<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="en">online</ref>)</rs>, <rs ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB:
+                        complete (50 PF 12, 4" Ad 5922)</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hEAP119" xml:lang="en">Aqṣā: 1874 (<ref target="http://eap.bl.uk/database/overview_item.a4d?catId=838;r=18795" xml:lang="en">EAP119/1/6</ref>)</rs>, <rs ref="#hPUL" xml:lang="en">Prin: complete (online at <ref target="http://catalog.hathitrust.org/Record/008882426" xml:lang="en">HathiTrust</ref>)</rs>. </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r62">
                   <monogr>
@@ -1540,8 +1420,7 @@
                   <note type="comment"/>
                   <note type="sources">31 issues</note>
                   <note type="holdings"> <rs ref="#hAUB" resp="#pRV" xml:lang="en">AUB: full</rs>, <rs ref="#hBOSJ" resp="#pRV" xml:lang="en">BOSJ:
-                        full</rs>, <rs ref="#hDKQ"
-                     resp="#pRV" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" resp="#pRV" xml:lang="en">BnF one issue only</rs>, <rs ref="#hLOC" resp="#pRV" xml:lang="en">LoC: 1870</rs> </note>
+                        full</rs>, <rs ref="#hDKQ" resp="#pRV" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" resp="#pRV" xml:lang="en">BnF one issue only</rs>, <rs ref="#hLOC" resp="#pRV" xml:lang="en">LoC: 1870</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r66">
                   <monogr>
@@ -1575,8 +1454,7 @@
                   </monogr>
                   <note type="comment">official paper of <orgName xml:lang="en">Niẓārat al-Madāris</orgName> </note>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <ref target="https://books.google.co.il/books?id=j7pUAAAAcAAJ"
-                     >online vols.3-4</ref> </note>
+                  <note type="holdings">Numerous collections, published also separately, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <ref target="https://books.google.co.il/books?id=j7pUAAAAcAAJ">online vols.3-4</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r68">
                   <monogr>
@@ -1635,8 +1513,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">النفع العزيم الاهل هاذة الاقليم ’</title>
                      <idno type="jaraid">t1r72</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Shams al-Dīn, al-Shaykh al-Malwī Muqarrib ‘Alī</persName> <persName change="#d2e773" xml:lang="ar"
-                        >شمس الدين , الشيخ الملوي مقرب الي ‘</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Shams al-Dīn, al-Shaykh al-Malwī Muqarrib ‘Alī</persName> <persName change="#d2e773" xml:lang="ar">شمس الدين , الشيخ الملوي مقرب الي ‘</persName> </editor>
                      <editor> <persName xml:lang="ar-Latn-x-ijmes">Dr G.W. Leitner</persName> <persName change="#d2e773" xml:lang="ar">در لe</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Lahore</placeName> </pubPlace>
@@ -1661,8 +1538,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> 2 issues, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: first issue, <rs ref="#hHTU" xml:lang="en"
-                     >HTU</rs>: second issue
+                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: first issue, <rs ref="#hHTU" xml:lang="en">HTU</rs>: second issue
                      as part of the digitized al-Najāḥ </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r74">
@@ -1697,8 +1573,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#abd2" xml:lang="en">ʿAbd</rs> </note>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1872 (incomplete), 1873-1874 (incomplete), 1882, <rs ref="#hHTU" xml:lang="en">HTU</rs>:1871 (digitalized), <rs
-                     ref="#hDKQ" xml:lang="en">DKQ</rs>:1871
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1872 (incomplete), 1873-1874 (incomplete), 1882, <rs ref="#hHTU" xml:lang="en">HTU</rs>:1871 (digitalized), <rs ref="#hDKQ" xml:lang="en">DKQ</rs>:1871
                      (complete year) </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r76">
@@ -1718,8 +1593,7 @@
                   <note type="comment"/>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB: 1872-74 (Vol. 2-7), 1880-83 (Vol. 10-11), 1889-1914 (Vol.
-                        34-49)</rs>, <rs ref="#hBNF" xml:lang="en"
-                     >BnF</rs>, <rs ref="#hBL" xml:lang="en">BL: 1871, 1873</rs>,
+                        34-49)</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBL" xml:lang="en">BL: 1871, 1873</rs>,
                         <rs ref="#hNEST" xml:lang="en">NEST: complete but for 1878/79, 1890, 1916-20</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r78">
@@ -1785,8 +1659,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official Journal of the <orgName xml:lang="en">Ottoman government</orgName>.
-                        <lang xml:lang="en"
-                     >Ottoman Turkish</lang> and Arabic?</note>
+                        <lang xml:lang="en">Ottoman Turkish</lang> and Arabic?</note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"/>
                </biblStruct>
@@ -1840,8 +1713,7 @@
                   <note type="comment"> <rs ref="#abd2" xml:lang="en">ʿAbd</rs>: established in <date when="1874" xml:lang="en">1874</date> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hHARV" xml:lang="en">Harv</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>,
-                        <rs
-                     ref="#hSTAN" xml:lang="en">Stan</rs> </note>
+                        <rs ref="#hSTAN" xml:lang="en">Stan</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r86">
                   <monogr>
@@ -2017,8 +1889,7 @@
                   </monogr>
                   <note type="comment"> Arabic and <lang xml:lang="en">Ottoman Turkish</lang> </note>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>= 1885?</note>
-                  <note type="holdings"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hIM" xml:lang="en">Ir Mus: 1918-1928</rs>, <rs ref="#hHTU" xml:lang="en"
-                     >HTU: 1310 (it is vol 11th, only Ottoman Turkish)</rs> </note>
+                  <note type="holdings"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hIM" xml:lang="en">Ir Mus: 1918-1928</rs>, <rs ref="#hHTU" xml:lang="en">HTU: 1310 (it is vol 11th, only Ottoman Turkish)</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r98">
                   <monogr>
@@ -2037,12 +1908,8 @@
                   <note type="comment">from 1909: <name xml:lang="en">al-Ittiḥād al-ʿUthmānī</name> </note>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hDKW" xml:lang="en">DKW</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hFUI" xml:lang="en">FUI:
-                        1875-1908</rs>, <rs
-                     ref="#hHTU" xml:lang="en">HTU: 1 issue of 1887<add resp="#pTG" xml:lang="en"> <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/data/HTU1998/index.djvu"/> </add> </rs> <add
-                     resp="#pTG" xml:lang="en">, <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1875-1908 (microfilm, n. 26),<rs ref="#hMEC" xml:lang="en">MEC</rs> microfilm: 1875-1908</add>, <add
-                     resp="#pTG" xml:lang="en"> <rs ref="#hOIB" xml:lang="en">OIB</rs>: digitized copies on DVD (1886-1891, 1897-1901,
-                        1904-1906, 1908)</add>, <rs ref="#hBL"
-                     xml:lang="en">BL</rs>: 1877 </note>
+                        1875-1908</rs>, <rs ref="#hHTU" xml:lang="en">HTU: 1 issue of 1887<add resp="#pTG" xml:lang="en"> <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/data/HTU1998/index.djvu"/> </add> </rs> <add resp="#pTG" xml:lang="en">, <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1875-1908 (microfilm, n. 26),<rs ref="#hMEC" xml:lang="en">MEC</rs> microfilm: 1875-1908</add>, <add resp="#pTG" xml:lang="en"> <rs ref="#hOIB" xml:lang="en">OIB</rs>: digitized copies on DVD (1886-1891, 1897-1901,
+                        1904-1906, 1908)</add>, <rs ref="#hBL" xml:lang="en">BL</rs>: 1877 </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r100">
                   <monogr>
@@ -2062,12 +1929,8 @@
                   <note type="comment">an experimental issue was already published <date when="1876-07-15" xml:lang="en">15
                         July 1876</date> </note>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: full collection (almost complete), <rs ref="#hBNF" xml:lang="en">BnF</rs> (1881-1883; 1938-), <rs ref="#hDKQ"
-                     xml:lang="en">DKQ</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hTET" xml:lang="en">Tet</rs>, <rs ref="#hBNA" xml:lang="en"
-                     >BnA</rs>, <rs ref="#hLOC" xml:lang="en">LoC</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>:
-                     holdings unclear; <rs ref="#hSBB" xml:lang="en"
-                     >SBB</rs>: 1889-1893, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1876-1939 microfilm, <rs ref="#hBIBAL" resp="pDM" xml:lang="en"
-                     >BIBAL</rs>: microfilm full collection.
+                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: full collection (almost complete), <rs ref="#hBNF" xml:lang="en">BnF</rs> (1881-1883; 1938-), <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hTET" xml:lang="en">Tet</rs>, <rs ref="#hBNA" xml:lang="en">BnA</rs>, <rs ref="#hLOC" xml:lang="en">LoC</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>:
+                     holdings unclear; <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1889-1893, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1876-1939 microfilm, <rs ref="#hBIBAL" resp="pDM" xml:lang="en">BIBAL</rs>: microfilm full collection.
                   </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r102">
@@ -2122,12 +1985,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
                   <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>,
-                        <rs ref="#hDUR"
-                     xml:lang="en">Dur</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hDKQM" xml:lang="en"
-                     >DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4"/> </rs>, <rs ref="#hFUAS"
-                     xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hDMW" xml:lang="en">DMW</rs>: 1877-1930s (with gaps), <rs ref="#hPUL" xml:lang="en"
-                     >Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>, <rs ref="#hBONN" xml:lang="en">BONN: <ref
-                     target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-77143" xml:lang="en">online, 1876-1952</ref> </rs> </note>
+                        <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hDKQM" xml:lang="en">DKQM</rs>, <rs ref="#hIMA" xml:lang="en">IMA<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4"/> </rs>, <rs ref="#hFUAS" xml:lang="en">FUAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1876-1914, <rs ref="#hDMW" xml:lang="en">DMW</rs>: 1877-1930s (with gaps), <rs ref="#hPUL" xml:lang="en">Prin</rs> available at <ref target="http://catalog.hathitrust.org/Record/000060895" xml:lang="en">HathiTrust</ref>, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-77143" xml:lang="en">online, 1876-1952</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r106">
                   <monogr>
@@ -2181,14 +2039,12 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
-                  <note type="holdings"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en"
-                     >AUB</rs>?
+                  <note type="holdings"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?
                      (not in the online catalogue)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r110">
                   <monogr>
-                     <title level="j" xml:lang="ar-Latn-x-ijmes"
-                        >Jarīda Rasmiyya - Journal Officiel pour les Publications Judiciares - Journal Officiel des Tribunaux - Giornale Ufficiale per le Pubblicazioni Giudiziarie</title>
+                     <title level="j" xml:lang="ar-Latn-x-ijmes">Jarīda Rasmiyya - Journal Officiel pour les Publications Judiciares - Journal Officiel des Tribunaux - Giornale Ufficiale per le Pubblicazioni Giudiziarie</title>
                      <title change="#d2e773" level="j" xml:lang="ar">جريدة رسمية - جoرنل oفceل poر لeس pبلcتoنس جدcرeس - جoرنل oفceل دeس تربنx - goرنلe افcلe peر لe pبلcزoن gدزرe</title>
                      <idno type="jaraid">t1r110</idno>
                      <textLang mainLang="ar" otherLangs="fr it"/>
@@ -2235,10 +2091,8 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"/>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1877-1932, 1960-1975; <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ"
-                     xml:lang="en">BOSJ</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>,
-                        <rs ref="#hBL" xml:lang="en">BL</rs>: 1883, <rs ref="#hSBB" xml:lang="en"
-                     >SBB</rs>: 1879-1880</note>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1877-1932, 1960-1975; <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBOD" xml:lang="en">Bod</rs>,
+                        <rs ref="#hBL" xml:lang="en">BL</rs>: 1883, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1879-1880</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r113">
                   <monogr>
@@ -2257,12 +2111,10 @@
                         <date type="terminus" when="1959" xml:lang="en">1959</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <rs ref="#agt" xml:lang="en"
-                     >Ṭ</rs> dated it 1880 wrongly, an issue (5 January 1882) in DKQM
+                  <note type="comment"> <rs ref="#agt" xml:lang="en">Ṭ</rs> dated it 1880 wrongly, an issue (5 January 1882) in DKQM
                      states that it is the journal’s sixth year</note>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en"
-                     >AUB</rs>:
+                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>:
                      1881, 1913, 1923; <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hLEN" xml:lang="en">Len</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>: 1880</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r115">
@@ -2299,8 +2151,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">English</lang>, 57 issues </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>: complete, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: incomplete, <rs ref="#hHTU" xml:lang="en"
-                     >HTU</rs>: first two years (digitized)</note>
+                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>: complete, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: incomplete, <rs ref="#hHTU" xml:lang="en">HTU</rs>: first two years (digitized)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r117">
                   <monogr>
@@ -2402,8 +2253,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>: 1881, 1882, 1883, 1887, <rs ref="#hDKQM" xml:lang="en">DKQM</rs>:
-                     1888?; after 1888 in <rs
-                     ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
+                     1888?; after 1888 in <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r124">
                   <monogr>
@@ -2583,10 +2433,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>= wrongly gives <date when="1877" xml:lang="en">1877</date> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>; also online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>; <rs ref="#hAKID" xml:lang="en"
-                     >AKID</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> <rs ref="#hDKQM" xml:lang="en"
-                     >DKQM</rs>, reprint in <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>; also online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>; <rs ref="#hAKID" xml:lang="en">AKID</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>, reprint in <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r134">
                   <monogr>
@@ -2604,8 +2451,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBONN" xml:lang="en">BONN: <ref
-                     target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-75560" xml:lang="en">online, 1884-1885</ref> </rs> </note>
+                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-75560" xml:lang="en">online, 1884-1885</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r135">
                   <monogr>
@@ -2676,8 +2522,7 @@
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">Ottoman Turkish</lang> and Arabic</note>
                   <note type="sources"> <add resp="#pTG" xml:lang="en">Its import into the OE was banned in April 1900, source
-                           <bibl xml:lang="en"
-                     >PRO FO 195/2075 Beirut 23, Drummond-Hay to O'Conor 18 Apr.
+                           <bibl xml:lang="en">PRO FO 195/2075 Beirut 23, Drummond-Hay to O'Conor 18 Apr.
                            1900</bibl> </add>; <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"/>
                </biblStruct>
@@ -2701,9 +2546,7 @@
                   </monogr>
                   <note type="comment">Arabic, then Arabic-<lang xml:lang="en">French</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings">online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQM" xml:lang="en"
-                     >DKQM</rs>: 1879 December, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> reprint <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings">online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: 1879 December, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> reprint <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r141">
                   <monogr>
@@ -2921,8 +2764,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hSBB" xml:lang="en"
-                     >SBB: 1879-1880</rs>, reprint
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hSBB" xml:lang="en">SBB: 1879-1880</rs>, reprint
                         <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r154">
@@ -2991,9 +2833,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en"
-                     >IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> online at <ref
-                     target="http://www.archive.org" xml:lang="en">archive.org</ref>; reprint <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>, </add> online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>; reprint <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r159">
                   <monogr>
@@ -3012,9 +2852,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en"
-                     >IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref
-                     target="http://www.archive.org" xml:lang="en">archive.org</ref>; reprint <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>; reprint <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r160">
                   <monogr>
@@ -3050,8 +2888,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hAYN" xml:lang="en">Ayn</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>,
-                        <rs ref="#hAUB"
-                     xml:lang="en">AUB</rs>?</note>
+                        <rs ref="#hAUB" xml:lang="en">AUB</rs>?</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r162">
                   <monogr>
@@ -3273,9 +3110,7 @@
                   </monogr>
                   <note type="comment">Arabic, Arabic-<lang xml:lang="en">French</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en"
-                     >Beirut</placeName>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en">Beirut</placeName>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r177">
                   <monogr>
@@ -3326,8 +3161,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hINA" xml:lang="en">INALCO</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en"
-                     >SBB</rs>: 1882, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hINA" xml:lang="en">INALCO</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1882, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r180">
                   <monogr>
@@ -3348,8 +3182,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1883, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en"
-                     >Harv</rs>: 1881 </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1883, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1881 </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r181">
                   <monogr>
@@ -3413,9 +3246,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en"
-                     >Beirut</placeName>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en">Beirut</placeName>, online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r185">
                   <monogr>
@@ -3638,8 +3469,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings">In the 1920s, there were some numbers still in the <rs ref="#hDKQ" xml:lang="en">DKQ</rs> (Sabry, La Genèse, 106, n 2), still in <rs ref="#hDKQ" xml:lang="en"
-                     >DKQ</rs>
+                  <note type="holdings">In the 1920s, there were some numbers still in the <rs ref="#hDKQ" xml:lang="en">DKQ</rs> (Sabry, La Genèse, 106, n 2), still in <rs ref="#hDKQ" xml:lang="en">DKQ</rs>
                      catalogue:407, 30 Jarāʾid Taymūr</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r198">
@@ -3658,8 +3488,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings">Printed (<placeName xml:lang="en">Cairo</placeName>: Al-Hayʾa al-Miṣriyya al-ʿĀmma
-                     li’l-Kitāb, 1994) and <rs ref="#hBL" xml:lang="en"
-                     >BL</rs> </note>
+                     li’l-Kitāb, 1994) and <rs ref="#hBL" xml:lang="en">BL</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r199">
                   <monogr>
@@ -3712,9 +3541,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en"
-                     >archive.org</ref>, reprint <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, reprint <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r203">
                   <monogr>
@@ -3835,8 +3662,7 @@
                   <note type="comment"> <lang xml:lang="en">Ottoman Turkish</lang> and Arabic</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hAEK" xml:lang="en">AEK</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hAKI" xml:lang="en">AKI</rs>,
-                        <rs ref="#hHTU"
-                     xml:lang="en">HTU</rs>, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hMK" xml:lang="en">MK</rs> </note>
+                        <rs ref="#hHTU" xml:lang="en">HTU</rs>, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hMK" xml:lang="en">MK</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r210">
                   <monogr>
@@ -3906,12 +3732,10 @@
                         <date type="terminus" when="1917" xml:lang="en">1917</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"
-                     >With the title Le Commerce Extérieur de l’Égypte pendant les années
+                  <note type="comment">With the title Le Commerce Extérieur de l’Égypte pendant les années
                      1974,1875,1876, 1877 et 1878 a book was published in 1879 (Le Caire: Imprimerie
                      de l’état-major général égyptien, 1879) that is a summary and report of F.
-                     Amici Bey to the Minister and Khedive Tawfīq. It is only in French. <rs
-                     ref="#hSBB" xml:lang="en">SBB: Ur 650</rs>.</note>
+                     Amici Bey to the Minister and Khedive Tawfīq. It is only in French. <rs ref="#hSBB" xml:lang="en">SBB: Ur 650</rs>.</note>
                   <note type="sources"/>
                   <note type="holdings"/>
                </biblStruct>
@@ -4141,8 +3965,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">الوطني المصري ثe ن pترoت /</title>
                      <idno type="jaraid">t1r228</idno>
                      <textLang mainLang="ar" otherLangs="en"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Shaykh Abū Naẓẓāra Zarqā / Abou Naddara</persName> <persName change="#d2e773" xml:lang="ar"
-                        >الشيخ ابو نظارة زرقی ابo ندرة /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Shaykh Abū Naẓẓāra Zarqā / Abou Naddara</persName> <persName change="#d2e773" xml:lang="ar">الشيخ ابو نظارة زرقی ابo ندرة /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Paris</placeName> </pubPlace>
                         <date type="onset" when="1883-09-29" xml:lang="en">1883</date>
@@ -4151,10 +3974,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">English</lang> </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>?, reprint <placeName xml:lang="en">Beirut</placeName>, <rs ref="#hBNF" xml:lang="en">BnF</rs> (cote: 4- O3A- 681), <add
-                     resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en"
-                     >archive.org</ref> </note>
+                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>?, reprint <placeName xml:lang="en">Beirut</placeName>, <rs ref="#hBNF" xml:lang="en">BnF</rs> (cote: 4- O3A- 681), <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r230">
                   <monogr>
@@ -4171,9 +3991,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">French</lang> </note>
                   <note type="sources"/>
-                  <note type="holdings"> <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en"
-                     >Beirut</placeName>, also online</note>
+                  <note type="holdings"> <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName xml:lang="en">Beirut</placeName>, also online</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r231">
                   <monogr>
@@ -4379,8 +4197,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings">Printed 1958, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hINA"
-                     xml:lang="en">INALCO</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>:
+                  <note type="holdings">Printed 1958, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hINA" xml:lang="en">INALCO</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>:
                      March-Oct 1884, <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r243">
@@ -4417,9 +4234,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">French</lang> </note>
                   <note type="sources"/>
-                  <note type="holdings">1885-1888 digitalized, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en"
-                     >archive.org</ref>, reprint <placeName xml:lang="en">Beirut</placeName> </note>
+                  <note type="holdings">1885-1888 digitalized, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, reprint <placeName xml:lang="en">Beirut</placeName> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r246">
                   <monogr>
@@ -4443,8 +4258,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">الاعلام</title>
                      <idno type="jaraid">t1r247</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Shaykh Muḥammad Bayram al-Khāmis al-Tūnisī</persName> <persName change="#d2e773" xml:lang="ar"
-                        >شيخ محمد بيرم الخامس التونسي</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Shaykh Muḥammad Bayram al-Khāmis al-Tūnisī</persName> <persName change="#d2e773" xml:lang="ar">شيخ محمد بيرم الخامس التونسي</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1885-02-11" xml:lang="en">1885</date>
@@ -4452,8 +4266,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>: al-Iʿlam? 1886, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hLOC" xml:lang="en"
-                     >LoC</rs>: almost complete set </note>
+                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>: al-Iʿlam? 1886, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hLOC" xml:lang="en">LoC</rs>: almost complete set </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r248">
                   <monogr>
@@ -4523,8 +4336,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">weekly</note>
-                  <note type="sources"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en"
-                     >Ṭ</rs>= 6 March 1886, Hartmann= 10
+                  <note type="sources"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>= 6 March 1886, Hartmann= 10
                      October 1885 (but it must be 1 Muḥarram 1303)</note>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?, <rs ref="#hBS" xml:lang="en">BS</rs>:
                      1886-1902</note>
@@ -4551,8 +4363,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">المبشر الصادق لe geر ا /</title>
                      <idno type="jaraid">t1r253</idno>
                      <textLang mainLang="ar" otherLangs="jrb"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar"
-                        >سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar">سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1885-10-23" xml:lang="en">1885</date>
@@ -4594,8 +4405,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: 1886-1889 (few numbers only), <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: 1890, <rs ref="#hBL" xml:lang="en"
-                     >BL</rs>: 1884?-1889</note>
+                  <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>: 1886-1889 (few numbers only), <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: 1890, <rs ref="#hBL" xml:lang="en">BL</rs>: 1884?-1889</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r256">
                   <monogr>
@@ -4635,8 +4445,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">الشمس الcهمس لe ل //</title>
                      <idno type="jaraid">t1r258</idno>
                      <textLang mainLang="ar" otherLangs="en he jrb"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Chalom/Chialom Guetta/Salīm Quwayta/Sālūm Qiṭṭa</persName> <persName change="#d2e773" xml:lang="ar"
-                        >cهلoم cهلoم geتة سليم قويتة سالوم قطة / / /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Chalom/Chialom Guetta/Salīm Quwayta/Sālūm Qiṭṭa</persName> <persName change="#d2e773" xml:lang="ar">cهلoم cهلoم geتة سليم قويتة سالوم قطة / / /</persName> </editor>
                      <editor> <persName xml:lang="ar-Latn-x-ijmes">Iliyāhū Sasson</persName> <persName change="#d2e773" xml:lang="ar">الياهو س</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
@@ -4714,8 +4523,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hDKQM" xml:lang="en">DKQM</rs>:1886-1892, <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1886-1888,1890,
-                        <rs ref="#hHARV"
-                     xml:lang="en">Harv</rs>: 1886</note>
+                        <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1886</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r264">
                   <monogr>
@@ -4841,8 +4649,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en"
-                     >Harv</rs>: 1-6 </note>
+                  <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hAUB" xml:lang="en">AUB:1888</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hHARV" xml:lang="en">Harv</rs>: 1-6 </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r271">
                   <monogr>
@@ -4859,10 +4666,8 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/al-shifa/index.html"
-                     xml:lang="en">online</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
-                        <rs ref="#hBS" xml:lang="en">BS</rs>: 1886-1888, <rs ref="#hAUC" xml:lang="en"
-                     >AUC</rs> </note>
+                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs> <ref target="http://ddc.aub.edu.lb/projects/saab/al-shifa/index.html" xml:lang="en">online</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,
+                        <rs ref="#hBS" xml:lang="en">BS</rs>: 1886-1888, <rs ref="#hAUC" xml:lang="en">AUC</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r272">
                   <monogr>
@@ -5027,8 +4832,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"/>
-                  <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#agt" xml:lang="en"
-                     >Ṭ</rs> also
+                  <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> also
                      gives it as 1 January 1888, <placeName xml:lang="en">Alexandria</placeName> </note>
                   <note type="holdings"/>
                </biblStruct>
@@ -5146,8 +4950,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official journal (Municipal) in <lang xml:lang="en">Ottoman Turkish</lang> and
-                     Arabic. Not to be confused with the private newspaper <name
-                     xml:lang="en">Bayrūt</name>
+                     Arabic. Not to be confused with the private newspaper <name xml:lang="en">Bayrūt</name>
                      established in 1886</note>
                   <note type="sources"> <add resp="#pTG" xml:lang="en">still mentioned by <bibl xml:lang="en">al-Bashīr</bibl> in 1902 and
                         1908</add> </note>
@@ -5222,8 +5025,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hDKW" xml:lang="en">DKW</rs>, <rs ref="#hMTQ" xml:lang="en">MTQ</rs>, <rs ref="#hAH" xml:lang="en">Aʿḥ</rs>,
-                        <rs ref="#hDKQ"
-                     xml:lang="en">DKQ</rs> </note>
+                        <rs ref="#hDKQ" xml:lang="en">DKQ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r295">
                   <monogr>
@@ -5454,8 +5256,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBONN" xml:lang="en">BONN: <ref
-                     target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-230743" xml:lang="en">online, 1889-1890</ref> </rs> </note>
+                  <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-230743" xml:lang="en">online, 1889-1890</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r309">
                   <monogr>
@@ -5488,8 +5289,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hHARV" xml:lang="en">Harv</rs>: n. 1, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hAUB" xml:lang="en"
-                     >AUB</rs>?</note>
+                  <note type="holdings"> <rs ref="#hHARV" xml:lang="en">Harv</rs>: n. 1, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hAUB" xml:lang="en">AUB</rs>?</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r311">
                   <monogr>
@@ -5630,8 +5430,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">حنصنيم</title>
                      <idno type="jaraid">t1r320</idno>
                      <textLang mainLang="ar" otherLangs="jrb"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar"
-                        >سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar">سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1889-10-24" xml:lang="en">1889</date>
@@ -5775,10 +5574,7 @@
                   <note type="comment">daily</note>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL: 1900</rs>, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hSBB" xml:lang="en">SBB:
-                        1896-1898 (<ref
-                     target="http://zefys.staatsbibliothek-berlin.de/list/title/zdb/26687665/" xml:lang="en">online</ref>)</rs>,<add resp="#pPS" xml:lang="en"> <rs ref="#hSTAN" xml:lang="en"
-                     >Stan: 1894, 1909</rs> </add> <rs ref="#hCRL">CRL: 1889-1905 <ref target="https://gpa.eastview.com/crl/mena/newspapers/muyd                               " xml:lang="en"
-                     >online</ref> </rs> </note>
+                        1896-1898 (<ref target="http://zefys.staatsbibliothek-berlin.de/list/title/zdb/26687665/" xml:lang="en">online</ref>)</rs>,<add resp="#pPS" xml:lang="en"> <rs ref="#hSTAN" xml:lang="en">Stan: 1894, 1909</rs> </add> <rs ref="#hCRL">CRL: 1889-1905 <ref target="https://gpa.eastview.com/crl/mena/newspapers/muyd                               " xml:lang="en">online</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r329">
                   <monogr>
@@ -5798,8 +5594,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hMEC" xml:lang="en">MEC</rs> microfilm: 1889-1945, <rs ref="#hBL" xml:lang="en">BL</rs>:
-                     1917-1919, <rs ref="#hAUC"
-                     xml:lang="en">AUC</rs> (microform)</note>
+                     1917-1919, <rs ref="#hAUC" xml:lang="en">AUC</rs> (microform)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r330">
                   <monogr>
@@ -5949,8 +5744,7 @@
                   <note type="comment">Arabic and <lang xml:lang="en">Ottoman Turkish</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hAKI" xml:lang="en">AKI</rs>, <rs ref="#hHTU" xml:lang="en">HTU</rs>,
-                        <rs ref="#hIU"
-                     xml:lang="en">IÜ</rs> </note>
+                        <rs ref="#hIU" xml:lang="en">IÜ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r340">
                   <monogr>
@@ -6090,8 +5884,7 @@
                      <title change="#d2e773 #d3e776" level="j" ref="oape:bibl:169" xml:lang="ar">الزهرة</title>
                      <idno type="jaraid">t1r348</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName> <persName change="#d2e773" xml:lang="ar"
-                        >ه م عقربي محمد عبد الرحمان الصنادلي سندلي / /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName> <persName change="#d2e773" xml:lang="ar">ه م عقربي محمد عبد الرحمان الصنادلي سندلي / /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1890-07-20" xml:lang="en">1890</date>
@@ -6226,8 +6019,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">جريدة ابي نظارة لe جoرنل د ابo ندرة ’/</title>
                      <idno type="jaraid">t1r357</idno>
                      <textLang mainLang="ar" otherLangs="arz fr"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">J. Sanua Abou Naddara / Al-Shaykh Sānuwā Abū Naẓẓāra</persName> <persName change="#d2e773" xml:lang="ar"
-                        >ج. سنة ابo ندرة الشيخ سانوی ابو نظارة /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">J. Sanua Abou Naddara / Al-Shaykh Sānuwā Abū Naẓẓāra</persName> <persName change="#d2e773" xml:lang="ar">ج. سنة ابo ندرة الشيخ سانوی ابو نظارة /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Paris</placeName> </pubPlace>
                         <date type="onset" when="1891-01-21" xml:lang="en">1891</date>
@@ -6238,10 +6030,8 @@
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">colloquial Arabic</lang>-<lang xml:lang="en">French</lang> </note>
                   <note type="sources"/>
-                  <note type="holdings">reprint <placeName xml:lang="en">Beirut</placeName>, also online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hBNF"
-                     xml:lang="en">BnF</rs>,
-                        <rs ref="#hHTU" xml:lang="en">HTU</rs>: 1892, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
+                  <note type="holdings">reprint <placeName xml:lang="en">Beirut</placeName>, also online at <ref target="http://www.archive.org" xml:lang="en">archive.org</ref>, <rs ref="#hBNF" xml:lang="en">BnF</rs>,
+                        <rs ref="#hHTU" xml:lang="en">HTU</rs>: 1892, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r358">
                   <monogr>
@@ -6276,8 +6066,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">Ottoman Turkish</lang> Organ of al-Mutaṣarrifa</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1891-1910, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en"
-                     >BnF</rs>?,</note>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>: 1891-1910, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?,</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r360">
                   <monogr>
@@ -6526,11 +6315,8 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en"
-                     >SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?,
-                     <rs ref="#hLOC" xml:lang="en">LOC</rs>,  <rs ref="#hDMW"
-                     xml:lang="en">DMW</rs>, available as digitized copy on CD at <rs ref="#hBIBAL" xml:lang="en">BibAlex</rs>, and at <ref target="http://catalog.hathitrust.org/Record/000638242"
-                     xml:lang="en">HathiTrust</ref>.</note>
+                  <note type="holdings"> <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>?,
+                     <rs ref="#hLOC" xml:lang="en">LOC</rs>,  <rs ref="#hDMW" xml:lang="en">DMW</rs>, available as digitized copy on CD at <rs ref="#hBIBAL" xml:lang="en">BibAlex</rs>, and at <ref target="http://catalog.hathitrust.org/Record/000638242" xml:lang="en">HathiTrust</ref>.</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r376">
                   <monogr>
@@ -6599,10 +6385,8 @@
                   <note type="comment">Arabic and <lang xml:lang="en">English</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hNYPL" xml:lang="en">NYPL</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
-                        <rs
-                     ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBL" xml:lang="en">BL:
-                           1895</rs>, <rs xml:lang="en"> also <ref
-                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/51" xml:lang="en">online</ref> </rs> </note>
+                        <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, <rs ref="#hBL" xml:lang="en">BL:
+                           1895</rs>, <rs xml:lang="en"> also <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/51" xml:lang="en">online</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r380">
                   <monogr>
@@ -6732,8 +6516,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">ناصر المحيرين</title>
                      <idno type="jaraid">t1r387</idno>
                      <textLang mainLang="ar" otherLangs="jrb"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar"
-                        >سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar">سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1892-11-16" xml:lang="en">1892</date>
@@ -6959,9 +6742,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings">reprinted <placeName xml:lang="en">Cairo</placeName> 1994, <rs ref="#hDUR" xml:lang="en">Dur</rs>,
-                        <rs ref="#hBL" xml:lang="en"
-                     >BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en"
-                     >MEC
+                        <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hSBB" xml:lang="en">SBB</rs>: 1892-1893, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hMEC" xml:lang="en">MEC
                         microfilm</rs> <ref target="https://openarabicpe.github.io/journal_al-ustadh/tei/oclc_1036721166-i_1.TEIP5.xml">openArabic edition</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r401">
@@ -7081,8 +6862,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">French</lang>, then <lang xml:lang="en">French</lang>-Arabic from no 16 (14 January
-                     1894) Reappeared as <name
-                     xml:lang="en">L’éclair</name>, 1895</note>
+                     1894) Reappeared as <name xml:lang="en">L’éclair</name>, 1895</note>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs> </note>
                </biblStruct>
@@ -7411,8 +7191,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <add resp="#pTG" xml:lang="en">still published in 1908, when it moved to three issues per
-                        week; <bibl xml:lang="en"
-                     >al-Bashīr, 9 Nov. 1908:2</bibl> </add> </note>
+                        week; <bibl xml:lang="en">al-Bashīr, 9 Nov. 1908:2</bibl> </add> </note>
                   <note type="holdings"/>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r429">
@@ -7662,8 +7441,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> bi-lingual paper (Arabic and <lang xml:lang="en">Portuguese</lang>) by a Syrian
-                     homme des lettres in <placeName xml:lang="en"
-                     >São Paolo</placeName> </note>
+                     homme des lettres in <placeName xml:lang="en">São Paolo</placeName> </note>
                   <note type="sources"> <add resp="#pTG" xml:lang="en"> <bibl xml:lang="en">Thamarāt al-Funūn, 18 Feb. 1895:2</bibl> </add>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"/>
                </biblStruct>
@@ -7982,8 +7760,7 @@
                   <note type="comment">Arabic and <lang xml:lang="en">English</lang> </note>
                   <note type="sources"> <rs ref="#aghart1" xml:lang="en">+</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hAUC" xml:lang="en">AUC</rs>, <rs ref="#hNYPL" xml:lang="en">NYPL</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?
-                        <rs
-                     ref="#hAUB" xml:lang="en">AUB</rs>?, <rs ref="#hBL" xml:lang="en">BL: 15 Nov 1894</rs> </note>
+                        <rs ref="#hAUB" xml:lang="en">AUB</rs>?, <rs ref="#hBL" xml:lang="en">BL: 15 Nov 1894</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r464">
                   <monogr>
@@ -9316,8 +9093,7 @@
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">colloquial Arabic</lang> (Egyptian)</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> gives both <placeName xml:lang="en">Cairo</placeName> and
-                        <placeName xml:lang="en"
-                     >Alexandria</placeName>, <rs ref="#ags" xml:lang="en">S</rs> </note>
+                        <placeName xml:lang="en">Alexandria</placeName>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"/>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r547">
@@ -10067,9 +9843,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#aghart2" xml:lang="en">+!</rs>, <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
-                        <rs ref="#hDM"
-                     xml:lang="en">Dayr al-Makh</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN" xml:lang="en"
-                     >Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="en">complete
+                        <rs ref="#hDM" xml:lang="en">Dayr al-Makh</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN" xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="en">complete
                               publication-run online</ref> </rs> </add>. </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r593">
@@ -10296,8 +10070,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">English</lang>, official paper, subtitled:
-                        <name xml:lang="en">Journal of Agriculture for <placeName
-                     xml:lang="en">Zanzibar</placeName> / al-Jarīda
+                        <name xml:lang="en">Journal of Agriculture for <placeName xml:lang="en">Zanzibar</placeName> / al-Jarīda
                         al-Hukmiyya al-Zirāʾiyya</name> </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hKEW" xml:lang="en">Kew</rs> </note>
@@ -10340,8 +10113,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">كتاب رياقات النفوس</title>
                      <idno type="jaraid">t1r609</idno>
                      <textLang mainLang="ar" otherLangs="jrb"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar"
-                        >سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī/ Simah b. Nathan ha-Lévy</persName> <persName change="#d2e773" xml:lang="ar">سيماح بن نطان ليفي سمه ب. نثن ال /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1897" xml:lang="en">1897</date>
@@ -10869,8 +10641,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">انيس الجليس</title>
                      <idno type="jaraid">t1r642</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Aliksandrā Khūrī Afrīnūh/Alexandra Meltiyadi Aferino</persName> <persName change="#d2e773" xml:lang="ar"
-                        >الكسندری خوري افرينوه الexندرة يد افeرنo /</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Aliksandrā Khūrī Afrīnūh/Alexandra Meltiyadi Aferino</persName> <persName change="#d2e773" xml:lang="ar">الكسندری خوري افرينوه الexندرة يد افeرنo /</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1898-01-31" xml:lang="en">1898</date>
@@ -10879,8 +10650,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hLOC" xml:lang="en">LOC</rs>, <rs ref="#hCU" xml:lang="en">CU</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en"
-                     >DKQ</rs>?, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>
+                  <note type="holdings"> <rs ref="#hLOC" xml:lang="en">LOC</rs>, <rs ref="#hCU" xml:lang="en">CU</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>?, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hAUC" xml:lang="en">AUC</rs>
                      (microform)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r643">
@@ -11029,11 +10799,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hDUR" xml:lang="en">Dur</rs>, <add resp="#pAM" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=8378E74DF20BF7C2DB57068EE171DCF4" xml:lang="en">1898-1906 online</ref> </rs> </add>, <rs ref="#hSOAS"
-                     xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en"
-                     >OIB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBONN" resp="#pTG" xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68602" xml:lang="en"
-                     >1898-1906
+                  <note type="holdings"> <rs ref="#hDUR" xml:lang="en">Dur</rs>, <add resp="#pAM" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=8378E74DF20BF7C2DB57068EE171DCF4" xml:lang="en">1898-1906 online</ref> </rs> </add>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBONN" resp="#pTG" xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68602" xml:lang="en">1898-1906
                               online</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r652">
@@ -11183,8 +10949,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, BnF: <ref
-                     target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/58" xml:lang="en">online</ref> </note>
+                  <note type="holdings"> <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>?, BnF: <ref target="https://lebanesestudies.omeka.chass.ncsu.edu/collections/show/58" xml:lang="en">online</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r661">
                   <monogr>
@@ -11284,8 +11049,7 @@
                   <note type="comment">Arabic and <lang xml:lang="en">Ottoman Turkish</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>= 11 April 1900, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hAKI" xml:lang="en">AKI</rs>, <rs ref="#hHTU" xml:lang="en">HTU</rs>: vol 1 n 1: 11 April 1898,
-                        <rs ref="#hIU" xml:lang="en"
-                     >IÜ</rs> </note>
+                        <rs ref="#hIU" xml:lang="en">IÜ</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r667">
                   <monogr>
@@ -11486,14 +11250,9 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>,
-                        <rs
-                     ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hIU"
-                     xml:lang="en">IÜ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hSBB" xml:lang="en">SBB (Microfiche: 50 PF 10)</rs>, <rs ref="#hPUL" xml:lang="en"
-                     >Prin</rs>, available via <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="en">HathiTrust</ref>,
-                        <ref
-                     target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="en">Waqfeya.com: vols.
-                           1-22</ref>, <ref
-                     target="https://github.com/openarabicpe/journal_al-manar">openArabic edition </ref> </note>
+                        <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hMEC" xml:lang="en">MEC</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hSBB" xml:lang="en">SBB (Microfiche: 50 PF 10)</rs>, <rs ref="#hPUL" xml:lang="en">Prin</rs>, available via <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="en">HathiTrust</ref>,
+                        <ref target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="en">Waqfeya.com: vols.
+                           1-22</ref>, <ref target="https://github.com/openarabicpe/journal_al-manar">openArabic edition </ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r679">
                   <monogr>
@@ -11512,11 +11271,8 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
                   <note type="holdings"> <rs ref="#hCAM" xml:lang="en">Cam</rs>, <rs ref="#hDUR" xml:lang="en">Dur</rs>, <rs ref="#hIO" xml:lang="en">Ind
-                     Off</rs>, <rs
-                     ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>: 1944-46, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs
-                     ref="#hAUB" xml:lang="en">AUB</rs>,
-                      <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hIU" xml:lang="en"
-                     >IÜ</rs>, <ref target="http://archive.sakhrit.co/newmagazineYears.aspx?MID=108" xml:lang="en">online</ref> </note>
+                     Off</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hBL" xml:lang="en">BL</rs>: 1944-46, <rs ref="#hBOD" xml:lang="en">Bod</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
+                      <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hBDK" xml:lang="en">BDK</rs>, <rs ref="#hIU" xml:lang="en">IÜ</rs>, <ref target="http://archive.sakhrit.co/newmagazineYears.aspx?MID=108" xml:lang="en">online</ref> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r680">
                   <monogr>
@@ -12098,8 +11854,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings">1899 in <rs ref="#agfak" xml:lang="en">Fak</rs> 160, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF"
-                     xml:lang="en">BnF</rs> </note>
+                  <note type="holdings">1899 in <rs ref="#agfak" xml:lang="en">Fak</rs> 160, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hBNF" xml:lang="en">BnF</rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r715">
                   <monogr>
@@ -12428,8 +12183,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">colloquial Arabic</lang> (Egyptian). <rs ref="#abd2" xml:lang="en">ʿAbd</rs>:
-                     established in <date when="1897"
-                     xml:lang="en">1897</date> </note>
+                     established in <date when="1897" xml:lang="en">1897</date> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs>, Ziad Fahmy </note>
                   <note type="holdings"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>: 1896?, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>: 1899?, <rs ref="#hAUC" xml:lang="en">AUC</rs> (microform)</note>
                </biblStruct>
@@ -12532,9 +12286,7 @@
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
-                        <rs
-                     ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN"
-                     xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">1899-1910
+                        <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <add resp="#pTG" xml:lang="en"> <rs ref="#hBONN" xml:lang="en">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">1899-1910
                               online</ref> </rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r742">
@@ -12555,9 +12307,7 @@
                   <note type="comment"/>
                   <note type="sources"/>
                   <note type="holdings"> <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>,
-                        <rs
-                     ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hBONN" xml:lang="en">BONN: <ref
-                     target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">online, 1899-1910</ref> </rs> </note>
+                        <rs ref="#hBNF" xml:lang="en">BnF</rs>, <rs ref="#hBOSJ" xml:lang="en">BOSJ</rs>, <rs ref="#hOIB" xml:lang="en">OIB</rs>, <rs ref="#hBONN" xml:lang="en">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-68533" xml:lang="en">online, 1899-1910</ref> </rs> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r743">
                   <monogr>
@@ -12689,9 +12439,7 @@
                   </monogr>
                   <note type="comment">Greek orthodox paper</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF: 1899-1903</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hLEN"
-                     xml:lang="en">Len</rs>, <rs ref="#hEAP119" xml:lang="en">Aqṣā: 1901 (<ref target="http://eap.bl.uk/database/results.a4d?projID=EAP119;r=18467" xml:lang="en"
-                     >EAP119/1/7</ref>)</rs>. </note>
+                  <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF: 1899-1903</rs>, <rs ref="#hAUB" xml:lang="en">AUB</rs>, <rs ref="#hDKQ" xml:lang="en">DKQ</rs>, <rs ref="#hLEN" xml:lang="en">Len</rs>, <rs ref="#hEAP119" xml:lang="en">Aqṣā: 1901 (<ref target="http://eap.bl.uk/database/results.a4d?projID=EAP119;r=18467" xml:lang="en">EAP119/1/7</ref>)</rs>. </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r751">
                   <monogr>
@@ -12795,9 +12543,7 @@
                         Turkish</lang>-<lang xml:lang="en">Persian</lang>-<lang xml:lang="en">French</lang> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, <rs ref="#ags" xml:lang="en">S</rs> </note>
                   <note type="holdings"> <rs ref="#hBL" xml:lang="en">BL</rs>, <rs ref="#hSOAS" xml:lang="en">SOAS</rs>, reprint
-                        <placeName xml:lang="en"
-                     >Beirut</placeName>, 1881??, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
+                        <placeName xml:lang="en">Beirut</placeName>, 1881??, <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r757">
                   <monogr>
@@ -12995,8 +12741,7 @@
                   </monogr>
                   <note type="comment"> <lang xml:lang="en">Ottoman Turkish</lang> and Arabic</note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>= 1899, Arabic title provided by <rs ref="#agt" xml:lang="en">Ṭ</rs>.</note>
-                  <note type="holdings"> <rs ref="#hHARV" xml:lang="en"
-                     >HARV: second issue </rs>, later perhaps bound together under
+                  <note type="holdings"> <rs ref="#hHARV" xml:lang="en">HARV: second issue </rs>, later perhaps bound together under
                      the title Resimli devr-i âlem seyahatnamesi (Strauss 2003: 73 n164)</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r769">
@@ -13086,8 +12831,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="en">French</lang> </note>
                   <note type="sources"> <rs ref="#ags" xml:lang="en">S</rs> </note>
-                  <note type="holdings"> <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
+                  <note type="holdings"> <add resp="#pTG" xml:lang="en"> <rs ref="#hIMA" xml:lang="en">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r774">
                   <monogr>
@@ -14342,10 +14086,8 @@
                      </imprint>
                   </monogr>
                   <note type="comment">Bilingual, <lang xml:lang="en">French</lang>-Arabic, edition consisting of extracts
-                     from the Arabic edition from <name ref="#t1r20"
-                     xml:lang="en">Birjīs Bārīs</name> </note>
-                  <note type="sources"
-                     >Moncef Chenoufi, Le problème des origines de l'imprimerie et de la
+                     from the Arabic edition from <name ref="#t1r20" xml:lang="en">Birjīs Bārīs</name> </note>
+                  <note type="sources">Moncef Chenoufi, Le problème des origines de l'imprimerie et de la
                      presse arabes en Tunisie dans sa relation avec la renaissance Nahda (1847-1887)
                      (PhD dissertation, 1970)</note>
                   <note type="holdings"> <rs ref="#hBNF" xml:lang="en">BnF</rs>.</note>
@@ -14365,8 +14107,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> handwritten; lithographed; only six issues</note>
-                  <note type="sources"
-                     >issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
+                  <note type="sources">issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
 										fī ʿAhd al-Imāra, 1921-1946” PhD thesis, Jāmiʿat al-Qaddīs Yūsuf, Beirut, 1999</note>
                   <note type="holdings"> <rs ref="#hUJ" xml:lang="en">UJ</rs> (one issue, 27 Jumādī al-Thānī 1339).</note>
                </biblStruct>
@@ -17136,8 +16877,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">البشائر</title>
                      <idno type="jaraid">t1r1023</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Sayyid al-Ghanīmī Muḥammad al-Taftazānī</persName> <persName change="#d2e773" xml:lang="ar"
-                        >السيد الغنيمي محمد التفتزاني</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Sayyid al-Ghanīmī Muḥammad al-Taftazānī</persName> <persName change="#d2e773" xml:lang="ar">السيد الغنيمي محمد التفتزاني</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1909-12-17" xml:lang="en">1909</date>
@@ -19689,8 +19429,7 @@
                   </monogr>
                   <note type="comment"> <note>illustrated</note> </note>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hAUC">AUC:</rs> <ref target="http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll29"
-                     >1925-1929 online</ref>, not complete</note>
+                  <note type="holdings"> <rs ref="#hAUC">AUC:</rs> <ref target="http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll29">1925-1929 online</ref>, not complete</note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r1173">
                   <monogr>
@@ -22815,9 +22554,7 @@
                   </monogr>
                   <note type="comment"> <ref target="https://www.uqn.gov.sa/">today's website</ref> </note>
                   <note type="sources"> <rs xml:lang="en"/>first issue</note>
-                  <note type="holdings"> <rs/> <ref target="http://ncar.gov.sa/OmElQuora/List">1924-2000s (some issues missing)</ref>; <ref
-                     target="https://www.wdl.org/en/search/?collection=umm-al-qura-newspaper#view=gallery">1935-1955 at World Digital Library</ref>, <ref
-                     target="http://id.lib.harvard.edu/alma/990035347800203941/catalog">microform 1924-1967 at <rs ref="#hHARV">Harv</rs> </ref> </note>
+                  <note type="holdings"> <rs/> <ref target="http://ncar.gov.sa/OmElQuora/List">1924-2000s (some issues missing)</ref>; <ref target="https://www.wdl.org/en/search/?collection=umm-al-qura-newspaper#view=gallery">1935-1955 at World Digital Library</ref>, <ref target="http://id.lib.harvard.edu/alma/990035347800203941/catalog">microform 1924-1967 at <rs ref="#hHARV">Harv</rs> </ref> </note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r1357">
                   <monogr>
@@ -25912,8 +25649,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">مجلة نقابة اتحاد مزارعي القطر المصري</title>
                      <idno type="jaraid">t1r1538</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">[Niqābat Ittiḥād Muzāriʿī al-Quṭr al-Miṣrī?]</persName> <persName change="#d2e773" xml:lang="ar"
-                        >[ نقابة اتحاد مزارعي القطر المصري ] ?</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">[Niqābat Ittiḥād Muzāriʿī al-Quṭr al-Miṣrī?]</persName> <persName change="#d2e773" xml:lang="ar">[ نقابة اتحاد مزارعي القطر المصري ] ?</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1901-07-20" xml:lang="en">1901</date>
@@ -25930,8 +25666,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">الكنيسة الارثوذكسية</title>
                      <idno type="jaraid">t1r1539</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nashāʾa al-Sūriyya al-Urthudhuksiyya</persName> <persName change="#d2e773" xml:lang="ar"
-                        >جمعية النشاءة السورية الارثذكسية</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nashāʾa al-Sūriyya al-Urthudhuksiyya</persName> <persName change="#d2e773" xml:lang="ar">جمعية النشاءة السورية الارثذكسية</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1901-10-01" xml:lang="en">1901</date>
@@ -27823,8 +27558,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">مجلة اليمان الشهرية</title>
                      <idno type="jaraid">t1r1650</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Īmān al-Qubṭiyya al-Markaziyya</persName> <persName change="#d2e773" xml:lang="ar"
-                        >جمعية اليمان القبطية المركزية</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Īmān al-Qubṭiyya al-Markaziyya</persName> <persName change="#d2e773" xml:lang="ar">جمعية اليمان القبطية المركزية</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1909-01-01" xml:lang="en">1909</date>
@@ -28142,8 +27876,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</note>
-                  <note type="holdings">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs> </ref>, <ref
-                     target="https://github.com/openarabicpe/journal_al-zuhur">openArabic edition</ref> </note>
+                  <note type="holdings">1910-1913 <ref target="https://digitale-sammlungen.ulb.uni-bonn.de/urn/urn:nbn:de:hbz:5:1-90222">online at <rs ref="#hBONN">Bonn</rs> </ref>, <ref target="https://github.com/openarabicpe/journal_al-zuhur">openArabic edition</ref> </note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r1669">
                   <monogr>
@@ -32536,8 +32269,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">العائلة القبطية</title>
                      <idno type="jaraid">t1r1925</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Qibṭiyya al-Khayriyya</persName> <persName change="#d2e773" xml:lang="ar"
-                        >جمعية الاتحاد القبطية الخيرية</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Qibṭiyya al-Khayriyya</persName> <persName change="#d2e773" xml:lang="ar">جمعية الاتحاد القبطية الخيرية</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Alexandria</placeName> </pubPlace>
                         <date type="onset" when="1909-03-01" xml:lang="en">1909</date>
@@ -34140,8 +33872,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">ارشادات الل-فلاح</title>
                      <idno type="jaraid">t1r2019</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Idārat al-Maṣāliḥ al-Iqtiṣādiyya al-Ahliyya</persName> <persName change="#d2e773" xml:lang="ar"
-                        >ادارة المصالح الاقتصادية الاهلية</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Idārat al-Maṣāliḥ al-Iqtiṣādiyya al-Ahliyya</persName> <persName change="#d2e773" xml:lang="ar">ادارة المصالح الاقتصادية الاهلية</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1914-01-01" xml:lang="en">1914</date>
@@ -34158,8 +33889,7 @@
                      <title change="#d2e773" level="j" xml:lang="ar">مجلة التعليم العربي</title>
                      <idno type="jaraid">t1r2020</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Widādiyya li-Muʿallimī al-Lugha al-ʿArabiyya</persName> <persName change="#d2e773" xml:lang="ar"
-                        >الجمعية الودادية المعلمي اللغة العربية</persName> </editor>
+                     <editor> <persName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Widādiyya li-Muʿallimī al-Lugha al-ʿArabiyya</persName> <persName change="#d2e773" xml:lang="ar">الجمعية الودادية المعلمي اللغة العربية</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName xml:lang="en">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1920-02-21" xml:lang="en">1920</date>
@@ -43507,8 +43237,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <ref target="http://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml" xml:lang="en">online TEI edition</ref>, <ref
-                     target="https://catalog.hathitrust.org/Record/100658549" xml:lang="en">vol. 1-5 in HathiTrust</ref> </note>
+                  <note type="holdings"> <ref target="http://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml" xml:lang="en">online TEI edition</ref>, <ref target="https://catalog.hathitrust.org/Record/100658549" xml:lang="en">vol. 1-5 in HathiTrust</ref> </note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r2591">
                   <monogr>
@@ -47766,8 +47495,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=echo-of-babylon-newspaper-collection" xml:lang="en"
-                     >215 issues in World Digital Library</ref>)</note>
+                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=echo-of-babylon-newspaper-collection" xml:lang="en">215 issues in World Digital Library</ref>)</note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r2854">
                   <monogr>
@@ -48361,8 +48089,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs> </note>
-                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-arab-newspaper-collection" xml:lang="en"
-                     >607 issues in World Digital Library</ref>)</note>
+                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-arab-newspaper-collection" xml:lang="en">607 issues in World Digital Library</ref>)</note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r2891">
                   <monogr>
@@ -48426,8 +48153,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <rs ref="#agt" xml:lang="en">Ṭ</rs>, first issue</note>
-                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-iraq-newspaper-collection" xml:lang="en"
-                     >500 issues in World Digital Library</ref>)</note>
+                  <note type="holdings"> <rs ref="#hINL" xml:lang="en">INL</rs> (<ref target="https://www.wdl.org/en/search/?collection=al-iraq-newspaper-collection" xml:lang="en">500 issues in World Digital Library</ref>)</note>
                </biblStruct>
                <biblStruct resp="#AM" type="periodical" xml:id="biblStruct_t1r2895">
                   <monogr>
@@ -54615,8 +54341,7 @@
                   <abbr xml:lang="en">HTU</abbr>
                   <expan xml:lang="en">Hakkı Tarık Us Collection of Beyazit State Library, Istanbul</expan>
                   </choice>. The collection of periodicals was digitized by the Beyazit State
-                  Library and the Tokyo University of Foreign Studies and is available <ref
-                  target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/" xml:lang="en">online</ref>.</p>
+                  Library and the Tokyo University of Foreign Studies and is available <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/" xml:lang="en">online</ref>.</p>
                <p xml:id="hIDEO" xml:lang="en"> <choice xml:lang="en">
                   <abbr xml:lang="en">IDEO</abbr>
                   <expan xml:lang="en">Institut Dominicain d’Études Orientales au Caire, Cairo</expan>
@@ -54770,8 +54495,7 @@
                      <expan xml:lang="en">Periodical collections at the Al-Aqṣā Mosque Library in East
                            Jerusalem</expan>
                      </choice>. The collection was digitized by the "Endangered Archives Program" of
-                     the British Library and is available <ref
-                     target="http://eap.bl.uk/database/overview_project.a4d?projID=EAP119" xml:lang="en">online</ref>. </p>
+                     the British Library and is available <ref target="http://eap.bl.uk/database/overview_project.a4d?projID=EAP119" xml:lang="en">online</ref>. </p>
                   <p xml:id="hCOL" xml:lang="en"> <note xml:lang="en"> <date when="2012-10-10"/>added</note> <choice xml:lang="en">
                      <abbr xml:lang="en">Col</abbr>
                      <expan xml:lang="en">Columbia University Library</expan>
@@ -54800,14 +54524,12 @@
                      <abbr xml:lang="en">INL</abbr>
                      <expan xml:lang="en">Iraqi National Library and Archives</expan>
                      </choice>. Some of its holdings were digitized and are available through the
-                        <ref
-                     target="http://www.wdl.org/en/search/?institution=iraqi-national-library-and-archives" xml:lang="en">World Digital Library</ref>. </p>
+                        <ref target="http://www.wdl.org/en/search/?institution=iraqi-national-library-and-archives" xml:lang="en">World Digital Library</ref>. </p>
                   <p xml:id="hBIBAL" xml:lang="en"> <note xml:lang="en"> <date when="2014-04-15" xml:lang="en">added</date> </note> <choice xml:lang="en">
                      <abbr xml:lang="en">BibAlex</abbr>
                      <expan xml:lang="en">Bibliotheca Alexandrina</expan>
                      </choice>. Some holdings are currently in the process of digitization and are
-                     made availabe through the <ref
-                     target="http://dar.bibalex.org/webpages/advancedsearch.jsf" xml:lang="en">Digital Assets
+                     made availabe through the <ref target="http://dar.bibalex.org/webpages/advancedsearch.jsf" xml:lang="en">Digital Assets
                         Repository</ref>.</p>
                   <p xml:id="hBONN" xml:lang="en"> <note xml:lang="en"> <date when="2014-05-09" xml:lang="en">added</date> </note> <choice xml:lang="en">
                      <abbr xml:lang="en">Bonn</abbr>
@@ -54817,8 +54539,7 @@
                      <abbr xml:lang="en">CRL</abbr>
                      <expan xml:lang="en">Center for Research Libraries</expan>
                      </choice>. Provides access to inter-library loan of microfilms as well as
-                     digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3"
-                     xml:lang="en">collection</ref> is restricted to
+                     digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3" xml:lang="en">collection</ref> is restricted to
                      member institutions.</p>
                   <p xml:id="hUJ" xml:lang="en"> <note xml:lang="en"> <date when="2017-12-30"/>added</note> <choice xml:lang="en">
                      <abbr xml:lang="en">UJ</abbr>
@@ -54840,9 +54561,7 @@
                   Monde Arabe</ref> </p>
             <p xml:lang="en">2. Al-Jinān: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="en">Institut du Monde Arabe</ref> </p>
             <p xml:lang="en">3. Al-Muqtaṭaf: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4" xml:lang="en">Institut du Monde Arabe</ref> </p>
-            <p xml:lang="en">4. Periodicals from James Sanua/Abū Naẓẓāra, etc: <ref target="http://archive.org/details/uufabnazrah01annyuoft"/>, <ref
-               target="http://www.archive.org/details/uufabnazrah02annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah03annyuoft"/>, <ref
-               target="http://www.archive.org/details/uufabnazrah04annyuoft"/> </p>
+            <p xml:lang="en">4. Periodicals from James Sanua/Abū Naẓẓāra, etc: <ref target="http://archive.org/details/uufabnazrah01annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah02annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah03annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah04annyuoft"/> </p>
             <p xml:lang="en"> <hi rend="italic" xml:lang="en">Abou Naddara Collection</hi>: <ref target="http://kjc-fs1.kjc.uni-heidelberg.de:8080/exist/apps/naddara/project.html"/> </p>
             <p xml:lang="en"> <hi rend="bold" xml:lang="en">Useful websites</hi> </p>
             <p xml:lang="en">French press in Egypt: <ref target="http://www.cealex.org/pfe/presentation/liste_200ansPFE.php"/> </p>
@@ -54863,8 +54582,7 @@
                </choice> </p>
             <p xml:id="agfak" xml:lang="en"> <choice xml:lang="en">
                <abbr xml:lang="en"> <rs ref="#agfak" xml:lang="en">Fak</rs> </abbr>
-               <expan xml:lang="en">Rouchdi Fakkar, <hi rend="italic" xml:lang="en"
-                  >L’Influence française sur la formation de
+               <expan xml:lang="en">Rouchdi Fakkar, <hi rend="italic" xml:lang="en">L’Influence française sur la formation de
                         la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973).</expan>
                </choice> </p>
             <p xml:id="ags" xml:lang="en"> <choice xml:lang="en">
