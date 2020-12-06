@@ -113,7 +113,7 @@
             </person>
             <person xml:id="person_1320.d5e8390">
                 <persName xml:id="persName_1339.d5e8392" xml:lang="ar-Latn-x-ijmes">A.A.N.</persName>
-                <persName change="#d2e154" xml:id="persName_43.d5e322" xml:lang="ar">ا..ن.</persName>
+                <persName change="#d2e154" xml:id="persName_43.d5e322" xml:lang="ar">ا.ا.ن.</persName>
                 <tei:persName change="#d5e194" corresp="#persName_43.d5e322" type="flattened" xml:lang="ar">ان</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1339.d5e8392" type="flattened" xml:id="persName_1.d31e1" xml:lang="en">AAN</persName>
                 <idno type="jaraid">1320</idno>
@@ -12184,8 +12184,7 @@
             </person>
             <person xml:id="person_36.d5e468">
                 <persName xml:id="persName_55.d5e470" xml:lang="ar-Latn-x-ijmes">Pascal Vincent (
-                    <rs ref="#agt" xml:lang="en"
-                    >Ṭ</rs>
+                    <rs ref="#agt" xml:lang="en">Ṭ</rs>
                     = Manṣūr) Carletti</persName>
                 <persName change="#d2e154" xml:id="persName_5153.d5e26137" xml:lang="ar">pسcل v ( ط = منصور ) c</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5153.d5e26137" type="flattened" xml:lang="ar">pسcلvط=منصورc</tei:persName>
