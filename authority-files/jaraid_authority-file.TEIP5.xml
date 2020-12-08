@@ -14462,10 +14462,10 @@
                 <idno type="jaraid">1346</idno>
             </person>
             <person xml:id="person_26.d5e406">
-                <persName xml:id="persName_45.d5e408" xml:lang="ar-Latn-x-ijmes">Victor Barruland</persName>
-                <persName change="#d2e154" xml:id="persName_6112.d5e30980" xml:lang="ar">v برلند</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6112.d5e30980" type="flattened" xml:lang="ar">vبرلند</tei:persName>
-                <persName change="#d5e126" corresp="#persName_45.d5e408" type="flattened" xml:id="persName_1.d6097e1" xml:lang="en">VictorBarruland</persName>
+                <persName xml:id="persName_45.d5e408" xml:lang="fr">Victor Barruland</persName>
+                <persName change="#d2e154" xml:id="persName_6112.d5e30980" xml:lang="fr">Victor Barruland</persName>
+                <tei:persName change="#d5e194" corresp="#persName_6112.d5e30980" type="flattened" xml:lang="fr">Victor Barruland</tei:persName>
+                <persName change="#d5e126" corresp="#persName_45.d5e408" type="flattened" xml:id="persName_1.d6097e1" xml:lang="fr">VictorBarruland</persName>
                 <idno type="jaraid">26</idno>
             </person>
             <person xml:id="person_225.d5e1636">
