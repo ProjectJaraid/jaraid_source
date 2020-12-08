@@ -52,7 +52,8 @@
     <xsl:template match="tei:row[@role = 'data']/tei:cell" mode="m_add-arabic">
         <xsl:copy>
             <!-- document change -->
-            <xsl:attribute name="change" select="concat('#',$p_id-change)"/>
+            <!-- NOTE: as this XSLT is used by a GitHub action, it is frequently run and will infest the master files with <change> nodes. I, therefore removed the documentation -->
+            <!-- <xsl:attribute name="change" select="concat('#',$p_id-change)"/> -->
             <!-- add new column numbers -->
             <xsl:choose>
                 <!-- titles -->
@@ -140,7 +141,8 @@
     <xsl:template match="@xml:id | @change" mode="m_copy-from-authority-file"/>
     
     <!-- generate documentation of change -->
-    <xsl:template match="tei:revisionDesc" priority="100">
+    <!-- NOTE: as this XSLT is used by a GitHub action, it is frequently run and will infest the master files with <change> nodes. I, therefore removed the documentation -->
+    <!-- <xsl:template match="tei:revisionDesc" priority="100">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:element name="change">
@@ -153,5 +155,5 @@
             </xsl:element>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template> -->
 </xsl:stylesheet>
