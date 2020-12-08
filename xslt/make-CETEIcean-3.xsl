@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:t="http://www.tei-c.org/ns/1.0"
+  xmlns:eg="http://www.tei-c.org/ns/Examples"
+  exclude-result-prefixes="t eg xs"
+  version="3.0">
+  
+  <xsl:output method="html" indent="no"/>
+  
+  <!-- Simple XSLT that turns TEI into HTML Custom Elements inside an HTML <div>, with
+       the Javascript to run CETEIcean and apply any relevant behaviors. The resulting
+       <div> will need to be embedded in an HTML document that links to a CETEI.js and
+       any CSS needed to style the output. The first template could be modified to 
+       generate a full HTML page. -->
+  
+  <xsl:template match="/">
+   <xsl:variable name="v_file-name" select="replace(base-uri(),'^.+/([^/]+?)\.xml$', '$1')"/>
+    <!-- write output file    -->
+    <xsl:result-document href="../html/{$v_file-name}.html">
+    <div><xsl:text>
+  </xsl:text>
+      <xsl:apply-templates select="node()|comment()"/><xsl:text>
+  </xsl:text>
+      <script type="text/javascript">
+        var c = new CETEI();
+        c.els = [<xsl:value-of select="t:elementList(/)"/>];
+        c.els.push("egXML");
+        c.applyBehaviors();
+      </script>
+    </div>
+    </xsl:result-document>
+  </xsl:template>
+  
+  <xsl:template match="@*|comment()">
+    <xsl:copy><xsl:apply-templates select="node()|@*|comment()"/></xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="*[namespace-uri(.) = 'http://www.tei-c.org/ns/1.0']">
+    <xsl:element name="tei-{lower-case(local-name(.))}" >
+      <xsl:if test="namespace-uri(parent::*) != namespace-uri(.)"><xsl:attribute name="data-xmlns"><xsl:value-of select="namespace-uri(.)"/></xsl:attribute></xsl:if>
+      <xsl:if test="@xml:id">
+        <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
+      </xsl:if>
+      <xsl:if test="@xml:lang">
+        <xsl:attribute name="lang"><xsl:value-of select="@xml:lang"/></xsl:attribute>
+      </xsl:if>
+      <xsl:attribute name="data-origname"><xsl:value-of select="local-name(.)"/></xsl:attribute>
+      <xsl:if test="@*">
+        <xsl:attribute name="data-origatts">
+          <xsl:for-each select="@*">
+            <xsl:value-of select="name(.)"/>
+            <xsl:if test="not(position() = last())"><xsl:text> </xsl:text></xsl:if>
+          </xsl:for-each>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:for-each select="@*[namespace-uri() = '']">
+        <xsl:copy-of select="."/>
+      </xsl:for-each>
+      <xsl:apply-templates select="node()|comment()|processing-instruction()"/>
+    </xsl:element>
+  </xsl:template>
+  
+  <xsl:function name="t:elementList">
+    <xsl:param name="doc"/>
+    <xsl:for-each select="distinct-values($doc//*[namespace-uri(.) = 'http://www.tei-c.org/ns/1.0']/local-name())">"<xsl:value-of select="."/>"<xsl:if test="position() != last()">,</xsl:if></xsl:for-each>
+  </xsl:function>
+  
+</xsl:stylesheet>

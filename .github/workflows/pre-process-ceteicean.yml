@@ -1,0 +1,20 @@
+name: "Pre-process master file for publication with CETEIcean"
+on: 
+  push:
+    paths:
+      # this specifies the path of the file(s) that have to have been pushed
+      # for triggering this action
+      - tei/jaraid_master.TEIP5.xml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # This step checks out a copy of your repository.
+      - uses: actions/checkout@v2
+      # This step references the directory that contains the action.
+      - uses: ./.github/actions/pre-process-ceteicean
+      # this step automatically commits changes
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Github actions: pre-processed master file for publication with CETEIcean"
