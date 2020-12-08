@@ -14,6 +14,8 @@
        any CSS needed to style the output. The first template could be modified to 
        generate a full HTML page. -->
   
+  <!-- to do: add a template that sorts the main table chronologically -->
+  
   <xsl:template match="/">
    <xsl:variable name="v_file-name" select="replace(base-uri(),'^.+/([^/]+?)\.xml$', '$1')"/>
     <!-- write output file    -->
