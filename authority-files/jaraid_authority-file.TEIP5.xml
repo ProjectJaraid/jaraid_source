@@ -3022,11 +3022,11 @@
                 <tei:persName change="#d5e194" corresp="#persName_1281.d5e6569" type="flattened" xml:id="persName_1.d2626e1" xml:lang="ar">احمدحسنطباره</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1988.d5e12394" type="flattened" xml:id="persName_1.d1264e1" xml:lang="en">AḥmadḤasanṬabbārah</persName>
                 <persName xml:id="persName_1951.d5e12166" xml:lang="ar-Latn-x-ijmes">Al-Shaykh Aḥmad Ḥasan Ṭabbāra</persName>
-                <persName change="#d2e154" ref="oape:pers:787 viaf:305214837" xml:id="persName_525.d5e2753" xml:lang="ar">الشيخ احمد حسن طبارة</persName>
+                <persName change="#d2e154" ref="oape:pers:787 viaf:305214837" xml:id="persName_525.d5e2753123" xml:lang="ar">الشيخ احمد حسن طبارة</persName>
                 <tei:persName change="#d5e194" corresp="#persName_525.d5e2753" type="flattened" xml:id="persName_1.d1057e2" xml:lang="ar">الشيخاحمدحسنطبارة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1951.d5e12166" type="flattened" xml:id="persName_1.d511e1" xml:lang="en">AlShaykhAḥmadḤasanṬabbāra</persName>
                 <persName xml:id="persName_1986.d5e12382" xml:lang="ar-Latn-x-ijmes">Al-Shaykh Aḥmad Ḥasan Ṭabbārah</persName>
-                <persName change="#d2e154" xml:id="persName_528.d5e2768" xml:lang="ar">الشيخ احمد حسن طباره</persName>
+                <persName change="#d2e154" xml:id="persName_528.d5e2768123" xml:lang="ar">الشيخ احمد حسن طباره</persName>
                 <tei:persName change="#d5e194" corresp="#persName_528.d5e2768" type="flattened" xml:id="persName_1.d1071e1" xml:lang="ar">الشيخاحمدحسنطباره</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1986.d5e12382" type="flattened" xml:id="persName_1.d514e1" xml:lang="en">AlShaykhAḥmadḤasanṬabbārah</persName>
                 <idno type="jaraid">80</idno>
