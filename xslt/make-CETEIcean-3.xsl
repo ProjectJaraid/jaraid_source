@@ -17,7 +17,8 @@
   <xsl:template match="/">
    <xsl:variable name="v_file-name" select="replace(base-uri(),'^.+/([^/]+?)\.xml$', '$1')"/>
     <!-- write output file    -->
-    <xsl:result-document href="../html/{$v_file-name}.html">
+    <!-- the output path is relative to the repository if run through GitHub actions -->
+    <xsl:result-document href="html/{$v_file-name}.html">
     <div><xsl:text>
   </xsl:text>
       <xsl:apply-templates select="node()|comment()"/><xsl:text>
