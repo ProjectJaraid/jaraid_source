@@ -19405,9 +19405,11 @@
             </org>
             <org>
                 <orgName xml:lang="en">Egyptian government</orgName>
+                <orgName xml:lang="ar">الحكومة المصرية</orgName>
             </org>
             <org>
                 <orgName xml:lang="en">Government</orgName>
+                <orgName xml:lang="ar"> الحكومة</orgName>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Madāris</orgName>
@@ -19435,8 +19437,8 @@
                 <orgName xml:lang="en">Beylical government</orgName>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya (Ministry of War)</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية ( من oف ور )</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
             </org>
             <org>
                 <orgName xml:lang="fr">École de Médecine et de Pharmacie</orgName>
