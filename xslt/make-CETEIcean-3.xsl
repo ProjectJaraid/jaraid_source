@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:t="http://www.tei-c.org/ns/1.0"
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns:eg="http://www.tei-c.org/ns/Examples"
   exclude-result-prefixes="t eg xs"
   version="3.0">
@@ -40,7 +41,9 @@
   </xsl:template>
   
   <xsl:template match="*[namespace-uri(.) = 'http://www.tei-c.org/ns/1.0']">
+    <!-- create private HTML elements -->
     <xsl:element name="tei-{lower-case(local-name(.))}" >
+      <!-- add attributes -->
       <xsl:if test="namespace-uri(parent::*) != namespace-uri(.)"><xsl:attribute name="data-xmlns"><xsl:value-of select="namespace-uri(.)"/></xsl:attribute></xsl:if>
       <xsl:if test="@xml:id">
         <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -60,7 +63,24 @@
       <xsl:for-each select="@*[namespace-uri() = '']">
         <xsl:copy-of select="."/>
       </xsl:for-each>
-      <xsl:apply-templates select="node()|comment()|processing-instruction()"/>
+      <!-- child elements -->
+      <xsl:choose>
+        <!-- special treatment of tables: sorting -->
+        <xsl:when test="self::tei:table">
+          <xsl:apply-templates select="tei:row[@role = 'label']"/>
+          <!-- sort data rows -->
+          <xsl:apply-templates select="tei:row[@role = 'data']">
+            <xsl:sort select="tei:cell[@n = 1]/tei:date[@when][1]/@when"/>
+            <xsl:sort select="tei:cell[@n = 1]/tei:date[@notAfter][1]/@notAfter"/>
+            <xsl:sort select="tei:cell[@n = 4]/tei:name[1]"/>
+            <xsl:sort select="tei:cell[@n = 4]/tei:title[1]"/>
+          </xsl:apply-templates>
+        </xsl:when>
+        <!-- all other elements -->
+        <xsl:otherwise>
+          <xsl:apply-templates select="node()|comment()|processing-instruction()"/>
+        </xsl:otherwise>
+      </xsl:choose>
     </xsl:element>
   </xsl:template>
   
@@ -68,5 +88,4 @@
     <xsl:param name="doc"/>
     <xsl:for-each select="distinct-values($doc//*[namespace-uri(.) = 'http://www.tei-c.org/ns/1.0']/local-name())">"<xsl:value-of select="."/>"<xsl:if test="position() != last()">,</xsl:if></xsl:for-each>
   </xsl:function>
-  
 </xsl:stylesheet>
