@@ -3636,7 +3636,7 @@
             </person>
             <person xml:id="person_27.d5e412">
                 <persName xml:id="persName_46.d5e414" xml:lang="ar-Latn-x-ijmes">David Ben Ḥayyim</persName>
-                <persName change="#d2e154" xml:id="persName_1537.d5e7863" xml:lang="ar">دvد بeن حيم</persName>
+                <persName change="#d2e154" xml:id="persName_1537.d5e7863" xml:lang="ar">داود بن حيم</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1537.d5e7863" type="flattened" xml:lang="ar">دvدبeنحيم</tei:persName>
                 <persName change="#d5e126" corresp="#persName_46.d5e414" type="flattened" xml:id="persName_1.d1519e1" xml:lang="en">DavidBenḤayyim</persName>
                 <idno type="jaraid">27</idno>
@@ -19405,9 +19405,11 @@
             </org>
             <org>
                 <orgName xml:lang="en">Egyptian government</orgName>
+                <orgName xml:lang="ar">الحكومة المصرية</orgName>
             </org>
             <org>
                 <orgName xml:lang="en">Government</orgName>
+                <orgName xml:lang="ar"> الحكومة</orgName>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Madāris</orgName>
@@ -19435,8 +19437,8 @@
                 <orgName xml:lang="en">Beylical government</orgName>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya (Ministry of War)</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية ( من oف ور )</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
             </org>
             <org>
                 <orgName xml:lang="fr">École de Médecine et de Pharmacie</orgName>
