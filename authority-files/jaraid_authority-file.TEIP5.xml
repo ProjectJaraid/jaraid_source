@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
     schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="css/oxygen.css"?>
 <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -12183,38 +12184,36 @@
                 <idno type="jaraid">371</idno>
             </person>
             <person xml:id="person_36.d5e468">
-                <persName xml:id="persName_55.d5e470" xml:lang="ar-Latn-x-ijmes">Pascal Vincent (
-                    <rs ref="#agt" xml:lang="en">Ṭ</rs>
-                    = Manṣūr) Carletti</persName>
-                <persName change="#d2e154" xml:id="persName_5153.d5e26137" xml:lang="ar">pسcل v ( ط = منصور ) c</persName>
+                <persName xml:id="persName_55.d5e470" xml:lang="fr">Pascal Vincent Carletti</persName>
+                <persName change="#d2e154" xml:id="persName_5153.d5e26137" xml:lang="fr">Pascal Vincent Carletti</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5153.d5e26137" type="flattened" xml:lang="ar">pسcلvط=منصورc</tei:persName>
                 <persName change="#d5e126" corresp="#persName_55.d5e470" type="flattened" xml:id="persName_1.d5128e1" xml:lang="en">PascalVincentṬ=ManṣūrCarletti</persName>
                 <idno type="jaraid">36</idno>
             </person>
             <person xml:id="person_105.d5e896">
-                <persName xml:id="persName_124.d5e898" xml:lang="ar-Latn-x-ijmes">Paul Giraud</persName>
-                <persName change="#d2e154" xml:id="persName_5156.d5e26152" xml:lang="ar">pل gرد</persName>
+                <persName xml:id="persName_124.d5e898" xml:lang="fr">Paul Giraud</persName>
+                <persName change="#d2e154" xml:id="persName_5156.d5e26152" xml:lang="fr">Paul Giraud</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5156.d5e26152" type="flattened" xml:lang="ar">pلgرد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_124.d5e898" type="flattened" xml:id="persName_1.d5131e1" xml:lang="en">PaulGiraud</persName>
                 <idno type="jaraid">105</idno>
             </person>
             <person xml:id="person_164.d5e1260">
-                <persName xml:id="persName_183.d5e1262" xml:lang="ar-Latn-x-ijmes">Paul Joseph</persName>
-                <persName change="#d2e154" xml:id="persName_5159.d5e26167" xml:lang="ar">pل</persName>
+                <persName xml:id="persName_183.d5e1262" xml:lang="fr">Paul Joseph</persName>
+                <persName change="#d2e154" xml:id="persName_5159.d5e26167" xml:lang="fr">Paul Joseph</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5159.d5e26167" type="flattened" xml:lang="ar">pل</tei:persName>
                 <persName change="#d5e126" corresp="#persName_183.d5e1262" type="flattened" xml:id="persName_1.d5134e1" xml:lang="en">PaulJoseph</persName>
                 <idno type="jaraid">164</idno>
             </person>
             <person xml:id="person_158.d5e1223">
-                <persName xml:id="persName_177.d5e1225" xml:lang="ar-Latn-x-ijmes">Paul/Pierre Etienne Mauras</persName>
-                <persName change="#d2e154" xml:id="persName_5162.d5e26183" xml:lang="ar">pل p eت مرس /</persName>
+                <persName xml:id="persName_177.d5e1225" xml:lang="fr">Paul/Pierre Etienne Mauras</persName>
+                <persName change="#d2e154" xml:id="persName_5162.d5e26183" xml:lang="fr">Paul/Pierre Etienne Mauras</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5162.d5e26183" type="flattened" xml:lang="ar">pلpeتمرس</tei:persName>
                 <persName change="#d5e126" corresp="#persName_177.d5e1225" type="flattened" xml:id="persName_1.d5137e1" xml:lang="en">PaulPierreEtienneMauras</persName>
                 <idno type="jaraid">158</idno>
             </person>
             <person xml:id="person_21.d5e375">
-                <persName xml:id="persName_40.d5e377" xml:lang="ar-Latn-x-ijmes">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>
-                <persName change="#d2e154" xml:id="persName_5165.d5e26198" xml:lang="ar">pهلpe دe ترز ( فيليب دي طرازي )</persName>
+                <persName xml:id="persName_40.d5e377" xml:lang="ar-Latn-x-ijmes">Fīlīb Dī Ṭarrāzī</persName>
+                <persName change="#d2e154" xml:id="persName_5165.d5e26198" xml:lang="ar">يب</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5165.d5e26198" type="flattened" xml:lang="ar">pهلpeدeترزفيليبديطرازي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_40.d5e377" type="flattened" xml:id="persName_1.d5140e1" xml:lang="en">PhilippedeTarraziFīlībDīṬarrāzī</persName>
                 <idno type="jaraid">21</idno>

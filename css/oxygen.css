@@ -1,0 +1,61 @@
+@namespace xml url(http://www.w3.org/XML/1998/namespace);
+teiHeader {
+  display: block;
+  background: #E6E6E6;
+  border: thin solid gray;
+  font-family: arial, helvetica, sans-serif;
+  padding: 1em;
+}
+titleStmt {
+  display:block;
+}
+titleStmt editor {
+  display:block;
+}
+titleStmt respStmt {
+  display: block;
+}
+*[xml|lang=ar] {
+  direction: rtl;
+}
+body {
+  display:block;
+  margin: 1em;
+}
+p {
+  display:block;
+}
+body p {
+	direction:rtl;
+	font-size: 20px;
+}
+body head {
+  display:block;
+  direction:rtl;
+  font-size:28px;
+}
+list {
+  display: block;
+}
+item {
+  display: list-item;
+  margin-left: 1em;
+  
+}
+standOff {
+  display:block;
+  padding: 1em;
+}
+listPerson person {
+  display: list-item;
+  margin-left: 1em;
+}
+*[rend=bold] {
+	font-weight: bold;
+}
+*[rend=italic] {
+  font-style: italic;
+}
+*[rend=underline] {
+  text-decoration: underline;
+}
