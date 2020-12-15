@@ -6125,6 +6125,7 @@
                 <persName change="#d5e126" corresp="#persName_1116.d5e7017" type="flattened" xml:id="persName_1.d2575e1" xml:lang="en">JamīlaḤāfiẓ</persName>
                 <idno type="jaraid">1097</idno>
             </person>
+            <!-- the following are all organisations -->
             <person xml:id="person_1356.d5e8612">
                 <persName xml:id="persName_1375.d5e8614" xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Arbāb al-Amlāk al-ʿAqqāriyya</persName>
                 <persName change="#d2e154" xml:id="persName_2595.d5e13224" xml:lang="ar">جمعية ارباب الاملاك العقارية</persName>
