@@ -69,17 +69,17 @@
                 <!-- persons, organisations -->
                 <xsl:when test="@n = 6">
                     <xsl:attribute name="n" select="11"/>
+                    <xsl:apply-templates select="tei:orgName" mode="m_add-arabic"/>
                     <xsl:apply-templates select="tei:persName" mode="m_add-arabic"/>
                     <!-- the following is not yet implemented -->
-<!--                    <xsl:apply-templates select="tei:orgName" mode="m_add-arabic"/>-->
                 </xsl:when>
             </xsl:choose>
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:persName | tei:placeName" mode="m_add-arabic">
+    <xsl:template match="tei:persName | tei:placeName | tei:orgName" mode="m_add-arabic">
         <xsl:copy-of select="pj:entity-names_get-version-from-authority-file(., $v_file-entities-master, 'ar')"/>
-        <xsl:if test="following-sibling::tei:persName | following-sibling::tei:persName">
+        <xsl:if test="following-sibling::tei:persName | following-sibling::tei:orgName | following-sibling::tei:placeName">
             <xsl:text>, </xsl:text>
         </xsl:if>
     </xsl:template>
@@ -128,7 +128,7 @@
         <xsl:copy select="$p_name">
             <xsl:copy-of select="$p_name/@ref"/>
             <xsl:attribute name="xml:lang" select="$p_target-lang"/>
-            <xsl:apply-templates select="$v_entity-name/descendant-or-self::tei:persName/node() | $v_entity-name/descendant-or-self::tei:placeName/node()" mode="m_copy-from-authority-file"/>
+            <xsl:apply-templates select="$v_entity-name/descendant-or-self::tei:persName/node() | $v_entity-name/descendant-or-self::tei:placeName/node() | $v_entity-name/descendant-or-self::tei:orgName/node()" mode="m_copy-from-authority-file"/>
         </xsl:copy>
     </xsl:function>
     
