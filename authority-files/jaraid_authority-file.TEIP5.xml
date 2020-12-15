@@ -8,7 +8,12 @@
         <fileDesc>
             <titleStmt>
                 <title>Authority File for Project Jarāʾid</title>
-                <editor> <persName xml:id="pers_TG"> <forename>Till</forename> <surname>Grallert</surname> </persName> </editor>
+                <editor>
+                    <persName xml:id="pers_TG">
+                        <forename>Till</forename>
+                        <surname>Grallert</surname>
+                    </persName>
+                </editor>
                 <respStmt>
                     <resp>Contributed to the original file from which the entities were extracted</resp>
                     <persName xml:lang="en">Adam Mestyan</persName>
@@ -33,7 +38,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority> <persName> <forename>Till</forename> <surname>Grallert</surname> </persName> </authority>
+                <authority>
+                    <persName>
+                        <forename>Till</forename>
+                        <surname>Grallert</surname>
+                    </persName>
+                </authority>
                 <date when="2020-11-05">2020</date>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en"
@@ -13829,6 +13839,7 @@
                 <tei:persName change="#d5e194" corresp="#persName_5858.d5e29696" type="flattened" xml:lang="ar">شاهينمكاريوس</tei:persName>
                 <persName change="#d5e126" corresp="#persName_105.d5e781" type="flattened" xml:id="persName_1.d5842e1" xml:lang="en">ShāhīnMakāriyūs</persName>
                 <idno type="jaraid">86</idno>
+                <idno type="jaraid">114</idno>
                 <tei:idno change="#d5e194" type="VIAF">38237868</tei:idno>
                 <tei:idno change="#d5e194" type="wiki">Q12218221</tei:idno>
                 <tei:birth change="#d5e194" resp="viaf" when="1853">1853</tei:birth>
@@ -19244,43 +19255,69 @@
                 <idno type="jaraid">2207</idno>
             </person>
             <person xml:id="person_10.d5e247">
-                <persName xml:id="persName_29.d5e249" xml:lang="en"> <forename xml:lang="en">Hala</forename> <surname xml:lang="en">Auji</surname> </persName>
+                <persName xml:id="persName_29.d5e249" xml:lang="en">
+                    <forename xml:lang="en">Hala</forename>
+                    <surname xml:lang="en">Auji</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_29.d5e249" type="flattened" xml:id="persName_1.d8137e1" xml:lang="en">HalaAuji</persName>
                 <idno type="jaraid">10</idno>
             </person>
             <person xml:id="person_15.d5e308">
-                <persName xml:id="persName_34.d5e310" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname> </persName>
+                <persName xml:id="persName_34.d5e310" xml:lang="en">
+                    <forename xml:lang="en">Hugh</forename>
+                    <surname xml:lang="en">Cayless</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_34.d5e310" type="flattened" xml:id="persName_1.d8140e1" xml:lang="en">HughCayless</persName>
                 <idno type="jaraid">15</idno>
             </person>
             <person xml:id="person_2.d5e150">
-                <persName xml:id="persName_21.d5e152" xml:lang="fr"> <forename xml:lang="en">Philippe</forename> <surname xml:lang="en">Chevrant</surname> </persName>
+                <persName xml:id="persName_21.d5e152" xml:lang="fr">
+                    <forename xml:lang="en">Philippe</forename>
+                    <surname xml:lang="en">Chevrant</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_21.d5e152" type="flattened" xml:id="persName_1.d8143e1" xml:lang="fr">PhilippeChevrant</persName>
                 <idno type="jaraid">2</idno>
             </person>
             <person xml:id="person_13.d5e284">
-                <persName xml:id="persName_32.d5e286" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname> </persName>
+                <persName xml:id="persName_32.d5e286" xml:lang="en">
+                    <forename xml:lang="en">Marina</forename>
+                    <surname xml:lang="en">Demetriadou</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_32.d5e286" type="flattened" xml:id="persName_1.d8146e1" xml:lang="en">MarinaDemetriadou</persName>
                 <idno type="jaraid">13</idno>
             </person>
             <person xml:id="person_3.d5e162">
-                <persName xml:id="persName_22.d5e164" xml:lang="en"> <forename xml:lang="en">Lamia</forename> <surname xml:lang="en">Eid</surname> </persName>
+                <persName xml:id="persName_22.d5e164" xml:lang="en">
+                    <forename xml:lang="en">Lamia</forename>
+                    <surname xml:lang="en">Eid</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_22.d5e164" type="flattened" xml:id="persName_1.d8149e1" xml:lang="en">LamiaEid</persName>
                 <idno type="jaraid">3</idno>
             </person>
             <person xml:id="person_19.d5e357">
-                <persName xml:id="persName_38.d5e359" xml:lang="en"> <forename xml:lang="en">Stacy</forename> <surname xml:lang="en">Fahrenthold</surname> </persName>
+                <persName xml:id="persName_38.d5e359" xml:lang="en">
+                    <forename xml:lang="en">Stacy</forename>
+                    <surname xml:lang="en">Fahrenthold</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_38.d5e359" type="flattened" xml:id="persName_1.d8152e1" xml:lang="en">StacyFahrenthold</persName>
                 <idno type="jaraid">19</idno>
             </person>
             <person xml:id="person_4.d5e174">
-                <persName xml:id="persName_23.d5e176" xml:lang="de"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
+                <persName xml:id="persName_23.d5e176" xml:lang="de">
+                    <forename xml:lang="en">Till</forename>
+                    <surname xml:lang="en">Grallert</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_23.d5e176" type="flattened" xml:id="persName_1.d8155e1" xml:lang="en">TillGrallert</persName>
                 <idno type="jaraid">4</idno>
             </person>
             <person xml:id="person_390.d5e2654">
-                <persName xml:id="persName_409.d5e2656" xml:lang="de"> <surname>Hartmann</surname> </persName>
-                <persName change="#d3e179" ref="oape:pers:2445" xml:id="persName_1973.d5e10078" xml:lang="de"> <forename>Martin</forename> <surname>Hartmann</surname> </persName>
+                <persName xml:id="persName_409.d5e2656" xml:lang="de">
+                    <surname>Hartmann</surname>
+                </persName>
+                <persName change="#d3e179" ref="oape:pers:2445" xml:id="persName_1973.d5e10078" xml:lang="de">
+                    <forename>Martin</forename>
+                    <surname>Hartmann</surname>
+                </persName>
                 <tei:persName change="#d5e194" corresp="#persName_1973.d5e10078" type="flattened" xml:lang="de">MartinHartmann</tei:persName>
                 <persName change="#d2e154" xml:id="persName_1974.d5e10087" xml:lang="ar">هرتمن</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1974.d5e10087" type="flattened" xml:lang="ar">هرتمن</tei:persName>
@@ -19288,62 +19325,98 @@
                 <idno type="jaraid">390</idno>
             </person>
             <person xml:id="person_9.d5e235">
-                <persName xml:id="persName_28.d5e237" xml:lang="en"> <forename xml:lang="en">Rana</forename> <surname xml:lang="en">Issa</surname> </persName>
+                <persName xml:id="persName_28.d5e237" xml:lang="en">
+                    <forename xml:lang="en">Rana</forename>
+                    <surname xml:lang="en">Issa</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_28.d5e237" type="flattened" xml:id="persName_1.d8158e1" xml:lang="en">RanaIssa</persName>
                 <idno type="jaraid">9</idno>
             </person>
             <person xml:id="person_14.d5e296">
-                <persName xml:id="persName_33.d5e298" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
+                <persName xml:id="persName_33.d5e298" xml:lang="en">
+                    <forename xml:lang="en">Nicole</forename>
+                    <surname xml:lang="en">Khayat</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_33.d5e298" type="flattened" xml:id="persName_1.d8161e1" xml:lang="en">NicoleKhayat</persName>
                 <idno type="jaraid">14</idno>
             </person>
             <person xml:id="person_17.d5e332">
-                <persName xml:id="persName_36.d5e334" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname> </persName>
+                <persName xml:id="persName_36.d5e334" xml:lang="en">
+                    <forename xml:lang="en">Peter</forename>
+                    <surname xml:lang="en">Magierski</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_36.d5e334" type="flattened" xml:id="persName_1.d8164e1" xml:lang="en">PeterMagierski</persName>
                 <idno type="jaraid">17</idno>
             </person>
             <person xml:id="person_6.d5e199">
-                <persName xml:id="persName_25.d5e201" xml:lang="en"> <forename xml:lang="en">Christian</forename> <surname xml:lang="en">Meier</surname> </persName>
+                <persName xml:id="persName_25.d5e201" xml:lang="en">
+                    <forename xml:lang="en">Christian</forename>
+                    <surname xml:lang="en">Meier</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_25.d5e201" type="flattened" xml:id="persName_1.d8167e1" xml:lang="en">ChristianMeier</persName>
                 <idno type="jaraid">6</idno>
             </person>
             <person xml:id="person_5.d5e186">
-                <persName xml:id="persName_24.d5e188" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname> </persName>
+                <persName xml:id="persName_24.d5e188" xml:lang="en">
+                    <forename xml:lang="en">Adam</forename>
+                    <surname xml:lang="en">Mestyan</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_24.d5e188" type="flattened" xml:id="persName_1.d8170e1" xml:lang="en">AdamMestyan</persName>
                 <idno type="jaraid">5</idno>
             </person>
             <person xml:id="person_12.d5e272">
-                <persName xml:id="persName_31.d5e274" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname> </persName>
+                <persName xml:id="persName_31.d5e274" xml:lang="en">
+                    <forename xml:lang="en">Daniel</forename>
+                    <surname xml:lang="en">Newman</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_31.d5e274" type="flattened" xml:id="persName_1.d8173e1" xml:lang="en">DanielNewman</persName>
                 <idno type="jaraid">12</idno>
             </person>
             <person xml:id="person_7.d5e211">
-                <persName xml:id="persName_26.d5e213" xml:lang="en"> <forename xml:lang="en">Geoffrey</forename> <surname xml:lang="en">Roper</surname> </persName>
+                <persName xml:id="persName_26.d5e213" xml:lang="en">
+                    <forename xml:lang="en">Geoffrey</forename>
+                    <surname xml:lang="en">Roper</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_26.d5e213" type="flattened" xml:id="persName_1.d8176e1" xml:lang="en">GeoffreyRoper</persName>
                 <idno type="jaraid">7</idno>
             </person>
             <person xml:id="person_16.d5e320">
-                <persName xml:id="persName_35.d5e322" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
+                <persName xml:id="persName_35.d5e322" xml:lang="en">
+                    <forename xml:lang="en">Sinai</forename>
+                    <surname xml:lang="en">Rusinek</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_35.d5e322" type="flattened" xml:id="persName_1.d8179e1" xml:lang="en">SinaiRusinek</persName>
                 <idno type="jaraid">16</idno>
             </person>
             <person xml:id="person_1.d5e138">
-                <persName xml:id="persName_20.d5e140" xml:lang="en"> <forename xml:lang="en">Philip</forename> <surname xml:lang="en">Sadgrove</surname> </persName>
+                <persName xml:id="persName_20.d5e140" xml:lang="en">
+                    <forename xml:lang="en">Philip</forename>
+                    <surname xml:lang="en">Sadgrove</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_20.d5e140" type="flattened" xml:id="persName_1.d8182e1" xml:lang="en">PhilipSadgrove</persName>
                 <idno type="jaraid">1</idno>
             </person>
             <person xml:id="person_8.d5e223">
-                <persName xml:id="persName_27.d5e225" xml:lang="en"> <forename xml:lang="en">Ola</forename> <surname xml:lang="en">Seif</surname> </persName>
+                <persName xml:id="persName_27.d5e225" xml:lang="en">
+                    <forename xml:lang="en">Ola</forename>
+                    <surname xml:lang="en">Seif</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_27.d5e225" type="flattened" xml:id="persName_1.d8185e1" xml:lang="en">OlaSeif</persName>
                 <idno type="jaraid">8</idno>
             </person>
             <person xml:id="person_11.d5e259">
-                <persName xml:id="persName_30.d5e261" xml:lang="en"> <forename xml:lang="en">Rogier</forename> <surname xml:lang="en">Visser</surname> </persName>
+                <persName xml:id="persName_30.d5e261" xml:lang="en">
+                    <forename xml:lang="en">Rogier</forename>
+                    <surname xml:lang="en">Visser</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_30.d5e261" type="flattened" xml:id="persName_1.d8188e1" xml:lang="en">RogierVisser</persName>
                 <idno type="jaraid">11</idno>
             </person>
             <person xml:id="person_18.d5e345">
-                <persName xml:id="persName_37.d5e347" xml:lang="de"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname> </persName>
+                <persName xml:id="persName_37.d5e347" xml:lang="de">
+                    <forename xml:lang="en">Leyla</forename>
+                    <surname xml:lang="en">von Mende</surname>
+                </persName>
                 <persName change="#d5e126" corresp="#persName_37.d5e347" type="flattened" xml:id="persName_1.d8191e1" xml:lang="en">LeylavonMende</persName>
                 <idno type="jaraid">18</idno>
             </person>
@@ -20325,7 +20398,9 @@
                 <idno type="jaraid">104</idno>
             </place>
             <place type="country">
-                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en"> <country xml:lang="en">Argentina</country> </placeName>
+                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en">
+                    <country xml:lang="en">Argentina</country>
+                </placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الأرجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الارجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Argentine</placeName>
@@ -20369,7 +20444,9 @@
                 <idno type="geon">1269750</idno>
             </place>
             <place type="country">
-                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>
+                <placeName xml:lang="en">
+                    <country xml:lang="en">Lebanon</country>
+                </placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">لبنان</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Liban</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Libanon</placeName>
