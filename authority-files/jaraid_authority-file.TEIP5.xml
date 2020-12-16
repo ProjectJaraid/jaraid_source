@@ -12380,11 +12380,15 @@
                 <idno type="jaraid">1359</idno>
             </person>
             <person xml:id="person_143.d5e1130">
-                <persName xml:id="persName_162.d5e1132" xml:lang="ar-Latn-x-ijmes">Raphaël Michaca</persName>
+                <persName xml:id="persName_162.d5e1132" xml:lang="ar-Latn-FR">Raphaël Michaca</persName>
                 <persName change="#d2e154" xml:id="persName_5250.d5e26625" xml:lang="ar">رفائل مشاقة</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5250.d5e26625" type="flattened" xml:lang="ar">pهëلمcهcة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_162.d5e1132" type="flattened" xml:id="persName_1.d5224e1" xml:lang="en">RaphaëlMichaca</persName>
+                <persName xml:id="persName_358.d5e2341" xml:lang="ar-Latn-x-ijmes">Rufāʾil Effendi Mishāqa</persName>
+                <persName change="#d2e154" xml:id="persName_5353.d5e27144" xml:lang="ar">رفائل افندي مشاقة</persName>
+                <tei:persName change="#d5e194" corresp="#persName_5353.d5e27144" type="flattened" xml:lang="ar">رفائلافنديمشاقة</tei:persName>
+                <persName change="#d5e126" corresp="#persName_358.d5e2341" type="flattened" xml:id="persName_1.d5326e1" xml:lang="en">RufāʾilEffendiMishāqa</persName>
                 <idno type="jaraid">143</idno>
+                <idno type="jaraid">339</idno>
             </person>
             <person xml:id="person_2364.d5e14828">
                 <persName xml:id="persName_2383.d5e14830" xml:lang="ar-Latn-x-ijmes">Rashīd</persName>
@@ -12399,13 +12403,6 @@
                 <tei:persName change="#d5e194" corresp="#persName_5256.d5e26656" type="flattened" xml:lang="ar">رشيدنفاع</tei:persName>
                 <persName change="#d5e126" corresp="#persName_554.d5e3552" type="flattened" xml:id="persName_1.d5230e1" xml:lang="en">RashīdNaffāʿ</persName>
                 <idno type="jaraid">535</idno>
-            </person>
-            <person xml:id="person_1909.d5e12022">
-                <persName xml:id="persName_1928.d5e12024" xml:lang="ar-Latn-x-ijmes">Rashīd Khūrī</persName>
-                <persName change="#d2e154" xml:id="persName_5259.d5e26671" xml:lang="ar">رشيد خوري</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5259.d5e26671" type="flattened" xml:lang="ar">رشيدخوري</tei:persName>
-                <persName change="#d5e126" corresp="#persName_1928.d5e12024" type="flattened" xml:id="persName_1.d5233e1" xml:lang="en">RashīdKhūrī</persName>
-                <idno type="jaraid">1909</idno>
             </person>
             <person xml:id="person_721.d5e4696">
                 <persName xml:id="persName_740.d5e4698" xml:lang="ar-Latn-x-ijmes">Rashīd Musawbiʿ</persName>
@@ -12454,7 +12451,12 @@
                 <persName change="#d2e154 #d3e179" ref="oape:pers:383 viaf:270654623" xml:id="persName_5280.d5e26777" xml:lang="ar">رشيد الخوري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5280.d5e26777" type="flattened" xml:lang="ar">رشيدالخوري</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1831.d5e11426" type="flattened" xml:id="persName_1.d5254e1" xml:lang="en">RashīdalKhūrī</persName>
+                <persName xml:id="persName_1928.d5e12024" xml:lang="ar-Latn-x-ijmes">Rashīd Khūrī</persName>
+                <persName change="#d2e154" xml:id="persName_5259.d5e26671" xml:lang="ar">رشيد خوري</persName>
+                <tei:persName change="#d5e194" corresp="#persName_5259.d5e26671" type="flattened" xml:lang="ar">رشيدخوري</tei:persName>
+                <persName change="#d5e126" corresp="#persName_1928.d5e12024" type="flattened" xml:id="persName_1.d5233e1" xml:lang="en">RashīdKhūrī</persName>
                 <idno type="jaraid">1812</idno>
+                <idno type="jaraid">1909</idno>
                 <tei:idno change="#d5e194" type="VIAF">270654623</tei:idno>
                 <tei:idno change="#d5e194" type="wiki">Q12188748</tei:idno>
                 <tei:birth change="#d5e194" resp="viaf" when="1887">1887</tei:birth>
@@ -12479,13 +12481,9 @@
                 <persName change="#d2e154 #d3e179" ref="oape:pers:819" xml:id="persName_5289.d5e26823" xml:lang="ar">رشيد عطية</persName>
                 <persName change="#d5e126" corresp="#persName_111.d5e818" type="flattened" xml:id="persName_1.d5263e1" xml:lang="ar-Latn-x-ijmes">RashīdʿAṭiyya</persName>
                 <persName change="#d2e154 #d3e179" corresp="#persName_111.d5e818" ref="oape:pers:819" type="flattened" xml:lang="ar">رشيدعطية</persName>
-                <idno type="jaraid">92</idno>
-            </person>
-            <person xml:id="person_1895.d5e11936">
                 <persName xml:id="persName_1914.d5e11938" xml:lang="ar-Latn-x-ijmes">Rashīd ʿAṭṭiyya</persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:819" xml:id="persName_5293.d5e26841" xml:lang="ar">رشيد عطية</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5293.d5e26841" type="flattened" xml:lang="ar">رشيدعطية</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1914.d5e11938" type="flattened" xml:id="persName_1.d5266e1" xml:lang="en">RashīdʿAṭṭiyya</persName>
+                <idno type="jaraid">92</idno>
                 <idno type="jaraid">1895</idno>
             </person>
             <person xml:id="person_1670.d5e10548">
@@ -12622,13 +12620,6 @@
                 <tei:persName change="#d5e194" corresp="#persName_5350.d5e27129" type="flattened" xml:lang="ar">رضوانحسين</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1421.d5e8897" type="flattened" xml:id="persName_1.d5323e1" xml:lang="en">RiḍwānḤusayn</persName>
                 <idno type="jaraid">1402</idno>
-            </person>
-            <person xml:id="person_339.d5e2339">
-                <persName xml:id="persName_358.d5e2341" xml:lang="ar-Latn-x-ijmes">Rufāʾil Effendi Mishāqa</persName>
-                <persName change="#d2e154" xml:id="persName_5353.d5e27144" xml:lang="ar">رفائل افندي مشاقة</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5353.d5e27144" type="flattened" xml:lang="ar">رفائلافنديمشاقة</tei:persName>
-                <persName change="#d5e126" corresp="#persName_358.d5e2341" type="flattened" xml:id="persName_1.d5326e1" xml:lang="en">RufāʾilEffendiMishāqa</persName>
-                <idno type="jaraid">339</idno>
             </person>
             <person xml:id="person_2423.d5e15192">
                 <persName xml:id="persName_2442.d5e15194" xml:lang="ar-Latn-x-ijmes">Rufāʾīl Baṭṭī</persName>
@@ -13530,7 +13521,7 @@
             </person>
             <person xml:id="person_551.d5e3649">
                 <persName xml:id="persName_570.d5e3651" xml:lang="tr">Shaykh Alizade Hoca Muhiddin</persName>
-                <persName xml:lang="ar">شيح علي راده خوجا محيي الدين</persName>
+                <persName xml:lang="ar">شيح علي زاده خوجا محيي الدين</persName>
                 <persName change="#d5e126" corresp="#persName_570.d5e3651" type="flattened" xml:id="persName_1.d5716e1" xml:lang="tr">ShaykhAlizadeHocaMuhiddin</persName>
                 <idno type="jaraid">551</idno>
             </person>
@@ -13712,13 +13703,6 @@
                 <persName change="#d5e126" corresp="#persName_474.d5e3059" type="flattened" xml:id="persName_1.d5794e1" xml:lang="en">Shukrī</persName>
                 <idno type="jaraid">455</idno>
             </person>
-            <person xml:id="person_512.d5e3408">
-                <persName xml:id="persName_531.d5e3410" xml:lang="ar-Latn-x-ijmes">Shukrī al-Khūrī</persName>
-                <persName change="#d2e154" xml:id="persName_5816.d5e29484" xml:lang="ar">شكري الخوري</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5816.d5e29484" type="flattened" xml:lang="ar">شكريالخوري</tei:persName>
-                <persName change="#d5e126" corresp="#persName_531.d5e3410" type="flattened" xml:id="persName_1.d5797e1" xml:lang="en">ShukrīalKhūrī</persName>
-                <idno type="jaraid">512</idno>
-            </person>
             <person xml:id="person_1735.d5e10949">
                 <persName xml:id="persName_1754.d5e10951" xml:lang="ar-Latn-x-ijmes">Shukrī Bakhkhāsh</persName>
                 <persName change="#d2e154" xml:id="persName_5819.d5e29499" xml:lang="ar">شكري بخاش</persName>
@@ -13790,6 +13774,7 @@
                 <persName change="#d2e154" xml:id="persName_5849.d5e29650" xml:lang="ar">شكري الخوري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5849.d5e29650" type="flattened" xml:lang="ar">شكريالخوري</tei:persName>
                 <persName change="#d5e126" corresp="#persName_626.d5e3996" type="flattened" xml:id="persName_1.d5830e1" xml:lang="en">ShukrīalKhūrī</persName>
+                <idno type="jaraid">512</idno>
                 <idno type="jaraid">607</idno>
             </person>
             <person xml:id="person_2155.d5e13539">
@@ -14157,25 +14142,15 @@
                 <idno type="jaraid">627</idno>
             </person>
             <person xml:id="person_271.d5e1920">
-                <persName xml:id="persName_290.d5e1922" xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī / Semah Levi</persName>
-                <persName change="#d2e154" xml:id="persName_6004.d5e30434" xml:lang="ar">سيماح بن نطان ليفي </persName>
-                <tei:persName change="#d5e194" corresp="#persName_6004.d5e30434" type="flattened" xml:lang="ar">سيماحبننطانليفيسeمهلev</tei:persName>
-                <persName change="#d5e126" corresp="#persName_290.d5e1922" type="flattened" xml:id="persName_1.d5989e1" xml:lang="en">SīmāḥbinNiṭānLīfīSemahLevi</persName>
-                <idno type="jaraid">271</idno>
-            </person>
-            <person xml:id="person_187.d5e1402">
+                <persName xml:id="persName_290.d5e1922" xml:lang="he-Latn">Semah Levi</persName>
                 <persName xml:id="persName_206.d5e1404" xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī</persName>
+                <persName xml:lang="he-Latn-FR">Simah b. Nathan ha-Lévy</persName>
+                <persName xml:lang="he-Latn-FR">Simah Lévy</persName>
                 <persName change="#d2e154" xml:id="persName_6007.d5e30449" xml:lang="ar">سيماح بن نطان ليفي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6007.d5e30449" type="flattened" xml:lang="ar">سيماحبننطانليفيسمهبنثنال</tei:persName>
-                <persName change="#d5e126" corresp="#persName_206.d5e1404" type="flattened" xml:id="persName_1.d5992e1" xml:lang="en">SīmāḥbinNiṭānLīfīSimahbNathanhaLévy</persName>
+                <persName change="#d5e126" corresp="#persName_206.d5e1404" type="flattened" xml:id="persName_1.d5992e1" xml:lang="en">SīmāḥbinNiṭānLīfī</persName>
                 <idno type="jaraid">187</idno>
-            </person>
-            <person xml:id="person_212.d5e1556">
-                <persName xml:id="persName_231.d5e1558" xml:lang="ar-Latn-x-ijmes">Sīmāḥ bin Niṭān Līfī</persName>
-                <persName change="#d2e154" xml:id="persName_6010.d5e30464" xml:lang="ar">سيماح بن نطان ليفي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6010.d5e30464" type="flattened" xml:lang="ar">سيماحبننطانليفيسمه</tei:persName>
-                <persName change="#d5e126" corresp="#persName_231.d5e1558" type="flattened" xml:id="persName_1.d5995e1" xml:lang="en">SīmāḥbinNiṭānLīfīSimahLévy</persName>
                 <idno type="jaraid">212</idno>
+                <idno type="jaraid">271</idno>
             </person>
             <person xml:id="person_302.d5e2111">
                 <persName xml:id="persName_321.d5e2113" xml:lang="ar-Latn-x-ijmes">Sīmāḥ Ḥaddād</persName>
@@ -14205,13 +14180,6 @@
                 <persName change="#d5e126" corresp="#persName_1425.d5e8922" type="flattened" xml:id="persName_1.d6007e1" xml:lang="en">TawfīqBasīm</persName>
                 <idno type="jaraid">1406</idno>
             </person>
-            <person xml:id="person_1027.d5e6583">
-                <persName xml:id="persName_1046.d5e6585" xml:lang="ar-Latn-x-ijmes">Tawfīq Faraghlī</persName>
-                <persName change="#d2e154" xml:id="persName_6025.d5e30540" xml:lang="ar">توفيق فرغلي</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6025.d5e30540" type="flattened" xml:lang="ar">توفيقفرغلي</tei:persName>
-                <persName change="#d5e126" corresp="#persName_1046.d5e6585" type="flattened" xml:id="persName_1.d6010e1" xml:lang="en">TawfīqFaraghlī</persName>
-                <idno type="jaraid">1027</idno>
-            </person>
             <person xml:id="person_591.d5e3895">
                 <persName xml:id="persName_610.d5e3897" xml:lang="ar-Latn-x-ijmes">Tawfīq Faraḥ/Farākh?</persName>
                 <persName change="#d2e154" xml:id="persName_6028.d5e30555" xml:lang="ar">توفيق فرح فراخ /?</persName>
@@ -14225,6 +14193,7 @@
                 <tei:persName change="#d5e194" corresp="#persName_6031.d5e30570" type="flattened" xml:lang="ar">توفيقفرغلي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_606.d5e3873" type="flattened" xml:id="persName_1.d6016e1" xml:lang="en">TawfīqFarghalī</persName>
                 <idno type="jaraid">587</idno>
+                <idno type="jaraid">1027</idno>
             </person>
             <person xml:id="person_577.d5e3809">
                 <persName xml:id="persName_596.d5e3811" xml:lang="ar-Latn-x-ijmes">Tawfīq Jānā</persName>
@@ -14318,10 +14287,15 @@
                 <idno type="jaraid">1510</idno>
             </person>
             <person xml:id="person_863.d5e5572">
+                <persName xml:id="persName_334.d5e2193" xml:lang="ar-Latn-x-ijmes">Tawfīq ʿAzzūz</persName>
+                <persName change="#d2e154" ref="oape:pers:4124" xml:id="persName_6079.d5e30813" xml:lang="ar">توفيق عزوز</persName>
+                <tei:persName change="#d5e194" corresp="#persName_6079.d5e30813" type="flattened" xml:lang="ar">توفيقعزوز</tei:persName>
+                <persName change="#d5e126" corresp="#persName_334.d5e2193" type="flattened" xml:id="persName_1.d6064e1" xml:lang="en">TawfīqʿAzzūz</persName>
                 <persName xml:id="persName_882.d5e5574" xml:lang="ar-Latn-x-ijmes">Tawfīq al-ʿAzzūz</persName>
                 <persName change="#d2e154" xml:id="persName_6073.d5e30783" xml:lang="ar">توفيق العزوز</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6073.d5e30783" type="flattened" xml:lang="ar">توفيقالعزوز</tei:persName>
                 <persName change="#d5e126" corresp="#persName_882.d5e5574" type="flattened" xml:id="persName_1.d6058e1" xml:lang="en">TawfīqalʿAzzūz</persName>
+                <idno type="jaraid">315</idno>
                 <idno type="jaraid">863</idno>
             </person>
             <person xml:id="person_2134.d5e13409">
@@ -14330,13 +14304,6 @@
                 <tei:persName change="#d5e194" corresp="#persName_6076.d5e30798" type="flattened" xml:lang="ar">توفيقالحلبي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2153.d5e13411" type="flattened" xml:id="persName_1.d6061e1" xml:lang="en">TawfīqalḤalabī</persName>
                 <idno type="jaraid">2134</idno>
-            </person>
-            <person xml:id="person_315.d5e2191">
-                <persName xml:id="persName_334.d5e2193" xml:lang="ar-Latn-x-ijmes">Tawfīq ʿAzzūz</persName>
-                <persName change="#d2e154" ref="oape:pers:4124" xml:id="persName_6079.d5e30813" xml:lang="ar">توفيق عزوز</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6079.d5e30813" type="flattened" xml:lang="ar">توفيقعزوز</tei:persName>
-                <persName change="#d5e126" corresp="#persName_334.d5e2193" type="flattened" xml:id="persName_1.d6064e1" xml:lang="en">TawfīqʿAzzūz</persName>
-                <idno type="jaraid">315</idno>
             </person>
             <person xml:id="person_2201.d5e13823">
                 <persName xml:id="persName_2220.d5e13825" xml:lang="ar-Latn-x-ijmes">Tawfīq ʿAṭṭār Ḥasan</persName>
@@ -14410,15 +14377,11 @@
             </person>
             <person xml:id="person_26.d5e406">
                 <persName xml:id="persName_45.d5e408" xml:lang="fr">Victor Barruland</persName>
-                <persName change="#d2e154" xml:id="persName_6112.d5e30980" xml:lang="fr">Victor Barruland</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6112.d5e30980" type="flattened" xml:lang="fr">Victor Barruland</tei:persName>
                 <persName change="#d5e126" corresp="#persName_45.d5e408" type="flattened" xml:id="persName_1.d6097e1" xml:lang="fr">VictorBarruland</persName>
                 <idno type="jaraid">26</idno>
             </person>
             <person xml:id="person_225.d5e1636">
                 <persName xml:id="persName_244.d5e1638" xml:lang="ar-Latn-x-ijmes">Victor Philip</persName>
-                <persName change="#d2e154" xml:id="persName_6115.d5e30995" xml:lang="ar">v pهلp</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6115.d5e30995" type="flattened" xml:lang="ar">vpهلp</tei:persName>
                 <persName change="#d5e126" corresp="#persName_244.d5e1638" type="flattened" xml:id="persName_1.d6100e1" xml:lang="en">VictorPhilip</persName>
                 <idno type="jaraid">225</idno>
             </person>
@@ -14602,6 +14565,7 @@
                 <persName change="#d5e126" corresp="#persName_2567.d5e15964" type="flattened" xml:id="persName_1.d6175e1" xml:lang="en">WirāmSāmūʾiliyān</persName>
                 <idno type="jaraid">2548</idno>
             </person>
+            <!-- this is an organisation -->
             <person xml:id="person_1351.d5e8581">
                 <persName xml:id="persName_1370.d5e8583" xml:lang="ar-Latn-x-ijmes">Wizārat al-Zirāʿa</persName>
                 <persName change="#d2e154" xml:id="persName_6194.d5e31392" xml:lang="ar">وزارة الزراعة</persName>
@@ -14609,6 +14573,7 @@
                 <persName change="#d5e126" corresp="#persName_1370.d5e8583" type="flattened" xml:id="persName_1.d6178e1" xml:lang="en">WizāratalZirāʿa</persName>
                 <idno type="jaraid">1351</idno>
             </person>
+            <!-- this is an organisation -->
             <person xml:id="person_1522.d5e9635">
                 <persName xml:id="persName_1541.d5e9637" xml:lang="ar-Latn-x-ijmes">Wizārat al-Zirāʿa al-Miṣriyya</persName>
                 <persName change="#d2e154" xml:id="persName_6197.d5e31408" xml:lang="ar">وزارة الزراعة المصرية</persName>
@@ -14726,18 +14691,16 @@
                 <idno type="jaraid">1995</idno>
             </person>
             <person xml:id="person_818.d5e5294">
-                <persName xml:id="persName_837.d5e5296" xml:lang="ar-Latn-x-ijmes">Yusuf Hamdi Yeğen</persName>
+                <persName xml:id="persName_837.d5e5296" xml:lang="tr">Yusuf Hamdi Yeğen</persName>
                 <persName change="#d2e182" xml:id="persName_6245.d5e31650" xml:lang="ar">يسف همد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6245.d5e31650" type="flattened" xml:lang="ar">يسفهمد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_837.d5e5296" type="flattened" xml:id="persName_1.d6229e1" xml:lang="ar-Latn-x-ijmes">YusufHamdiYeğen</persName>
-                <idno type="jaraid">818</idno>
-            </person>
-            <person xml:id="person_753.d5e4893">
-                <persName xml:id="persName_772.d5e4895" xml:lang="ar-Latn-x-ijmes">Yusuf Yeğen</persName>
+                <persName xml:id="persName_772.d5e4895" xml:lang="tr">Yusuf Yeğen</persName>
                 <persName change="#d2e182" xml:id="persName_6248.d5e31665" xml:lang="ar">يسف</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6248.d5e31665" type="flattened" xml:lang="ar">يسف</tei:persName>
                 <persName change="#d5e126" corresp="#persName_772.d5e4895" type="flattened" xml:id="persName_1.d6232e1" xml:lang="ar-Latn-x-ijmes">YusufYeğen</persName>
                 <idno type="jaraid">753</idno>
+                <idno type="jaraid">818</idno>
             </person>
             <person xml:id="person_200.d5e1482">
                 <persName xml:id="persName_219.d5e1484" xml:lang="ar-Latn-x-ijmes">Yākūb Ḥāyik</persName>
@@ -14838,8 +14801,8 @@
                 <idno type="jaraid">921</idno>
             </person>
             <person xml:id="person_383.d5e2610">
-                <persName xml:id="persName_402.d5e2612" xml:lang="ar-Latn-x-ijmes">Yūsuf Fathī</persName>
-                <persName change="#d2e154" xml:id="persName_6293.d5e31893" xml:lang="ar">يوسف فثي</persName>
+                <persName xml:id="persName_402.d5e2612" xml:lang="ar-Latn-x-ijmes">Yūsuf Fatḥī</persName>
+                <persName change="#d2e154" xml:id="persName_6293.d5e31893" xml:lang="ar">يوسف فتحي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6293.d5e31893" type="flattened" xml:lang="ar">يوسففثي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_402.d5e2612" type="flattened" xml:id="persName_1.d6277e1" xml:lang="en">YūsufFathī</persName>
                 <idno type="jaraid">383</idno>
@@ -14881,14 +14844,12 @@
                 <persName change="#d2e154" xml:id="persName_6308.d5e31969" xml:lang="ar">يوسف الياس يواكم</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6308.d5e31969" type="flattened" xml:lang="ar">يوسفالياسيواكم</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1761.d5e10994" type="flattened" xml:id="persName_1.d6292e1" xml:lang="en">YūsufIlyāsYuwākim</persName>
-                <idno type="jaraid">1742</idno>
-            </person>
-            <person xml:id="person_1728.d5e10906">
                 <persName xml:id="persName_1747.d5e10908" xml:lang="ar-Latn-x-ijmes">Yūsuf Ilyās Yuwākīm</persName>
                 <persName change="#d2e154" xml:id="persName_6311.d5e31984" xml:lang="ar">يوسف الياس يواكيم</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6311.d5e31984" type="flattened" xml:lang="ar">يوسفالياسيواكيم</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1747.d5e10908" type="flattened" xml:id="persName_1.d6295e1" xml:lang="en">YūsufIlyāsYuwākīm</persName>
                 <idno type="jaraid">1728</idno>
+                <idno type="jaraid">1742</idno>
             </person>
             <person xml:id="person_2574.d5e16123">
                 <persName xml:id="persName_2593.d5e16125" xml:lang="ar-Latn-x-ijmes">Yūsuf Iskandar ʿĀzār</persName>
