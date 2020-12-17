@@ -6,7 +6,7 @@ git clone --single-branch --branch master "https://x-access-token:$API_TOKEN@git
 
 echo "Pre-process master file for publication with CETEIcean and save as HTML"
 saxon -s:tei/jaraid_master.TEIP5.xml -xsl:xslt/make-CETEIcean.xsl outfile=chrono
-saxon -s:jaraid_master.TEIP5.xml -xsl:xslt/make-CETEIcean.xsl outfile=fihris
+saxon -s:tei/jaraid_master.TEIP5.xml -xsl:xslt/make-CETEIcean.xsl outfile=fihris
 
 cd /opt/projectjaraid
 git commit -am "Update from jaraid_source, commit $GITHUB_SHA."
