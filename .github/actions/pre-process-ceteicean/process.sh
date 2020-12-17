@@ -2,7 +2,7 @@
 
 git config --global user.email "$ACTION_USER_EMAIL"
 git config --global user.name "$ACTION_USER_NAME"
-git clone --single-branch --branch master "https://x-access-token:$API_TOKEN_GITHUB@github.com/ProjectJaraid/projectjaraid.github.io.git" /opt/projectjaraid
+git clone --single-branch --branch master "https://x-access-token:$API_TOKEN@github.com/ProjectJaraid/projectjaraid.github.io.git" /opt/projectjaraid
 
 echo "Pre-process master file for publication with CETEIcean and save as HTML"
 saxon -s:tei/jaraid_master.TEIP5.xml -xsl:xslt/make-CETEIcean.xsl outfile=chrono
