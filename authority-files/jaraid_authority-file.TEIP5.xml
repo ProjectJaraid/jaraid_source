@@ -962,7 +962,7 @@
             </person>
             <person xml:id="person_2438.d5e15284">
                 <persName xml:id="persName_2457.d5e15286" xml:lang="ar-Latn-x-ijmes">Al-Mullā ʿAbbūd al-Karkhī</persName>
-                <persName change="#d2e154" xml:id="persName_396.d5e2101" xml:lang="ar">الملی عبود الكرخي</persName>
+                <persName change="#d2e154" xml:id="persName_396.d5e2101" xml:lang="ar">الملا عبود الكرخي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_396.d5e2101" type="flattened" xml:lang="ar">الملیعبودالكرخي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2457.d5e15286" type="flattened" xml:id="persName_1.d382e1" xml:lang="en">AlMullāʿAbbūdalKarkhī</persName>
                 <idno type="jaraid">2438</idno>
