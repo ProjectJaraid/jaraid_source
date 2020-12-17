@@ -15548,14 +15548,11 @@
             <person xml:id="person_2023.d5e12725">
                 <persName xml:id="persName_2042.d5e12727" xml:lang="en">official</persName>
                 <persName change="#d2e154" xml:id="persName_6612.d5e33504" xml:lang="ar">رسمية</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6612.d5e33504" type="flattened" xml:lang="ar">oفcل</tei:persName>
-                <persName change="#d5e126" corresp="#persName_2042.d5e12727" type="flattened" xml:id="persName_1.d6595e1" xml:lang="en">official</persName>
                 <idno type="jaraid">2023</idno>
             </person>
             <person xml:id="person_1517.d5e9605">
                 <persName xml:id="persName_1536.d5e9607" xml:lang="ar-Latn-x-ijmes">organ of students</persName>
                 <persName change="#d2e154" xml:id="persName_6615.d5e33519" xml:lang="ar">لسان حال للطلاب</persName>
-                <tei:persName change="#d5e194" corresp="#persName_6615.d5e33519" type="flattened" xml:lang="ar">oرgنoفست</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1536.d5e9607" type="flattened" xml:id="persName_1.d6598e1" xml:lang="en">organofstudents</persName>
                 <idno type="jaraid">1517</idno>
             </person>
@@ -19313,7 +19310,7 @@
             </org>
             <org>
                 <orgName xml:lang="en">Government</orgName>
-                <orgName xml:lang="ar"> الحكومة</orgName>
+                <orgName xml:lang="ar">الحكومة</orgName>
                 <idno type="jaraid">4</idno>
             </org>
             <org>
@@ -19327,8 +19324,10 @@
                 <idno type="jaraid">6</idno>
             </org>
             <org>
-                <orgName>رسمية</orgName>
+                <orgName xml:lang="en">official</orgName>
+                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
                 <idno type="jaraid">7</idno>
+                <idno type="jaraid">72</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Sūriyya li'l-Iktisāb al-ʿUlūm wa'l-Funūn</orgName>
@@ -19374,13 +19373,7 @@
             </org>
             <org>
                 <orgName xml:lang="en">Jesuits</orgName>
-                <orgName change="#d2e154" xml:lang="en">Jesuits</orgName>
                 <idno type="jaraid">17</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Dākhiliyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
-                <idno type="jaraid">18</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-Madāris</orgName>
@@ -19423,7 +19416,8 @@
                 <idno type="jaraid">26</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Société Egyptienne d'Agriculture/Al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
+                <orgName xml:lang="fr">Société Egyptienne d'Agriculture</orgName>
                 <orgName change="#d2e154" xml:lang="ar"> الجمعية الزراعية المصرية</orgName>
                 <idno type="jaraid">27</idno>
             </org>
@@ -19467,13 +19461,11 @@
                 <idno type="jaraid">35</idno>
             </org>
             <org>
-                <orgName xml:lang="en">Ministry of Interior</orgName>
-                <orgName change="#d2e154" xml:lang="en">Ministry of Interior</orgName>
-                <idno type="jaraid">36</idno>
-            </org>
-            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Dākhiliyya</orgName>
                 <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
+                <orgName xml:lang="en">Ministry of Interior</orgName>
+                <idno type="jaraid">18</idno>
+                <idno type="jaraid">36</idno>
                 <idno type="jaraid">37</idno>
             </org>
             <org>
@@ -19482,7 +19474,7 @@
                 <idno type="jaraid">38</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Police Head Quarters, Ministry of Interior</orgName>
+                <orgName xml:lang="en">Police Head Quarters, Ministry of Interior</orgName>
                 <orgName change="#d2e154" xml:lang="ar"> ديوان البولس النظارة الداخلية</orgName>
                 <idno type="jaraid">39</idno>
             </org>
@@ -19622,11 +19614,12 @@
             </org>
             <org>
                 <orgName xml:lang="en">Church Missionary Society</orgName>
-                <orgName change="#d2e154" xml:lang="en">Church Missionary Society </orgName>
                 <idno type="jaraid">67</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">al-Jāmiʿa al-Amīrkiyya / AUB</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">al-Jāmiʿa al-Amīrkiyya</orgName>
+                <orgName xml:lang="en">Syrian Protestant College</orgName>
+                <orgName xml:lang="en">American University of Beirut</orgName>
                 <orgName change="#d2e154" xml:lang="ar">الجامعة الاميركية في بيروت</orgName>
                 <idno type="jaraid">68</idno>
             </org>
@@ -19640,17 +19633,8 @@
                 <idno type="jaraid">70</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Spanish governmennt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
-                <idno type="jaraid">71</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar">رسمية</orgName>
-                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
-                <idno type="jaraid">72</idno>
-            </org>
-            <org>
                 <orgName>Spanish government</orgName>
+                <idno type="jaraid">71</idno>
                 <idno type="jaraid">73</idno>
             </org>
             <org>
