@@ -1075,14 +1075,14 @@
             </person>
             <person xml:id="person_1024.d5e6564">
                 <persName xml:id="persName_1043.d5e6566" xml:lang="ar-Latn-x-ijmes">Al-Qiss Tūmā Fannī</persName>
-                <persName change="#d2e154" xml:id="persName_444.d5e2343" xml:lang="ar">القس تومی فني</persName>
+                <persName change="#d2e154" xml:id="persName_444.d5e2343" xml:lang="ar">القس توما فني</persName>
                 <tei:persName change="#d5e194" corresp="#persName_444.d5e2343" type="flattened" xml:lang="ar">القستومیفني</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1043.d5e6566" type="flattened" xml:id="persName_1.d430e1" xml:lang="en">AlQissTūmāFannī</persName>
                 <idno type="jaraid">1024</idno>
             </person>
             <person xml:id="person_292.d5e2049">
                 <persName xml:id="persName_311.d5e2051" xml:lang="ar-Latn-x-ijmes">Al-Qiss Watson</persName>
-                <persName change="#d2e154" xml:id="persName_447.d5e2358" xml:lang="ar">القس و</persName>
+                <persName change="#d2e154" xml:id="persName_447.d5e2358" xml:lang="ar">القس واتسون</persName>
                 <tei:persName change="#d5e194" corresp="#persName_447.d5e2358" type="flattened" xml:lang="ar">القسو</tei:persName>
                 <persName change="#d5e126" corresp="#persName_311.d5e2051" type="flattened" xml:id="persName_1.d433e1" xml:lang="en">AlQissWatson</persName>
                 <idno type="jaraid">292</idno>
@@ -1889,7 +1889,7 @@
             <person xml:id="person_236.d5e1704">
                 <persName xml:id="persName_255.d5e1706" xml:lang="ar-Latn-x-ijmes">André Būrdīnī</persName>
                 <persName change="#d2e154" xml:id="persName_795.d5e4118" xml:lang="ar">ا بورديني</persName>
-                <tei:persName change="#d5e194" corresp="#persName_795.d5e4118" type="flattened" xml:lang="ar">ابورديني</tei:persName>
+                <tei:persName change="#d5e194" corresp="#persName_795.d5e4118" type="flattened" xml:lang="ar">اندريه بورديني</tei:persName>
                 <persName change="#d5e126" corresp="#persName_255.d5e1706" type="flattened" xml:id="persName_1.d787e1" xml:lang="en">AndréBūrdīnī</persName>
                 <idno type="jaraid">236</idno>
             </person>
@@ -4659,7 +4659,7 @@
                 <persName xml:id="persName_1965.d5e10037" xml:lang="ar-Latn-EN">Snadly</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1965.d5e10037" type="flattened" xml:lang="ar-Latn-EN">Snadly</tei:persName>
                 <persName xml:id="persName_279.d5e1854" xml:lang="ar-Latn-x-ijmes">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName>
-                <persName change="#d2e154" xml:id="persName_1967.d5e10043" xml:lang="ar">ه م عقربي محمد عبد الرحمن الصنادلي سندلي / /</persName>
+                <persName change="#d2e154" xml:id="persName_1967.d5e10043" xml:lang="ar">ه م عقربي / محمد عبد الرحمن الصنادلي  </persName>
                 <tei:persName change="#d5e194" corresp="#persName_1967.d5e10043" type="flattened" xml:lang="ar">همعقربيمحمدعبدالرحمنالصنادليسندلي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_279.d5e1854" type="flattened" xml:id="persName_1.d1954e1" xml:lang="en">HMʿAqrabīMuḥammadʿAbdalRaḥmānalṢnādlīSnadly</persName>
                 <idno type="jaraid">260</idno>
@@ -4803,7 +4803,7 @@
             </person>
             <person xml:id="person_222.d5e1618">
                 <persName xml:id="persName_241.d5e1620" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Adham</persName>
-                <persName change="#d2e154" xml:id="persName_2032.d5e10384" xml:lang="ar">ابراهيم اذم</persName>
+                <persName change="#d2e154" xml:id="persName_2032.d5e10384" xml:lang="ar">ابراهيم ادهم</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2032.d5e10384" type="flattened" xml:lang="ar">ابراهيماذم</tei:persName>
                 <persName change="#d5e126" corresp="#persName_241.d5e1620" type="flattened" xml:id="persName_1.d2020e1" xml:lang="en">IbrāhīmAdham</persName>
                 <idno type="jaraid">222</idno>
@@ -5879,9 +5879,9 @@
                 <idno type="jaraid">1780</idno>
             </person>
             <person xml:id="person_219.d5e1599">
-                <persName xml:id="persName_238.d5e1601" xml:lang="ar-Latn-x-ijmes">J Chemla</persName>
-                <persName change="#d2e154" xml:id="persName_2491.d5e12702" xml:lang="ar">ج ة</persName>
-                <tei:persName change="#d5e194" corresp="#persName_2491.d5e12702" type="flattened" xml:lang="ar">جة</tei:persName>
+                <persName xml:id="persName_238.d5e1601" xml:lang="fr">J Chemla</persName>
+                <persName change="#d2e154" xml:id="persName_2491.d5e12702" xml:lang="fr">J. Chemla</persName>
+                <tei:persName change="#d5e194" corresp="#persName_2491.d5e12702" type="flattened" xml:lang="fr">J Chemla</tei:persName>
                 <persName change="#d5e126" corresp="#persName_238.d5e1601" type="flattened" xml:id="persName_1.d2476e1" xml:lang="en">JChemla</persName>
                 <idno type="jaraid">219</idno>
             </person>
@@ -6581,7 +6581,7 @@
             </person>
             <person xml:id="person_270.d5e1914">
                 <persName xml:id="persName_289.d5e1916" xml:lang="ar-Latn-x-ijmes">Jākūb (Yaʿqūb?) Kūhīn/Jacob Cohen</persName>
-                <persName change="#d2e154" xml:id="persName_2787.d5e14189" xml:lang="ar">جاكوب ( يعقوب ) كوهين جcoب ?/</persName>
+                <persName change="#d2e154" xml:id="persName_2787.d5e14189" xml:lang="ar">جاكوب ( يعقوب ) كوهين </persName>
                 <tei:persName change="#d5e194" corresp="#persName_2787.d5e14189" type="flattened" xml:lang="ar">جاكوبيعقوبكوهينجcoب</tei:persName>
                 <persName change="#d5e126" corresp="#persName_289.d5e1916" type="flattened" xml:id="persName_1.d2770e1" xml:lang="en">JākūbYaʿqūbKūhīnJacobCohen</persName>
                 <idno type="jaraid">270</idno>
@@ -7390,9 +7390,9 @@
                 <idno type="jaraid">892</idno>
             </person>
             <person xml:id="person_69.d5e674">
-                <persName xml:id="persName_88.d5e676" xml:lang="ar-Latn-x-ijmes">Leon Lambert</persName>
-                <persName change="#d2e154" xml:id="persName_3130.d5e15915" xml:lang="ar">ل</persName>
-                <tei:persName change="#d5e194" corresp="#persName_3130.d5e15915" type="flattened" xml:lang="ar">ل</tei:persName>
+                <persName xml:id="persName_88.d5e676" xml:lang="fr">Leon Lambert</persName>
+                <persName change="#d2e154" xml:id="persName_3130.d5e15915" xml:lang="fr">Leon Lambert</persName>
+                <tei:persName change="#d5e194" corresp="#persName_3130.d5e15915" type="flattened" xml:lang="ar"/>
                 <persName change="#d5e126" corresp="#persName_88.d5e676" type="flattened" xml:id="persName_1.d3109e1" xml:lang="en">LeonLambert</persName>
                 <idno type="jaraid">69</idno>
             </person>
@@ -11939,7 +11939,7 @@
             </person>
             <person xml:id="person_207.d5e1525">
                 <persName xml:id="persName_226.d5e1527" xml:lang="ar-Latn-x-ijmes">Niqūlā Tūmā</persName>
-                <persName change="#d2e154" xml:id="persName_5062.d5e25676" xml:lang="ar">نقولا تومی</persName>
+                <persName change="#d2e154" xml:id="persName_5062.d5e25676" xml:lang="ar">نقولا توما</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5062.d5e25676" type="flattened" xml:lang="ar">نقولیتومی</tei:persName>
                 <persName change="#d5e126" corresp="#persName_226.d5e1527" type="flattened" xml:id="persName_1.d5038e1" xml:lang="en">NiqūlāTūmā</persName>
                 <idno type="jaraid">207</idno>
@@ -13331,7 +13331,7 @@
             <person xml:id="person_748.d5e4862">
                 <persName xml:id="persName_767.d5e4864" xml:lang="ar-Latn-x-ijmes">Saʿid Adham</persName>
                 <persName change="#d2e182" xml:id="persName_5657.d5e28680" xml:lang="ar">سعد اذم</persName>
-                <tei:persName change="#d5e194" corresp="#persName_5657.d5e28680" type="flattened" xml:lang="ar">سعداذم</tei:persName>
+                <tei:persName change="#d5e194" corresp="#persName_5657.d5e28680" type="flattened" xml:lang="ar">سعدادهم</tei:persName>
                 <persName change="#d5e126" corresp="#persName_767.d5e4864" type="flattened" xml:id="persName_1.d5632e1" xml:lang="ar-Latn-x-ijmes">SaʿidAdham</persName>
                 <idno type="jaraid">748</idno>
             </person>
@@ -15070,7 +15070,7 @@
             </person>
             <person xml:id="person_918.d5e5911">
                 <persName xml:id="persName_937.d5e5913" xml:lang="ar-Latn-x-ijmes">Yūsuf Tūmā</persName>
-                <persName change="#d2e182" xml:id="persName_6407.d5e32469" xml:lang="ar">يوسف تومی</persName>
+                <persName change="#d2e182" xml:id="persName_6407.d5e32469" xml:lang="ar">يوسف توما</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6407.d5e32469" type="flattened" xml:lang="ar">يوسفتومی</tei:persName>
                 <persName change="#d5e126" corresp="#persName_937.d5e5913" type="flattened" xml:id="persName_1.d6391e1" xml:lang="ar-Latn-x-ijmes">YūsufTūmā</persName>
                 <idno type="jaraid">918</idno>
@@ -15554,7 +15554,7 @@
             </person>
             <person xml:id="person_1517.d5e9605">
                 <persName xml:id="persName_1536.d5e9607" xml:lang="ar-Latn-x-ijmes">organ of students</persName>
-                <persName change="#d2e154" xml:id="persName_6615.d5e33519" xml:lang="ar">oرgن oف ست</persName>
+                <persName change="#d2e154" xml:id="persName_6615.d5e33519" xml:lang="ar">لسان حال للطلاب</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6615.d5e33519" type="flattened" xml:lang="ar">oرgنoفست</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1536.d5e9607" type="flattened" xml:id="persName_1.d6598e1" xml:lang="en">organofstudents</persName>
                 <idno type="jaraid">1517</idno>
@@ -19467,8 +19467,8 @@
                 <idno type="jaraid">35</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ministry of Interior</orgName>
-                <orgName change="#d2e154" xml:lang="ar">من oف اoر</orgName>
+                <orgName xml:lang="en">Ministry of Interior</orgName>
+                <orgName change="#d2e154" xml:lang="en">Ministry of Interior</orgName>
                 <idno type="jaraid">36</idno>
             </org>
             <org>
@@ -19483,7 +19483,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Police Head Quarters, Ministry of Interior</orgName>
-                <orgName change="#d2e154" xml:lang="ar">poلce هeد ق , من oف اoر</orgName>
+                <orgName change="#d2e154" xml:lang="ar"> ديوان البولس النظارة الداخلية</orgName>
                 <idno type="jaraid">39</idno>
             </org>
             <org>
@@ -19523,7 +19523,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Nashr al-Maʿārif wa'l-Ādāb</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية نشر المعارف وة الاداب '</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية نشر المعارف والآداب</orgName>
                 <idno type="jaraid">47</idno>
             </org>
             <org>
@@ -19587,7 +19587,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Group of Egyptian writers</orgName>
-                <orgName change="#d2e154" xml:lang="ar">gرop oف ن ور</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جماعة الأدباء المصريين</orgName>
                 <idno type="jaraid">60</idno>
             </org>
             <org>
@@ -19622,7 +19622,7 @@
             </org>
             <org>
                 <orgName xml:lang="en">Church Missionary Society</orgName>
-                <orgName change="#d2e154" xml:lang="en">Church Missionary Society  </orgName>
+                <orgName change="#d2e154" xml:lang="en">Church Missionary Society </orgName>
                 <idno type="jaraid">67</idno>
             </org>
             <org>
@@ -19641,12 +19641,12 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Spanish governmennt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">سpنش</orgName>
+                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
                 <idno type="jaraid">71</idno>
             </org>
             <org>
                 <orgName xml:lang="ar">رسمية</orgName>
-                <orgName change="#d2e154" xml:lang="ar">oفcل</orgName>
+                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
                 <idno type="jaraid">72</idno>
             </org>
             <org>
@@ -20650,7 +20650,7 @@
             </place>
             <place type="town">
                 <placeName change="#d6e157" ref="oape:place:225 geon:361058" xml:lang="en">Alexandria</placeName>
-                <placeName source="#org_geon" type="alt" xml:lang="ar">الإسكندرية</placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">الاسكندرية</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Alexandrie</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Alexandria</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="tr">İskenderiye</placeName>
@@ -22414,7 +22414,7 @@
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Naples</placeName>
-                <placeName change="#d2e154" xml:lang="ar">ن</placeName>
+                <placeName change="#d2e154" xml:lang="ar">نابولي </placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="en">N'Djamena</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Ndjamena</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Indschamina</placeName>
