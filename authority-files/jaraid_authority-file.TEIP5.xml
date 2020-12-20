@@ -2867,7 +2867,7 @@
             </person>
             <person xml:id="person_471.d5e3155">
                 <persName xml:id="persName_490.d5e3157" xml:lang="ar-Latn-x-ijmes">Aḥmad Āshar Sulaymān al-Azharī</persName>
-                <persName change="#d2e154" xml:id="persName_1208.d5e6202" xml:lang="ar">احمد اشر سليمان الازهري</persName>
+                <persName change="#d2e154" xml:id="persName_1208.d5e6202" xml:lang="ar">احمد آشر سليمان الازهري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1208.d5e6202" type="flattened" xml:lang="ar">احمداشرسليمانالازهري</tei:persName>
                 <persName change="#d5e126" corresp="#persName_490.d5e3157" type="flattened" xml:id="persName_1.d1198e1" xml:lang="en">AḥmadĀsharSulaymānalAzharī</persName>
                 <idno type="jaraid">471</idno>
@@ -3353,7 +3353,7 @@
             </person>
             <person xml:id="person_534.d5e3544">
                 <persName xml:id="persName_553.d5e3546" xml:lang="ar-Latn-x-ijmes">Bishop Arsāniyūs Ḥaddād</persName>
-                <persName change="#d2e154" xml:id="persName_1417.d5e7257" xml:lang="ar">ب ارسانيوس حداد</persName>
+                <persName change="#d2e154" xml:id="persName_1417.d5e7257" xml:lang="ar"> ارسانيوس حداد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1417.d5e7257" type="flattened" xml:lang="ar">بارسانيوسحداد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_553.d5e3546" type="flattened" xml:id="persName_1.d1399e1" xml:lang="en">BishopArsāniyūsḤaddād</persName>
                 <idno type="jaraid">534</idno>
@@ -3576,7 +3576,7 @@
             </person>
             <person xml:id="person_682.d5e4456">
                 <persName xml:id="persName_701.d5e4458" xml:lang="ar-Latn-x-ijmes">Claudius J. Labib</persName>
-                <persName change="#d2e182" xml:id="persName_1510.d5e7727" xml:lang="ar">  كلاوديوس ج. لبيب</persName>
+                <persName change="#d2e182" xml:id="persName_1510.d5e7727" xml:lang="ar"> كلاوديوس ج. لبيب</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1510.d5e7727" type="flattened" xml:lang="ar">cلدسجلبب</tei:persName>
                 <persName change="#d5e126" corresp="#persName_701.d5e4458" type="flattened" xml:id="persName_1.d1492e1" xml:lang="ar-Latn-x-ijmes">ClaudiusJLabib</persName>
                 <idno type="jaraid">682</idno>
@@ -3952,7 +3952,7 @@
             </person>
             <person xml:id="person_519.d5e3451">
                 <persName xml:id="persName_538.d5e3453" xml:lang="ar-Latn-x-ijmes">Dīmitrī Niqūlā/Dimitri Nicola</persName>
-                <persName change="#d2e154" xml:id="persName_1670.d5e8534" xml:lang="ar">ديمتري نقولا ن</persName>
+                <persName change="#d2e154" xml:id="persName_1670.d5e8534" xml:lang="ar">ديمتري نقولا </persName>
                 <tei:persName change="#d5e194" corresp="#persName_1670.d5e8534" type="flattened" xml:lang="ar">ديمترينقولیدمترنcoلة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_538.d5e3453" type="flattened" xml:id="persName_1.d1651e1" xml:lang="en">DīmitrīNiqūlāDimitriNicola</persName>
                 <idno type="jaraid">519</idno>
@@ -5237,7 +5237,7 @@
             </person>
             <person xml:id="person_628.d5e4123">
                 <persName xml:id="persName_647.d5e4125" xml:lang="ar-Latn-x-ijmes">Idwār (Edward) Qarʿalī</persName>
-                <persName change="#d2e154" xml:id="persName_2215.d5e11307" xml:lang="ar">ادوار ( eدورد ) قرعلي</persName>
+                <persName change="#d2e154" xml:id="persName_2215.d5e11307" xml:lang="ar">ادوار قرعلي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2215.d5e11307" type="flattened" xml:lang="ar">ادوارeدوردقرعلي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_647.d5e4125" type="flattened" xml:id="persName_1.d2200e1" xml:lang="en">IdwārEdwardQarʿalī</persName>
                 <idno type="jaraid">628</idno>
@@ -5258,7 +5258,7 @@
             </person>
             <person xml:id="person_449.d5e3020">
                 <persName xml:id="persName_468.d5e3022" xml:lang="ar-Latn-x-ijmes">Idwār Judayy (Edward Guiddi)</persName>
-                <persName change="#d2e154" xml:id="persName_2224.d5e11352" xml:lang="ar">ادوار جدي ( eدورد gد )</persName>
+                <persName change="#d2e154" xml:id="persName_2224.d5e11352" xml:lang="ar">ادوار جدي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2224.d5e11352" type="flattened" xml:lang="ar">ادوارجديeدوردgد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_468.d5e3022" type="flattened" xml:id="persName_1.d2209e1" xml:lang="en">IdwārJudayyEdwardGuiddi</persName>
                 <idno type="jaraid">449</idno>
@@ -5960,7 +5960,7 @@
             </person>
             <person xml:id="person_265.d5e1883">
                 <persName xml:id="persName_284.d5e1885" xml:lang="ar-Latn-x-ijmes">Jammāl and Muṣawbaʿ</persName>
-                <persName change="#d2e154" xml:id="persName_2525.d5e12872" xml:lang="ar">جمال اند مصوبع</persName>
+                <persName change="#d2e154" xml:id="persName_2525.d5e12872" xml:lang="ar">جمال ومصوبع</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2525.d5e12872" type="flattened" xml:lang="ar">جمالاندمصوبع</tei:persName>
                 <persName change="#d5e126" corresp="#persName_284.d5e1885" type="flattened" xml:id="persName_1.d2509e1" xml:lang="en">JammālandMuṣawbaʿ</persName>
                 <idno type="jaraid">265</idno>
@@ -7423,8 +7423,8 @@
                 <idno type="jaraid">2251</idno>
             </person>
             <person xml:id="person_634.d5e4160">
-                <persName xml:id="persName_653.d5e4162" xml:lang="ar-Latn-x-ijmes">Luciani</persName>
-                <persName change="#d2e154" xml:id="persName_3145.d5e15990" xml:lang="ar">لcن</persName>
+                <persName xml:id="persName_653.d5e4162" xml:lang="it">Luciani</persName>
+                <persName change="#d2e154" xml:id="persName_3145.d5e15990" xml:lang="it">Luciani</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3145.d5e15990" type="flattened" xml:lang="ar">لcن</tei:persName>
                 <persName change="#d5e126" corresp="#persName_653.d5e4162" type="flattened" xml:id="persName_1.d3124e1" xml:lang="en">Luciani</persName>
                 <idno type="jaraid">634</idno>
@@ -7522,8 +7522,8 @@
                 <idno type="jaraid">2116</idno>
             </person>
             <person xml:id="person_527.d5e3501">
-                <persName xml:id="persName_546.d5e3503" xml:lang="ar-Latn-x-ijmes">M J Manalt d'Aunalt</persName>
-                <persName change="#d2e154" xml:id="persName_3186.d5e16193" xml:lang="ar">م ج منلت د اانلت '</persName>
+                <persName xml:id="persName_546.d5e3503" xml:lang="fr">M J Manalt d'Aunalt</persName>
+                <persName change="#d2e154" xml:id="persName_3186.d5e16193" xml:lang="fr">M J Manalt d'Aunalt</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3186.d5e16193" type="flattened" xml:lang="ar">مجمنلتداانلت</tei:persName>
                 <persName change="#d5e126" corresp="#persName_546.d5e3503" type="flattened" xml:id="persName_1.d3163e1" xml:lang="en">MJManaltdAunalt</persName>
                 <idno type="jaraid">527</idno>
@@ -8490,8 +8490,8 @@
                 <idno type="jaraid">1550</idno>
             </person>
             <person xml:id="person_256.d5e1827">
-                <persName xml:id="persName_275.d5e1829" xml:lang="ar-Latn-x-ijmes">Mirzā Malkam Khān</persName>
-                <persName change="#d2e154" xml:id="persName_3596.d5e18268" xml:lang="ar">مرزی ملكم خان</persName>
+                <persName xml:id="persName_275.d5e1829" xml:lang="ar-Latn-x-ijmes">Mīrzā Malkam Khān</persName>
+                <persName change="#d2e154" xml:id="persName_3596.d5e18268" xml:lang="ar">ميرزا ملكم خان</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3596.d5e18268" type="flattened" xml:lang="ar">مرزیملكمخان</tei:persName>
                 <persName change="#d5e126" corresp="#persName_275.d5e1829" type="flattened" xml:id="persName_1.d3574e1" xml:lang="en">MirzāMalkamKhān</persName>
                 <idno type="jaraid">256</idno>
@@ -12149,8 +12149,8 @@
                 <idno type="jaraid">2695</idno>
             </person>
             <person xml:id="person_371.d5e2536">
-                <persName xml:id="persName_390.d5e2538" xml:lang="ar-Latn-x-ijmes">Papillaud</persName>
-                <persName change="#d2e154" xml:id="persName_5150.d5e26119" xml:lang="ar">ppلد</persName>
+                <persName xml:id="persName_390.d5e2538" xml:lang="fr">Papillaud</persName>
+                <persName change="#d2e154" xml:id="persName_5150.d5e26119" xml:lang="fr">Papillaud</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5150.d5e26119" type="flattened" xml:lang="ar">ppلد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_390.d5e2538" type="flattened" xml:id="persName_1.d5125e1" xml:lang="en">Papillaud</persName>
                 <idno type="jaraid">371</idno>
@@ -19550,7 +19550,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الورثوذوكسية</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
                 <idno type="jaraid">54</idno>
             </org>
             <org>
@@ -19585,7 +19585,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الورثوذوكسية</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
                 <idno type="jaraid">61</idno>
             </org>
             <org>
@@ -19605,7 +19605,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ūrthūdhūksiyya bi-Bayrūt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الورثوذوكسية البيروت</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الارثوذوكسية البيروت</orgName>
                 <idno type="jaraid">65</idno>
             </org>
             <org>
@@ -22581,6 +22581,7 @@
             </place>
             <place type="HTL">
                 <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
+                <placeName xml:lang="ar">نيقوسيا</placeName>
                 <location source="#org_geon">
                     <geo>35.16304, 33.32701</geo>
                 </location>
