@@ -4598,7 +4598,7 @@
             </person>
             <person xml:id="person_773.d5e5017">
                 <persName xml:id="persName_792.d5e5019" xml:lang="ar-Latn-x-ijmes">George Nilkun de Wildberg</persName>
-                <persName change="#d2e182" xml:id="persName_1940.d5e9908" xml:lang="ar">نلكن دe و</persName>
+                <persName change="#d2e182" xml:id="persName_1940.d5e9908" xml:lang="de">George Nilkun de Wildberg</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1940.d5e9908" type="flattened" xml:lang="ar">نلكندeو</tei:persName>
                 <persName change="#d5e126" corresp="#persName_792.d5e5019" type="flattened" xml:id="persName_1.d1927e1" xml:lang="ar-Latn-x-ijmes">GeorgeNilkundeWildberg</persName>
                 <idno type="jaraid">773</idno>
