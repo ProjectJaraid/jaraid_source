@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="../css/oxygen.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="../css/oxygen.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="en">
       <fileDesc xml:lang="en">
          <titleStmt xml:lang="en">
@@ -63,8 +59,7 @@
                   and a reference to the contributor's xml:id -->
             </respStmt>
             <respStmt xml:lang="en">
-               <resp xml:lang="en"
-                  >The 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
+               <resp xml:lang="en">The 2012 edition's digital production: conversion into XML, mark-up, design and implementation of
                   the website, including indexes, maps, and rss feeds</resp>
                <persName change="#d3e781" ref="jaraid:pers:4" sameAs="#pTG" xml:lang="en"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
             </respStmt>
@@ -88,8 +83,7 @@
             <distributor xml:lang="en">Zenodo</distributor>
             <idno xml:lang="en">DOI: http://doi.org/10.5281/zenodo.4264986</idno>
             <availability xml:lang="en">
-               <p xml:lang="en">This is an open access work licensed under the Creative Commons <ref target="https://creativecommons.org/licenses/by-nc/4.0/"
-                  >Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
+               <p xml:lang="en">This is an open access work licensed under the Creative Commons <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:lang="en">
@@ -98,8 +92,7 @@
       </fileDesc>
       <encodingDesc xml:lang="en">
          <projectDesc xml:lang="en">
-            <p xml:lang="en"
-               >The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
+            <p xml:lang="en">The basis of this TEI file was produced by Till Grallert in preparation for the on-line publication
                from a table originally drawn up by Adam Mestyan. From 2017 December Adam Mestyan also directly edits the TEI file. The 2020 Edition was produced through Github by Adam Mestyan et al.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
@@ -107,21 +100,16 @@
             <p xml:lang="en">New entries should be made using copies of the model entry at the end of the first
                table (<tag xml:lang="en">table xml:id="t1"</tag>).</p>
             <p xml:lang="en">All changes, additions, etc. should be marked with <att xml:lang="en">resp</att> and a reference to
-               the contributors above, i.e. <att xml:lang="en"
-               >resp</att>="#pTG".</p>
+               the contributors above, i.e. <att xml:lang="en">resp</att>="#pTG".</p>
             <p xml:lang="en">Changes are to be recorded in the <gi xml:lang="en">revisionDesc</gi> of this file as
-                  <gi xml:lang="en">change</gi> nodes with a <att xml:lang="en"
-               >who</att>, <att xml:lang="en">when</att>, and <att xml:lang="en">type</att>
-               attribute. The <att xml:lang="en"
-               >type</att> can take the following values: 'content', 'xml'</p>
+                  <gi xml:lang="en">change</gi> nodes with a <att xml:lang="en">who</att>, <att xml:lang="en">when</att>, and <att xml:lang="en">type</att>
+               attribute. The <att xml:lang="en">type</att> can take the following values: 'content', 'xml'</p>
             <p xml:lang="en">Internal references to holding institutions use the <gi xml:lang="en">rs</gi> tag and a
-                  <att xml:lang="en">ref</att> attribute pointing to an <att
-               xml:lang="en">xml:id</att> that starts with 'h',
+                  <att xml:lang="en">ref</att> attribute pointing to an <att xml:lang="en">xml:id</att> that starts with 'h',
                i.e. <tag xml:lang="en">rs ref=#hINL</tag> for Iraqi National Library.</p>
             <p xml:lang="en">Various information still needs to be encoded: <list xml:lang="en">
                <item xml:lang="en">the date of the last publication (cell 3) is only partially encoded</item>
-               <item xml:lang="en"
-                  >persNames need further granulation and mark-up of forename, surname, and
+               <item xml:lang="en">persNames need further granulation and mark-up of forename, surname, and
                      honorary titles. All the contributors should be included in a persList in the
                      teiHeader for reference. Such a list could be compiled using the index of
                      persons produced for output on the website</item>
@@ -158,21 +146,18 @@
             <head xml:lang="en">A Chronology of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
-            <p xml:id="p3" xml:lang="en"
-               >Contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
+            <p xml:id="p3" xml:lang="en">Contributions from Hala Auji, Philippe Chevrant, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Till Grallert, Rana
                Issa, Nicole Khayat, Peter Magierski, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till
                Grallert</p>
-            <p xml:id="p6" xml:lang="en"
-               >2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan and Till Grallert; XSLT by Hugh Cayless and Till Grallert</p>
+            <p xml:id="p6" xml:lang="en">2020 Edition: Data addition, CETEICean transformation, digital publication, and design of the website by Adam Mestyan and Till Grallert; XSLT by Hugh Cayless and Till Grallert</p>
             <p xml:id="p7" xml:lang="en">Advisor to 2020 Edition (CETEICean, JS, XSLT): Hugh Cayless</p>
             <p xml:id="p8" xml:lang="en"> Advisor to 2020 Edition (Visualization): Eric Monson</p>
          </div>
          <div xml:id="dCopyright" xml:lang="en">
-            <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/"
-               >Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref> </p>
+            <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref> </p>
          </div>
          <div xml:id="dCetei" xml:lang="en">
             <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
@@ -180,23 +165,19 @@
          <div type="chapter" xml:id="dIntro" xml:lang="en">
             <head xml:lang="en">Introductory Notes</head>
             <p xml:lang="en">This website provides a chronology of Arabic periodicals between 1800 and 1929.</p>
-            <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en"
-               >and</hi> in another language (such as the usual pair of Arabic and
+            <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en">and</hi> in another language (such as the usual pair of Arabic and
                Ottoman Turkish) or in Arabic written in a different script (such as Judeo-Arabic)
                during the period from 1800 to 1929, this chronology is certainly incomplete.
                Furthermore, there remain numerous problems with dating and locating individual
                publications as well as identifying their owners, editors, or publishers.</p>
-            <p xml:lang="en"
-               >Thus, at the moment we consciously publish a working draft with the purpose of making
+            <p xml:lang="en">Thus, at the moment we consciously publish a working draft with the purpose of making
                our information available to the scholarly community. We welcome all readers to
-               submit any comment, corrections, and new data using <ref
-               rend="external" target="https://scholars.duke.edu/person/Adam.Mestyan"> <persName ref="#pAM" xml:id="persName_46.d3e859" xml:lang="en">Adam Mestyan</persName>
+               submit any comment, corrections, and new data using <ref rend="external" target="https://scholars.duke.edu/person/Adam.Mestyan"> <persName ref="#pAM" xml:id="persName_46.d3e859" xml:lang="en">Adam Mestyan</persName>
                </ref>'s official email address. We would like to ask all contributors to always refer to
                the ID of each title – in case of comments on existing entries – and cite
                their sources, as otherwise we cannot consider the submission for being included in
                the table. Every contribution will be acknowledged.</p>
-            <p xml:lang="en"
-               >We chose to present the core data as a table containing information on titles, dates
+            <p xml:lang="en">We chose to present the core data as a table containing information on titles, dates
                of first and last issue published, place(s) of publication, names of publishers and
                editors, language(s) of publication, and available collections (so far only in English/transliteration but Arabic indexes are coming as well). In addition, we
                provide various indexes of holding institutions and locations, as well as a bibliography of the
@@ -206,47 +187,34 @@
          </div>
          <div xml:id="dVersionHist" xml:lang="en">
             <head xml:lang="en">I. Version History</head>
-            <p xml:lang="en"
-               >The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName
-               ref="jaraid:pers:21" xml:lang="en">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"> <hi rend="italic" xml:lang="en">Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi>
-               </name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName change="#d3e781" ref="jaraid:pers:5" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname
-               xml:lang="en">Mestyan</surname> </persName> added manually during 2020. This data is enriched and checked against <persName ref="#pAM" xml:id="persName_49.d3e884" xml:lang="en"
-               >Adam Mestyan</persName>'s personal research, <persName ref="#pTG" xml:id="persName_50.d3e887" xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/"
-               >OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products.</p>
-            <p xml:lang="en"
-               >The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. This original edition benefitted a major contribution by Prof. Philip Sadgrove. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
+            <p xml:lang="en">The present database is a corrected and updated version of the 2012 first edition. It expands the chronological range up to 1929. The fundamental sources in this expansion are the lists in <persName ref="jaraid:pers:21" xml:lang="en">Philippe de Tarrazi (Fīlīb Dī Ṭarrāzī)</persName>, <name xml:lang="en"> <hi rend="italic" xml:lang="en">Tārīkh al-Ṣiḥāfa al-ʿArabiyya</hi>
+               </name>, part 4 (Beirut: al-Maṭbaʿa al-Amīrkāniyya, 1933), that <persName change="#d3e781" ref="jaraid:pers:5" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname> </persName> added manually during 2020. This data is enriched and checked against <persName ref="#pAM" xml:id="persName_49.d3e884" xml:lang="en">Adam Mestyan</persName>'s personal research, <persName ref="#pTG" xml:id="persName_50.d3e887" xml:lang="en">Till Grallert</persName>'s <ref target="https://openarabicpe.github.io/">OpenArabic Editions</ref>, some bibliographic sources, and the available copies of originals. However, the present database has no pretention to be exhaustive. A growing number of scanned issues of Arabic (and Ottoman, Persian, Turkish, etc) journals are becoming publically available online in many institutional and private collections. We are doing our best to add these references, without any responsibility concerning the content or quality of the data in these digital repositories. We do not add links to commercial products.</p>
+            <p xml:lang="en">The first version of this database (containing  titles published between 1800-1900) was published at the website of Zentrum Moderner Orient, Berlin, in 2012. This original edition benefitted a major contribution by Prof. Philip Sadgrove. While preparing that list, Adam Mestyan was a 2011/2012 EUME-Fellow at the Wissenschaftskolleg zu Berlin. The Zentrum Moderner Orient, its
                   director Ulrike Freitag and vice-director Sonja Hegasy, generously supported and
                   hosted the online publication at the time. Finally, all our thanks should go to those
                   librarians who facilitated our research and to those future contributors who will
-                  enrich and correct our data.The 2015 archived version of that list can be seen <ref
-               target="https://archiv.zmo.de/jaraid/index.html">here</ref>; and a 2019 version is <ref target="https://projectjaraid.github.io/v1/">here</ref>.</p>
+                  enrich and correct our data.The 2015 archived version of that list can be seen <ref target="https://archiv.zmo.de/jaraid/index.html">here</ref>; and a 2019 version is <ref target="https://projectjaraid.github.io/v1/">here</ref>.</p>
          </div>
          <div xml:id="dTrans" xml:lang="en">
             <head xml:lang="en">II. Transliteration</head>
-            <p xml:lang="en">We follow the <ref target="https://www.cambridge.org/core/services/aop-file-manager/file/57d83390f6ea5a022234b400/TransChart.pdf"
-               > IJMES-standard</ref> for Arabic transliteration. We display the main data entries in the Arabic script as well and we continously improve them. But we can only provide indexes in English/transliteration at the moment (Arabic is coming!).</p>
+            <p xml:lang="en">We follow the <ref target="https://www.cambridge.org/core/services/aop-file-manager/file/57d83390f6ea5a022234b400/TransChart.pdf"> IJMES-standard</ref> for Arabic transliteration. We display the main data entries in the Arabic script as well and we continously improve them. But we can only provide indexes in English/transliteration at the moment (Arabic is coming!).</p>
          </div>
          <div xml:id="dPer" xml:lang="en">
             <head xml:lang="en">III. Period, time</head>
-            <p xml:lang="en"
-               >The choice for a limited period was arbitrary and due to constrains in resources.
+            <p xml:lang="en">The choice for a limited period was arbitrary and due to constrains in resources.
                   We used the Gregorian calendar out of convenience. At a later point, we plan to
                   insert the dates according to the calendars indicated by the mastheads of the
                   respective periodical (Hijrī, Coptic, Rūmī, Armenian, Greek, Jewish etc.).</p>
          </div>
          <div xml:id="dDef" xml:lang="en">
             <head xml:lang="en">IV. The definition of a periodical</head>
-            <p xml:lang="en"
-               >A periodical here means a printed product that was established with the conscious
+            <p xml:lang="en">A periodical here means a printed product that was established with the conscious
                   aim to distribute it to the reading public on a regular basis (daily, weekly,
-                  monthly, etc.). We do not make a distinction between newspaper (<hi
-               rend="italic" xml:lang="en">jarīda</hi> or <hi rend="italic" xml:lang="en">ṣaḥīfa</hi>) and magazine (<hi rend="italic" xml:lang="en"
-               >majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
+                  monthly, etc.). We do not make a distinction between newspaper (<hi rend="italic" xml:lang="en">jarīda</hi> or <hi rend="italic" xml:lang="en">ṣaḥīfa</hi>) and magazine (<hi rend="italic" xml:lang="en">majalla</hi>), which were often both called simply <hi rend="italic" xml:lang="en">jūrnāl</hi> during the period covered.</p>
          </div>
          <div xml:id="dAvail" xml:lang="en">
             <head xml:lang="en">V. Availability</head>
-            <p xml:lang="en"
-               >We could not check all periodicals in the indicated collections. The authors of
+            <p xml:lang="en">We could not check all periodicals in the indicated collections. The authors of
                   this database do not hold any responsibility for the actual holdings or the
                   accessibility of the indicated copies.</p>
          </div>
@@ -257,21 +225,17 @@
          </div>
          <div xml:id="dRef" xml:lang="en">
             <head xml:lang="en">VII. Reference</head>
-            <p xml:lang="en">Please refer to this publication in the following way: <ref target="https://zenodo.org/badge/latestdoi/75097086" xml:lang="en"
-               >Adam Mestyan and Till Grallert. (2020). Project Jarāʾid: A Chronology of Arabic Periodicals (1800-1929) (Version vXXXX) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4264986.</ref>
+            <p xml:lang="en">Please refer to this publication in the following way: <ref target="https://zenodo.org/badge/latestdoi/75097086" xml:lang="en">Adam Mestyan and Till Grallert. (2020). Project Jarāʾid: A Chronology of Arabic Periodicals (1800-1929) (Version vXXXX) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4264986.</ref>
             </p>
          </div>
          <div xml:id="dAgen" xml:lang="en">
             <head xml:lang="en"> Legend:</head>
             <p xml:lang="en">[+] = crosschecked with Hartmann</p>
-            <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en"
-               >not</hi> in the Dār al-Kutub
+            <p xml:lang="en">[+!] = only found in Hartmann and <hi rend="italic" xml:lang="en">not</hi> in the Dār al-Kutub
                   catalogue (Fihris al-dawriyyāt al-ʿArabiyya allatī taqtinī-hā al-Dār)</p>
-            <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en"
-               >Taṭawwur al-ṣiḥāfa
+            <p xml:lang="en"> <add resp="#pTG" xml:lang="en">ʿAbd = Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="en">Taṭawwur al-ṣiḥāfa
                      al-Miṣriyya: 1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982)</add> </p>
-            <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en"
-               >L'Influence française sur la formation de
+            <p xml:lang="en">Fak = Rouchdi Fakkar, <hi rend="italic" xml:lang="en">L'Influence française sur la formation de
                   la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973)</p>
             <p xml:lang="en">S = Sadgrove's data (his contribution, based on his own research)</p>
             <p xml:lang="en">Ṭ = Ṭarrāzī's data (from his book)</p>
@@ -280,161 +244,124 @@
             <head xml:lang="en">Bibliography / Sources</head>
             <div xml:id="dMajS" xml:lang="en">
                <note xml:id="sourcesNote" xml:lang="en">
-                  See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"
-                  > Zotero</ref>, too, created and curated by Till Grallert.</note>
+                  See the sources and more in Project Jara'id's <ref target="https://www.zotero.org/groups/2539566/projectjaraid/library"> Zotero</ref>, too, created and curated by Till Grallert.</note>
                <head xml:lang="en">Major sources</head>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Fihris al-Dawriyyāt
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Maḥmūd Ismāʿīl ʿAbd Allāh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Fihris al-Dawriyyāt
                         al-ʿArabiyya allatī Taqtinīhā al-Dār</hi>, 2 vols. (Cairo: Maṭbaʿat Dār
                         al-Kutub al-Miṣriyya, 1996), vol. 1.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman Periodicals<hi rend="italic" xml:lang="tr"
-                  > (Osmanlı
+               <p xml:lang="en"> <bibl xml:lang="en">Catalogue of Ottoman Periodicals<hi rend="italic" xml:lang="tr"> (Osmanlı
                         Gazeteler),</hi> Atatürk Milli Kütüphanesi, Istanbul, Turkey.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fīlīp dī Ṭarrāzī (Philip de Tarrazi), <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Tāʾrīkh al-Ṣiḥāfa
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fīlīp dī Ṭarrāzī (Philip de Tarrazi), <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Tāʾrīkh al-Ṣiḥāfa
                         al-ʿArabiyya</hi>, 2 vols. (Beirut: Maṭbaʿat al-Adabiyya, 1913,
                         1933).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="fr">Abdelghani Ahmed-Bioud, Hasan Hanafi, and Habib Feki, <hi rend="italic" xml:lang="fr"
-                  >3200 revues et journaux arabes: de 1800 à 1965, titres arabes et titres
+               <p xml:lang="en"> <bibl xml:lang="fr">Abdelghani Ahmed-Bioud, Hasan Hanafi, and Habib Feki, <hi rend="italic" xml:lang="fr">3200 revues et journaux arabes: de 1800 à 1965, titres arabes et titres
                         translittérés</hi> (Paris: Bibliothèque nationale de France,
                         1969).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Miṣriyya:
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Ibrāhīm ʿAbduh, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Miṣriyya:
                         1798–1981</hi> (Cairo: Muʾassasat Sijill al-ʿArab, 1982) and other works
                         by the same author.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Martin Hartmann, <hi rend="italic" xml:lang="en">The Arabic Press in Egypt</hi>
                         (London: Luzac, 1899).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="en"
-                  >Encyclopedia of Islam, Second Edition</hi>, art. “djarīda”
+               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="en">Encyclopedia of Islam, Second Edition</hi>, art. “djarīda”
                         (Eds., Ph.K. Hitti, H. Massé, V.Günyol, A. Mango, Ch. Quelquejay, R.
                         Loewenthal, J. Carnochan).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Ami Ayalon, <hi rend="italic" xml:lang="en"
-                  >The Press in the Arab Middle East - A
+               <p xml:lang="en"> <bibl xml:lang="en">Ami Ayalon, <hi rend="italic" xml:lang="en">The Press in the Arab Middle East - A
                         History</hi> (New York-Oxford: Oxford University Press, 1995).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Shmuel Moreh and Philip Sadgrove, <hi rend="italic" xml:lang="en"
-                  >Jewish Contributions
+               <p xml:lang="en"> <bibl xml:lang="en">Shmuel Moreh and Philip Sadgrove, <hi rend="italic" xml:lang="en">Jewish Contributions
                         to Nineteenth Century Arabic Theatre</hi> (Suppl. of Journal of Semitic
                         Studies 6; Oxford University Press, 1996).</bibl>
                </p>
             </div>
             <div xml:id="dMinS" xml:lang="en">
                <head xml:lang="en">Additional useful sources:</head>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fatḥī al-Ibyārī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Ṣiḥāfatunā al-iqlīmiyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Fatḥī al-Ibyārī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Ṣiḥāfatunā al-iqlīmiyya
                         wa'l-Iskandariyya</hi> (Cairo: al-Ḥayʾa al-Miṣriyya al-ʿĀmma li'l-Kitāb,
                         1977).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Nashʾat al-ṣiḥāfa al-Sūriyya. ʿArḍ
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Nashʾat al-ṣiḥāfa al-Sūriyya. ʿArḍ
                         li'l-qawmiyya fī ṭaur al-nashʾa min al-ʿahd al-ʿuthmānī ḥattā qiyām
                         al-dawla al-ʿArabiyya</hi> (Cairo: Dār al-Nahḍa al-ʿArabiyya,
                         1972).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Sūriyya. ʿArḍ
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Sūriyya. ʿArḍ
                         li'l-qawmiyya fī ṭaur al-taṭawwur min al-ʿahd al-Faransī ḥattā qiyām
                         dawlat al-waḥda</hi> (Cairo: Dār al-Nahḍa al- ‘Arabiyya, 1973).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-ʿArabiyya fī Filasṭīn,
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Iḥsān ʿAskar, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-ʿArabiyya fī Filasṭīn,
                         al-Urdunn, Sūriyā wa-Lubnān</hi> (Cairo: Muʾassasat Sijill al-ʿArab,
                         1982).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Salaheddine Boustany, “The Press During the French Expedition in Egypt
-                        1798-1801,” <hi rend="italic" xml:lang="fr"
-                  >Cahiers d'histoire egyptienne</hi> (1954):
+                        1798-1801,” <hi rend="italic" xml:lang="fr">Cahiers d'histoire egyptienne</hi> (1954):
                         1-30.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Donald J. Cioeta, “Thamarāt al-Funūn – Syria's First Islamic Newspaper,”
                         unpublished Ph.D. thesis (Chicago, 1979).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Yūsuf Asʿad Dāghir, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Qāmūs al-Ṣiḥāfa al-Lubnāniyya,
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Yūsuf Asʿad Dāghir, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Qāmūs al-Ṣiḥāfa al-Lubnāniyya,
                         1858-1974</hi> (Beirut: Al-Maktaba al-Sharqiyya, 1978).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Ziad Fahmy, <hi rend="italic" xml:lang="en"
-                  >Ordinary Egyptians - Creating the Modern
+               <p xml:lang="en"> <bibl xml:lang="en">Ziad Fahmy, <hi rend="italic" xml:lang="en">Ordinary Egyptians - Creating the Modern
                         Nation through Popular Culture</hi> (Standford University Press,
                         2011).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="fr">Rouchdi Fakkar, <hi rend="italic" xml:lang="fr"
-                  >L'influence française sur la formation
+               <p xml:lang="en"> <bibl xml:lang="fr">Rouchdi Fakkar, <hi rend="italic" xml:lang="fr">L'influence française sur la formation
                         de la presse litteraire en Egypte au XIX siècle</hi> (Paris,
                         1973).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-Lubnāniyya - al-qāmūs
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-Lubnāniyya - al-qāmūs
                         al-muṣawwar: 1858–1958</hi> (Beirut: Dār al-Niḍāl, 1997).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-Sūriyya fī miʾat ʿām
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Jūzīf Ilyās, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-Sūriyya fī miʾat ʿām
                         (1865–1965)</hi>, 2 vols. (Beirut: Dār al-Niḍāl, 1982-1983).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Anwar al-Jundī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taṭawwur al-ṣiḥāfa al-ʿArabiyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Anwar al-Jundī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taṭawwur al-ṣiḥāfa al-ʿArabiyya
                         wa-atharu-hā fi'l-adab al-ʿArabī al-muʾāṣir,</hi> 2 vols. (Cairo:
                         Maṭbaʿat al-Risāla, 1962-1967).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Mihyār ʿAdnān al-Mallūḥī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Muʿjam al-jarāʾid al-Sūriyya
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Mihyār ʿAdnān al-Mallūḥī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Muʿjam al-jarāʾid al-Sūriyya
                         1865-1965</hi> (Dimashq: al-Ūlā li-l-Nashr wa-l-Tawsīʿ, 2002).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="de">Ahmed Muddathir, <hi rend="italic" xml:lang="de"
-                  >Die arabische Presse in den
+               <p xml:lang="en"> <bibl xml:lang="de">Ahmed Muddathir, <hi rend="italic" xml:lang="de">Die arabische Presse in den
                         Maghreb-Staaten</hi>, Hamburger Beiträge zur Afrikakunde (3) (Hamburg,
                         Pfaffenhofen: Deutsches Institut für Afrika-Forschung/Afrika Verlag,
                         1966).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Aḥmad al-Mujāzī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Dirāsāt fi'l-iʿlām al-fannī
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Aḥmad al-Mujāzī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Dirāsāt fi'l-iʿlām al-fannī
                         wa'l-ṣiḥāfa al-mutakhaṣṣiṣa,</hi> 3 vols. (Cairo: al-Hayʾa al-Miṣriyya
                         al-ʿĀmma li'l-Kitāb, 1978-1984).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Adīb Muruwwah, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa al-ʿarabiyya. Nashʾatu-hā
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Adīb Muruwwah, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa al-ʿarabiyya. Nashʾatu-hā
                         wa-taṭawwuru-hā</hi> (Beirut: Dār Maktabat al-Ḥayāt, 1961).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Nadwa Taʾrīkh al-ṭibāʿa al-ʿArabiyya ḥattā intihāʾ al-qarn
+               <p xml:lang="en"> <bibl xml:lang="en"> <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Nadwa Taʾrīkh al-ṭibāʿa al-ʿArabiyya ḥattā intihāʾ al-qarn
                            al-tāsiʿ ʿashar</hi> (Abu Dhabi, 1996).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="fr">Joseph Nasrallah, <hi rend="italic" xml:lang="en">L'Imprimerie au Liban</hi> (Harissa:
                         Imprimerie de S. Paul, 1949).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Shams al-Dīn al-Rifāʿī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Taʾrīkh al-ṣiḥāfa
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Shams al-Dīn al-Rifāʿī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Taʾrīkh al-ṣiḥāfa
                         al-Sūriyya</hi> (Cairo: Dār al-Maʿārif, 1969)</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en"
-                  >Philip C. Sadgrove, “The Development of the Arabic periodical press and
+               <p xml:lang="en"> <bibl xml:lang="en">Philip C. Sadgrove, “The Development of the Arabic periodical press and
                         its role in the literary life of Egypt (1798–1882),” unpublished Ph.D.
                         thesis (University of Edinburgh, 1983).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">Philip C. Sadgrove, “The European Press in Khedive Ismāʿīl's Egypt
-                        (1863-66): A Neglected Field,” <hi rend="italic"
-                  xml:lang="en">Supplement of Semitic
+                        (1863-66): A Neglected Field,” <hi rend="italic" xml:lang="en">Supplement of Semitic
                            Studies</hi>, 24 (2008): 109-128.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">ʿAbd al-ʿAzīz Sharaf, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-waḥda wa'l-tanawwuʿ fī tārīkh
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">ʿAbd al-ʿAzīz Sharaf, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-waḥda wa'l-tanawwuʿ fī tārīkh
                         al-ṣiḥāfa al-ʿArabiyya</hi>, (Cairo: Al-Hayʾa al-Miṣriyya al-ʿĀmma
                         li'l-Kitāb, 2002).</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Hilāl al-Shāyijī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes"
-                  >Al-ṣiḥāfa fi'l-Kuwayt wa'l-Baḥrayn
+               <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Hilāl al-Shāyijī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa fi'l-Kuwayt wa'l-Baḥrayn
                         mundhū nashʾati-hā ḥattā ʿahd al-istiqlāl</hi> (Al-Manāma: Maṭbūʿāt
                         Bānūrāmā al-Khalīj, 1989).</bibl>
                </p>
             </div>
             <div xml:id="dCat" xml:lang="en">
                <head xml:lang="en">Union Catalogues</head>
-               <p xml:lang="en"> <bibl xml:lang="en">Atabaki, Touraj and Solmaz Rustămova-Tohidi. <hi rend="italic" xml:lang="en"
-                  >Baku
+               <p xml:lang="en"> <bibl xml:lang="en">Atabaki, Touraj and Solmaz Rustămova-Tohidi. <hi rend="italic" xml:lang="en">Baku
                         Documents: Union Catalogue of Persian, Azerbaijani, Ottoman Turkish and
                         Arabic Serials and Newspapers in the Libraries of the Republic of
                         Azerbaijan.</hi> London: Tauris Academic Studies, 1995.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Auchterlonie, James Paul Crawford and Yasin Hamid Safadi. <hi rend="italic" xml:lang="en"
-                  >Union Catalogue of Arabic Serials and Newspapers in British
+               <p xml:lang="en"> <bibl xml:lang="en">Auchterlonie, James Paul Crawford and Yasin Hamid Safadi. <hi rend="italic" xml:lang="en">Union Catalogue of Arabic Serials and Newspapers in British
                         Libraries.</hi> London: Mansell Information Publishing, 1977.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="en">De Jong, Fred. "Arabic Periodicals Published in Syria Before 1946: The
-                        Holdings of Zahiriyya Library in Damascus."<hi
-                  rend="italic" xml:lang="en"> Bibliotheca
+                        Holdings of Zahiriyya Library in Damascus."<hi rend="italic" xml:lang="en"> Bibliotheca
                            Orientalis</hi>36 (1979): 292-300.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hasan. <hi rend="italic" xml:lang="tr"
-                  >Baslangicindan Harf Devrimine Kadar
+               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hasan. <hi rend="italic" xml:lang="tr">Baslangicindan Harf Devrimine Kadar
                         Osmanli-Türk Süreli Yayinlar Ve Gazeteler Bibliyografyasi Ve Toplu
                         Katalogu, 1828-1928.</hi>3 vols. Ankara: Enformasyon ve Dokümantasyon
                         Hizmetleri Vakfi, 2000.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hazirlayan Hasan and Ekmeleddin Ihsanoglu. <hi rend="italic" xml:lang="tr"
-                  >Istambul Kütüphaneleri Arap Harfli Süreli Yayinlar Toplu Katalogu:
+               <p xml:lang="en"> <bibl xml:lang="tr">Duman, Hazirlayan Hasan and Ekmeleddin Ihsanoglu. <hi rend="italic" xml:lang="tr">Istambul Kütüphaneleri Arap Harfli Süreli Yayinlar Toplu Katalogu:
                         1828-1928 = Union Catalogue of the Periodicals in Arabic Script in the
                         Libraries of Istambul.</hi> Istambul: The Research Centre for Islamic
                         History, Art and Culture, 1986.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">El-Hadi, Mohamed M. <hi rend="italic" xml:lang="en"
-                  >Union List of Arabic Serials in the
+               <p xml:lang="en"> <bibl xml:lang="en">El-Hadi, Mohamed M. <hi rend="italic" xml:lang="en">Union List of Arabic Serials in the
                         United States: The Arabic Serial Holdings of Seventeen Libraries.</hi>
                         Vol.75 of Occasional papers. Urbana: University of Illinois, Graduate School
                         of Library and Information Science, 1965.</bibl> </p>
-               <p xml:lang="en"> <bibl xml:lang="en">Hopwood, Derek. <hi rend="italic" xml:lang="en"
-                  >Arabic Periodicals in Oxford: A Union
+               <p xml:lang="en"> <bibl xml:lang="en">Hopwood, Derek. <hi rend="italic" xml:lang="en">Arabic Periodicals in Oxford: A Union
                         List.</hi> Oxford: St. Antony's College, 1970.</bibl> </p>
             </div>
          </div>
@@ -478,10 +405,8 @@
                      </imprint>
                   </monogr>
                   <note type="comment">proposed journal in Arabic by <persName ref="jaraid:pers:22" xml:lang="und-Latn">General Menou</persName> in
-                     the last years of the <lang
-                     xml:lang="und-Latn">French</lang> occupation (proposed editor: Shaykh
-                        <persName ref="jaraid:pers:23" xml:lang="und-Latn"
-                     >Ismāʿīl al-Khashshāb</persName>) – never realised</note>
+                     the last years of the <lang xml:lang="und-Latn">French</lang> occupation (proposed editor: Shaykh
+                        <persName ref="jaraid:pers:23" xml:lang="und-Latn">Ismāʿīl al-Khashshāb</persName>) – never realised</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -503,9 +428,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">bulletin with limited circulation in <lang xml:lang="und-Latn">Ottoman Turkish</lang> and
-                     Arabic, handwritten, then lithography. <add
-                     resp="#pAM" xml:lang="und-Latn"> <rs ref="#abd2" xml:lang="und-Latn">ʿAbd</rs>: established in <date when="1822" xml:lang="und-Latn"
-                     >1822</date> and
+                     Arabic, handwritten, then lithography. <add resp="#pAM" xml:lang="und-Latn"> <rs ref="#abd2" xml:lang="und-Latn">ʿAbd</rs>: established in <date when="1822" xml:lang="und-Latn">1822</date> and
                         remained in publication even after <date when="1828" xml:lang="und-Latn">1828</date> </add> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -662,10 +585,8 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> Became <name xml:lang="und-Latn">Taqwīm al-Akhbār
-                        wa'l-Ḥawādith al-Tijāriyya wa'l-Iʿlānāt al-Mulkiyya</name>. <rs ref="#abd2"
-                     xml:lang="und-Latn">ʿAbd</rs>: <name xml:lang="und-Latn">al-Jarīda al-Tijāriyya
-                        al-Zirāʿiyya</name> established in <date when="1848" xml:lang="und-Latn"
-                     >1848</date> </note>
+                        wa'l-Ḥawādith al-Tijāriyya wa'l-Iʿlānāt al-Mulkiyya</name>. <rs ref="#abd2" xml:lang="und-Latn">ʿAbd</rs>: <name xml:lang="und-Latn">al-Jarīda al-Tijāriyya
+                        al-Zirāʿiyya</name> established in <date when="1848" xml:lang="und-Latn">1848</date> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
@@ -704,8 +625,7 @@
                         <date type="onset" when="1852-01-06" xml:lang="und-Latn">1852</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <add resp="#pHA" xml:lang="und-Latn">later changed into <orgName xml:lang="und-Latn"
-                     >al-Jam'iyya al-Sūriyya li'l-funūn
+                  <note type="comment"> <add resp="#pHA" xml:lang="und-Latn">later changed into <orgName xml:lang="und-Latn">al-Jam'iyya al-Sūriyya li'l-funūn
                                     wa'l-ʿulūm</orgName>, officers were elected on 6 January 1852,
                                 the first volume was later printed at the American Board of
                                 Commissioners for Foreign Missions' press in Beirut</add> </note>
@@ -931,8 +851,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official journal of <orgName change="#d3e975" ref="jaraid:org:11" xml:lang="und-Latn">Beylical government</orgName>; founded by
-                        <persName
-                     ref="jaraid:pers:39" xml:lang="und-Latn">General Ḥusayn</persName> with the editor
+                        <persName ref="jaraid:pers:39" xml:lang="und-Latn">General Ḥusayn</persName> with the editor
                         <persName ref="jaraid:pers:40" xml:lang="und-Latn">Carletti</persName> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
@@ -961,10 +880,8 @@
                      </imprint>
                   </monogr>
                   <note type="comment">Bilingual, <lang xml:lang="und-Latn">French</lang>-Arabic, edition consisting of extracts
-                     from the Arabic edition from <name ref="#t1r20"
-                     xml:lang="und-Latn">Birjīs Bārīs</name> </note>
-                  <note type="sources"
-                     >Moncef Chenoufi, Le problème des origines de l'imprimerie et de la
+                     from the Arabic edition from <name ref="#t1r20" xml:lang="und-Latn">Birjīs Bārīs</name> </note>
+                  <note type="sources">Moncef Chenoufi, Le problème des origines de l'imprimerie et de la
                      presse arabes en Tunisie dans sa relation avec la renaissance Nahda (1847-1887)
                      (PhD dissertation, 1970)</note>
                   <note type="holdings"> <list>
@@ -1142,8 +1059,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="und-Latn">Ottoman Turkish</lang>, then <lang xml:lang="und-Latn">Ottoman
-                        Turkish</lang> and Arabic. <date when="1864"
-                     xml:lang="und-Latn">1864</date> lithography, <date when="1870" xml:lang="und-Latn">1870</date> typography</note>
+                        Turkish</lang> and Arabic. <date when="1864" xml:lang="und-Latn">1864</date> lithography, <date when="1870" xml:lang="und-Latn">1870</date> typography</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
@@ -1165,8 +1081,7 @@
                         <date type="onset" when="1866-01-01" xml:lang="und-Latn">1866</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">This replaced <name xml:lang="und-Latn">Akhbār ʿan Intishār al-Anjīl</name>, then in <date when="1871" xml:lang="und-Latn">1871</date> replaced by <name
-                     xml:lang="und-Latn">Al-Nashra al-ʿUsbūʿiyya</name> </note>
+                  <note type="comment">This replaced <name xml:lang="und-Latn">Akhbār ʿan Intishār al-Anjīl</name>, then in <date when="1871" xml:lang="und-Latn">1871</date> replaced by <name xml:lang="und-Latn">Al-Nashra al-ʿUsbūʿiyya</name> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -1245,8 +1160,7 @@
                         <date type="terminus" when="1868" xml:lang="und-Latn">1868</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> official paper. Arabic and <lang xml:lang="und-Latn">French</lang>, replaced by <rs ref="#t1r21" xml:lang="und-Latn"> <name xml:lang="und-Latn"
-                     >Ḥadīqat al-Akhbār</name> </rs> </note>
+                  <note type="comment"> official paper. Arabic and <lang xml:lang="und-Latn">French</lang>, replaced by <rs ref="#t1r21" xml:lang="und-Latn"> <name xml:lang="und-Latn">Ḥadīqat al-Akhbār</name> </rs> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -1314,14 +1228,11 @@
                         <date type="terminus" when="1878" xml:lang="und-Latn">1878</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">Only existing copies so far <date xml:lang="und-Latn">1869 spring</date>-<date xml:lang="und-Latn"
-                     >1871
+                  <note type="comment">Only existing copies so far <date xml:lang="und-Latn">1869 spring</date>-<date xml:lang="und-Latn">1871
                         spring</date>. It is said that it was suspended in 1872; Abbas Hilmi,
                      Mémoires d'un souverain (Le Caire: Cedej, 1994), 39. In Dāghir, 395,
-                        <persName
-                     ref="jaraid:pers:49" xml:lang="und-Latn">Ḥabīb Gharzūzī</persName> is given as co-founder. Ayalon: replaced
-                     by <name xml:lang="und-Latn"
-                     >Rawḍat al-Akhbār</name> in <date when="1874" xml:lang="und-Latn">1874</date>.</note>
+                        <persName ref="jaraid:pers:49" xml:lang="und-Latn">Ḥabīb Gharzūzī</persName> is given as co-founder. Ayalon: replaced
+                     by <name xml:lang="und-Latn">Rawḍat al-Akhbār</name> in <date when="1874" xml:lang="und-Latn">1874</date>.</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -1426,8 +1337,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official journal (established by <persName ref="jaraid:pers:50" xml:lang="und-Latn">Midhat Pasha</persName>,
-                     wālī). <lang
-                     xml:lang="und-Latn">Ottoman Turkish</lang> and Arabic</note>
+                     wālī). <lang xml:lang="und-Latn">Ottoman Turkish</lang> and Arabic</note>
                   <note type="sources"/>
                   <note type="holdings"> <list>
                      <item> <rs ref="#hHTU" xml:lang="und-Latn">HTU</rs> </item>
@@ -1511,8 +1421,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="und-Latn">Italian</lang>, Egyptian <lang xml:lang="und-Latn">colloquial Arabic</lang> and
-                        <lang xml:lang="und-Latn"
-                     >French</lang> </note>
+                        <lang xml:lang="und-Latn">French</lang> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      </list> </note>
@@ -1533,8 +1442,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">in Ghādir, 395: <persName ref="jaraid:pers:38" xml:lang="und-Latn">Buṭrus al-Bustānī</persName>,
-                        <persName ref="jaraid:pers:56"
-                     xml:lang="und-Latn">Salīm al-Bustānī</persName>, and <persName change="#d3e781" ref="jaraid:pers:58" xml:lang="und-Latn">Najīb
+                        <persName ref="jaraid:pers:56" xml:lang="und-Latn">Salīm al-Bustānī</persName>, and <persName change="#d3e781" ref="jaraid:pers:58" xml:lang="und-Latn">Najīb
                         al-Bustānī</persName> </note>
                   <note type="sources"/>
                   <note type="holdings"> <list>
@@ -1549,8 +1457,7 @@
                      <item> <rs ref="#hMEC" xml:lang="und-Latn">MEC</rs> </item>
                      <item> <rs ref="#hCAM" xml:lang="und-Latn">Cam</rs> </item>
                      <item> <rs ref="#hBOD" xml:lang="und-Latn">Bod</rs> </item>
-                     <item> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1870-1882 (<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D"
-                        xml:lang="und-Latn">online</ref>)</rs> </item>
+                     <item> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1870-1882 (<ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="und-Latn">online</ref>)</rs> </item>
                      <item> <rs ref="#hFUAS" xml:lang="und-Latn">FUAS</rs> </item>
                      <item> <rs ref="#hSBB" xml:lang="und-Latn">SBB:
                         complete (50 PF 12, 4" Ad 5922)</rs> </item>
@@ -1883,8 +1790,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">official Journal of the <orgName change="#d3e975" ref="jaraid:org:20" xml:lang="und-Latn">Ottoman government</orgName>.
-                        <lang
-                     xml:lang="und-Latn">Ottoman Turkish</lang> and Arabic?</note>
+                        <lang xml:lang="und-Latn">Ottoman Turkish</lang> and Arabic?</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      </list> </note>
@@ -2273,8 +2179,7 @@
                      <item> <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs> </item>
                      <item> <rs ref="#hFUI" xml:lang="und-Latn">FUI:
                         1875-1908</rs> </item>
-                     <item> <rs ref="#hHTU" xml:lang="und-Latn">HTU: 1 issue of 1887<add resp="#pTG" xml:lang="und-Latn"> <ref
-                        target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/data/HTU1998/index.djvu"/> </add> </rs> </item>
+                     <item> <rs ref="#hHTU" xml:lang="und-Latn">HTU: 1 issue of 1887<add resp="#pTG" xml:lang="und-Latn"> <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/data/HTU1998/index.djvu"/> </add> </rs> </item>
                      <item> <rs ref="#hBL" xml:lang="und-Latn">BL</rs> </item>
                      </list> </note>
                </biblStruct>
@@ -2332,8 +2237,7 @@
                         <date type="terminus" when="1952" xml:lang="und-Latn">1952</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"
-                     >There are long (kabīr) and short (ṣaghīr) versions for Volumes 6 to 9, which were most likely targetted at two different markets (the long version at Egypt and Europe and the short one at Beirut, Lebanon, and surrounding areas). Volume 4 exhibits similar characteristics but is unmarked beyond the pricing.</note>
+                  <note type="comment">There are long (kabīr) and short (ṣaghīr) versions for Volumes 6 to 9, which were most likely targetted at two different markets (the long version at Egypt and Europe and the short one at Beirut, Lebanon, and surrounding areas). Volume 4 exhibits similar characteristics but is unmarked beyond the pricing.</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#aghart1" xml:lang="und-Latn">+</rs> </item>
                      </list> </note>
@@ -2454,8 +2358,7 @@
                         <date type="terminus" when="1959" xml:lang="und-Latn">1959</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <rs ref="#agt" xml:lang="und-Latn"
-                     >Ṭ</rs> dated it 1880 wrongly, an issue (5 January 1882) in DKQM
+                  <note type="comment"> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> dated it 1880 wrongly, an issue (5 January 1882) in DKQM
                      states that it is the journal's sixth year</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#aghart1" xml:lang="und-Latn">+</rs> </item>
@@ -2583,8 +2486,7 @@
                         <date type="terminus" when="1910" xml:lang="und-Latn">1910</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">only fifteen issues in Egyptian <lang xml:lang="und-Latn"
-                     >colloquial Arabic</lang>, but
+                  <note type="comment">only fifteen issues in Egyptian <lang xml:lang="und-Latn">colloquial Arabic</lang>, but
                      see the later developments below, at each year</note>
                   <note type="sources"/>
                   <note type="holdings">? (see later numbers' holdings below)</note>
@@ -2977,8 +2879,7 @@
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      </list> </note>
-                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hAUB" xml:lang="und-Latn"
-                     >AUB</rs>: all four monthly issues
+                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hAUB" xml:lang="und-Latn">AUB</rs>: all four monthly issues
                                 (April-July 1878)</add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r137">
@@ -3220,8 +3121,7 @@
                         <date type="terminus" when="1879" xml:lang="und-Latn">1879</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">there is also one in 1882 and 1883 with <persName ref="jaraid:pers:123" xml:lang="ar-Latn-x-ijmes"
-                     >Amīn Nāṣif</persName> (but not to be
+                  <note type="comment">there is also one in 1882 and 1883 with <persName ref="jaraid:pers:123" xml:lang="ar-Latn-x-ijmes">Amīn Nāṣif</persName> (but not to be
                      confused with a later <title level="j">Mirʾāt al-Sharq</title> 1919-1939)</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -4114,8 +4014,7 @@
                         <date type="terminus" when="1910" xml:lang="und-Latn">1910</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">Arabic, Arabic-<lang xml:lang="und-Latn">French</lang> (conceived as the continuation of <name xml:lang="und-Latn"
-                     >Abū Naẓẓāra Zarqā</name> because the fifth volume)</note>
+                  <note type="comment">Arabic, Arabic-<lang xml:lang="und-Latn">French</lang> (conceived as the continuation of <name xml:lang="und-Latn">Abū Naẓẓāra Zarqā</name> because the fifth volume)</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -4406,12 +4305,10 @@
                         <date type="terminus" when="1917" xml:lang="und-Latn">1917</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"
-                     >With the title Le Commerce Extérieur de l'Égypte pendant les années
+                  <note type="comment">With the title Le Commerce Extérieur de l'Égypte pendant les années
                      1974,1875,1876, 1877 et 1878 a book was published in 1879 (Le Caire: Imprimerie
                      de l'état-major général égyptien, 1879) that is a summary and report of F.
-                     Amici Bey to the Minister and Khedive Tawfīq. It is only in French. <rs
-                     ref="#hSBB" xml:lang="und-Latn">SBB: Ur 650</rs>.</note>
+                     Amici Bey to the Minister and Khedive Tawfīq. It is only in French. <rs ref="#hSBB" xml:lang="und-Latn">SBB: Ur 650</rs>.</note>
                   <note type="sources"/>
                   <note type="holdings"/>
                </biblStruct>
@@ -4992,9 +4889,7 @@
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="und-Latn">French</lang> </note>
                   <note type="sources"> continuation, vol. 8</note>
-                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName change="#d6e936" ref="jaraid:place:2"
-                     xml:lang="und-Latn">Beirut</placeName>, also online</note>
+                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs>,</add> reprint <placeName change="#d6e936" ref="jaraid:place:2" xml:lang="und-Latn">Beirut</placeName>, also online</note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r231">
                   <monogr>
@@ -6468,10 +6363,8 @@
                         <date notBefore="1908" type="terminus" xml:lang="und-Latn">still in 1908</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">official journal (Municipal) in <lang xml:lang="und-Latn"
-                     >Ottoman Turkish</lang> and
-                     Arabic. Not to be confused with the private newspaper <name xml:lang="und-Latn"
-                     >Bayrūt</name>
+                  <note type="comment">official journal (Municipal) in <lang xml:lang="und-Latn">Ottoman Turkish</lang> and
+                     Arabic. Not to be confused with the private newspaper <name xml:lang="und-Latn">Bayrūt</name>
                      established in 1886</note>
                   <note type="sources"> <add resp="#pTG" xml:lang="und-Latn">still mentioned by <bibl xml:lang="und-Latn">al-Bashīr</bibl> in 1902 and
                         1908</add> </note>
@@ -6972,8 +6865,7 @@
                      <item> <rs ref="#hBL" xml:lang="und-Latn">BL: 1900</rs> </item>
                      <item> <rs ref="#hIU" xml:lang="und-Latn">IÜ</rs> </item>
                      <item> <rs ref="#hSBB" xml:lang="und-Latn">SBB:
-                        1896-1898 (<ref target="http://zefys.staatsbibliothek-berlin.de/list/title/zdb/26687665/"
-                        xml:lang="und-Latn">online</ref>)</rs> </item>
+                        1896-1898 (<ref target="http://zefys.staatsbibliothek-berlin.de/list/title/zdb/26687665/" xml:lang="und-Latn">online</ref>)</rs> </item>
                      <item> <rs ref="#hCRL">CRL: 1889-1905 <ref target="https://gpa.eastview.com/crl/mena/newspapers/muyd                      " xml:lang="und-Latn">online</ref> </rs> </item>
                      </list> </note>
                </biblStruct>
@@ -8344,8 +8236,7 @@
                   </monogr>
                   <note type="comment"/>
                   <note type="sources"> <add resp="#pTG" xml:lang="und-Latn">still published in 1908, when it moved to three issues per
-                        week; <bibl xml:lang="und-Latn"
-                     >al-Bashīr, 9 Nov. 1908:2</bibl> </add> </note>
+                        week; <bibl xml:lang="und-Latn">al-Bashīr, 9 Nov. 1908:2</bibl> </add> </note>
                   <note type="holdings"/>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r413">
@@ -8740,8 +8631,7 @@
                         <date type="terminus" when="1894" xml:lang="und-Latn">1894</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <lang xml:lang="und-Latn">French</lang>, then <lang xml:lang="und-Latn"
-                     >French</lang>-Arabic from no 16 (14 January
+                  <note type="comment"> <lang xml:lang="und-Latn">French</lang>, then <lang xml:lang="und-Latn">French</lang>-Arabic from no 16 (14 January
                      1894) Reappeared as <name xml:lang="und-Latn">L'éclair</name>, 1895</note>
                   <note type="sources"/>
                   <note type="holdings"> <list>
@@ -9627,8 +9517,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> bi-lingual paper (Arabic and <lang xml:lang="und-Latn">Portuguese</lang>) by a Syrian
-                     homme des lettres in <placeName change="#d6e936"
-                     ref="jaraid:place:49" xml:lang="und-Latn">São Paolo</placeName> </note>
+                     homme des lettres in <placeName change="#d6e936" ref="jaraid:place:49" xml:lang="und-Latn">São Paolo</placeName> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -10353,8 +10242,7 @@
                         <date type="onset" when="1895-09-25" xml:lang="und-Latn">1895</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">Arabic-<lang xml:lang="und-Latn">French</lang>-<lang xml:lang="und-Latn">Italian</lang>-<lang xml:lang="und-Latn">Greek</lang>-<lang xml:lang="und-Latn"
-                     >English</lang> </note>
+                  <note type="comment">Arabic-<lang xml:lang="und-Latn">French</lang>-<lang xml:lang="und-Latn">Italian</lang>-<lang xml:lang="und-Latn">Greek</lang>-<lang xml:lang="und-Latn">English</lang> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -12013,8 +11901,7 @@
                      <item> <rs ref="#hDM" xml:lang="und-Latn">Dayr al-Makh</rs> </item>
                      <item> <rs ref="#hSOAS" xml:lang="und-Latn">SOAS</rs> </item>
                      <item> <rs ref="#hMEC" xml:lang="und-Latn">MEC</rs> </item>
-                     <item> <rs ref="#hBONN" resp="#pTG" xml:lang="und-Latn">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="und-Latn"
-                        >complete
+                     <item> <rs ref="#hBONN" resp="#pTG" xml:lang="und-Latn">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68616" xml:lang="und-Latn">complete
                               publication-run online</ref> </rs> </item>
                      <item> <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=161" xml:lang="und-Latn">facsimiles and (limited) index</ref> </rs> </item>
                      </list> </note>
@@ -12247,8 +12134,7 @@
                         <date type="terminus" when="1903" xml:lang="und-Latn">1903</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">Arabic title from <date when="1898-05" xml:lang="und-Latn">May 1898</date> of <name xml:lang="und-Latn"
-                     >The
+                  <note type="comment">Arabic title from <date when="1898-05" xml:lang="und-Latn">May 1898</date> of <name xml:lang="und-Latn">The
                         Shamba /Jazīt al-Shānba</name> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -12330,9 +12216,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment">Arabic and <lang xml:lang="und-Latn">English</lang>, official paper, subtitled:
-                        <name xml:lang="und-Latn"
-                     >Journal of Agriculture for <placeName change="#d6e936" ref="jaraid:place:59" xml:lang="und-Latn"
-                     >Zanzibar</placeName> / al-Jarīda
+                        <name xml:lang="und-Latn">Journal of Agriculture for <placeName change="#d6e936" ref="jaraid:place:59" xml:lang="und-Latn">Zanzibar</placeName> / al-Jarīda
                         al-Hukmiyya al-Zirāʾiyya</name> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -13540,8 +13424,7 @@
                      <item> <ref target="http://catalog.hathitrust.org/Record/008882663" xml:lang="und-Latn">HathiTrust</ref> </item>
                      <item> <ref target="http://www.waqfeya.com/book.php?bid=7374" xml:lang="und-Latn">Waqfeya.com: vols.
                            1-22</ref> </item>
-                     <item> <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_1-i_1.TEIP5.xml"
-                        >Digital full-text edition (without Riḍā's tafsīr)</ref> </rs> </item>
+                     <item> <rs ref="#hOAPE">OpenArabicPE: <ref target="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_1-i_1.TEIP5.xml">Digital full-text edition (without Riḍā's tafsīr)</ref> </rs> </item>
                      <item> <rs resp="#pTG">Sakhrit: <ref target="http://archive.alsharekh.org/newmagazineYears.aspx?MID=33" xml:lang="und-Latn">facsimiles and (limited) index</ref> </rs> </item>
                      </list> </note>
                </biblStruct>
@@ -14247,8 +14130,7 @@
                      <item> <rs ref="#hBOSJ" xml:lang="und-Latn">BOSJ</rs> </item>
                      <item> <rs ref="#hOIB" xml:lang="und-Latn">OIB</rs> </item>
                      <item> <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs> </item>
-                     <item> <rs ref="#hBONN" resp="#pTG" xml:lang="und-Latn">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68602" xml:lang="und-Latn"
-                        >1898-1906
+                     <item> <rs ref="#hBONN" resp="#pTG" xml:lang="und-Latn">Bonn: <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:5:1-68602" xml:lang="und-Latn">1898-1906
                               online</ref> </rs> </item>
                      </list> </note>
                </biblStruct>
@@ -14852,8 +14734,7 @@
                   <note type="sources"> <list>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
                      </list> </note>
-                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1878-1910 <ref
-                     target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
+                  <note type="holdings"> <add resp="#pTG" xml:lang="und-Latn"> <rs ref="#hIMA" xml:lang="und-Latn">IMA: 1878-1910 <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=05C0204A80C79A91F11989B6E0AA9D48"/> </rs> </add> </note>
                </biblStruct>
                <biblStruct type="periodical" xml:id="biblStruct_t1r753">
                   <monogr>
@@ -14915,8 +14796,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> <lang xml:lang="und-Latn">colloquial Arabic</lang> (Egyptian). <rs ref="#abd2" xml:lang="und-Latn">ʿAbd</rs>:
-                     established in <date
-                     when="1897" xml:lang="und-Latn">1897</date> </note>
+                     established in <date when="1897" xml:lang="und-Latn">1897</date> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      <item> <rs ref="#ags" xml:lang="und-Latn">S</rs> </item>
@@ -34301,8 +34181,7 @@
                         <date type="onset" when="1912-03-19" xml:lang="und-Latn">1912</date>
                      </imprint>
                   </monogr>
-                  <note type="comment">This daily newspaper was short-lived and is not to be confused with <title level="j">al-Qabas</title> published by <persName ref="jaraid:pers:2155"
-                     xml:lang="ar-Latn-x-ijmes">Shukrī al-ʿAsalī</persName> and <persName ref="jaraid:pers:2157" xml:lang="ar-Latn-x-ijmes">Muḥammad Kurd ʿAlī between 1913 and 1914.</persName> </note>
+                  <note type="comment">This daily newspaper was short-lived and is not to be confused with <title level="j">al-Qabas</title> published by <persName ref="jaraid:pers:2155" xml:lang="ar-Latn-x-ijmes">Shukrī al-ʿAsalī</persName> and <persName ref="jaraid:pers:2157" xml:lang="ar-Latn-x-ijmes">Muḥammad Kurd ʿAlī between 1913 and 1914.</persName> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -34842,8 +34721,7 @@
                         <date resp="#pTG" type="terminus" when="1912-09-28" xml:lang="und-Latn">28 September 1912</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <title level="j">Lisān al-ʿArab</title> continued the publication of <title level="j">Ṣadā al-Mufīd</title> when the latter was banned from publication. <title
-                     level="j">Lisān al-ʿArab</title> was banned from publication after only 5 days.</note>
+                  <note type="comment"> <title level="j">Lisān al-ʿArab</title> continued the publication of <title level="j">Ṣadā al-Mufīd</title> when the latter was banned from publication. <title level="j">Lisān al-ʿArab</title> was banned from publication after only 5 days.</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -36129,8 +36007,7 @@
                         <date resp="#pTG" type="terminus" when="1914-01-29"> 29 January 1914</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <title level="j">al-Qabas</title> was a replacement for Kurd ʿAlī's newspaper <title corresp="#t1r2590" level="j"
-                     >al-Muqtabas</title> during the latter's ban from publication. Issue numbers reflected this fact.</note>
+                  <note type="comment"> <title level="j">al-Qabas</title> was a replacement for Kurd ʿAlī's newspaper <title corresp="#t1r2590" level="j">al-Muqtabas</title> during the latter's ban from publication. Issue numbers reflected this fact.</note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -37904,8 +37781,7 @@
                         <date type="onset" when="1915-05-08" xml:lang="und-Latn">1915</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <rs ref="#agt">Ṭ</rs>: after the war, al-Ghurayyib returned to Lebanon and published al-Shams in <placeName change="#d6e936" ref="jaraid:place:2"
-                     xml:lang="und-Latn">Beirut</placeName> </note>
+                  <note type="comment"> <rs ref="#agt">Ṭ</rs>: after the war, al-Ghurayyib returned to Lebanon and published al-Shams in <placeName change="#d6e936" ref="jaraid:place:2" xml:lang="und-Latn">Beirut</placeName> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -41735,8 +41611,7 @@
                      </imprint>
                   </monogr>
                   <note type="comment"> handwritten; lithographed; only six issues</note>
-                  <note type="sources"
-                     >issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
+                  <note type="sources">issue of 27 Jumādī al-Thānī 1339; Shukrī Jibrīn Ismāʿīl Ḥajjī , “al-Adab fī al-Ṣiḥāfa al-Urduniyya
 										fī ʿAhd al-Imāra, 1921-1946” PhD thesis, Jāmiʿat al-Qaddīs Yūsuf, Beirut, 1999</note>
                   <note type="holdings"> <list>
                      <item> <rs ref="#hMJU" xml:lang="und-Latn">MJU</rs> </item>
@@ -46062,8 +45937,7 @@
                         <date resp="#hEAP119" type="terminus" when="1927">1927</date>
                      </imprint>
                   </monogr>
-                  <note type="comment"> <title level="j">al-Zahra</title> continued from <title corresp="#t1r3236" level="j">Zahrat al-Jamīl</title> and continued as <title corresp="#t1r2839"
-                     level="j">al-Zuhūr</title> </note>
+                  <note type="comment"> <title level="j">al-Zahra</title> continued from <title corresp="#t1r3236" level="j">Zahrat al-Jamīl</title> and continued as <title corresp="#t1r2839" level="j">al-Zuhūr</title> </note>
                   <note type="sources"> <list>
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
@@ -48876,8 +48750,7 @@
                      <item> <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs> </item>
                      </list> </note>
                   <note type="holdings"> <list>
-                     <item> <rs ref="#hEAP119" resp="#pTG" xml:lang="und-Latn">Aqṣā 1923-1928 (<ref target="https://eap.bl.uk/collection/EAP119-1-3" xml:lang="und-Latn">EAP119/1/3</ref>); <rs
-                        ref="#hNLI" resp="#pAM" xml:lang="und-Latn">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Huqouq.aspx" xml:lang="und-Latn">1923-28</ref> </rs>
+                     <item> <rs ref="#hEAP119" resp="#pTG" xml:lang="und-Latn">Aqṣā 1923-1928 (<ref target="https://eap.bl.uk/collection/EAP119-1-3" xml:lang="und-Latn">EAP119/1/3</ref>); <rs ref="#hNLI" resp="#pAM" xml:lang="und-Latn">NLoI</rs>: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/Al-Huqouq.aspx" xml:lang="und-Latn">1923-28</ref> </rs>
                      </item>
                      </list> </note>
                </biblStruct>
@@ -62608,8 +62481,7 @@
                   <abbr xml:lang="und-Latn">HTU</abbr>
                   <expan xml:lang="und-Latn">Hakkı Tarık Us Collection of Beyazit State Library, Istanbul</expan>
                   </choice>. The collection of periodicals was digitized by the Beyazit State
-                  Library and the Tokyo University of Foreign Studies and is available <ref
-                  target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/" xml:lang="und-Latn">online</ref>.</p>
+                  Library and the Tokyo University of Foreign Studies and is available <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/" xml:lang="und-Latn">online</ref>.</p>
                <p xml:id="hIDEO" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                   <abbr xml:lang="und-Latn">IDEO</abbr>
                   <expan xml:lang="und-Latn">Institut Dominicain d'Études Orientales au Caire, Cairo</expan>
@@ -62628,8 +62500,7 @@
                   </choice> </p>
                <p xml:id="hINA" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                   <abbr xml:lang="und-Latn">INALCO</abbr>
-                  <expan xml:lang="und-Latn"
-                     >Bibliothèque interuniversitaire des langues orientales, INALCO (Institut
+                  <expan xml:lang="und-Latn">Bibliothèque interuniversitaire des langues orientales, INALCO (Institut
                         National des Langues et Civilisations Orientales, Paris)</expan>
                   </choice> </p>
                <p xml:id="hIO" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
@@ -62752,8 +62623,7 @@
                   <p xml:id="hNLI" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">NLoI</abbr>
                      <expan xml:lang="und-Latn">National Library of Israel</expan>
-                     </choice> Their collection of Ottoman and mandate Arabic Palestinian newspapers are digitalized in a dedicated website: <ref
-                     target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/all-titles.aspx" xml:lang="und-Latn">Jrayed - Arabic Newspaper Archive of Ottoman and Mandatory Palestine</ref> </p>
+                     </choice> Their collection of Ottoman and mandate Arabic Palestinian newspapers are digitalized in a dedicated website: <ref target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/all-titles.aspx" xml:lang="und-Latn">Jrayed - Arabic Newspaper Archive of Ottoman and Mandatory Palestine</ref> </p>
                   <p xml:id="hTET" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">Tet</abbr>
                      <expan xml:lang="und-Latn">Bibliothèque Générale et Archives de Tétouan, Tetouan,
@@ -62771,8 +62641,7 @@
                      <expan xml:lang="und-Latn">Periodical collections at the Al-Aqṣā Mosque Library in East
                            Jerusalem</expan>
                      </choice>. The collection was digitized by the "Endangered Archives Program" of
-                     the British Library and is available <ref
-                     target="http://eap.bl.uk/database/overview_project.a4d?projID=EAP119" xml:lang="und-Latn">online</ref>.</p>
+                     the British Library and is available <ref target="http://eap.bl.uk/database/overview_project.a4d?projID=EAP119" xml:lang="und-Latn">online</ref>.</p>
                   <p xml:id="hCOL" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2012-10-10"/>added</note> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">Col</abbr>
                      <expan xml:lang="und-Latn">Columbia University Library</expan>
@@ -62801,14 +62670,12 @@
                      <abbr xml:lang="und-Latn">INL</abbr>
                      <expan xml:lang="und-Latn">Iraqi National Library and Archives</expan>
                      </choice>. Some of its holdings were digitized and are available through the
-                        <ref
-                     target="http://www.wdl.org/en/search/?institution=iraqi-national-library-and-archives" xml:lang="und-Latn">World Digital Library</ref>.</p>
+                        <ref target="http://www.wdl.org/en/search/?institution=iraqi-national-library-and-archives" xml:lang="und-Latn">World Digital Library</ref>.</p>
                   <p xml:id="hBIBAL" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2014-04-15" xml:lang="und-Latn">added</date> </note> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">BibAlex</abbr>
                      <expan xml:lang="und-Latn">Bibliotheca Alexandrina</expan>
                      </choice>. Some holdings are currently in the process of digitization and are
-                     made availabe through the <ref
-                     target="http://dar.bibalex.org/webpages/advancedsearch.jsf" xml:lang="und-Latn">Digital Assets
+                     made availabe through the <ref target="http://dar.bibalex.org/webpages/advancedsearch.jsf" xml:lang="und-Latn">Digital Assets
                         Repository</ref>.</p>
                   <p xml:id="hBONN" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2014-05-09" xml:lang="und-Latn">added</date> </note> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">Bonn</abbr>
@@ -62818,8 +62685,7 @@
                      <abbr xml:lang="und-Latn">CRL</abbr>
                      <expan xml:lang="und-Latn">Center for Research Libraries</expan>
                      </choice>. Provides access to inter-library loan of microfilms as well as
-                     digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3"
-                     xml:lang="und-Latn">collection</ref> is restricted to
+                     digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3" xml:lang="und-Latn">collection</ref> is restricted to
                      member institutions.</p>
                   <p xml:id="hDMW" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2017-12-31"/>added</note> <choice xml:lang="und-Latn">
                      <abbr xml:lang="und-Latn">DMW</abbr>
@@ -62861,16 +62727,11 @@
             </div>
          </div>
          <div type="link" xml:id="dLinks" xml:lang="und-Latn">
-            <p xml:lang="und-Latn">1. La décade égyptienne: <ref target="http://gallica.bnf.fr/ark:/12148/cb327543805/date.r=.langFR" xml:lang="und-Latn"
-               >Institut du
+            <p xml:lang="und-Latn">1. La décade égyptienne: <ref target="http://gallica.bnf.fr/ark:/12148/cb327543805/date.r=.langFR" xml:lang="und-Latn">Institut du
                   Monde Arabe</ref> </p>
-            <p xml:lang="und-Latn">2. Al-Jinān: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="und-Latn"
-               >Institut du Monde Arabe</ref> </p>
-            <p xml:lang="und-Latn">3. Al-Muqtaṭaf: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4" xml:lang="und-Latn"
-               >Institut du Monde Arabe</ref> </p>
-            <p xml:lang="und-Latn">4. Periodicals from James Sanua/Abū Naẓẓāra, etc: <ref target="http://archive.org/details/uufabnazrah01annyuoft"/>, <ref
-               target="http://www.archive.org/details/uufabnazrah02annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah03annyuoft"/>, <ref
-               target="http://www.archive.org/details/uufabnazrah04annyuoft"/> </p>
+            <p xml:lang="und-Latn">2. Al-Jinān: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=2F96A3A57955C2A4307695F4D2C7D21D" xml:lang="und-Latn">Institut du Monde Arabe</ref> </p>
+            <p xml:lang="und-Latn">3. Al-Muqtaṭaf: <ref target="http://ima.bibalex.org/IMA/presentation/periodic/list.jsf?pid=647867720EBD4F033C4DBE3EE12BE9D4" xml:lang="und-Latn">Institut du Monde Arabe</ref> </p>
+            <p xml:lang="und-Latn">4. Periodicals from James Sanua/Abū Naẓẓāra, etc: <ref target="http://archive.org/details/uufabnazrah01annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah02annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah03annyuoft"/>, <ref target="http://www.archive.org/details/uufabnazrah04annyuoft"/> </p>
             <p xml:lang="und-Latn"> <hi rend="italic" xml:lang="und-Latn">Abou Naddara Collection</hi>: <ref target="http://kjc-fs1.kjc.uni-heidelberg.de:8080/exist/apps/naddara/project.html"/> </p>
             <p xml:lang="und-Latn"> <hi rend="bold" xml:lang="und-Latn">Useful websites</hi> </p>
             <p xml:lang="und-Latn">French press in Egypt: <ref target="http://www.cealex.org/pfe/presentation/liste_200ansPFE.php"/> </p>
@@ -62891,8 +62752,7 @@
                </choice> </p>
             <p xml:id="agfak" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                <abbr xml:lang="und-Latn"> <rs ref="#agfak" xml:lang="und-Latn">Fak</rs> </abbr>
-               <expan xml:lang="und-Latn">Rouchdi Fakkar, <hi rend="italic" xml:lang="und-Latn"
-                  >L'Influence française sur la formation de
+               <expan xml:lang="und-Latn">Rouchdi Fakkar, <hi rend="italic" xml:lang="und-Latn">L'Influence française sur la formation de
                         la presse litteraire en Egypte au XIX siècle</hi> (Paris, 1973).</expan>
                </choice> </p>
             <p xml:id="ags" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
