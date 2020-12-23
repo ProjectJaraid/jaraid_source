@@ -8,12 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Authority File for Project Jarāʾid</title>
-                <editor>
-                    <persName xml:id="pers_TG">
-                        <forename>Till</forename>
-                        <surname>Grallert</surname>
-                    </persName>
-                </editor>
+                <editor> <persName xml:id="pers_TG"> <forename>Till</forename> <surname>Grallert</surname> </persName> </editor>
                 <respStmt>
                     <resp>Contributed to the original file from which the entities were extracted</resp>
                     <persName xml:lang="en">Adam Mestyan</persName>
@@ -38,12 +33,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>
-                    <persName>
-                        <forename>Till</forename>
-                        <surname>Grallert</surname>
-                    </persName>
-                </authority>
+                <authority> <persName> <forename>Till</forename> <surname>Grallert</surname> </persName> </authority>
                 <date when="2020-11-05">2020</date>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en"
@@ -12019,7 +12009,7 @@
                 <idno type="jaraid">1334</idno>
             </person>
             <person xml:id="person_2253.d5e14143">
-                <persName xml:id="persName_2272.d5e14145" xml:lang="ar-Latn-x-ijmes"><hi rend="ul">Nūrī</hi></persName>
+                <persName xml:id="persName_2272.d5e14145" xml:lang="ar-Latn-x-ijmes"> <hi rend="ul">Nūrī</hi> </persName>
                 <persName change="#d2e154" xml:id="persName_5096.d5e25846" xml:lang="ar">نوري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5096.d5e25846" type="flattened" xml:lang="ar">نري</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2272.d5e14145" type="flattened" xml:id="persName_1.d5071e1" xml:lang="en">Nurī</persName>
@@ -19423,7 +19413,7 @@
                 <idno type="jaraid">27</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ministre de l'Intérieur; Direction Général de la Statistique</orgName>
+                <orgName xml:lang="fr">Ministre de l'Intérieur; Direction Général de la Statistique</orgName>
                 <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
                 <idno type="jaraid">28</idno>
             </org>
@@ -19511,7 +19501,7 @@
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes"> <persName xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName>and Co</orgName>
-                <orgName change="#d2e154" xml:lang="ar">احمد سميرند co</orgName>
+                <orgName change="#d2e154" xml:lang="ar">احمد سمير وشاركه</orgName>
                 <idno type="jaraid">46</idno>
             </org>
             <org>
@@ -19630,11 +19620,11 @@
                 <idno type="jaraid">69</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">French government</orgName>
+                <orgName xml:lang="en">French government</orgName>
                 <idno type="jaraid">70</idno>
             </org>
             <org>
-                <orgName>Spanish government</orgName>
+                <orgName xml:lang="en">Spanish government</orgName>
                 <idno type="jaraid">71</idno>
                 <idno type="jaraid">73</idno>
             </org>
@@ -19704,13 +19694,10 @@
                 <idno type="jaraid">86</idno>
             </org>
             <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa al-Lubnāniyya</orgName>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyya al-Nahḍa al-Lubnāniyya</orgName>
                 <orgName change="#d2e154" xml:lang="ar">جمعية النهضة اللبنانية</orgName>
                 <idno type="jaraid">87</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa al-Lubnāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة اللبنانية</orgName>
                 <idno type="jaraid">88</idno>
             </org>
             <org>
@@ -19832,10 +19819,6 @@
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahda al-Marjaʿuyūniyya</orgName>
                 <orgName change="#d2e154" xml:lang="ar">جمعية النحضة المرجعيونية</orgName>
                 <idno type="jaraid">112</idno>
-            </org>
-            <org>
-                <orgName>4</orgName>
-                <idno type="jaraid">113</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥukūma al-ʿArabiyya</orgName>
