@@ -6349,7 +6349,7 @@
                      <title level="j" xml:lang="ar">الحاضرة</title>
                      <idno type="jaraid">t1r294</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:221" xml:lang="und-Latn">Al-Sayyid ʿAlī Bushūsha</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:221" xml:lang="und-Latn">Al-Sayyid ʿAlī Bushūsha</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:13" xml:lang="und-Latn">Tunis</placeName> </pubPlace>
                         <date type="onset" when="1888-08-02" xml:lang="und-Latn">1888</date>
@@ -10759,7 +10759,7 @@
                      <idno type="jaraid">t1r560</idno>
                      <textLang mainLang="ar"/>
                      <imprint>
-                        <publisher> <orgName ref="jaraid:org:48" xml:lang="und-Latn">Sharikat al-Qiddīs Manṣūr dī Būl</orgName> </publisher>
+                        <publisher> <orgName ref="jaraid:org:48" xml:lang="und-Latn">Sharikat al-Qiddīs Manṣūr dī Būl</orgName> </publisher>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1896-01-01" xml:lang="und-Latn">1896</date>
                      </imprint>
@@ -12480,7 +12480,7 @@
                      <title level="j" xml:lang="ar">الاستقامة</title>
                      <idno type="jaraid">t1r602</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:476" xml:lang="und-Latn">Muḥammad Walī al-Dīn Yakan</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:476" xml:lang="und-Latn">Muḥammad Walī al-Dīn Yakan</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1897-07-27" xml:lang="und-Latn">1897</date>
@@ -18343,7 +18343,7 @@
                      <title level="j" xml:lang="ar">المصري</title>
                      <idno type="jaraid">t1r1257</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName xml:lang="und-Latn">ʿAlī ʿAbd al-Karīm al-Miṣrī</persName> </editor>
+                     <editor> <persName xml:lang="und-Latn">ʿAlī ʿAbd al-Karīm al-Miṣrī</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:4" xml:lang="und-Latn">Alexandria</placeName> </pubPlace>
                         <date type="onset" when="1902-10-16" xml:lang="und-Latn">1902</date>
@@ -19865,7 +19865,7 @@
                      <title level="j" xml:lang="ar">الكوكب</title>
                      <idno type="jaraid">t1r935</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:998" xml:lang="en">Maḥmūd Zakī Bey</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:998" xml:lang="en">Maḥmūd Zakī Bey</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1904">1904</date>
@@ -21715,7 +21715,7 @@
                      <title level="j" xml:lang="ar">الاعتدال المصري</title>
                      <idno type="jaraid">t1r951</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:761" xml:lang="en">Muṣṭafā Ḥilmī Saʿd</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:761" xml:lang="en">Muṣṭafā Ḥilmī Saʿd</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="en">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1905-10-10">1905</date>
@@ -22527,7 +22527,7 @@
                      <idno type="jaraid">t1r1605</idno>
                      <textLang mainLang="ar"/>
                      <editor> <persName ref="jaraid:pers:842" xml:lang="und-Latn">Jūrj Ṭannūs</persName> </editor>
-                     <editor> <persName ref="jaraid:pers:1301" xml:lang="und-Latn">Maḥmūd Abū Ḥusayn</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:1301" xml:lang="und-Latn">Maḥmūd Abū Ḥusayn</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1906-06-01" xml:lang="und-Latn">1906</date>
@@ -26948,7 +26948,7 @@
                      <title level="j" xml:lang="ar">المسامرات الاسبوعية</title>
                      <idno type="jaraid">t1r1924</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:1569" xml:lang="und-Latn">Jarīdat Wādī al-Nīl</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:1569" xml:lang="und-Latn">Jarīdat Wādī al-Nīl</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:4" xml:lang="und-Latn">Alexandria</placeName> </pubPlace>
                         <date type="onset" when="1909-01-03" xml:lang="und-Latn">1909</date>
@@ -27154,7 +27154,7 @@
                      <title level="j" xml:lang="ar">حذام</title>
                      <idno type="jaraid">t1r1017</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:631" xml:lang="und-Latn">Yūsuf Ḥamdī Yakan</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:631" xml:lang="und-Latn">Yūsuf Ḥamdī Yakan</persName> </editor>
                      <editor> <persName ref="jaraid:pers:818" xml:lang="en">Yusuf Hamdi Yeğen</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
@@ -35631,7 +35631,7 @@
                      <title level="j" xml:lang="ar">شمس المعارف</title>
                      <idno type="jaraid">t1r2886</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:2408" xml:lang="und-Latn">Ibrāhīm Ṣāliḥ Shukr</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2408" xml:lang="und-Latn">Ibrāhīm Ṣāliḥ Shukr</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:5" xml:lang="und-Latn">Baghdad</placeName> </pubPlace>
                         <date type="onset" when="1913-04-25" xml:lang="und-Latn">1913</date>
@@ -42345,7 +42345,7 @@
                      <title level="j" xml:lang="ar">القدس الشريف</title>
                      <idno type="jaraid">t1r2803</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:2326" xml:lang="und-Latn">Ḥasan Ṣidqī al-Dajjānī</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2326" xml:lang="und-Latn">Ḥasan Ṣidqī al-Dajjānī</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:28" xml:lang="und-Latn">Jerusalem</placeName> </pubPlace>
                         <date type="onset" when="1920-04-13" xml:lang="und-Latn">1920</date>
@@ -45979,7 +45979,7 @@
                      <title level="j" xml:lang="ar">المفيد</title>
                      <idno type="jaraid">t1r2901</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:2402" xml:lang="und-Latn">Ibrāhīm Ḥilmī al-ʿUmar</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2402" xml:lang="und-Latn">Ibrāhīm Ḥilmī al-ʿUmar</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:5" xml:lang="und-Latn">Baghdad</placeName> </pubPlace>
                         <date type="onset" when="1922-04-11" xml:lang="und-Latn">1922</date>
@@ -49869,7 +49869,7 @@
                      <title level="j" xml:lang="ar">اللسان الصادق</title>
                      <idno type="jaraid">t1r1294</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:1040" xml:lang="und-Latn">ʿAbd al-Fattāḥ ʿAlī Badawī</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:1040" xml:lang="und-Latn">ʿAbd al-Fattāḥ ʿAlī Badawī</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:4" xml:lang="und-Latn">Alexandria</placeName> </pubPlace>
                         <date type="onset" when="1924-03-27" xml:lang="und-Latn">1924</date>
@@ -51080,7 +51080,7 @@
                      <title level="j" xml:lang="ar">الجريدة الزراعية</title>
                      <idno type="jaraid">t1r3209</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:2641" xml:lang="und-Latn">ʿAbd al-Qādir Nāṣiḥ al-Mallāḥ</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2641" xml:lang="und-Latn">ʿAbd al-Qādir Nāṣiḥ al-Mallāḥ</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:17" xml:lang="und-Latn">Aleppo</placeName> </pubPlace>
                         <date type="onset" when="1924-09-01" xml:lang="und-Latn">1924</date>
@@ -53585,7 +53585,7 @@
                      <title level="j" xml:lang="ar">فتی الشرق</title>
                      <idno type="jaraid">t1r1195</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:967" xml:lang="und-Latn">Ḥusayn ʿAlī Dāwud</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:967" xml:lang="und-Latn">Ḥusayn ʿAlī Dāwud</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1925-05-15" xml:lang="und-Latn">1925</date>
@@ -54250,7 +54250,7 @@
                      <idno type="jaraid">t1r3281</idno>
                      <textLang mainLang="ar"/>
                      <editor> <persName ref="jaraid:pers:2694" xml:lang="und-Latn">Aḥmad al-Aʿzamī</persName> </editor>
-                     <editor> <persName ref="jaraid:pers:2695" xml:lang="und-Latn">Nūrī al-Ūrfalī</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2695" xml:lang="und-Latn">Nūrī al-Ūrfalī</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:5" xml:lang="und-Latn">Baghdad</placeName> </pubPlace>
                         <date type="onset" when="1925-11-01" xml:lang="und-Latn">1925</date>
@@ -58270,7 +58270,7 @@
                      <title level="j" xml:lang="ar">الناقد</title>
                      <idno type="jaraid">t1r1851</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:1507" xml:lang="und-Latn">Muḥammad ʿAlī Ḥammād</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:1507" xml:lang="und-Latn">Muḥammad ʿAlī Ḥammād</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:1" xml:lang="und-Latn">Cairo</placeName> </pubPlace>
                         <date type="onset" when="1927-10-03" xml:lang="und-Latn">1927</date>
@@ -58306,7 +58306,7 @@
                      <title level="j" xml:lang="ar">صوت الحق</title>
                      <idno type="jaraid">t1r2829</idno>
                      <textLang mainLang="ar"/>
-                     <editor> <persName ref="jaraid:pers:2668" xml:lang="und-Latn">Fahmī al-Ḥusaynī</persName> </editor>
+                     <editor> <persName ref="jaraid:pers:2668" xml:lang="und-Latn">Fahmī al-Ḥusaynī</persName> </editor>
                      <imprint>
                         <pubPlace> <placeName ref="jaraid:place:196" xml:lang="und-Latn">Jaffa</placeName> </pubPlace>
                         <date type="onset" when="1927-10-06" xml:lang="und-Latn">1927</date>
@@ -62531,7 +62531,7 @@
                   </choice> </p>
                <p xml:id="hAYN" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                   <abbr xml:lang="und-Latn">Ayn</abbr>
-                  <expan xml:lang="und-Latn">Maktabat Sāmī al-ʿAyntābī, <placeName change="#d6e936" ref="jaraid:place:17" xml:lang="und-Latn">Aleppo</placeName> </expan>
+                  <expan xml:lang="und-Latn">Maktabat Sāmī al-ʿAyntābī, <placeName change="#d6e936" ref="jaraid:place:17" xml:lang="und-Latn">Aleppo</placeName> </expan>
                   </choice> </p>
                <p xml:id="hBDK" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                   <abbr xml:lang="und-Latn">BDK</abbr>
