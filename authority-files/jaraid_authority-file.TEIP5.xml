@@ -7709,9 +7709,9 @@
                 <persName change="#d5e126" corresp="#persName_914.d5e5771" type="flattened" xml:id="persName_1.d3244e1" xml:lang="en">ManṣūrṢidqīBey</persName>
                 <idno type="jaraid">895</idno>
             </person>
-            <person xml:id="person_429.d5e2896">
-                <persName xml:id="persName_448.d5e2898" xml:lang="ar-Latn-x-ijmes">Maryam Mazhar</persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:925" xml:id="persName_3270.d5e16618" xml:lang="ar">مريم مزهر</persName>
+            <person xml:id="person_429.d5e2896" sameAs="jaraid:pers:298">
+                <persName xml:id="persName_448.d5e2898" xml:lang="ar-Latn-x-ijmes"  type="pseudonym">Maryam Mazhar</persName>
+                <persName change="#d2e154 #d3e179" ref="oape:pers:925" xml:id="persName_3270.d5e16618" xml:lang="ar" type="pseudonym">مريم مزهر</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3270.d5e16618" type="flattened" xml:lang="ar">مريممزهر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_448.d5e2898" type="flattened" xml:id="persName_1.d3247e1" xml:lang="en">MaryamMazhar</persName>
                 <idno type="jaraid">429</idno>
