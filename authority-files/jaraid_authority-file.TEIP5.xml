@@ -8,12 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Authority File for Project Jarāʾid</title>
-                <editor>
-                    <persName xml:id="pers_TG">
-                        <forename>Till</forename>
-                        <surname>Grallert</surname>
-                    </persName>
-                </editor>
+                <editor> <persName xml:id="pers_TG"> <forename>Till</forename> <surname>Grallert</surname></persName></editor>
                 <respStmt>
                     <resp>Contributed to the original file from which the entities were extracted</resp>
                     <persName xml:lang="en">Adam Mestyan</persName>
@@ -38,12 +33,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>
-                    <persName>
-                        <forename>Till</forename>
-                        <surname>Grallert</surname>
-                    </persName>
-                </authority>
+                <authority> <persName> <forename>Till</forename> <surname>Grallert</surname></persName></authority>
                 <date when="2020-11-05">2020</date>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en"
@@ -55,6 +45,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
+            <tei:change when="2020-12-23" who="#pers_TG" xml:id="d6e233" xml:lang="en">Improved <tei:gi>org</tei:gi> nodes by adding IDs.</tei:change>
+            <tei:change when="2020-12-23" who="#pers_TG" xml:id="d6e226" xml:lang="en">Improved <tei:gi>org</tei:gi> nodes by adding IDs.</tei:change>
             <tei:change when="2020-12-15" who="#pers_TG" xml:id="d6e220" xml:lang="en">Improved <tei:gi>org</tei:gi> nodes by adding IDs.</tei:change>
             <change when="2020-12-05" who="#pers_TG" xml:lang="en">Change to trigger the GitHub action</change>
             <tei:change when="2020-11-20" who="#pers_TG" xml:id="d5e194" xml:lang="en"
@@ -1180,8 +1172,8 @@
                 <idno type="jaraid">242</idno>
             </person>
             <person xml:id="person_221.d5e1611">
-                <persName xml:id="persName_240.d5e1613" xml:lang="ar-Latn-x-ijmes">Al-Sayyid ʿAlī Bushūsha</persName>
-                <persName change="#d2e154" xml:id="persName_489.d5e2571" xml:lang="ar">السيد علي بشوشة  </persName>
+                <persName xml:id="persName_240.d5e1613" xml:lang="ar-Latn-x-ijmes">Al-Sayyid ʿAlī Bushūsha</persName>
+                <persName change="#d2e154" xml:id="persName_489.d5e2571" xml:lang="ar">السيد علي بشوشة</persName>
                 <tei:persName change="#d5e194" corresp="#persName_489.d5e2571" type="flattened" xml:lang="ar">السيدعليبشوشة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_240.d5e1613" type="flattened" xml:id="persName_1.d475e1" xml:lang="en">AlSayyidʿAlīBushūsha</persName>
                 <idno type="jaraid">221</idno>
@@ -1251,7 +1243,7 @@
             </person>
             <person xml:id="person_167.d5e1278">
                 <persName xml:id="persName_186.d5e1280" xml:lang="ar-Latn-x-ijmes">Al-Shaykh Abū Naẓẓāra Zarqā / Abou Naddara</persName>
-                <persName change="#d2e154" xml:id="persName_519.d5e2722" xml:lang="ar">الشيخ ابو نظارة زرقا </persName>
+                <persName change="#d2e154" xml:id="persName_519.d5e2722" xml:lang="ar">الشيخ ابو نظارة زرقا</persName>
                 <tei:persName change="#d5e194" corresp="#persName_519.d5e2722" type="flattened" xml:lang="ar">الشيخابونظاررة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_186.d5e1280" type="flattened" xml:id="persName_1.d505e1" xml:lang="en">AlShaykhAbūNaẓẓāraZarqāAbouNaddara</persName>
                 <idno type="jaraid">167</idno>
@@ -1615,7 +1607,7 @@
             </person>
             <person xml:id="person_508.d5e3383">
                 <persName xml:id="persName_527.d5e3385" xml:lang="ar-Latn-x-ijmes">Aliksandrā Khūrī Afrīnūh/Alexandra Meltiyadi Aferino</persName>
-                <persName change="#d2e154" xml:id="persName_678.d5e3526" xml:lang="ar">الكسندرا خوري افرينوه </persName>
+                <persName change="#d2e154" xml:id="persName_678.d5e3526" xml:lang="ar">الكسندرا خوري افرينوه</persName>
                 <tei:persName change="#d5e194" corresp="#persName_678.d5e3526" type="flattened" xml:lang="ar">الكسندریخوريافرينوهالexندرةيدافeرنo</tei:persName>
                 <persName change="#d5e126" corresp="#persName_527.d5e3385" type="flattened" xml:id="persName_1.d670e1" xml:lang="en">AliksandrāKhūrīAfrīnūhAlexandraMeltiyadiAferino</persName>
                 <idno type="jaraid">508</idno>
@@ -2107,7 +2099,7 @@
             </person>
             <person xml:id="person_1290.d5e8205">
                 <persName xml:id="persName_1309.d5e8207" xml:lang="ar-Latn-x-ijmes">Armiyā al-Taylūnī (made-up name)</persName>
-                <persName change="#d2e154" xml:id="persName_887.d5e4579" xml:lang="ar">ارميی التيلوني </persName>
+                <persName change="#d2e154" xml:id="persName_887.d5e4579" xml:lang="ar">ارميی التيلوني</persName>
                 <tei:persName change="#d5e194" corresp="#persName_887.d5e4579" type="flattened" xml:lang="ar">ارميیالتيلونيالا</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1309.d5e8207" type="flattened" xml:id="persName_1.d877e1" xml:lang="en">ArmiyāalTaylūnīmadeupname</persName>
                 <idno type="jaraid">1290</idno>
@@ -3353,7 +3345,7 @@
             </person>
             <person xml:id="person_534.d5e3544">
                 <persName xml:id="persName_553.d5e3546" xml:lang="ar-Latn-x-ijmes">Bishop Arsāniyūs Ḥaddād</persName>
-                <persName change="#d2e154" xml:id="persName_1417.d5e7257" xml:lang="ar"> ارسانيوس حداد</persName>
+                <persName change="#d2e154" xml:id="persName_1417.d5e7257" xml:lang="ar">ارسانيوس حداد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1417.d5e7257" type="flattened" xml:lang="ar">بارسانيوسحداد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_553.d5e3546" type="flattened" xml:id="persName_1.d1399e1" xml:lang="en">BishopArsāniyūsḤaddād</persName>
                 <idno type="jaraid">534</idno>
@@ -3569,14 +3561,14 @@
             </person>
             <person xml:id="person_272.d5e1926">
                 <persName xml:id="persName_291.d5e1928" xml:lang="ar-Latn-x-ijmes">Christian/Krīstiyān Būjād</persName>
-                <persName change="#d2e154" xml:id="persName_1507.d5e7712" xml:lang="ar"> كريستيان بوجاد</persName>
+                <persName change="#d2e154" xml:id="persName_1507.d5e7712" xml:lang="ar">كريستيان بوجاد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1507.d5e7712" type="flattened" xml:lang="ar">cهرستنكريستيانبوجاد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_291.d5e1928" type="flattened" xml:id="persName_1.d1489e1" xml:lang="en">ChristianKrīstiyānBūjād</persName>
                 <idno type="jaraid">272</idno>
             </person>
             <person xml:id="person_682.d5e4456">
                 <persName xml:id="persName_701.d5e4458" xml:lang="ar-Latn-x-ijmes">Claudius J. Labib</persName>
-                <persName change="#d2e182" xml:id="persName_1510.d5e7727" xml:lang="ar"> كلاوديوس ج. لبيب</persName>
+                <persName change="#d2e182" xml:id="persName_1510.d5e7727" xml:lang="ar">كلاوديوس ج. لبيب</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1510.d5e7727" type="flattened" xml:lang="ar">cلدسجلبب</tei:persName>
                 <persName change="#d5e126" corresp="#persName_701.d5e4458" type="flattened" xml:id="persName_1.d1492e1" xml:lang="ar-Latn-x-ijmes">ClaudiusJLabib</persName>
                 <idno type="jaraid">682</idno>
@@ -3660,7 +3652,7 @@
             </person>
             <person xml:id="person_67.d5e662">
                 <persName xml:id="persName_86.d5e664" xml:lang="und">Dr G.W. Leitner</persName>
-                <persName change="#d2e154" xml:id="persName_1546.d5e7909" xml:lang="und">Dr. G.W. Leitner </persName>
+                <persName change="#d2e154" xml:id="persName_1546.d5e7909" xml:lang="und">Dr. G.W. Leitner</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1546.d5e7909" type="flattened" xml:lang="ar">درلe</tei:persName>
                 <persName change="#d5e126" corresp="#persName_86.d5e664" type="flattened" xml:id="persName_1.d1528e1" xml:lang="en">DrGWLeitner</persName>
                 <idno type="jaraid">67</idno>
@@ -3952,7 +3944,7 @@
             </person>
             <person xml:id="person_519.d5e3451">
                 <persName xml:id="persName_538.d5e3453" xml:lang="ar-Latn-x-ijmes">Dīmitrī Niqūlā/Dimitri Nicola</persName>
-                <persName change="#d2e154" xml:id="persName_1670.d5e8534" xml:lang="ar">ديمتري نقولا </persName>
+                <persName change="#d2e154" xml:id="persName_1670.d5e8534" xml:lang="ar">ديمتري نقولا</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1670.d5e8534" type="flattened" xml:lang="ar">ديمترينقولیدمترنcoلة</tei:persName>
                 <persName change="#d5e126" corresp="#persName_538.d5e3453" type="flattened" xml:id="persName_1.d1651e1" xml:lang="en">DīmitrīNiqūlāDimitriNicola</persName>
                 <idno type="jaraid">519</idno>
@@ -4005,8 +3997,8 @@
                 <idno type="jaraid">2668</idno>
             </person>
             <person xml:id="person_2343.d5e14698">
-                <persName xml:id="persName_2362.d5e14700" xml:lang="ar-Latn-x-ijmes">Fahmī al-Ḥusaynī</persName>
-                <persName change="#d2e154" xml:id="persName_1691.d5e8640" xml:lang="ar">فهمي الحسيني  </persName>
+                <persName xml:id="persName_2362.d5e14700" xml:lang="ar-Latn-x-ijmes">Fahmī al-Ḥusaynī</persName>
+                <persName change="#d2e154" xml:id="persName_1691.d5e8640" xml:lang="ar">فهمي الحسيني</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1691.d5e8640" type="flattened" xml:lang="ar">فهميالحسيني</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2362.d5e14700" type="flattened" xml:id="persName_1.d1672e1" xml:lang="en">FahmīalḤusaynī</persName>
                 <idno type="jaraid">2343</idno>
@@ -4659,7 +4651,7 @@
                 <persName xml:id="persName_1965.d5e10037" xml:lang="ar-Latn-EN">Snadly</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1965.d5e10037" type="flattened" xml:lang="ar-Latn-EN">Snadly</tei:persName>
                 <persName xml:id="persName_279.d5e1854" xml:lang="ar-Latn-x-ijmes">H M ʿAqrabī/Muḥammad ʿAbd al-Raḥmān al-Ṣnādlī/Snadly</persName>
-                <persName change="#d2e154" xml:id="persName_1967.d5e10043" xml:lang="ar">ه م عقربي / محمد عبد الرحمن الصنادلي </persName>
+                <persName change="#d2e154" xml:id="persName_1967.d5e10043" xml:lang="ar">ه م عقربي / محمد عبد الرحمن الصنادلي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1967.d5e10043" type="flattened" xml:lang="ar">همعقربيمحمدعبدالرحمنالصنادليسندلي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_279.d5e1854" type="flattened" xml:id="persName_1.d1954e1" xml:lang="en">HMʿAqrabīMuḥammadʿAbdalRaḥmānalṢnādlīSnadly</persName>
                 <idno type="jaraid">260</idno>
@@ -5187,8 +5179,8 @@
                 <idno type="jaraid">2402</idno>
             </person>
             <person xml:id="person_2404.d5e15074">
-                <persName xml:id="persName_2423.d5e15076" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ḥilmī al-ʿUmar</persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:647" xml:id="persName_2194.d5e11201" xml:lang="ar">ابراهيم حلمي العمر  </persName>
+                <persName xml:id="persName_2423.d5e15076" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ḥilmī al-ʿUmar</persName>
+                <persName change="#d2e154 #d3e179" ref="oape:pers:647" xml:id="persName_2194.d5e11201" xml:lang="ar">ابراهيم حلمي العمر</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2194.d5e11201" type="flattened" xml:lang="ar">ابراهيمحلميالعمر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2423.d5e15076" type="flattened" xml:id="persName_1.d2179e1" xml:lang="en">IbrāhīmḤilmīalʿUmar</persName>
                 <idno type="jaraid">2404</idno>
@@ -5201,8 +5193,8 @@
                 <idno type="jaraid">2408</idno>
             </person>
             <person xml:id="person_2393.d5e15007">
-                <persName xml:id="persName_2412.d5e15009" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ṣāliḥ Shukr</persName>
-                <persName change="#d2e154" xml:id="persName_2200.d5e11231" xml:lang="ar">ابراهيم صالح شكر  </persName>
+                <persName xml:id="persName_2412.d5e15009" xml:lang="ar-Latn-x-ijmes">Ibrāhīm Ṣāliḥ Shukr</persName>
+                <persName change="#d2e154" xml:id="persName_2200.d5e11231" xml:lang="ar">ابراهيم صالح شكر</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2200.d5e11231" type="flattened" xml:lang="ar">ابراهيمصالحشكر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2412.d5e15009" type="flattened" xml:id="persName_1.d2185e1" xml:lang="en">IbrāhīmṢāliḥShukr</persName>
                 <idno type="jaraid">2393</idno>
@@ -6035,7 +6027,7 @@
             </person>
             <person xml:id="person_1865.d5e11751">
                 <persName xml:id="persName_1884.d5e11753" xml:lang="ar-Latn-x-ijmes">Jamīl Dikdānyān (Digdanian)</persName>
-                <persName change="#d2e154" xml:id="persName_2555.d5e13024" xml:lang="ar">جميل دكدانيان </persName>
+                <persName change="#d2e154" xml:id="persName_2555.d5e13024" xml:lang="ar">جميل دكدانيان</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2555.d5e13024" type="flattened" xml:lang="ar">جميلدكدانياندgدنن</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1884.d5e11753" type="flattened" xml:id="persName_1.d2539e1" xml:lang="en">JamīlDikdānyānDigdanian</persName>
                 <idno type="jaraid">1865</idno>
@@ -6235,8 +6227,8 @@
                 <idno type="jaraid">1019</idno>
             </person>
             <person xml:id="person_1569.d5e9925">
-                <persName xml:id="persName_1588.d5e9927" xml:lang="ar-Latn-x-ijmes">Jarīdat Wādī al-Nīl</persName>
-                <persName change="#d2e154" xml:id="persName_2640.d5e13451" xml:lang="ar">جريدة وادي النيل  </persName>
+                <persName xml:id="persName_1588.d5e9927" xml:lang="ar-Latn-x-ijmes">Jarīdat Wādī al-Nīl</persName>
+                <persName change="#d2e154" xml:id="persName_2640.d5e13451" xml:lang="ar">جريدة وادي النيل</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2640.d5e13451" type="flattened" xml:lang="ar">جريدةواديالنيل</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1588.d5e9927" type="flattened" xml:id="persName_1.d2623e1" xml:lang="en">JarīdatWādīalNīl</persName>
                 <idno type="jaraid">1569</idno>
@@ -6581,7 +6573,7 @@
             </person>
             <person xml:id="person_270.d5e1914">
                 <persName xml:id="persName_289.d5e1916" xml:lang="ar-Latn-x-ijmes">Jākūb (Yaʿqūb?) Kūhīn/Jacob Cohen</persName>
-                <persName change="#d2e154" xml:id="persName_2787.d5e14189" xml:lang="ar">جاكوب ( يعقوب ) كوهين </persName>
+                <persName change="#d2e154" xml:id="persName_2787.d5e14189" xml:lang="ar">جاكوب ( يعقوب ) كوهين</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2787.d5e14189" type="flattened" xml:lang="ar">جاكوبيعقوبكوهينجcoب</tei:persName>
                 <persName change="#d5e126" corresp="#persName_289.d5e1916" type="flattened" xml:id="persName_1.d2770e1" xml:lang="en">JākūbYaʿqūbKūhīnJacobCohen</persName>
                 <idno type="jaraid">270</idno>
@@ -7717,9 +7709,9 @@
                 <persName change="#d5e126" corresp="#persName_914.d5e5771" type="flattened" xml:id="persName_1.d3244e1" xml:lang="en">ManṣūrṢidqīBey</persName>
                 <idno type="jaraid">895</idno>
             </person>
-            <person xml:id="person_429.d5e2896">
-                <persName xml:id="persName_448.d5e2898" xml:lang="ar-Latn-x-ijmes">Maryam Mazhar</persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:925" xml:id="persName_3270.d5e16618" xml:lang="ar">مريم مزهر</persName>
+            <person xml:id="person_429.d5e2896" sameAs="jaraid:pers:298">
+                <persName xml:id="persName_448.d5e2898" xml:lang="ar-Latn-x-ijmes"  type="pseudonym">Maryam Mazhar</persName>
+                <persName change="#d2e154 #d3e179" ref="oape:pers:925" xml:id="persName_3270.d5e16618" xml:lang="ar" type="pseudonym">مريم مزهر</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3270.d5e16618" type="flattened" xml:lang="ar">مريممزهر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_448.d5e2898" type="flattened" xml:id="persName_1.d3247e1" xml:lang="en">MaryamMazhar</persName>
                 <idno type="jaraid">429</idno>
@@ -7885,8 +7877,8 @@
                 <idno type="jaraid">839</idno>
             </person>
             <person xml:id="person_1301.d5e8273">
-                <persName xml:id="persName_1320.d5e8275" xml:lang="ar-Latn-x-ijmes">Maḥmūd Abū Ḥusayn</persName>
-                <persName change="#d2e154" xml:id="persName_3339.d5e16967" xml:lang="ar">محمود ابو حسين  </persName>
+                <persName xml:id="persName_1320.d5e8275" xml:lang="ar-Latn-x-ijmes">Maḥmūd Abū Ḥusayn</persName>
+                <persName change="#d2e154" xml:id="persName_3339.d5e16967" xml:lang="ar">محمود ابو حسين</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3339.d5e16967" type="flattened" xml:lang="ar">محمودابوحسين</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1320.d5e8275" type="flattened" xml:id="persName_1.d3316e1" xml:lang="en">MaḥmūdAbūḤusayn</persName>
                 <idno type="jaraid">1301</idno>
@@ -8159,7 +8151,7 @@
             </person>
             <person xml:id="person_1335.d5e8482">
                 <persName xml:id="persName_1354.d5e8484" xml:lang="ar-Latn-x-ijmes">Maḥmūd Shāhīn and Co.</persName>
-                <persName change="#d2e154" xml:id="persName_3456.d5e17558" xml:lang="ar">محمود شاهين وشركاء </persName>
+                <persName change="#d2e154" xml:id="persName_3456.d5e17558" xml:lang="ar">محمود شاهين وشركاء</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3456.d5e17558" type="flattened" xml:lang="ar">محمودشاهيناند</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1354.d5e8484" type="flattened" xml:id="persName_1.d3433e1" xml:lang="en">MaḥmūdShāhīnandCo</persName>
                 <idno type="jaraid">1335</idno>
@@ -8222,8 +8214,8 @@
                 <idno type="jaraid">1006</idno>
             </person>
             <person xml:id="person_742.d5e4825">
-                <persName xml:id="persName_761.d5e4827" xml:lang="ar-Latn-x-ijmes">Maḥmūd Zakī Bey</persName>
-                <persName change="#d2e182" xml:id="persName_3483.d5e17695" xml:lang="ar">محمود زكي بك  </persName>
+                <persName xml:id="persName_761.d5e4827" xml:lang="ar-Latn-x-ijmes">Maḥmūd Zakī Bey</persName>
+                <persName change="#d2e182" xml:id="persName_3483.d5e17695" xml:lang="ar">محمود زكي بك</persName>
                 <tei:persName change="#d5e194" corresp="#persName_3483.d5e17695" type="flattened" xml:lang="ar">محمودزكيبك</tei:persName>
                 <persName change="#d5e126" corresp="#persName_761.d5e4827" type="flattened" xml:id="persName_1.d3460e1" xml:lang="ar-Latn-x-ijmes">MaḥmūdZakīBey</persName>
                 <idno type="jaraid">742</idno>
@@ -9653,8 +9645,8 @@
                 <idno type="jaraid">76</idno>
             </person>
             <person xml:id="person_476.d5e3186">
-                <persName xml:id="persName_495.d5e3188" xml:lang="ar-Latn-x-ijmes">Muḥammad Walī al-Dīn Yakan</persName>
-                <persName change="#d2e154" xml:id="persName_4088.d5e20756" xml:lang="ar">محمد ولي الدين يكن  </persName>
+                <persName xml:id="persName_495.d5e3188" xml:lang="ar-Latn-x-ijmes">Muḥammad Walī al-Dīn Yakan</persName>
+                <persName change="#d2e154" xml:id="persName_4088.d5e20756" xml:lang="ar">محمد ولي الدين يكن</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4088.d5e20756" type="flattened" xml:lang="ar">محمدوليالدينيكن</tei:persName>
                 <persName change="#d5e126" corresp="#persName_495.d5e3188" type="flattened" xml:id="persName_1.d4066e1" xml:lang="en">MuḥammadWalīalDīnYakan</persName>
                 <idno type="jaraid">476</idno>
@@ -9752,7 +9744,7 @@
             </person>
             <person xml:id="person_1319.d5e8384">
                 <persName xml:id="persName_1338.d5e8386" xml:lang="ar-Latn-x-ijmes">Muḥammad al-Bārūdī and Co.</persName>
-                <persName change="#d2e154" xml:id="persName_4130.d5e20968" xml:lang="ar"> محمد البارودي وشركاء</persName>
+                <persName change="#d2e154" xml:id="persName_4130.d5e20968" xml:lang="ar">محمد البارودي وشركاء</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4130.d5e20968" type="flattened" xml:lang="ar">محمدالبارودياندco</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1338.d5e8386" type="flattened" xml:id="persName_1.d4108e1" xml:lang="en">MuḥammadalBārūdīandCo</persName>
                 <idno type="jaraid">1319</idno>
@@ -10274,7 +10266,7 @@
             </person>
             <person xml:id="person_1458.d5e9241">
                 <persName xml:id="persName_1477.d5e9243" xml:lang="ar-Latn-x-ijmes">Muḥammad ʿAlī Ḥammād and Co.</persName>
-                <persName change="#d2e154" xml:id="persName_4352.d5e22091" xml:lang="ar"> محمد علي حماد وشركاء</persName>
+                <persName change="#d2e154" xml:id="persName_4352.d5e22091" xml:lang="ar">محمد علي حماد وشركاء</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4352.d5e22091" type="flattened" xml:lang="ar">محمدعليحماداندco</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1477.d5e9243" type="flattened" xml:id="persName_1.d4330e1" xml:lang="en">MuḥammadʿAlīḤammādandCo</persName>
                 <idno type="jaraid">1458</idno>
@@ -10287,8 +10279,8 @@
                 <idno type="jaraid">1046</idno>
             </person>
             <person xml:id="person_1507.d5e9543">
-                <persName xml:id="persName_1526.d5e9545" xml:lang="ar-Latn-x-ijmes">Muḥammad ʿAlī Ḥammād</persName>
-                <persName change="#d2e154" xml:id="persName_4358.d5e22121" xml:lang="ar">محمد علي حماد  </persName>
+                <persName xml:id="persName_1526.d5e9545" xml:lang="ar-Latn-x-ijmes">Muḥammad ʿAlī Ḥammād</persName>
+                <persName change="#d2e154" xml:id="persName_4358.d5e22121" xml:lang="ar">محمد علي حماد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4358.d5e22121" type="flattened" xml:lang="ar">محمدعليحماد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1526.d5e9545" type="flattened" xml:id="persName_1.d4336e1" xml:lang="en">MuḥammadʿAlīḤammād</persName>
                 <idno type="jaraid">1507</idno>
@@ -10928,8 +10920,8 @@
                 <idno type="jaraid">1222</idno>
             </person>
             <person xml:id="person_761.d5e4943">
-                <persName xml:id="persName_780.d5e4945" xml:lang="ar-Latn-x-ijmes">Muṣṭafā Ḥilmī Saʿd</persName>
-                <persName change="#d2e182" xml:id="persName_4633.d5e23507" xml:lang="ar">مصطفی حلمي سعد  </persName>
+                <persName xml:id="persName_780.d5e4945" xml:lang="ar-Latn-x-ijmes">Muṣṭafā Ḥilmī Saʿd</persName>
+                <persName change="#d2e182" xml:id="persName_4633.d5e23507" xml:lang="ar">مصطفی حلمي سعد</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4633.d5e23507" type="flattened" xml:lang="ar">مصطفیحلميسعد</tei:persName>
                 <persName change="#d5e126" corresp="#persName_780.d5e4945" type="flattened" xml:id="persName_1.d4609e1" xml:lang="ar-Latn-x-ijmes">MuṣṭafāḤilmīSaʿd</persName>
                 <idno type="jaraid">761</idno>
@@ -11430,7 +11422,7 @@
             </person>
             <person xml:id="person_1925.d5e12121">
                 <persName xml:id="persName_1944.d5e12123" xml:lang="ar-Latn-x-ijmes">Najīb Muṣawwar and Co.</persName>
-                <persName change="#d2e154" xml:id="persName_4846.d5e24584" xml:lang="ar">نجيب مصور وشركاء </persName>
+                <persName change="#d2e154" xml:id="persName_4846.d5e24584" xml:lang="ar">نجيب مصور وشركاء</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4846.d5e24584" type="flattened" xml:lang="ar">نجيبمصوراندco</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1944.d5e12123" type="flattened" xml:id="persName_1.d4822e1" xml:lang="en">NajībMuṣawwarandCo</persName>
                 <idno type="jaraid">1925</idno>
@@ -12019,7 +12011,7 @@
                 <idno type="jaraid">1334</idno>
             </person>
             <person xml:id="person_2253.d5e14143">
-                <persName xml:id="persName_2272.d5e14145" xml:lang="ar-Latn-x-ijmes"><hi rend="ul">Nūrī</hi></persName>
+                <persName xml:id="persName_2272.d5e14145" xml:lang="ar-Latn-x-ijmes"> <hi rend="ul">Nūrī</hi></persName>
                 <persName change="#d2e154" xml:id="persName_5096.d5e25846" xml:lang="ar">نوري</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5096.d5e25846" type="flattened" xml:lang="ar">نري</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2272.d5e14145" type="flattened" xml:id="persName_1.d5071e1" xml:lang="en">Nurī</persName>
@@ -12142,8 +12134,8 @@
                 <idno type="jaraid">2060</idno>
             </person>
             <person xml:id="person_2695.d5e16869">
-                <persName xml:id="persName_2714.d5e16871" xml:lang="ar-Latn-x-ijmes">Nūrī al-Ūrfalī</persName>
-                <persName change="#d2e154" xml:id="persName_5147.d5e26104" xml:lang="ar">نوري الورفلي  </persName>
+                <persName xml:id="persName_2714.d5e16871" xml:lang="ar-Latn-x-ijmes">Nūrī al-Ūrfalī</persName>
+                <persName change="#d2e154" xml:id="persName_5147.d5e26104" xml:lang="ar">نوري الورفلي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5147.d5e26104" type="flattened" xml:lang="ar">نوريالورفلي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2714.d5e16871" type="flattened" xml:id="persName_1.d5122e1" xml:lang="en">NūrīalŪrfalī</persName>
                 <idno type="jaraid">2695</idno>
@@ -13418,7 +13410,7 @@
             </person>
             <person xml:id="person_316.d5e2197">
                 <persName xml:id="persName_335.d5e2199" xml:lang="ar-Latn-x-ijmes">Semah Levi (Sīmāḥ bin Naṭān Līfī)</persName>
-                <persName change="#d2e154" xml:id="persName_5694.d5e28865" xml:lang="ar">سيماح بن نطان ليفي </persName>
+                <persName change="#d2e154" xml:id="persName_5694.d5e28865" xml:lang="ar">سيماح بن نطان ليفي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5694.d5e28865" type="flattened" xml:lang="ar">سeمهلevسيماحبننطانليفي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_335.d5e2199" type="flattened" xml:id="persName_1.d5668e1" xml:lang="en">SemahLeviSīmāḥbinNaṭānLīfī</persName>
                 <idno type="jaraid">316</idno>
@@ -13475,7 +13467,7 @@
             </person>
             <person xml:id="person_66.d5e656">
                 <persName xml:id="persName_85.d5e658" xml:lang="ar-Latn-x-ijmes">Shams al-Dīn, al-Shaykh al-Malwī Muqarrib ‘Alī</persName>
-                <persName change="#d2e154" xml:id="persName_5724.d5e29016" xml:lang="ar">شمس الدين , الشيخ الملوي مقرب علي </persName>
+                <persName change="#d2e154" xml:id="persName_5724.d5e29016" xml:lang="ar">شمس الدين , الشيخ الملوي مقرب علي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5724.d5e29016" type="flattened" xml:lang="ar">شمسالدينالشيخالملويمقربالي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_85.d5e658" type="flattened" xml:id="persName_1.d5698e1" xml:lang="en">ShamsalDīnalShaykhalMalwīMuqarribAlī</persName>
                 <idno type="jaraid">66</idno>
@@ -14045,7 +14037,7 @@
             </person>
             <person xml:id="person_1288.d5e8192">
                 <persName xml:id="persName_1307.d5e8194" xml:lang="ar-Latn-x-ijmes">Sulaymān al-Ḥakīm (made-up name)</persName>
-                <persName change="#d2e154" xml:id="persName_5962.d5e30222" xml:lang="ar">سليمان الحكيم </persName>
+                <persName change="#d2e154" xml:id="persName_5962.d5e30222" xml:lang="ar">سليمان الحكيم</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5962.d5e30222" type="flattened" xml:lang="ar">سليمانالحكيمالا</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1307.d5e8194" type="flattened" xml:id="persName_1.d5947e1" xml:lang="en">SulaymānalḤakīmmadeupname</persName>
                 <idno type="jaraid">1288</idno>
@@ -14349,7 +14341,7 @@
             </person>
             <person xml:id="person_1287.d5e8186">
                 <persName xml:id="persName_1306.d5e8188" xml:lang="ar-Latn-x-ijmes">Tumbul Jardiner (Gardiner)</persName>
-                <persName change="#d2e154" xml:id="persName_6100.d5e30919" xml:lang="ar">تمبل جردن </persName>
+                <persName change="#d2e154" xml:id="persName_6100.d5e30919" xml:lang="ar">تمبل جردن</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6100.d5e30919" type="flattened" xml:lang="ar">تمبل جردنرeرgردنeر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1306.d5e8188" type="flattened" xml:id="persName_1.d6085e1" xml:lang="en">TumbulJardinerGardiner</persName>
                 <idno type="jaraid">1287</idno>
@@ -14525,7 +14517,7 @@
             </person>
             <person xml:id="person_322.d5e2234">
                 <persName xml:id="persName_341.d5e2236" xml:lang="ar-Latn-x-ijmes">Watson/Al-Mursalūn al-Amīrkīyūn</persName>
-                <persName change="#d2e154" xml:id="persName_6176.d5e31301" xml:lang="ar"> المرسلون الاميركييون </persName>
+                <persName change="#d2e154" xml:id="persName_6176.d5e31301" xml:lang="ar">المرسلون الاميركييون</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6176.d5e31301" type="flattened" xml:lang="ar">والمرسلونالاميركييون</tei:persName>
                 <persName change="#d5e126" corresp="#persName_341.d5e2236" type="flattened" xml:id="persName_1.d6160e1" xml:lang="en">WatsonAlMursalūnalAmīrkīyūn</persName>
                 <idno type="jaraid">322</idno>
@@ -15175,7 +15167,7 @@
             </person>
             <person xml:id="person_2204.d5e13841">
                 <persName xml:id="persName_2223.d5e13843" xml:lang="ar-Latn-x-ijmes">Yūsuf al-ʿĪsā and Co.</persName>
-                <persName change="#d2e154" xml:id="persName_6452.d5e32697" xml:lang="ar">يوسف العيسی وشركاء </persName>
+                <persName change="#d2e154" xml:id="persName_6452.d5e32697" xml:lang="ar">يوسف العيسی وشركاء</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6452.d5e32697" type="flattened" xml:lang="ar">يوسفالعيسیاندco</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2223.d5e13843" type="flattened" xml:id="persName_1.d6436e1" xml:lang="en">YūsufalʿĪsāandCo</persName>
                 <idno type="jaraid">2204</idno>
@@ -15245,8 +15237,8 @@
                 <idno type="jaraid">631</idno>
             </person>
             <person xml:id="person_817.d5e5288">
-                <persName xml:id="persName_836.d5e5290" xml:lang="ar-Latn-x-ijmes">Yūsuf Ḥamdī Yakan</persName>
-                <persName change="#d2e154" xml:id="persName_6483.d5e32851" xml:lang="ar">يوسف حمدي يكن  </persName>
+                <persName xml:id="persName_836.d5e5290" xml:lang="ar-Latn-x-ijmes">Yūsuf Ḥamdī Yakan</persName>
+                <persName change="#d2e154" xml:id="persName_6483.d5e32851" xml:lang="ar">يوسف حمدي يكن</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6483.d5e32851" type="flattened" xml:lang="ar">يوسفحمدييكن</tei:persName>
                 <persName change="#d5e126" corresp="#persName_836.d5e5290" type="flattened" xml:id="persName_1.d6466e1" xml:lang="en">YūsufḤamdīYakan</persName>
                 <idno type="jaraid">817</idno>
@@ -15944,8 +15936,8 @@
                 <idno type="jaraid">922</idno>
             </person>
             <person xml:id="person_1040.d5e6663">
-                <persName xml:id="persName_1059.d5e6665" xml:lang="ar-Latn-x-ijmes">ʿAbd al-Fattāḥ ʿAlī Badawī</persName>
-                <persName change="#d2e154" xml:id="persName_6780.d5e34353" xml:lang="ar">عبد الفتاح علي بدوي  </persName>
+                <persName xml:id="persName_1059.d5e6665" xml:lang="ar-Latn-x-ijmes">ʿAbd al-Fattāḥ ʿAlī Badawī</persName>
+                <persName change="#d2e154" xml:id="persName_6780.d5e34353" xml:lang="ar">عبد الفتاح علي بدوي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6780.d5e34353" type="flattened" xml:lang="ar">عبدالفتاحعليبدوي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1059.d5e6665" type="flattened" xml:id="persName_1.d6763e1" xml:lang="en">ʿAbdalFattāḥʿAlīBadawī</persName>
                 <idno type="jaraid">1040</idno>
@@ -16240,8 +16232,8 @@
                 <idno type="jaraid">2613</idno>
             </person>
             <person xml:id="person_2641.d5e16536">
-                <persName xml:id="persName_2660.d5e16538" xml:lang="ar-Latn-x-ijmes">ʿAbd al-Qādir Nāṣiḥ al-Mallāḥ</persName>
-                <persName change="#d2e154" xml:id="persName_6903.d5e34975" xml:lang="ar">عبد القادر ناصح الملاح  </persName>
+                <persName xml:id="persName_2660.d5e16538" xml:lang="ar-Latn-x-ijmes">ʿAbd al-Qādir Nāṣiḥ al-Mallāḥ</persName>
+                <persName change="#d2e154" xml:id="persName_6903.d5e34975" xml:lang="ar">عبد القادر ناصح الملاح</persName>
                 <tei:persName change="#d5e194" corresp="#persName_6903.d5e34975" type="flattened" xml:lang="ar">عبدالقادرناصحالملاح</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2660.d5e16538" type="flattened" xml:id="persName_1.d6886e1" xml:lang="en">ʿAbdalQādirNāṣiḥalMallāḥ</persName>
                 <idno type="jaraid">2641</idno>
@@ -18457,8 +18449,8 @@
                 <idno type="jaraid">1618</idno>
             </person>
             <person xml:id="person_2326.d5e14593">
-                <persName xml:id="persName_2345.d5e14595" xml:lang="ar-Latn-x-ijmes">Ḥasan Ṣidqī al-Dajjānī</persName>
-                <persName change="#d2e154" xml:id="persName_7843.d5e39725" xml:lang="ar">حسن صدقي الدجاني  </persName>
+                <persName xml:id="persName_2345.d5e14595" xml:lang="ar-Latn-x-ijmes">Ḥasan Ṣidqī al-Dajjānī</persName>
+                <persName change="#d2e154" xml:id="persName_7843.d5e39725" xml:lang="ar">حسن صدقي الدجاني</persName>
                 <tei:persName change="#d5e194" corresp="#persName_7843.d5e39725" type="flattened" xml:lang="ar">حسنصدقيالدجاني</tei:persName>
                 <persName change="#d5e126" corresp="#persName_2345.d5e14595" type="flattened" xml:id="persName_1.d7825e1" xml:lang="en">ḤasanṢidqīalDajjānī</persName>
                 <idno type="jaraid">2326</idno>
@@ -18772,8 +18764,8 @@
                 <idno type="jaraid">832</idno>
             </person>
             <person xml:id="person_967.d5e6213">
-                <persName xml:id="persName_986.d5e6215" xml:lang="ar-Latn-x-ijmes">Ḥusayn ʿAlī Dāwud</persName>
-                <persName change="#d2e154" xml:id="persName_7978.d5e40407" xml:lang="ar">حسين علي داود  </persName>
+                <persName xml:id="persName_986.d5e6215" xml:lang="ar-Latn-x-ijmes">Ḥusayn ʿAlī Dāwud</persName>
+                <persName change="#d2e154" xml:id="persName_7978.d5e40407" xml:lang="ar">حسين علي داود</persName>
                 <tei:persName change="#d5e194" corresp="#persName_7978.d5e40407" type="flattened" xml:lang="ar">حسينعليداود</tei:persName>
                 <persName change="#d5e126" corresp="#persName_986.d5e6215" type="flattened" xml:id="persName_1.d7960e1" xml:lang="en">ḤusaynʿAlīDāwud</persName>
                 <idno type="jaraid">967</idno>
@@ -19189,43 +19181,43 @@
                 <idno type="jaraid">2207</idno>
             </person>
             <person xml:id="person_10.d5e247">
-                <persName xml:id="persName_29.d5e249" xml:lang="en"> <forename xml:lang="en">Hala</forename> <surname xml:lang="en">Auji</surname> </persName>
+                <persName xml:id="persName_29.d5e249" xml:lang="en"> <forename xml:lang="en">Hala</forename> <surname xml:lang="en">Auji</surname></persName>
                 <persName change="#d5e126" corresp="#persName_29.d5e249" type="flattened" xml:id="persName_1.d8137e1" xml:lang="en">HalaAuji</persName>
                 <idno type="jaraid">10</idno>
             </person>
             <person xml:id="person_15.d5e308">
-                <persName xml:id="persName_34.d5e310" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname> </persName>
+                <persName xml:id="persName_34.d5e310" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname></persName>
                 <persName change="#d5e126" corresp="#persName_34.d5e310" type="flattened" xml:id="persName_1.d8140e1" xml:lang="en">HughCayless</persName>
                 <idno type="jaraid">15</idno>
             </person>
             <person xml:id="person_2.d5e150">
-                <persName xml:id="persName_21.d5e152" xml:lang="fr"> <forename xml:lang="en">Philippe</forename> <surname xml:lang="en">Chevrant</surname> </persName>
+                <persName xml:id="persName_21.d5e152" xml:lang="fr"> <forename xml:lang="en">Philippe</forename> <surname xml:lang="en">Chevrant</surname></persName>
                 <persName change="#d5e126" corresp="#persName_21.d5e152" type="flattened" xml:id="persName_1.d8143e1" xml:lang="fr">PhilippeChevrant</persName>
                 <idno type="jaraid">2</idno>
             </person>
             <person xml:id="person_13.d5e284">
-                <persName xml:id="persName_32.d5e286" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname> </persName>
+                <persName xml:id="persName_32.d5e286" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname></persName>
                 <persName change="#d5e126" corresp="#persName_32.d5e286" type="flattened" xml:id="persName_1.d8146e1" xml:lang="en">MarinaDemetriadou</persName>
                 <idno type="jaraid">13</idno>
             </person>
             <person xml:id="person_3.d5e162">
-                <persName xml:id="persName_22.d5e164" xml:lang="en"> <forename xml:lang="en">Lamia</forename> <surname xml:lang="en">Eid</surname> </persName>
+                <persName xml:id="persName_22.d5e164" xml:lang="en"> <forename xml:lang="en">Lamia</forename> <surname xml:lang="en">Eid</surname></persName>
                 <persName change="#d5e126" corresp="#persName_22.d5e164" type="flattened" xml:id="persName_1.d8149e1" xml:lang="en">LamiaEid</persName>
                 <idno type="jaraid">3</idno>
             </person>
             <person xml:id="person_19.d5e357">
-                <persName xml:id="persName_38.d5e359" xml:lang="en"> <forename xml:lang="en">Stacy</forename> <surname xml:lang="en">Fahrenthold</surname> </persName>
+                <persName xml:id="persName_38.d5e359" xml:lang="en"> <forename xml:lang="en">Stacy</forename> <surname xml:lang="en">Fahrenthold</surname></persName>
                 <persName change="#d5e126" corresp="#persName_38.d5e359" type="flattened" xml:id="persName_1.d8152e1" xml:lang="en">StacyFahrenthold</persName>
                 <idno type="jaraid">19</idno>
             </person>
             <person xml:id="person_4.d5e174">
-                <persName xml:id="persName_23.d5e176" xml:lang="de"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
+                <persName xml:id="persName_23.d5e176" xml:lang="de"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname></persName>
                 <persName change="#d5e126" corresp="#persName_23.d5e176" type="flattened" xml:id="persName_1.d8155e1" xml:lang="en">TillGrallert</persName>
                 <idno type="jaraid">4</idno>
             </person>
             <person xml:id="person_390.d5e2654">
-                <persName xml:id="persName_409.d5e2656" xml:lang="de"> <surname>Hartmann</surname> </persName>
-                <persName change="#d3e179" ref="oape:pers:2445" xml:id="persName_1973.d5e10078" xml:lang="de"> <forename>Martin</forename> <surname>Hartmann</surname> </persName>
+                <persName xml:id="persName_409.d5e2656" xml:lang="de"> <surname>Hartmann</surname></persName>
+                <persName change="#d3e179" ref="oape:pers:2445" xml:id="persName_1973.d5e10078" xml:lang="de"> <forename>Martin</forename> <surname>Hartmann</surname></persName>
                 <tei:persName change="#d5e194" corresp="#persName_1973.d5e10078" type="flattened" xml:lang="de">MartinHartmann</tei:persName>
                 <persName change="#d2e154" xml:id="persName_1974.d5e10087" xml:lang="ar">هرتمن</persName>
                 <tei:persName change="#d5e194" corresp="#persName_1974.d5e10087" type="flattened" xml:lang="ar">هرتمن</tei:persName>
@@ -19233,101 +19225,334 @@
                 <idno type="jaraid">390</idno>
             </person>
             <person xml:id="person_9.d5e235">
-                <persName xml:id="persName_28.d5e237" xml:lang="en"> <forename xml:lang="en">Rana</forename> <surname xml:lang="en">Issa</surname> </persName>
+                <persName xml:id="persName_28.d5e237" xml:lang="en"> <forename xml:lang="en">Rana</forename> <surname xml:lang="en">Issa</surname></persName>
                 <persName change="#d5e126" corresp="#persName_28.d5e237" type="flattened" xml:id="persName_1.d8158e1" xml:lang="en">RanaIssa</persName>
                 <idno type="jaraid">9</idno>
             </person>
             <person xml:id="person_14.d5e296">
-                <persName xml:id="persName_33.d5e298" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
+                <persName xml:id="persName_33.d5e298" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname></persName>
                 <persName change="#d5e126" corresp="#persName_33.d5e298" type="flattened" xml:id="persName_1.d8161e1" xml:lang="en">NicoleKhayat</persName>
                 <idno type="jaraid">14</idno>
             </person>
             <person xml:id="person_17.d5e332">
-                <persName xml:id="persName_36.d5e334" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname> </persName>
+                <persName xml:id="persName_36.d5e334" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname></persName>
                 <persName change="#d5e126" corresp="#persName_36.d5e334" type="flattened" xml:id="persName_1.d8164e1" xml:lang="en">PeterMagierski</persName>
                 <idno type="jaraid">17</idno>
             </person>
             <person xml:id="person_6.d5e199">
-                <persName xml:id="persName_25.d5e201" xml:lang="en"> <forename xml:lang="en">Christian</forename> <surname xml:lang="en">Meier</surname> </persName>
+                <persName xml:id="persName_25.d5e201" xml:lang="en"> <forename xml:lang="en">Christian</forename> <surname xml:lang="en">Meier</surname></persName>
                 <persName change="#d5e126" corresp="#persName_25.d5e201" type="flattened" xml:id="persName_1.d8167e1" xml:lang="en">ChristianMeier</persName>
                 <idno type="jaraid">6</idno>
             </person>
             <person xml:id="person_5.d5e186">
-                <persName xml:id="persName_24.d5e188" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname> </persName>
+                <persName xml:id="persName_24.d5e188" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
                 <persName change="#d5e126" corresp="#persName_24.d5e188" type="flattened" xml:id="persName_1.d8170e1" xml:lang="en">AdamMestyan</persName>
                 <idno type="jaraid">5</idno>
             </person>
             <person xml:id="person_12.d5e272">
-                <persName xml:id="persName_31.d5e274" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname> </persName>
+                <persName xml:id="persName_31.d5e274" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname></persName>
                 <persName change="#d5e126" corresp="#persName_31.d5e274" type="flattened" xml:id="persName_1.d8173e1" xml:lang="en">DanielNewman</persName>
                 <idno type="jaraid">12</idno>
             </person>
             <person xml:id="person_7.d5e211">
-                <persName xml:id="persName_26.d5e213" xml:lang="en"> <forename xml:lang="en">Geoffrey</forename> <surname xml:lang="en">Roper</surname> </persName>
+                <persName xml:id="persName_26.d5e213" xml:lang="en"> <forename xml:lang="en">Geoffrey</forename> <surname xml:lang="en">Roper</surname></persName>
                 <persName change="#d5e126" corresp="#persName_26.d5e213" type="flattened" xml:id="persName_1.d8176e1" xml:lang="en">GeoffreyRoper</persName>
                 <idno type="jaraid">7</idno>
             </person>
             <person xml:id="person_16.d5e320">
-                <persName xml:id="persName_35.d5e322" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
+                <persName xml:id="persName_35.d5e322" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname></persName>
                 <persName change="#d5e126" corresp="#persName_35.d5e322" type="flattened" xml:id="persName_1.d8179e1" xml:lang="en">SinaiRusinek</persName>
                 <idno type="jaraid">16</idno>
             </person>
             <person xml:id="person_1.d5e138">
-                <persName xml:id="persName_20.d5e140" xml:lang="en"> <forename xml:lang="en">Philip</forename> <surname xml:lang="en">Sadgrove</surname> </persName>
+                <persName xml:id="persName_20.d5e140" xml:lang="en"> <forename xml:lang="en">Philip</forename> <surname xml:lang="en">Sadgrove</surname></persName>
                 <persName change="#d5e126" corresp="#persName_20.d5e140" type="flattened" xml:id="persName_1.d8182e1" xml:lang="en">PhilipSadgrove</persName>
                 <idno type="jaraid">1</idno>
             </person>
             <person xml:id="person_8.d5e223">
-                <persName xml:id="persName_27.d5e225" xml:lang="en"> <forename xml:lang="en">Ola</forename> <surname xml:lang="en">Seif</surname> </persName>
+                <persName xml:id="persName_27.d5e225" xml:lang="en"> <forename xml:lang="en">Ola</forename> <surname xml:lang="en">Seif</surname></persName>
                 <persName change="#d5e126" corresp="#persName_27.d5e225" type="flattened" xml:id="persName_1.d8185e1" xml:lang="en">OlaSeif</persName>
                 <idno type="jaraid">8</idno>
             </person>
             <person xml:id="person_11.d5e259">
-                <persName xml:id="persName_30.d5e261" xml:lang="en"> <forename xml:lang="en">Rogier</forename> <surname xml:lang="en">Visser</surname> </persName>
+                <persName xml:id="persName_30.d5e261" xml:lang="en"> <forename xml:lang="en">Rogier</forename> <surname xml:lang="en">Visser</surname></persName>
                 <persName change="#d5e126" corresp="#persName_30.d5e261" type="flattened" xml:id="persName_1.d8188e1" xml:lang="en">RogierVisser</persName>
                 <idno type="jaraid">11</idno>
             </person>
             <person xml:id="person_18.d5e345">
-                <persName xml:id="persName_37.d5e347" xml:lang="de"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname> </persName>
+                <persName xml:id="persName_37.d5e347" xml:lang="de"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname></persName>
                 <persName change="#d5e126" corresp="#persName_37.d5e347" type="flattened" xml:id="persName_1.d8191e1" xml:lang="en">LeylavonMende</persName>
                 <idno type="jaraid">18</idno>
             </person>
         </listPerson>
         <listOrg>
             <org>
-                <orgName xml:lang="en">French army</orgName>
-                <orgName xml:lang="ar">الجيش الفرنسي</orgName>
-                <idno type="jaraid">1</idno>
-            </org>
-            <org>
                 <orgName xml:lang="fr">Institut d'Égypte</orgName>
                 <idno type="jaraid">2</idno>
             </org>
             <org>
-                <orgName xml:lang="en">Egyptian government</orgName>
-                <orgName xml:lang="ar">الحكومة المصرية</orgName>
-                <idno type="jaraid">3</idno>
+                <orgName xml:lang="fr">Société FKN</orgName>
+                <idno type="jaraid">32</idno>
             </org>
             <org>
-                <orgName xml:lang="en">Government</orgName>
-                <orgName xml:lang="ar">الحكومة</orgName>
-                <idno type="jaraid">4</idno>
+                <orgName xml:lang="fr">École de Médecine et de Pharmacie</orgName>
+                <idno type="jaraid">13</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Madāris</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان المدارس</orgName>
-                <idno type="jaraid">5</idno>
+                <orgName xml:lang="en"> <persName xml:lang="fr">Eugène Clavel</persName>and Co</orgName>
+                <idno type="jaraid">51</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
-                <idno type="jaraid">6</idno>
+                <orgName xml:lang="en">Beylical government</orgName>
+                <idno type="jaraid">11</idno>
             </org>
             <org>
-                <orgName xml:lang="en">official</orgName>
-                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
-                <idno type="jaraid">7</idno>
-                <idno type="jaraid">72</idno>
+                <orgName xml:lang="en">Church Missionary Society</orgName>
+                <idno type="jaraid">67</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">French government</orgName>
+                <idno type="jaraid">70</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Jesuits</orgName>
+                <idno type="jaraid">17</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Spanish government</orgName>
+                <idno type="jaraid">71</idno>
+                <idno type="jaraid">73</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Dūminīkiyyūn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الاباء الدومنيكيون</orgName>
+                <idno type="jaraid">175</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Kabūshiyūn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الاباء الكبوشيون</orgName>
+                <idno type="jaraid">130</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Karmiliyūn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الاباء الكرمليون</orgName>
+                <idno type="jaraid">167</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Mursalūn al-Bawlisiyyūn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الاباء المرسلون البولسيون</orgName>
+                <idno type="jaraid">142</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Abāʾ al-Yasūʿiyyīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الاباء اليسوعيين</orgName>
+                <idno type="jaraid">104</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ittiḥād al-Yahūd al-Tūnisiyyīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">اتحاد اليهود التونسيين</orgName>
+                <idno type="jaraid">41</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes"> <persName xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName>and Co</orgName>
+                <orgName change="#d2e154" xml:lang="ar">احمد سمير وشاركه</orgName>
+                <idno type="jaraid">46</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ikhwat al-Madāris al-Masīḥiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">اخوة المدارس المسيحية</orgName>
+                <idno type="jaraid">101</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Barīd al-Miṣrī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة البريد المصري</orgName>
+                <idno type="jaraid">31</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maṭbaʿa al-Adabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة المطبعة الادبية</orgName>
+                <idno type="jaraid">131</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maʿārif al-ʿĀmma</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة المعارف العامة</orgName>
+                <idno type="jaraid">146</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maʿārif bi-l-Mufawwaḍiyya al-ʿUlyā</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة المعارف بالمفوضية العليا</orgName>
+                <idno type="jaraid">134</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Nādī al-ʿIlmī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة النادي العلمي</orgName>
+                <idno type="jaraid">176</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Idārat Majallat al-Marʾa al-Jadīda</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ادارة مجلة المرءة الجديدة</orgName>
+                <idno type="jaraid">108</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Egyptian Army's General Staff (Arkān Ḥarb)</orgName>
+                <orgName change="#d2e154" xml:lang="ar">اركان حرب الجيش المصري</orgName>
+                <idno type="jaraid">21</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Batrīrkiyya Anṭākiyya al-Urthūdhuksiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">بتريركية انطاكية الارثوذكسية</orgName>
+                <idno type="jaraid">144</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Baṭrīrkiyya al-Suryāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">البطريركية السريانية</orgName>
+                <idno type="jaraid">136</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Baṭrīrkiyya al-Kaldāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">البطريركية الكلدانية</orgName>
+                <idno type="jaraid">177</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Baṭrīrkiyya al-Lāqīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">بطريركية اللاقين</orgName>
+                <idno type="jaraid">117</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Talāmidhat Madrasat al-Irshād</orgName>
+                <orgName change="#d2e154" xml:lang="ar">تلامذة مدرسة الارشاد</orgName>
+                <idno type="jaraid">179</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Talāmidhat Madrasat al-Dustūr</orgName>
+                <orgName change="#d2e154" xml:lang="ar">تلامذة مدرسة الدستور</orgName>
+                <idno type="jaraid">161</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Sūriyya fī Būsṭun</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجامعة السورية في بوسطن</orgName>
+                <idno type="jaraid">83</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Group of Egyptian writers</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جماعة الأدباء المصريين</orgName>
+                <idno type="jaraid">60</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamāʿat al-Muʾāḍaba al-Ṭibbiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جماعة المؤاضبة الطبية</orgName>
+                <idno type="jaraid">49</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Arzat Lubnān</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية ارزة لبنان</orgName>
+                <idno type="jaraid">85</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Akhawī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الاتحاد الاخوي</orgName>
+                <idno type="jaraid">45</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Lubnānī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الاتحاد اللبناني</orgName>
+                <idno type="jaraid">94</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ikhāʾ al-Madrasī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الاخاء المدرسي</orgName>
+                <idno type="jaraid">103</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ūrthūdhūksiyya bi-Bayrūt</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الارثوذوكسية البيروت</orgName>
+                <idno type="jaraid">65</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Irshād al-ʿIlmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الارشاد العلمية</orgName>
+                <idno type="jaraid">57</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Iʿtidāl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الاعتدال</orgName>
+                <idno type="jaraid">58</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʾlīf al-ʿIlmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الت العلمية</orgName>
+                <idno type="jaraid">53</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taḥāluf al-Lubnānī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التحالف اللبناني</orgName>
+                <idno type="jaraid">95</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿāwun al-Islāmī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعاون الاسلامي</orgName>
+                <idno type="jaraid">42</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
+                <idno type="jaraid">54</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
+                <idno type="jaraid">61</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī li-Ṭāʾifat al-Urthūdhuks</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الطائفة الارثوذكس</orgName>
+                <idno type="jaraid">43</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Tahdhībiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية التهذيبية</orgName>
+                <idno type="jaraid">126</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Tawfīq al-Qubṭiyya al-Markaziyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية التوفيق القبطية المركزية</orgName>
+                <idno type="jaraid">50</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Thamra bi-l-Madrasa al-Waṭaniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الثمرة بالمدرسة الوطنية</orgName>
+                <idno type="jaraid">141</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya al-Islāmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية الاسلامية</orgName>
+                <idno type="jaraid">80</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya al-Mārūniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية المارونية</orgName>
+                <idno type="jaraid">86</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya fī Baynū wa-Qabūlā</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية في بينو القبولی</orgName>
+                <idno type="jaraid">143</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Rābiṭa al-Adabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الرابطة الادبية</orgName>
+                <idno type="jaraid">149</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الزراعية المصرية</orgName>
+                <idno type="jaraid">24</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
+                <orgName xml:lang="fr">Société Egyptienne d'Agriculture</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الزراعية المصرية</orgName>
+                <idno type="jaraid">27</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Sūriyya li'l-Iktisāb al-ʿUlūm wa'l-Funūn</orgName>
@@ -19340,32 +19565,19 @@
                 <idno type="jaraid">9</idno>
             </org>
             <org>
-                <orgName xml:lang="en">American missionaries</orgName>
-                <orgName xml:lang="ar">المرسلون الاميركييون</orgName>
-                <idno type="jaraid">10</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Shubbān al-Sūriyyīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الشبان السوريين</orgName>
+                <idno type="jaraid">84</idno>
             </org>
             <org>
-                <orgName xml:lang="en">Beylical government</orgName>
-                <idno type="jaraid">11</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Shabība al-Muttaḥida</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الشبيبة المتحدة</orgName>
+                <idno type="jaraid">96</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
-                <idno type="jaraid">12</idno>
-            </org>
-            <org>
-                <orgName xml:lang="fr">École de Médecine et de Pharmacie</orgName>
-                <idno type="jaraid">13</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Mār Manṣūr dī Būl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">شركة مار منصور دي بول</orgName>
-                <idno type="jaraid">14</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūma mutaṣarrifa, Jabal Lubnān</orgName>
-                <orgName change="#d2e154" xml:lang="ar">حكومة متصرفة , جبل لبنان</orgName>
-                <idno type="jaraid">15</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿArabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية العربية</orgName>
+                <idno type="jaraid">93</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿIlmiyya al-Sūriyya</orgName>
@@ -19373,23 +19585,9 @@
                 <idno type="jaraid">16</idno>
             </org>
             <org>
-                <orgName xml:lang="en">Jesuits</orgName>
-                <idno type="jaraid">17</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-Madāris</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نظارة المدارس</orgName>
-                <idno type="jaraid">19</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ottoman government</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الحكومة العثمانية</orgName>
-                <idno type="jaraid">20</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Egyptian Army's General Staff (Arkān Ḥarb)</orgName>
-                <orgName change="#d2e154" xml:lang="ar"> اركان حرب الجيش المصري </orgName>
-                <idno type="jaraid">21</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿIlmiyya bi-l-Kulliyya al-Islāmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية العلمية بالكلية الاسلامية</orgName>
+                <idno type="jaraid">133</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Funūn</orgName>
@@ -19397,19 +19595,222 @@
                 <idno type="jaraid">22</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Maʿārif al-Faransiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">وزارة المعارف الفرنسية</orgName>
-                <idno type="jaraid">23</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Kardīnāl Farrārī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الكردينال فراري</orgName>
+                <idno type="jaraid">120</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية الزراعية المصرية</orgName>
-                <idno type="jaraid">24</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Kawkab al-Sārī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الكوكب الساري</orgName>
+                <idno type="jaraid">59</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Mabāḥith al-ʿIlmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية المباحث العلمية</orgName>
+                <idno type="jaraid">62</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Najm al-Thāqib</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية النجم الثاقب</orgName>
+                <idno type="jaraid">44</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahda al-Marjaʿuyūniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية النحضة المرجعيونية</orgName>
+                <idno type="jaraid">112</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة</orgName>
+                <idno type="jaraid">66</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa al-Lubnāniyya</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyya al-Nahḍa al-Lubnāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة اللبنانية</orgName>
+                <idno type="jaraid">87</idno>
+                <idno type="jaraid">88</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa bi-l-Kulliyya al-Sharqiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة بالكلية الشرقية</orgName>
+                <idno type="jaraid">110</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Waḥda al-Murqusiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية الوحدة المرقسية</orgName>
+                <idno type="jaraid">56</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Waṭaniyya al-Āthūriyya al-Kaldāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجمعية الوطنية الاثورية الكلدانية</orgName>
+                <idno type="jaraid">82</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Ghurrat al-Ṣabāḥ al-Kulliyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية غرة الصباح الكلية</orgName>
+                <idno type="jaraid">38</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Mār Manṣūr</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية مار منصور</orgName>
+                <idno type="jaraid">102</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Makārim al-Akhlāq al-Islāmiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية مكارم الاخلاق الاسلامية</orgName>
+                <idno type="jaraid">64</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Nashr al-Maʿārif wa'l-Ādāb</orgName>
+                <orgName change="#d2e154" xml:lang="ar">جمعية نشر المعارف والآداب</orgName>
+                <idno type="jaraid">47</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">French army</orgName>
+                <orgName xml:lang="ar">الجيش الفرنسي</orgName>
+                <idno type="jaraid">1</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ḥizb al-Istiqlāl al-ʿIrāqī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">حزب الاستقلال العراقي</orgName>
+                <idno type="jaraid">123</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ḥizb al-Iṣlāḥ al-Waṭanī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">حزب الاصلاح الوطني</orgName>
+                <idno type="jaraid">69</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥizb al-Shuyūʿī al-Filasṭīnī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الحزب الشيوعي الفلسطيني</orgName>
+                <idno type="jaraid">121</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥizb al-Waṭanī al-Sūrī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الحزب الوطني السوري</orgName>
+                <idno type="jaraid">90</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Government</orgName>
+                <orgName xml:lang="ar">الحكومة</orgName>
+                <idno type="jaraid">4</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūmat al-Iḥtilāl al-Bariṭāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">حكومة الاحتلال البرطانية</orgName>
+                <idno type="jaraid">124</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ottoman government</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الحكومة العثمانية</orgName>
+                <idno type="jaraid">20</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥukūma al-ʿArabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الحكومة العربية</orgName>
+                <idno type="jaraid">114</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥukūma al-Lubnāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الحكومة اللبنانية</orgName>
+                <idno type="jaraid">135</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Egyptian government</orgName>
+                <orgName xml:lang="ar">الحكومة المصرية</orgName>
+                <idno type="jaraid">3</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūmat Bilād al-ʿAlawiyyīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">حكومة بلاد العلويين</orgName>
+                <idno type="jaraid">158</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūma mutaṣarrifa, Jabal Lubnān</orgName>
+                <orgName change="#d2e154" xml:lang="ar">حكومة متصرفة , جبل لبنان</orgName>
+                <idno type="jaraid">15</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Khristiyān wa-Shurakāhu</orgName>
+                <orgName change="#d2e154" xml:lang="ar">خرستيان الشركاه</orgName>
+                <idno type="jaraid">79</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dāʾirat al-Umūr al-Iqtiṣādiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">دائرة الامور الاقتصادية</orgName>
+                <idno type="jaraid">137</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dāʾirat Maʿārif Dimashq</orgName>
+                <orgName change="#d2e154" xml:lang="ar">دائرة معارف دمشق</orgName>
+                <idno type="jaraid">151</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dār al-Kutub al-Miṣriyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">دار الكتب المصرية</orgName>
+                <idno type="jaraid">76</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dawlat al-ʿAlawiyyīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">دولة العلويين</orgName>
+                <idno type="jaraid">159</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Police Head Quarters, Ministry of Interior</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان البولس النظارة الداخلية</orgName>
+                <idno type="jaraid">39</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Būlis bi-Niẓārat al-Dākhiliyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان البولس النظارة الداخلية</orgName>
+                <idno type="jaraid">40</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
+                <idno type="jaraid">6</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Jihādiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان الجهادية</orgName>
+                <idno type="jaraid">12</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Madāris</orgName>
+                <orgName change="#d2e154" xml:lang="ar">ديوان المدارس</orgName>
+                <idno type="jaraid">5</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Rābiṭa al-Waṭaniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الرابطة الوطنية</orgName>
+                <idno type="jaraid">92</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Rābiṭa al-Waṭaniyya al-Sūriyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الرابطة الوطنية السورية</orgName>
+                <idno type="jaraid">91</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">official</orgName>
+                <orgName change="#d2e154" xml:lang="ar">رسمية</orgName>
+                <idno type="jaraid">7</idno>
+                <idno type="jaraid">72</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Zuʿamā al-Thawra al-ʿIrāqiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">زعمی الثورة العراقية</orgName>
+                <idno type="jaraid">125</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Shubbān Miṣr wa'l-Iskandariyya Jams Sānuwā</orgName>
-                <orgName change="#d2e154" xml:lang="ar">شبان مصر والاسكندرية جمس سانوا </orgName>
+                <orgName change="#d2e154" xml:lang="ar">شبان مصر والاسكندرية جمس سانوا</orgName>
                 <idno type="jaraid">25</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Sharika al-Zirāʿiyya al-Ḥalabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الشركة الزراعية الحلبية</orgName>
+                <idno type="jaraid">154</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">al-Sharika al-Zirāʿiyya al-Miṣriyya</orgName>
@@ -19417,20 +19818,179 @@
                 <idno type="jaraid">26</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">al-Jamʿiyya al-Zirāʿiyya al-Miṣriyya</orgName>
-                <orgName xml:lang="fr">Société Egyptienne d'Agriculture</orgName>
-                <orgName change="#d2e154" xml:lang="ar"> الجمعية الزراعية المصرية</orgName>
-                <idno type="jaraid">27</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat al-Qiddīs Manṣūr dī Būl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">شركة القديس منصور دي بول</orgName>
+                <idno type="jaraid">48</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ministre de l'Intérieur; Direction Général de la Statistique</orgName>
-                <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
-                <idno type="jaraid">28</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Jarīdat al-Waṭan al-Musāhima</orgName>
+                <orgName change="#d2e154" xml:lang="ar">شركة جريدة الوطن المساهمة</orgName>
+                <idno type="jaraid">97</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maṭrāniyyat al-Rūm al-Ūrthūdhūks/ Jamʿiyyat al-Taʿlīm al-Masīḥī fī Bayrūt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مطرانية الروم الورثوذوكس جمعية التعليم المسيحي في بيروت /</orgName>
-                <idno type="jaraid">29</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Mār Manṣūr Dī Būl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">شركة مار منصور دي بول</orgName>
+                <idno type="jaraid">111</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Mār Manṣūr dī Būl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">شركة مار منصور دي بول</orgName>
+                <idno type="jaraid">14</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ṭalbat al-Madrasa al-Zirāʿiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">طلبة المدرسة الزراعية</orgName>
+                <idno type="jaraid">178</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat al-Tijāra</orgName>
+                <orgName change="#d2e154" xml:lang="ar">غرفة التجارة</orgName>
+                <idno type="jaraid">150</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Ḥalab</orgName>
+                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة حلب</orgName>
+                <idno type="jaraid">155</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Ḥayfā</orgName>
+                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة حيفی</orgName>
+                <idno type="jaraid">165</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Yāfā al-Waṭaniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة يافی الوطنية</orgName>
+                <idno type="jaraid">166</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Qism al-Ḍabṭ bi-Niẓārat al-Dākhiliyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">قسم الضبط النظارة الداخلية</orgName>
+                <idno type="jaraid">52</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Qalam Taḥrīr Jarīdat al-Istiqlāl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">قلم تحرير جريدة الاستقلال</orgName>
+                <idno type="jaraid">153</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Qūmīsiriyya al-ʿUlyā al-Firansiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">القوميسرية العليی الفرنسية</orgName>
+                <idno type="jaraid">132</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Kashshāfat al-Qaddīs Jirjis</orgName>
+                <orgName change="#d2e154" xml:lang="ar">كشافة القديس جرجس</orgName>
+                <idno type="jaraid">118</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">Syrian Protestant College</orgName>
+                <orgName xml:lang="en">American University of Beirut</orgName>
+                <!-- <orgName xml:lang="ar-Latn-x-ijmes">Al-Kulliyya al-Sūriyya al-Injīliyya / Al-Jāmiʿa al-Amīrikiyya</orgName> -->
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Kulliyya al-Sūriyya al-Injīliyya</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Amīrikiyya</orgName>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Amīrikiyya fī Bayrūt</orgName>
+                <!-- <orgName change="#d2e154" xml:lang="ar">الكلية السورية الانجيلية / الجامعة الاميركية</orgName> -->
+                <orgName change="#d2e154" xml:lang="ar">الكلية السورية الانجيلية</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجامعة الاميركية</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الجامعة الاميركية في بيروت</orgName>
+                <idno type="jaraid">63</idno>
+                <idno type="jaraid">68</idno>
+                <idno type="jaraid">100</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Kulliyya al-ʿArabiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">الكلية العربية</orgName>
+                <idno type="jaraid">164</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat Iʿānat Mankūbī Sūriyā wa-Lubnān</orgName>
+                <orgName change="#d2e154" xml:lang="ar">لجنة اعانة منكوبي سوريا ولبنان</orgName>
+                <idno type="jaraid">81</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat Ikrām al-Sūriyyīn li-l-Barāzīl</orgName>
+                <orgName change="#d2e154" xml:lang="ar">لجنة اكرام السوريين للبرازيل</orgName>
+                <idno type="jaraid">89</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat al-Daʿāya al-Duwaliyya li-ʿUmmāl al-Naql</orgName>
+                <orgName change="#d2e154" xml:lang="ar">لجنة الدعاية الدولية العمال النقل</orgName>
+                <idno type="jaraid">78</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Lajna al-Firansāwiyya al-Sharqiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">اللجنة الفرنساوية الشرقية</orgName>
+                <idno type="jaraid">98</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Lisān al-Shaʿb al-Miṣrī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">لسان الشعب المصري</orgName>
+                <idno type="jaraid">75</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Lisān Ḥāl al-ʿUmmāl fī Filasṭīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">لسان حال العمال في فلسطين</orgName>
+                <idno type="jaraid">119</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Mutakharrijū al-Kulliyya al-ʿIlmāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">متخرجو الكلية العلمانية</orgName>
+                <idno type="jaraid">128</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Majmaʿ al-ʿIlmī al-ʿArabī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المجمع العلمي العربي</orgName>
+                <idno type="jaraid">147</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Batrīrkiyya al-Kāthūlikiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة البتريركية الكاثولكية</orgName>
+                <idno type="jaraid">129</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Dāwudiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة الداودية</orgName>
+                <idno type="jaraid">140</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Dustūriyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة الدستورية</orgName>
+                <idno type="jaraid">116</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-ʿUthmāniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة العثمانية</orgName>
+                <idno type="jaraid">127</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-ʿIlmiyya al-Waṭaniyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة العلمية الوطنية</orgName>
+                <idno type="jaraid">145</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Fārūqiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المدرسة الفاروقية</orgName>
+                <idno type="jaraid">156</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat al-Qaddīs Buṭrus</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مدرسة القديس بطرس</orgName>
+                <idno type="jaraid">109</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Rawḍat al-Maʿārif</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مدرسة روضة المعارف</orgName>
+                <idno type="jaraid">162</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Ṣihyawn al-Inklīziyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مدرسة صهيون الانكليزية</orgName>
+                <idno type="jaraid">115</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Ṣihyūn al-Inklīziyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مدرسة صهيون الانكليزية</orgName>
+                <idno type="jaraid">160</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Kiftīn</orgName>
@@ -19438,13 +19998,24 @@
                 <idno type="jaraid">30</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Barīd al-Miṣrī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة البريد المصري</orgName>
-                <idno type="jaraid">31</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Mudīriyyat al-Shurṭa al-ʿĀmma</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مديرية الشرطة العامة</orgName>
+                <idno type="jaraid">148</idno>
             </org>
             <org>
-                <orgName xml:lang="fr">Société FKN</orgName>
-                <idno type="jaraid">32</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Mudīriyyat al-Maṭbūʿāt</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مديرية المطبوعات</orgName>
+                <idno type="jaraid">122</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Mursilūn al-Amīrkān</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المرسلون الاميركان</orgName>
+                <idno type="jaraid">107</idno>
+            </org>
+            <org>
+                <orgName xml:lang="en">American missionaries</orgName>
+                <orgName xml:lang="ar">المرسلون الاميركييون</orgName>
+                <idno type="jaraid">10</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Maṣlaḥat al-Barīd</orgName>
@@ -19462,6 +20033,106 @@
                 <idno type="jaraid">35</idno>
             </org>
             <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Hindiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مطبعة هندية</orgName>
+                <idno type="jaraid">55</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maṭrāniyyat al-Rūm al-Ūrthūdhūks/ Jamʿiyyat al-Taʿlīm al-Masīḥī fī Bayrūt</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مطرانية الروم الورثوذوكس جمعية التعليم المسيحي في بيروت /</orgName>
+                <idno type="jaraid">29</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Maʿhad al-Ṭibbī al-ʿArabī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المعهد الطبي العربي</orgName>
+                <idno type="jaraid">152</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Mufawwaḍiyya al-ʿUlyā</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المفوضية العليی</orgName>
+                <idno type="jaraid">105</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maqarr al-Kashshāf al-ʿĀmm</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مقر الكشاف العام</orgName>
+                <idno type="jaraid">138</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Maktab al-Mukhtaṣṣ bi-Shuʾūn al-Mustaʿmarāt</orgName>
+                <orgName change="#d2e154" xml:lang="ar">المكتب المختص الشؤون المستعمرات</orgName>
+                <idno type="jaraid">77</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maktab Bayt al-Maqdis</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مكتب بيت المقدس</orgName>
+                <idno type="jaraid">163</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maktab Jarīdat al-Balāgh</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مكتب جريدة البلاغ</orgName>
+                <idno type="jaraid">106</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Maktabat al-Salām</orgName>
+                <orgName change="#d2e154" xml:lang="ar">مكتبة السلام</orgName>
+                <idno type="jaraid">172</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Nādī al-Iṣlāḥ</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نادي الاصلاح</orgName>
+                <idno type="jaraid">174</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Nādī al-Aʿlāb al-Riyāḍiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نادي الاعلاب الرياضية</orgName>
+                <idno type="jaraid">171</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Nādī al-Sūrī al-Lubnānī</orgName>
+                <orgName change="#d2e154" xml:lang="ar">النادي السوري اللبناني</orgName>
+                <idno type="jaraid">99</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Nādī Dār al-ʿUlūm</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نادي دار العلوم</orgName>
+                <idno type="jaraid">74</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-ʿAdliyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نظارة العدلية</orgName>
+                <idno type="jaraid">168</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-Madāris</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نظارة المدارس</orgName>
+                <idno type="jaraid">19</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-Maʿārif</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نظارة المعارف</orgName>
+                <idno type="jaraid">169</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Niqābat al-Muḥāmīn</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نقابة المحامين</orgName>
+                <idno type="jaraid">157</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Nikābat ʿUmmāl al-Maṭābiʿ</orgName>
+                <orgName change="#d2e154" xml:lang="ar">نكابة عمال المطابع</orgName>
+                <idno type="jaraid">139</idno>
+            </org>
+            <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Tijāra</orgName>
+                <orgName change="#d2e154" xml:lang="ar">وزارة التجارة</orgName>
+                <idno type="jaraid">170</idno>
+            </org>
+            <org>
+                <orgName xml:lang="fr">Ministre de l'Intérieur; Direction Général de la Statistique</orgName>
+                <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
+                <idno type="jaraid">28</idno>
+            </org>
+            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Dākhiliyya</orgName>
                 <orgName change="#d2e154" xml:lang="ar">وزارة الداخلية</orgName>
                 <orgName xml:lang="en">Ministry of Interior</orgName>
@@ -19470,702 +20141,14 @@
                 <idno type="jaraid">37</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Ghurrat al-Ṣabāḥ al-Kulliyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية غرة الصباح الكلية</orgName>
-                <idno type="jaraid">38</idno>
-            </org>
-            <org>
-                <orgName xml:lang="en">Police Head Quarters, Ministry of Interior</orgName>
-                <orgName change="#d2e154" xml:lang="ar"> ديوان البولس النظارة الداخلية</orgName>
-                <idno type="jaraid">39</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dīwān al-Būlis bi-Niẓārat al-Dākhiliyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ديوان البولس النظارة الداخلية</orgName>
-                <idno type="jaraid">40</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ittiḥād al-Yahūd al-Tūnisiyyīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">اتحاد اليهود التونسيين</orgName>
-                <idno type="jaraid">41</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿāwun al-Islāmī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعاون الاسلامي</orgName>
-                <idno type="jaraid">42</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī li-Ṭāʾifat al-Urthūdhuks</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الطائفة الارثوذكس</orgName>
-                <idno type="jaraid">43</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Najm al-Thāqib</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النجم الثاقب</orgName>
-                <idno type="jaraid">44</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Akhawī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الاتحاد الاخوي</orgName>
-                <idno type="jaraid">45</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes"> <persName xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName>and Co</orgName>
-                <orgName change="#d2e154" xml:lang="ar">احمد سميرند co</orgName>
-                <idno type="jaraid">46</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Nashr al-Maʿārif wa'l-Ādāb</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية نشر المعارف والآداب</orgName>
-                <idno type="jaraid">47</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat al-Qiddīs Manṣūr dī Būl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">شركة القديس منصور دي بول  </orgName>
-                <idno type="jaraid">48</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamāʿat al-Muʾāḍaba al-Ṭibbiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جماعة المؤاضبة الطبية</orgName>
-                <idno type="jaraid">49</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Tawfīq al-Qubṭiyya al-Markaziyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التوفيق القبطية المركزية</orgName>
-                <idno type="jaraid">50</idno>
-            </org>
-            <org>
-                <orgName xml:lang="en"> <persName xml:lang="fr">Eugène Clavel</persName>and Co</orgName>
-                <idno type="jaraid">51</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Qism al-Ḍabṭ bi-Niẓārat al-Dākhiliyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">قسم الضبط النظارة الداخلية</orgName>
-                <idno type="jaraid">52</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʾlīf al-ʿIlmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الت العلمية</orgName>
-                <idno type="jaraid">53</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
-                <idno type="jaraid">54</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Hindiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مطبعة هندية</orgName>
-                <idno type="jaraid">55</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Waḥda al-Murqusiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الوحدة المرقسية</orgName>
-                <idno type="jaraid">56</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Irshād al-ʿIlmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الارشاد العلمية</orgName>
-                <idno type="jaraid">57</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Iʿtidāl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الاعتدال</orgName>
-                <idno type="jaraid">58</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Kawkab al-Sārī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الكوكب الساري</orgName>
-                <idno type="jaraid">59</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Group of Egyptian writers</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جماعة الأدباء المصريين</orgName>
-                <idno type="jaraid">60</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taʿlīm al-Masīḥī al-Ūrthūdhūksiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التعليم المسيحي الارثوذوكسية</orgName>
-                <idno type="jaraid">61</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Mabāḥith al-ʿIlmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية المباحث العلمية</orgName>
-                <idno type="jaraid">62</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Kulliyya al-Sūriyya al-Injīliyya / Al-Jāmiʿa al-Amīrikiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الكلية السورية الانجيلية الجامعة الاميركية /</orgName>
-                <idno type="jaraid">63</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Makārim al-Akhlāq al-Islāmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية مكارم الاخلاق الاسلامية</orgName>
-                <idno type="jaraid">64</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ūrthūdhūksiyya bi-Bayrūt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الارثوذوكسية البيروت</orgName>
-                <idno type="jaraid">65</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة</orgName>
-                <idno type="jaraid">66</idno>
-            </org>
-            <org>
-                <orgName xml:lang="en">Church Missionary Society</orgName>
-                <idno type="jaraid">67</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">al-Jāmiʿa al-Amīrkiyya</orgName>
-                <orgName xml:lang="en">Syrian Protestant College</orgName>
-                <orgName xml:lang="en">American University of Beirut</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجامعة الاميركية في بيروت</orgName>
-                <idno type="jaraid">68</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ḥizb al-Iṣlāḥ al-Waṭanī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">حزب الاصلاح الوطني</orgName>
-                <idno type="jaraid">69</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">French government</orgName>
-                <idno type="jaraid">70</idno>
-            </org>
-            <org>
-                <orgName>Spanish government</orgName>
-                <idno type="jaraid">71</idno>
-                <idno type="jaraid">73</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Nādī Dār al-ʿUlūm</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نادي دار العلوم</orgName>
-                <idno type="jaraid">74</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Lisān al-Shaʿb al-Miṣrī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">لسان الشعب المصري</orgName>
-                <idno type="jaraid">75</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dār al-Kutub al-Miṣriyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">دار الكتب المصرية</orgName>
-                <idno type="jaraid">76</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Maktab al-Mukhtaṣṣ bi-Shuʾūn al-Mustaʿmarāt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المكتب المختص الشؤون المستعمرات</orgName>
-                <idno type="jaraid">77</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat al-Daʿāya al-Duwaliyya li-ʿUmmāl al-Naql</orgName>
-                <orgName change="#d2e154" xml:lang="ar">لجنة الدعاية الدولية العمال النقل</orgName>
-                <idno type="jaraid">78</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Khristiyān wa-Shurakāhu</orgName>
-                <orgName change="#d2e154" xml:lang="ar">خرستيان الشركاه</orgName>
-                <idno type="jaraid">79</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya al-Islāmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية الاسلامية</orgName>
-                <idno type="jaraid">80</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat Iʿānat Mankūbī Sūriyā wa-Lubnān</orgName>
-                <orgName change="#d2e154" xml:lang="ar">لجنة اعانة منكوبي سوريا ولبنان</orgName>
-                <idno type="jaraid">81</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Waṭaniyya al-Āthūriyya al-Kaldāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية الوطنية الاثورية الكلدانية</orgName>
-                <idno type="jaraid">82</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Sūriyya fī Būsṭun</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجامعة السورية في بوسطن</orgName>
-                <idno type="jaraid">83</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Shubbān al-Sūriyyīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الشبان السوريين</orgName>
-                <idno type="jaraid">84</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Arzat Lubnān</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية ارزة لبنان</orgName>
-                <idno type="jaraid">85</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya al-Mārūniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية المارونية</orgName>
-                <idno type="jaraid">86</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyya al-Nahḍa al-Lubnāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة اللبنانية</orgName>
-                <idno type="jaraid">87</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa al-Lubnāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة اللبنانية</orgName>
-                <idno type="jaraid">88</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Lajnat Ikrām al-Sūriyyīn li-l-Barāzīl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">لجنة اكرام السوريين للبرازيل</orgName>
-                <idno type="jaraid">89</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥizb al-Waṭanī al-Sūrī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الحزب الوطني السوري</orgName>
-                <idno type="jaraid">90</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Rābiṭa al-Waṭaniyya al-Sūriyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الرابطة الوطنية السورية</orgName>
-                <idno type="jaraid">91</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Rābiṭa al-Waṭaniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الرابطة الوطنية</orgName>
-                <idno type="jaraid">92</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿArabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية العربية</orgName>
-                <idno type="jaraid">93</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ittiḥād al-Lubnānī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الاتحاد اللبناني</orgName>
-                <idno type="jaraid">94</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Taḥāluf al-Lubnānī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية التحالف اللبناني</orgName>
-                <idno type="jaraid">95</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Shabība al-Muttaḥida</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الشبيبة المتحدة</orgName>
-                <idno type="jaraid">96</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Jarīdat al-Waṭan al-Musāhima</orgName>
-                <orgName change="#d2e154" xml:lang="ar">شركة جريدة الوطن المساهمة</orgName>
-                <idno type="jaraid">97</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Lajna al-Firansāwiyya al-Sharqiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">اللجنة الفرنساوية الشرقية</orgName>
-                <idno type="jaraid">98</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Nādī al-Sūrī al-Lubnānī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">النادي السوري اللبناني</orgName>
-                <idno type="jaraid">99</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-Amīrkiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجامعة الاميركية</orgName>
-                <idno type="jaraid">100</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ikhwat al-Madāris al-Masīḥiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">اخوة المدارس المسيحية</orgName>
-                <idno type="jaraid">101</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat Mār Manṣūr</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية مار منصور</orgName>
-                <idno type="jaraid">102</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Ikhāʾ al-Madrasī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الاخاء المدرسي</orgName>
-                <idno type="jaraid">103</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Abāʾ al-Yasūʿiyyīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الاباء اليسوعيين</orgName>
-                <idno type="jaraid">104</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Mufawwaḍiyya al-ʿUlyā</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المفوضية العليی</orgName>
-                <idno type="jaraid">105</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maktab Jarīdat al-Balāgh</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مكتب جريدة البلاغ</orgName>
-                <idno type="jaraid">106</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Mursilūn al-Amīrkān</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المرسلون الاميركان</orgName>
-                <idno type="jaraid">107</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat Majallat al-Marʾa al-Jadīda</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة مجلة المرءة الجديدة</orgName>
-                <idno type="jaraid">108</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat al-Qaddīs Buṭrus</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مدرسة القديس بطرس</orgName>
-                <idno type="jaraid">109</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahḍa bi-l-Kulliyya al-Sharqiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النهضة بالكلية الشرقية</orgName>
-                <idno type="jaraid">110</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Sharikat Mār Manṣūr Dī Būl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">شركة مار منصور دي بول</orgName>
-                <idno type="jaraid">111</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Nahda al-Marjaʿuyūniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية النحضة المرجعيونية</orgName>
-                <idno type="jaraid">112</idno>
-            </org>
-            <org>
-                <orgName>4</orgName>
-                <idno type="jaraid">113</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥukūma al-ʿArabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الحكومة العربية</orgName>
-                <idno type="jaraid">114</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Ṣihyawn al-Inklīziyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مدرسة صهيون الانكليزية</orgName>
-                <idno type="jaraid">115</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Dustūriyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة الدستورية</orgName>
-                <idno type="jaraid">116</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Baṭrīrkiyya al-Lāqīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">بطريركية اللاقين</orgName>
-                <idno type="jaraid">117</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Kashshāfat al-Qaddīs Jirjis</orgName>
-                <orgName change="#d2e154" xml:lang="ar">كشافة القديس جرجس</orgName>
-                <idno type="jaraid">118</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Lisān Ḥāl al-ʿUmmāl fī Filasṭīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">لسان حال العمال في فلسطين</orgName>
-                <idno type="jaraid">119</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Kardīnāl Farrārī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الكردينال فراري</orgName>
-                <idno type="jaraid">120</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥizb al-Shuyūʿī al-Filasṭīnī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الحزب الشيوعي الفلسطيني</orgName>
-                <idno type="jaraid">121</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Mudīriyyat al-Maṭbūʿāt</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مديرية المطبوعات</orgName>
-                <idno type="jaraid">122</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ḥizb al-Istiqlāl al-ʿIrāqī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">حزب الاستقلال العراقي</orgName>
-                <idno type="jaraid">123</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūmat al-Iḥtilāl al-Bariṭāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">حكومة الاحتلال البرطانية</orgName>
-                <idno type="jaraid">124</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Zuʿamā al-Thawra al-ʿIrāqiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">زعمی الثورة العراقية</orgName>
-                <idno type="jaraid">125</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Tahdhībiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية التهذيبية</orgName>
-                <idno type="jaraid">126</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-ʿUthmāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة العثمانية</orgName>
-                <idno type="jaraid">127</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Mutakharrijū al-Kulliyya al-ʿIlmāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">متخرجو الكلية العلمانية</orgName>
-                <idno type="jaraid">128</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Batrīrkiyya al-Kāthūlikiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة البتريركية الكاثولكية</orgName>
-                <idno type="jaraid">129</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Kabūshiyūn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الاباء الكبوشيون</orgName>
-                <idno type="jaraid">130</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maṭbaʿa al-Adabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة المطبعة الادبية</orgName>
-                <idno type="jaraid">131</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Qūmīsiriyya al-ʿUlyā al-Firansiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">القوميسرية العليی الفرنسية</orgName>
-                <idno type="jaraid">132</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-ʿIlmiyya bi-l-Kulliyya al-Islāmiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية العلمية بالكلية الاسلامية</orgName>
-                <idno type="jaraid">133</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maʿārif bi-l-Mufawwaḍiyya al-ʿUlyā</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة المعارف بالمفوضية العليا</orgName>
-                <idno type="jaraid">134</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ḥukūma al-Lubnāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الحكومة اللبنانية</orgName>
-                <idno type="jaraid">135</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Baṭrīrkiyya al-Suryāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">البطريركية السريانية</orgName>
-                <idno type="jaraid">136</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dāʾirat al-Umūr al-Iqtiṣādiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">دائرة الامور الاقتصادية</orgName>
-                <idno type="jaraid">137</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maqarr al-Kashshāf al-ʿĀmm</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مقر الكشاف العام</orgName>
-                <idno type="jaraid">138</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Nikābat ʿUmmāl al-Maṭābiʿ</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نكابة عمال المطابع</orgName>
-                <idno type="jaraid">139</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Dāwudiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة الداودية</orgName>
-                <idno type="jaraid">140</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Thamra bi-l-Madrasa al-Waṭaniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الثمرة بالمدرسة الوطنية</orgName>
-                <idno type="jaraid">141</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Mursalūn al-Bawlisiyyūn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الاباء المرسلون البولسيون</orgName>
-                <idno type="jaraid">142</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Jamʿiyya al-Khayriyya fī Baynū wa-Qabūlā</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الجمعية الخيرية في بينو القبولی</orgName>
-                <idno type="jaraid">143</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Batrīrkiyya Anṭākiyya al-Urthūdhuksiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">بتريركية انطاكية الارثوذكسية</orgName>
-                <idno type="jaraid">144</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-ʿIlmiyya al-Waṭaniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة العلمية الوطنية</orgName>
-                <idno type="jaraid">145</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Maʿārif al-ʿĀmma</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة المعارف العامة</orgName>
-                <idno type="jaraid">146</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Majmaʿ al-ʿIlmī al-ʿArabī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المجمع العلمي العربي</orgName>
-                <idno type="jaraid">147</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Mudīriyyat al-Shurṭa al-ʿĀmma</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مديرية الشرطة العامة</orgName>
-                <idno type="jaraid">148</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Jamʿiyyat al-Rābiṭa al-Adabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">جمعية الرابطة الادبية</orgName>
-                <idno type="jaraid">149</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat al-Tijāra</orgName>
-                <orgName change="#d2e154" xml:lang="ar">غرفة التجارة</orgName>
-                <idno type="jaraid">150</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dāʾirat Maʿārif Dimashq</orgName>
-                <orgName change="#d2e154" xml:lang="ar">دائرة معارف دمشق</orgName>
-                <idno type="jaraid">151</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Maʿhad al-Ṭibbī al-ʿArabī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المعهد الطبي العربي</orgName>
-                <idno type="jaraid">152</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Qalam Taḥrīr Jarīdat al-Istiqlāl</orgName>
-                <orgName change="#d2e154" xml:lang="ar">قلم تحرير جريدة الاستقلال</orgName>
-                <idno type="jaraid">153</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Sharika al-Zirāʿiyya al-Ḥalabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الشركة الزراعية الحلبية</orgName>
-                <idno type="jaraid">154</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Ḥalab</orgName>
-                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة حلب</orgName>
-                <idno type="jaraid">155</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Fārūqiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">المدرسة الفاروقية</orgName>
-                <idno type="jaraid">156</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Niqābat al-Muḥāmīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نقابة المحامين</orgName>
-                <idno type="jaraid">157</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ḥukūmat Bilād al-ʿAlawiyyīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">حكومة بلاد العلويين</orgName>
-                <idno type="jaraid">158</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Dawlat al-ʿAlawiyyīn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">دولة العلويين</orgName>
-                <idno type="jaraid">159</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Ṣihyūn al-Inklīziyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مدرسة صهيون الانكليزية</orgName>
-                <idno type="jaraid">160</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Talāmidhat Madrasat al-Dustūr</orgName>
-                <orgName change="#d2e154" xml:lang="ar">تلامذة مدرسة الدستور</orgName>
-                <idno type="jaraid">161</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Madrasat Rawḍat al-Maʿārif</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مدرسة روضة المعارف</orgName>
-                <idno type="jaraid">162</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maktab Bayt al-Maqdis</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مكتب بيت المقدس</orgName>
-                <idno type="jaraid">163</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Kulliyya al-ʿArabiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الكلية العربية</orgName>
-                <idno type="jaraid">164</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Ḥayfā</orgName>
-                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة حيفی</orgName>
-                <idno type="jaraid">165</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ghurfat Tijārat Yāfā al-Waṭaniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">غرفة تجارة يافی الوطنية</orgName>
-                <idno type="jaraid">166</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Karmiliyūn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الاباء الكرمليون</orgName>
-                <idno type="jaraid">167</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-ʿAdliyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نظارة العدلية</orgName>
-                <idno type="jaraid">168</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Niẓārat al-Maʿārif</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نظارة المعارف</orgName>
-                <idno type="jaraid">169</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Tijāra</orgName>
-                <orgName change="#d2e154" xml:lang="ar">وزارة التجارة</orgName>
-                <idno type="jaraid">170</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Nādī al-Aʿlāb al-Riyāḍiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نادي الاعلاب الرياضية</orgName>
-                <idno type="jaraid">171</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Maktabat al-Salām</orgName>
-                <orgName change="#d2e154" xml:lang="ar">مكتبة السلام</orgName>
-                <idno type="jaraid">172</idno>
-            </org>
-            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Difāʿa</orgName>
                 <orgName change="#d2e154" xml:lang="ar">وزارة الدفاعة</orgName>
                 <idno type="jaraid">173</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Nādī al-Iṣlāḥ</orgName>
-                <orgName change="#d2e154" xml:lang="ar">نادي الاصلاح</orgName>
-                <idno type="jaraid">174</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Dūminīkiyyūn</orgName>
-                <orgName change="#d2e154" xml:lang="ar">الاباء الدومنيكيون</orgName>
-                <idno type="jaraid">175</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Idārat al-Nādī al-ʿIlmī</orgName>
-                <orgName change="#d2e154" xml:lang="ar">ادارة النادي العلمي</orgName>
-                <idno type="jaraid">176</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Baṭrīrkiyya al-Kaldāniyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">البطريركية الكلدانية</orgName>
-                <idno type="jaraid">177</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Ṭalbat al-Madrasa al-Zirāʿiyya</orgName>
-                <orgName change="#d2e154" xml:lang="ar">طلبة المدرسة الزراعية</orgName>
-                <idno type="jaraid">178</idno>
-            </org>
-            <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Talāmidhat Madrasat al-Irshād</orgName>
-                <orgName change="#d2e154" xml:lang="ar">تلامذة مدرسة الارشاد</orgName>
-                <idno type="jaraid">179</idno>
+                <orgName xml:lang="ar-Latn-x-ijmes">Wizārat al-Maʿārif al-Faransiyya</orgName>
+                <orgName change="#d2e154" xml:lang="ar">وزارة المعارف الفرنسية</orgName>
+                <idno type="jaraid">23</idno>
             </org>
         </listOrg>
         <listPlace>
@@ -20233,7 +20216,7 @@
                 <idno type="jaraid">200</idno>
             </place>
             <place>
-                <placeName xml:lang="ar-Latn-x-ijmes">Kiftīn (<placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>)</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">Kiftīn (<placeName xml:lang="en"> <country xml:lang="en">Lebanon</country></placeName>)</placeName>
                 <placeName change="#d2e182" xml:lang="ar">كفتين (لبنان)</placeName>
                 <idno type="jaraid">36</idno>
             </place>
@@ -20258,7 +20241,7 @@
                 <idno type="jaraid">104</idno>
             </place>
             <place type="country">
-                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en"> <country xml:lang="en">Argentina</country> </placeName>
+                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en"> <country xml:lang="en">Argentina</country></placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الأرجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الارجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Argentine</placeName>
@@ -20302,7 +20285,7 @@
                 <idno type="geon">1269750</idno>
             </place>
             <place type="country">
-                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country> </placeName>
+                <placeName xml:lang="en"> <country xml:lang="en">Lebanon</country></placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">لبنان</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Liban</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Libanon</placeName>
@@ -20316,7 +20299,7 @@
             </place>
             <place type="country">
                 <placeName type="country" xml:lang="en">Egypt</placeName>
-                <placeName source="#org_geon" type="alt" xml:lang="ar"> مصر </placeName>
+                <placeName source="#org_geon" type="alt" xml:lang="ar">مصر</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Égypte</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Ägypten</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="tr">Mısır</placeName>
@@ -21458,7 +21441,7 @@
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Dimyāṭ</placeName>
-                <placeName xml:lang="en">Damietta </placeName>
+                <placeName xml:lang="en">Damietta</placeName>
                 <placeName change="#d2e154" xml:lang="ar">دمياط</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Damiette</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Damiette</placeName>
@@ -22065,7 +22048,7 @@
                 <idno type="geon">7046973</idno>
             </place>
             <place type="town">
-                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName> </placeName>
+                <placeName xml:lang="en">Cagliari, <geogName type="island" xml:lang="en">Sardinia</geogName></placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">كالياري</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Cagliari</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Cagliari</placeName>
@@ -22401,7 +22384,7 @@
             </place>
             <place type="town">
                 <placeName xml:lang="ar-Latn-x-ijmes">Naples</placeName>
-                <placeName change="#d2e154" xml:lang="ar">نابولي </placeName>
+                <placeName change="#d2e154" xml:lang="ar">نابولي</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="en">N'Djamena</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Ndjamena</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="de">Indschamina</placeName>
@@ -22582,7 +22565,7 @@
                 <idno type="geon">6499980</idno>
             </place>
             <place type="HTL">
-                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
+                <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName></placeName>
                 <placeName xml:lang="ar">نيقوسيا</placeName>
                 <location source="#org_geon">
                     <geo>35.16304, 33.32701</geo>
