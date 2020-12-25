@@ -5865,7 +5865,7 @@
             </person>
             <person xml:id="person_1780.d5e11226">
                 <persName xml:id="persName_1799.d5e11228" xml:lang="ar-Latn-x-ijmes">Iyilā Abū Māḍī</persName>
-                <persName change="#d2e154" xml:id="persName_2488.d5e12687" xml:lang="ar">ايلی ابو ماضي</persName>
+                <persName change="#d2e154" xml:id="persName_2488.d5e12687" xml:lang="ar">ايلا ابو ماضي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2488.d5e12687" type="flattened" xml:lang="ar">ايلیابوماضي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1799.d5e11228" type="flattened" xml:id="persName_1.d2473e1" xml:lang="en">IyilāAbūMāḍī</persName>
                 <idno type="jaraid">1780</idno>
@@ -6692,7 +6692,7 @@
             </person>
             <person xml:id="person_1059.d5e6780">
                 <persName xml:id="persName_1078.d5e6782" xml:lang="ar-Latn-x-ijmes">Jūrj Manassā</persName>
-                <persName change="#d2e154" xml:id="persName_2839.d5e14450" xml:lang="ar">جورج منسی</persName>
+                <persName change="#d2e154" xml:id="persName_2839.d5e14450" xml:lang="ar">جورج منسى</persName>
                 <tei:persName change="#d5e194" corresp="#persName_2839.d5e14450" type="flattened" xml:lang="ar">جورجمنسی</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1078.d5e6782" type="flattened" xml:id="persName_1.d2821e1" xml:lang="en">JūrjManassā</persName>
                 <idno type="jaraid">1059</idno>
@@ -10003,7 +10003,7 @@
             </person>
             <person xml:id="person_1103.d5e7052">
                 <persName xml:id="persName_1122.d5e7054" xml:lang="ar-Latn-x-ijmes">Muḥammad al-̵ʿIrāqī</persName>
-                <persName change="#d2e154" xml:id="persName_4241.d5e21530" xml:lang="ar">محمد ال̵عراقي</persName>
+                <persName change="#d2e154" xml:id="persName_4241.d5e21530" xml:lang="ar">محمد العراقي</persName>
                 <tei:persName change="#d5e194" corresp="#persName_4241.d5e21530" type="flattened" xml:lang="ar">محمدال̵عراقي</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1122.d5e7054" type="flattened" xml:id="persName_1.d4219e1" xml:lang="en">Muḥammadal̵ʿIrāqī</persName>
                 <idno type="jaraid">1103</idno>
@@ -12636,7 +12636,7 @@
             </person>
             <person xml:id="person_1515.d5e9592">
                 <persName xml:id="persName_1534.d5e9594" xml:lang="ar-Latn-x-ijmes">Rusl Jūlt (Russel Golt)</persName>
-                <persName change="#d2e154" xml:id="persName_5365.d5e27205" xml:lang="ar">رسل جولت ( ر )</persName>
+                <persName change="#d2e154" xml:id="persName_5365.d5e27205" xml:lang="ar">راسيل جولت</persName>
                 <tei:persName change="#d5e194" corresp="#persName_5365.d5e27205" type="flattened" xml:lang="ar">رسلجولتر</tei:persName>
                 <persName change="#d5e126" corresp="#persName_1534.d5e9594" type="flattened" xml:id="persName_1.d5338e1" xml:lang="en">RuslJūltRusselGolt</persName>
                 <idno type="jaraid">1515</idno>
