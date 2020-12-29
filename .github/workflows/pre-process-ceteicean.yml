@@ -1,0 +1,24 @@
+name: "Pre-process master file for publication with CETEIcean"
+on: 
+  push:
+    branches:
+      - master
+    paths:
+      # this specifies the path of the file(s) that have to have been pushed
+      # for triggering this action
+      - tei/jaraid_master.TEIP5.xml
+
+jobs:    
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # This step checks out a copy of your repository.
+      - uses: actions/checkout@v2
+      # This step references the directory that contains the action.
+      - name: Publish Updates
+        env: 
+          API_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+          ACTION_USER_EMAIL: ${{ secrets.ACTION_USER_EMAIL }}
+          ACTION_USER_NAME: ${{ secrets.ACTION_USER_NAME}}
+        uses: ./.github/actions/pre-process-ceteicean
+ 
