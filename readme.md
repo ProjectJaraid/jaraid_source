@@ -59,7 +59,7 @@ Notes:
 
 - exemplary entry for the newspaper *al-Iqbāl*
 
-    ```xml
+```xml
 <row n="2341" resp="#pAM" role="data" xml:id="t1r2353" xml:lang="und-Latn">
     <cell n="1"> <date when="1902-04-09" xml:lang="und-Latn">1902</date> </cell>
     <cell n="2" xml:lang="und-Latn">April/9</cell>
@@ -75,7 +75,7 @@ Notes:
     <cell n="11"><persName ref="jaraid:pers:1926" xml:lang="ar">عبد الباسط الانسي</persName></cell>
     <cell n="12"><placeName ref="jaraid:place:2" xml:lang="ar">بيروت</placeName></cell>
 </row>
-    ```
+```
 
 ## `jaraid_master-biblStruct.TEIP5.xml`
 
@@ -83,7 +83,7 @@ This file is computationally generated and serialises each row of the `<table>` 
 
 - exemplary entry for the newspaper *al-Iqbāl*
 
-    ```xml
+```xml
 <biblStruct resp="#pAM" type="periodical" xml:id="biblStruct_t1r2353">
   <monogr>
      <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iqbāl</title>
@@ -116,4 +116,4 @@ This file is computationally generated and serialises each row of the `<table>` 
      </list>
   </note>
 </biblStruct>
-    ```
+```
