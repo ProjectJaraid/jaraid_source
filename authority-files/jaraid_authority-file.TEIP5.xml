@@ -178,6 +178,7 @@
             </person>
             <person xml:id="person_2724.d5e17048">
                 <persName xml:id="persName_2743.d5e17050" xml:lang="ar-Latn-x-ijmes">Abū Bakr al-ʿAṭṭās</persName>
+                <persName ref="jaraid:pers:2724" xml:lang="ar-Latn-x-ijmes">Abū Bakr b. Muḥammad al-ʿAṭṭās</persName>
                 <persName change="#d5e248" corresp="#persName_2743.d5e17050" type="flattened" xml:lang="ar-Latn-x-ijmes">AbūBakralʿAṭṭās</persName>
                 <persName change="#d2e154" xml:id="persName_72.d5e463" xml:lang="ar">ابو بكر العطاس</persName>
                 <persName change="#d5e248" corresp="#persName_72.d5e463" type="flattened" xml:lang="ar">ابوبكرالعطاس</persName>
@@ -2839,8 +2840,8 @@
                 <idno type="jaraid">2234</idno>
             </person>
             <person xml:id="person_2722.d5e17035">
-                <persName xml:id="persName_2741.d5e17037" xml:lang="ar-Latn-x-ijmes">Aḥmad b. ʿAbd Allāh al-Saqāf</persName>
-                <persName change="#d5e248" corresp="#persName_2741.d5e17037" type="flattened" xml:lang="ar-Latn-x-ijmes">AḥmadbʿAbdAllāhalSaqāf</persName>
+                <persName xml:id="persName_2741.d5e17037" xml:lang="ar-Latn-x-ijmes">Aḥmad b. ʿAbd Allāh al-Saqqāf</persName>
+                <persName change="#d5e248" corresp="#persName_2741.d5e17037" type="flattened" xml:lang="ar-Latn-x-ijmes">AḥmadbʿAbdAllāhalSaqqāf</persName>
                 <persName change="#d2e154" xml:id="persName_1202.d5e6171" xml:lang="ar">احمد ابن عبد الله السقاف</persName>
                 <persName change="#d5e248" corresp="#persName_1202.d5e6171" type="flattened" xml:lang="ar">احمدابنعبداللهالسقاف</persName>
                 <idno type="jaraid">2722</idno>
@@ -9040,6 +9041,7 @@
             </person>
             <person xml:id="person_2489.d5e15599">
                 <persName xml:id="persName_2508.d5e15601" xml:lang="ar-Latn-x-ijmes">Muḥammad Hāshimī</persName>
+                <persName ref="jaraid:pers:2489" xml:lang="ar-Latn-x-ijmes">Muḥammad b. ʿUthmān al-Hāshimī</persName>
                 <persName change="#d5e248" corresp="#persName_2508.d5e15601" type="flattened" xml:lang="ar-Latn-x-ijmes">MuḥammadHāshimī</persName>
                 <persName change="#d2e154" xml:id="persName_3848.d5e19542" xml:lang="ar">محمد هاشمي</persName>
                 <persName change="#d5e248" corresp="#persName_3848.d5e19542" type="flattened" xml:lang="ar">محمدهاشمي</persName>
@@ -10030,6 +10032,7 @@
             </person>
             <person xml:id="person_2491.d5e15611">
                 <persName xml:id="persName_2510.d5e15613" xml:lang="ar-Latn-x-ijmes">Muḥammad b. Sālim</persName>
+                <persName ref="jaraid:pers:2491" xml:lang="ar-Latn-x-ijmes">Muḥammad b. Sālim Barājā</persName>
                 <persName change="#d5e248" corresp="#persName_2510.d5e15613" type="flattened" xml:lang="ar-Latn-x-ijmes">MuḥammadbSālim</persName>
                 <persName change="#d2e154" xml:id="persName_4265.d5e21651" xml:lang="ar">محمد ابن سالم</persName>
                 <persName change="#d5e248" corresp="#persName_4265.d5e21651" type="flattened" xml:lang="ar">محمدابنسالم</persName>
@@ -17601,6 +17604,7 @@
             </person>
             <person xml:id="person_2723.d5e17042">
                 <persName xml:id="persName_2742.d5e17044" xml:lang="ar-Latn-x-ijmes">ʿUmar b. Sulaymān Nājī</persName>
+                <persName ref="jaraid:pers:2723" xml:lang="ar-Latn-x-ijmes">ʿUmar b. Sulaymān b. Nājī</persName>
                 <persName change="#d5e248" corresp="#persName_2742.d5e17044" type="flattened" xml:lang="ar-Latn-x-ijmes">ʿUmarbSulaymānNājī</persName>
                 <persName change="#d2e154" xml:id="persName_7467.d5e37826" xml:lang="ar">عمر ابن سليمان ناجي</persName>
                 <persName change="#d5e248" corresp="#persName_7467.d5e37826" type="flattened" xml:lang="ar">عمرابنسليمانناجي</persName>
