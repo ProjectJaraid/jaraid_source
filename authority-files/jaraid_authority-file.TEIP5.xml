@@ -42,6 +42,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
+            <tei:change when="2021-01-21" who="#pers_TG" xml:id="d8e292" xml:lang="en">Improved <tei:gi>org</tei:gi> nodes by adding IDs.</tei:change>
             <tei:change when="2021-01-21" who="#pers_TG" xml:id="d5e270" xml:lang="en"
                 >Improved <tei:gi>person</tei:gi> nodes with <tei:tag>persName type="noAddName"</tei:tag> and <tei:tag>persName type="flattened"</tei:tag> children and by querying VIAF for those with VIAF IDs, adding <tei:gi>birth</tei:gi>, <tei:gi>death</tei:gi>, and <tei:gi>idno</tei:gi>.</tei:change>
             <change when="2020-12-29" who="#pers_TG" xml:id="d5e248" xml:lang="en"
@@ -7696,8 +7697,8 @@
                 <idno type="jaraid">895</idno>
             </person>
             <person sameAs="jaraid:pers:298" xml:id="person_429">
-                <persName xml:lang="ar-Latn-x-ijmes"><addName type="pseudonym">Maryam Mazhar</addName></persName>
-                <persName xml:lang="ar"><addName type="pseudonym">مريم مزهر</addName></persName>
+                <persName xml:lang="ar-Latn-x-ijmes"> <addName type="pseudonym">Maryam Mazhar</addName> </persName>
+                <persName xml:lang="ar"> <addName type="pseudonym">مريم مزهر</addName> </persName>
                 <idno type="jaraid">429</idno>
             </person>
             <person xml:id="person_2580">
@@ -19215,11 +19216,6 @@
         </listPerson>
         <listOrg>
             <org>
-                <orgName xml:lang="und-Latn"> <persName ref="jaraid:pers:162" xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName> and Co</orgName>
-                <orgName xml:lang="ar"><persName change="#d2e245" ref="jaraid:pers:162" xml:lang="ar">احمد سمير</persName> وشركاؤه</orgName>
-                <idno type="jaraid">242</idno>
-            </org>
-            <org>
                 <orgName xml:lang="und-Latn"> <persName ref="jaraid:pers:477" xml:lang="fr">Eugène Clavel</persName> and Co</orgName>
                 <idno type="jaraid">243</idno>
             </org>
@@ -19265,11 +19261,6 @@
                 <idno type="jaraid">73</idno>
             </org>
             <org>
-                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ittiḥād al-Islāmī al-Firansī</orgName>
-                <orgName change="#d2e245" xml:lang="ar">الاتحاد الاسلامي الفرنسي</orgName>
-                <idno type="jaraid">241</idno>
-            </org>
-            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Ābāʾ al-Dūminīkiyyūn</orgName>
                 <orgName change="#d2e154" xml:lang="ar">الاباء الدومنيكيون</orgName>
                 <idno type="jaraid">175</idno>
@@ -19295,6 +19286,11 @@
                 <idno type="jaraid">104</idno>
             </org>
             <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Al-Ittiḥād al-Islāmī al-Firansī</orgName>
+                <orgName change="#d2e245" xml:lang="ar">الاتحاد الاسلامي الفرنسي</orgName>
+                <idno type="jaraid">241</idno>
+            </org>
+            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Ittiḥād al-Yahūd al-Tūnisiyyīn</orgName>
                 <orgName change="#d2e154" xml:lang="ar">اتحاد اليهود التونسيين</orgName>
                 <idno type="jaraid">41</idno>
@@ -19303,6 +19299,11 @@
                 <orgName xml:lang="ar-Latn-x-ijmes"> <persName xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName>and Co</orgName>
                 <orgName change="#d2e154" xml:lang="ar">احمد سمير وشاركه</orgName>
                 <idno type="jaraid">46</idno>
+            </org>
+            <org>
+                <orgName xml:lang="und-Latn"> <persName ref="jaraid:pers:162" xml:lang="ar-Latn-x-ijmes">Aḥmad Samīr</persName> and Co</orgName>
+                <orgName xml:lang="ar"><persName change="#d2e245" ref="jaraid:pers:162" xml:lang="ar">احمد سمير</persName> وشركاؤه</orgName>
+                <idno type="jaraid">242</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Ikhwat al-Madāris al-Masīḥiyya</orgName>
@@ -19883,6 +19884,7 @@
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Majmaʿ al-Lugha al-ʿArabiyya</orgName>
                 <orgName xml:lang="ar">مجمع اللغة العربية</orgName>
+                <idno type="jaraid">240</idno>
             </org>
             <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Batrīrkiyya al-Kāthūlikiyya</orgName>
