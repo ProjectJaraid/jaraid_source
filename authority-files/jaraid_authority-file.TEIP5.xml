@@ -17703,18 +17703,14 @@
                 <tei:persName change="#d5e270" corresp="#persName_1721.2" type="flattened" xml:id="persName_1721.2.1" xml:lang="ar">عيدميخائيلذيبه</tei:persName>
                 <idno type="jaraid">1721</idno>
             </person>
-            <person xml:id="person_2358">
-                <persName xml:id="persName_2358.1" xml:lang="ar-Latn-x-ijmes">ʿĪsā Bandak</persName>
-                <tei:persName change="#d5e270" corresp="#persName_2358.1" type="flattened" xml:id="persName_2358.1.1" xml:lang="ar-Latn-x-ijmes">ʿĪsāBandak</tei:persName>
-                <persName change="#d2e154" xml:id="persName_2358.2" xml:lang="ar">عيسی بندك</persName>
-                <tei:persName change="#d5e270" corresp="#persName_2358.2" type="flattened" xml:id="persName_2358.2.1" xml:lang="ar">عيسیبندك</tei:persName>
-                <idno type="jaraid">2358</idno>
-            </person>
             <person xml:id="person_2666">
                 <persName xml:id="persName_2666.1" xml:lang="ar-Latn-x-ijmes">ʿĪsā Bunduk</persName>
                 <tei:persName change="#d5e270" corresp="#persName_2666.1" type="flattened" xml:id="persName_2666.1.1" xml:lang="ar-Latn-x-ijmes">ʿĪsāBunduk</tei:persName>
+                <persName xml:id="persName_2358.1" xml:lang="ar-Latn-x-ijmes">ʿĪsā Bandak</persName>
+                <tei:persName change="#d5e270" corresp="#persName_2358.1" type="flattened" xml:id="persName_2358.1.1" xml:lang="ar-Latn-x-ijmes">ʿĪsāBandak</tei:persName>
                 <persName change="#d2e154" xml:id="persName_2666.2" xml:lang="ar">عيسی بندك</persName>
                 <tei:persName change="#d5e270" corresp="#persName_2666.2" type="flattened" xml:id="persName_2666.2.1" xml:lang="ar">عيسیبندك</tei:persName>
+                <idno type="jaraid">2358</idno>
                 <idno type="jaraid">2666</idno>
             </person>
             <person xml:id="person_2336">
@@ -18990,14 +18986,8 @@
                 <tei:persName change="#d5e270" corresp="#persName_1646.1" type="flattened" xml:id="persName_1646.1.1" xml:lang="ar-Latn-x-ijmes">ṢāliḥbMaḥmūd</tei:persName>
                 <persName change="#d2e154" xml:id="persName_1646.2" xml:lang="ar">صالح ابن محمود</persName>
                 <tei:persName change="#d5e270" corresp="#persName_1646.2" type="flattened" xml:id="persName_1646.2.1" xml:lang="ar">صالحابنمحمود</tei:persName>
-                <idno type="jaraid">1646</idno>
-            </person>
-            <person xml:id="person_1153">
-                <persName xml:id="persName_1153.1" xml:lang="ar-Latn-x-ijmes">Ṣāliḥ bin Maḥmūd</persName>
-                <tei:persName change="#d5e270" corresp="#persName_1153.1" type="flattened" xml:id="persName_1153.1.1" xml:lang="ar-Latn-x-ijmes">ṢāliḥbinMaḥmūd</tei:persName>
-                <persName change="#d2e154" xml:id="persName_1153.2" xml:lang="ar">صالح بن محمود</persName>
-                <tei:persName change="#d5e270" corresp="#persName_1153.2" type="flattened" xml:id="persName_1153.2.1" xml:lang="ar">صالحبنمحمود</tei:persName>
                 <idno type="jaraid">1153</idno>
+                <idno type="jaraid">1646</idno>
             </person>
             <person xml:id="person_2328">
                 <persName xml:id="persName_2328.1" xml:lang="ar-Latn-x-ijmes">Ṣāliḥ ʿAbd al-Laṭīf al-Ḥusaynī</persName>
@@ -19093,13 +19083,6 @@
                 <tei:persName change="#d5e270" corresp="#persName_1775.2" type="flattened" xml:id="persName_1775.2.1" xml:lang="ar">طالبخيرالله</tei:persName>
                 <idno type="jaraid">1775</idno>
             </person>
-            <person xml:id="person_516">
-                <persName xml:id="persName_516.1" xml:lang="ar-Latn-x-ijmes">Ṭāniyūs ʿAbduh</persName>
-                <tei:persName change="#d5e270" corresp="#persName_516.1" type="flattened" xml:id="persName_516.1.1" xml:lang="ar-Latn-x-ijmes">ṬāniyūsʿAbduh</tei:persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:1940" xml:id="persName_516.2" xml:lang="ar">طانيوس عبده</persName>
-                <tei:persName change="#d5e270" corresp="#persName_516.2" type="flattened" xml:id="persName_516.2.1" xml:lang="ar">طانيوسعبده</tei:persName>
-                <idno type="jaraid">516</idno>
-            </person>
             <person xml:id="person_1990">
                 <persName xml:id="persName_1990.1" xml:lang="ar-Latn-x-ijmes">Ṭānyūs Bākhūs</persName>
                 <tei:persName change="#d5e270" corresp="#persName_1990.1" type="flattened" xml:id="persName_1990.1.1" xml:lang="ar-Latn-x-ijmes">ṬānyūsBākhūs</tei:persName>
@@ -19119,6 +19102,7 @@
                 <tei:persName change="#d5e270" corresp="#persName_1015.1" type="flattened" xml:id="persName_1015.1.1" xml:lang="ar-Latn-x-ijmes">ṬānyūsʿAbduh</tei:persName>
                 <persName change="#d2e154 #d3e179" ref="oape:pers:1940" xml:id="persName_1015.2" xml:lang="ar">طانيوس عبده</persName>
                 <tei:persName change="#d5e270" corresp="#persName_1015.2" type="flattened" xml:id="persName_1015.2.1" xml:lang="ar">طانيوسعبده</tei:persName>
+                <idno type="jaraid">516</idno>
                 <idno type="jaraid">1015</idno>
             </person>
             <person xml:id="person_2207">
