@@ -7696,6 +7696,8 @@
                 <idno type="jaraid">895</idno>
             </person>
             <person sameAs="jaraid:pers:298" xml:id="person_429">
+                <persName xml:lang="ar-Latn-x-ijmes"><addName type="pseudonym">Maryam Mazhar</addName></persName>
+                <persName xml:lang="ar"><addName type="pseudonym">مريم مزهر</addName></persName>
                 <idno type="jaraid">429</idno>
             </person>
             <person xml:id="person_2580">
@@ -16418,12 +16420,6 @@
                 <persName change="#d2e154 #d3e179" ref="oape:pers:3750" xml:id="persName_101.2" xml:lang="ar">عبد الرحمن الكواكبي</persName>
                 <tei:persName change="#d5e270" corresp="#persName_101.2" type="flattened" xml:id="persName_101.2.1" xml:lang="ar">عبدالرحمنالكواكبي</tei:persName>
                 <idno type="jaraid">101</idno>
-            </person>
-            <person xml:id="person_118">
-                <persName xml:id="persName_118.1" xml:lang="ar-Latn-x-ijmes">ʿAbd al-Raḥmān al-Kawākibī</persName>
-                <tei:persName change="#d5e270" corresp="#persName_118.1" type="flattened" xml:id="persName_118.1.1" xml:lang="ar-Latn-x-ijmes">ʿAbdalRaḥmānalKawākibī</tei:persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:3750" xml:id="persName_118.2" xml:lang="ar">عبد الرحمن الكواكبي</persName>
-                <tei:persName change="#d5e270" corresp="#persName_118.2" type="flattened" xml:id="persName_118.2.1" xml:lang="ar">عبدالرحمنالكواكبي</tei:persName>
                 <idno type="jaraid">118</idno>
             </person>
             <person xml:id="person_517">
