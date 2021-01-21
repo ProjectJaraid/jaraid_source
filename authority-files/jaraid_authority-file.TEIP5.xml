@@ -19948,6 +19948,10 @@
                 <idno type="jaraid">147</idno>
             </org>
             <org>
+                <orgName xml:lang="ar-Latn-x-ijmes">Majmaʿ al-Lugha al-ʿArabiyya</orgName>
+                <orgName xml:lang="ar">مجمع اللغة العربية</orgName>
+            </org>
+            <org>
                 <orgName xml:lang="ar-Latn-x-ijmes">Al-Madrasa al-Batrīrkiyya al-Kāthūlikiyya</orgName>
                 <orgName change="#d2e154" xml:lang="ar">المدرسة البتريركية الكاثولكية</orgName>
                 <idno type="jaraid">129</idno>
