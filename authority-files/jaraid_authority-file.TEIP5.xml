@@ -22627,6 +22627,8 @@
                 <idno type="jaraid">163</idno>
                 <idno type="geon">11704844</idno>
             </place>
+            <tei:place><placeName xml:lang="und-Latn">Bogor</placeName></tei:place>
+            <tei:place><placeName xml:lang="und-Latn">Solo</placeName></tei:place>
         </listPlace>
     </standOff>
     <text>
