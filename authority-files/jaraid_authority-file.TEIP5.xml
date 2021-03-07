@@ -20101,6 +20101,7 @@
             <place xml:id="place_145">
                 <placeName xml:lang="en">Salto (Oriental), Brazil</placeName>
                 <idno type="jaraid">145</idno>
+                <idno type="geon">3450594</idno>
             </place>
             <place xml:id="place_115">
                 <placeName type="city" xml:lang="ar-Latn-x-ijmes">al-Ḥawāmidiyya</placeName>
@@ -20122,6 +20123,7 @@
                 <placeName xml:lang="ar-Latn-x-ijmes">Ihdin and Zighartā</placeName>
                 <placeName change="#d2e154" xml:lang="ar">اهدن وزغرتی</placeName>
                 <idno type="jaraid">159</idno>
+                <idno type="geon">273725</idno>
             </place>
             <place type="town" xml:id="place_69">
                 <placeName xml:lang="ar-Latn-x-ijmes">Banha</placeName>
@@ -20142,6 +20144,7 @@
                 <placeName xml:lang="ar-Latn-x-ijmes">Ṭūkh Qalyūbiyya</placeName>
                 <placeName change="#d2e154" xml:lang="ar">طوخ قليوبية</placeName>
                 <idno type="jaraid">88</idno>
+                <idno type="geon">347236</idno>
             </place>
             <place xml:id="place_71">
                 <placeName xml:lang="ar-Latn-x-ijmes">Ghawānābārā</placeName>
@@ -20167,6 +20170,7 @@
                 <placeName xml:lang="ar-Latn-x-ijmes">Qalʿat al-Qadmūs</placeName>
                 <placeName change="#d2e154" xml:lang="ar">قلعة القدموس</placeName>
                 <idno type="jaraid">227</idno>
+                <idno type="geon">173389</idno>
             </place>
             <place xml:id="place_200">
                 <placeName xml:lang="ar-Latn-x-ijmes">Kazimiyya</placeName>
