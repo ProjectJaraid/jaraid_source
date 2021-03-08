@@ -21052,7 +21052,7 @@
                 <idno type="url">http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD</idno>
                 <idno type="geon">4930956</idno>
             </place>
-            <tei:place type="town" xml:id="place_240">
+            <tei:place type="town" xml:id="place_215">
                 <placeName xml:lang="und-Latn">Bogor</placeName>
                 <placeName xml:lang="und-Latn">Buitenzorg</placeName>
                 <tei:placeName source="#org_geon" type="alt" xml:lang="ar">بوكور</tei:placeName>
@@ -22516,6 +22516,12 @@
             <place type="AIRP" xml:id="place_99">
                 <placeName xml:lang="ar-Latn-x-ijmes">Sakīkada</placeName>
                 <placeName change="#d2e154" xml:lang="ar">سكيكدة</placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Skikda</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Skikda</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Sukaikida</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>36.87617, 6.90921</tei:geo>
+                </tei:location>
                 <idno type="jaraid">99</idno>
                 <idno type="geon">2479536</idno>
             </place>
@@ -22530,12 +22536,18 @@
             <place type="HLL" xml:id="place_19">
                 <placeName xml:lang="ar-Latn-x-ijmes">Bayt al-Dīn</placeName>
                 <placeName change="#d2e154" xml:lang="ar">بيت الدين</placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.69417, 35.58083</tei:geo>
+                </tei:location>
                 <idno type="jaraid">19</idno>
                 <idno type="geon">276771</idno>
             </place>
             <place type="HLL" xml:id="place_40">
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿĀliya</placeName>
                 <placeName change="#d2e154" xml:lang="ar">عالية</placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.80528, 35.6</tei:geo>
+                </tei:location>
                 <idno type="jaraid">40</idno>
                 <idno type="geon">280425</idno>
             </place>
@@ -22567,6 +22579,12 @@
             <place type="HTL" xml:id="place_31">
                 <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
                 <placeName xml:lang="ar">نيقوسيا</placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Nicosie</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Nikosia</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="tr">Lefkoşa</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>35.17531, 33.3642</tei:geo>
+                </tei:location>
                 <idno type="jaraid">31</idno>
                 <idno type="geon">146268</idno>
             </place>
@@ -22598,17 +22616,34 @@
             </place>
             <place type="MT" xml:id="place_214">
                 <placeName xml:lang="en">Weltevreden</placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>1.50528, 125.12694</tei:geo>
+                </tei:location>
                 <idno type="jaraid">214</idno>
                 <idno type="geon">1980810</idno>
             </place>
             <place type="MT" xml:id="place_168">
                 <placeName xml:lang="ar-Latn-x-ijmes">Burummānā</placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">برمّانا</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>33.88333, 35.63056</tei:geo>
+                </tei:location>
                 <idno type="jaraid">168</idno>
                 <idno type="geon">276377</idno>
             </place>
             <place type="MT" xml:id="place_228">
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿAkkā</placeName>
                 <placeName change="#d2e154" xml:lang="ar">عكا</placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Acre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Akko</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">‘Akko</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="en">Akre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="fr">Acre</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Akko</tei:placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="de">Akkon</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>32.92814, 35.07647</tei:geo>
+                </tei:location>
                 <idno type="jaraid">228</idno>
                 <idno type="geon">295721</idno>
             </place>
@@ -22632,6 +22667,10 @@
             </place>
             <place type="VAL" xml:id="place_163">
                 <placeName xml:lang="en">Anfeh</placeName>
+                <tei:placeName source="#org_geon" type="alt" xml:lang="ar">أنفة</tei:placeName>
+                <tei:location source="#org_geon">
+                    <tei:geo>34.3575, 35.73083</tei:geo>
+                </tei:location>
                 <idno type="jaraid">163</idno>
                 <idno type="geon">278928</idno>
             </place>
