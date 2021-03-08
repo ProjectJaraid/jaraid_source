@@ -21850,9 +21850,12 @@
             <place type="town" xml:id="place_220">
                 <placeName xml:lang="ar-Latn-x-ijmes">ʿĀlayah</placeName>
                 <placeName change="#d2e154 #d6e157" ref="oape:place:28 geon:280425" xml:lang="ar">عاليه</placeName>
+                <placeName xml:lang="ar-Latn-x-ijmes">ʿĀliya</placeName>
+                <placeName change="#d2e154" xml:lang="ar">عالية</placeName>
                 <location source="#org_geon">
                     <geo>33.80528, 35.6</geo>
                 </location>
+                <idno type="jaraid">40</idno>
                 <idno type="jaraid">220</idno>
                 <idno type="url">http://en.wikipedia.org/wiki/Aley</idno>
                 <idno type="geon">280425</idno>
@@ -22541,15 +22544,6 @@
                 </tei:location>
                 <idno type="jaraid">19</idno>
                 <idno type="geon">276771</idno>
-            </place>
-            <place type="HLL" xml:id="place_40">
-                <placeName xml:lang="ar-Latn-x-ijmes">ʿĀliya</placeName>
-                <placeName change="#d2e154" xml:lang="ar">عالية</placeName>
-                <tei:location source="#org_geon">
-                    <tei:geo>33.80528, 35.6</tei:geo>
-                </tei:location>
-                <idno type="jaraid">40</idno>
-                <idno type="geon">280425</idno>
             </place>
             <place type="HLLS" xml:id="place_195">
                 <placeName xml:lang="ar-Latn-x-ijmes">Jabla</placeName>
