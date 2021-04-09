@@ -11575,15 +11575,8 @@
                 <tei:persName change="#d9e351" corresp="#persName_340.1" type="flattened" xml:id="persName_340.1.1" xml:lang="ar-Latn-x-ijmes">NajībGharghūr</tei:persName>
                 <persName change="#d2e154 #d3e179" ref="oape:pers:2599" xml:id="persName_340.2" xml:lang="ar">نجيب غرغور</persName>
                 <tei:persName change="#d9e351" corresp="#persName_340.2" type="flattened" xml:id="persName_340.2.1" xml:lang="ar">نجيبغرغور</tei:persName>
-                <idno type="jaraid">340</idno>
-                <idno type="oape">2599</idno>
-            </person>
-            <person xml:id="person_210">
-                <persName xml:id="persName_210.1" xml:lang="ar-Latn-x-ijmes">Najīb Gharghūr</persName>
-                <tei:persName change="#d9e351" corresp="#persName_210.1" type="flattened" xml:id="persName_210.1.1" xml:lang="ar-Latn-x-ijmes">NajībGharghūr</tei:persName>
-                <persName change="#d2e154 #d3e179" ref="oape:pers:2599" xml:id="persName_210.2" xml:lang="ar">نجيب غرغور</persName>
-                <tei:persName change="#d9e351" corresp="#persName_210.2" type="flattened" xml:id="persName_210.2.1" xml:lang="ar">نجيبغرغور</tei:persName>
                 <idno type="jaraid">210</idno>
+                <idno type="jaraid">340</idno>
                 <idno type="oape">2599</idno>
             </person>
             <person xml:id="person_1994">
@@ -20771,12 +20764,10 @@
                 <idno type="geon">352180</idno>
             </place>
             <place type="town" xml:id="place_197">
+                <placeName xml:lang="en">Bethlehem</placeName>
                 <placeName xml:lang="en">Betlehem</placeName>
-                <location source="#org_geon">
-                    <geo>48.71667, 18.61667</geo>
-                </location>
                 <idno type="jaraid">197</idno>
-                <idno type="geon">3061095</idno>
+                <idno type="geon">284315</idno>
             </place>
             <place type="town" xml:id="place_144">
                 <placeName xml:lang="en">Campos</placeName>
@@ -22714,11 +22705,8 @@
             <place type="town" xml:id="place_231">
                 <placeName xml:lang="ar-Latn-x-ijmes">Mardin</placeName>
                 <placeName change="#d2e154" xml:lang="ar">مردن</placeName>
-                <location source="#org_geon">
-                    <geo>26.65509, 58.52843</geo>
-                </location>
-                <idno type="jaraid">231</idno>
-                <idno type="geon">138208</idno>
+               <idno type="jaraid">231</idno>
+                <idno type="geon">304797</idno>
             </place>
             <place type="town" xml:id="place_12">
                 <placeName xml:lang="fr">Marseille</placeName>
@@ -23004,21 +22992,17 @@
                 <idno type="jaraid">195</idno>
                 <idno type="geon">105540</idno>
             </place>
-            <place type="HTL" xml:id="place_138">
-                <placeName xml:lang="en">Cleveland, OH</placeName>
-                <location source="#org_geon">
-                    <geo>41.4567, -81.4888</geo>
-                </location>
+            <place xml:id="place_553">
+                <placeName xml:lang="en">Cleveland</placeName>
                 <idno type="jaraid">138</idno>
-                <idno type="geon">6499980</idno>
+                <idno type="geon">5150529</idno>
+                <idno type="oape">553</idno>
             </place>
-            <place type="HTL" xml:id="place_139">
-                <placeName xml:lang="en">Terre Haute, IN</placeName>
-                <location source="#org_geon">
-                    <geo>39.4608, -87.4138</geo>
-                </location>
+            <place xml:id="place_554">
+                <placeName xml:lang="en">Terre Haute</placeName>
                 <idno type="jaraid">139</idno>
-                <idno type="geon">6468546</idno>
+                <idno type="geon">4265737</idno>
+                <idno type="oape">554</idno>
             </place>
             <place type="HTL" xml:id="place_31">
                 <placeName xml:lang="en">Nicosia, <geogName type="island" xml:lang="en">Cyprus</geogName> </placeName>
