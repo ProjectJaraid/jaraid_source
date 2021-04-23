@@ -4,10 +4,10 @@ subtitle: "Readme"
 author:
   - Till Grallert
   - Adam Mestyan
-date: 2020-12-23
+date: 2021-04-23
 ---
 
-Project Jarāʾid aims at providing a bibliography of all periodicals published in Arabic or in Arabic and additional languages between the beginning of the periodical press in the Eastern Mediterranean and 1929 (For a full documentation of the project, see the TEI XML master file). This repository holds the dataset for Project Jarāʾid. The dataset has been published as continuously updated static websites. First, at <https://www.zmo.de/jaraid/> in 2012 and since 2016 at <https://projectjaraid.github.io>. The interface continuous to evolve at the latter URL.
+Project Jarāʾid aims at providing a bibliography of all periodicals published in Arabic or in Arabic and additional languages between the beginning of the periodical press in the Eastern Mediterranean and 1929 (For a full documentation of the project, see the TEI XML master file). This repository holds the dataset for Project Jarāʾid. The dataset has been published as continuously updated static websites. First, at <https://www.zmo.de/jaraid/> in 2012 and since 2016 at <https://projectjaraid.github.io>. The interface continuous to evolve at the latter URL. We have also, lately, started to release the dataset in TEI XML serialisations, which can be found at <https://doi.org/10.5281/zenodo.4264985>.
 
 This repository contains the following folders and files
 
