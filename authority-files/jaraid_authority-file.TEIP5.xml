@@ -5,7 +5,12 @@
         <fileDesc>
             <titleStmt>
                 <title>Authority File for Project Jarāʾid</title>
-                <editor> <persName change="#d9e336" ref="oape:pers:4312" xml:id="pers_TG"> <forename>Till</forename> <surname>Grallert</surname> </persName> </editor>
+                <editor>
+                    <persName change="#d9e336" ref="oape:pers:4312" xml:id="pers_TG">
+                        <forename>Till</forename>
+                        <surname>Grallert</surname>
+                    </persName>
+                </editor>
                 <respStmt>
                     <resp>Contributed to the original file from which the entities were extracted</resp>
                     <persName xml:lang="en">Adam Mestyan</persName>
@@ -30,7 +35,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority> <persName change="#d9e336" ref="oape:pers:4312"> <forename>Till</forename> <surname>Grallert</surname> </persName> </authority>
+                <authority>
+                    <persName change="#d9e336" ref="oape:pers:4312">
+                        <forename>Till</forename>
+                        <surname>Grallert</surname>
+                    </persName>
+                </authority>
                 <date when="2020-11-05">2020</date>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en"
@@ -83,9 +93,13 @@
     <standOff>
         <listPerson>
             <person sameAs="jaraid:pers:298" xml:id="person_429">
-                <persName xml:id="persName_429.1" xml:lang="ar-Latn-x-ijmes"> <addName type="pseudonym">Maryam Mazhar</addName> </persName>
+                <persName xml:id="persName_429.1" xml:lang="ar-Latn-x-ijmes">
+                    <addName type="pseudonym">Maryam Mazhar</addName>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_429.1" type="flattened" xml:id="persName_429.1.1" xml:lang="ar-Latn-x-ijmes">MaryamMazhar</tei:persName>
-                <persName change="#d9e336" ref="oape:pers:925" xml:id="persName_429.2" xml:lang="ar"> <addName type="pseudonym">مريم مزهر</addName> </persName>
+                <persName change="#d9e336" ref="oape:pers:925" xml:id="persName_429.2" xml:lang="ar">
+                    <addName type="pseudonym">مريم مزهر</addName>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_429.2" type="flattened" xml:id="persName_429.2.1" xml:lang="ar">مريممزهر</tei:persName>
                 <idno type="jaraid">429</idno>
                 <idno type="oape">925</idno>
@@ -19541,45 +19555,71 @@
                 <idno type="jaraid">2207</idno>
             </person>
             <person xml:id="person_10">
-                <persName xml:id="persName_10.1" xml:lang="en"> <forename xml:lang="en">Hala</forename> <surname xml:lang="en">Auji</surname> </persName>
+                <persName xml:id="persName_10.1" xml:lang="en">
+                    <forename xml:lang="en">Hala</forename>
+                    <surname xml:lang="en">Auji</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_10.1" type="flattened" xml:id="persName_10.1.1" xml:lang="en">HalaAuji</tei:persName>
                 <idno type="jaraid">10</idno>
             </person>
             <person xml:id="person_15">
-                <persName xml:id="persName_15.1" xml:lang="en"> <forename xml:lang="en">Hugh</forename> <surname xml:lang="en">Cayless</surname> </persName>
+                <persName xml:id="persName_15.1" xml:lang="en">
+                    <forename xml:lang="en">Hugh</forename>
+                    <surname xml:lang="en">Cayless</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_15.1" type="flattened" xml:id="persName_15.1.1" xml:lang="en">HughCayless</tei:persName>
                 <idno type="jaraid">15</idno>
             </person>
             <person xml:id="person_2">
-                <persName xml:id="persName_2.1" xml:lang="fr"> <forename xml:lang="en">Philippe</forename> <surname xml:lang="en">Chevrant</surname> </persName>
+                <persName xml:id="persName_2.1" xml:lang="fr">
+                    <forename xml:lang="en">Philippe</forename>
+                    <surname xml:lang="en">Chevrant</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_2.1" type="flattened" xml:id="persName_2.1.1" xml:lang="fr">PhilippeChevrant</tei:persName>
                 <idno type="jaraid">2</idno>
             </person>
             <person xml:id="person_13">
-                <persName xml:id="persName_13.1" xml:lang="en"> <forename xml:lang="en">Marina</forename> <surname xml:lang="en">Demetriadou</surname> </persName>
+                <persName xml:id="persName_13.1" xml:lang="en">
+                    <forename xml:lang="en">Marina</forename>
+                    <surname xml:lang="en">Demetriadou</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_13.1" type="flattened" xml:id="persName_13.1.1" xml:lang="en">MarinaDemetriadou</tei:persName>
                 <idno type="jaraid">13</idno>
             </person>
             <person xml:id="person_3">
-                <persName xml:id="persName_3.1" xml:lang="en"> <forename xml:lang="en">Lamia</forename> <surname xml:lang="en">Eid</surname> </persName>
+                <persName xml:id="persName_3.1" xml:lang="en">
+                    <forename xml:lang="en">Lamia</forename>
+                    <surname xml:lang="en">Eid</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_3.1" type="flattened" xml:id="persName_3.1.1" xml:lang="en">LamiaEid</tei:persName>
                 <idno type="jaraid">3</idno>
             </person>
             <person xml:id="person_19">
-                <persName xml:id="persName_19.1" xml:lang="en"> <forename xml:lang="en">Stacy</forename> <surname xml:lang="en">Fahrenthold</surname> </persName>
+                <persName xml:id="persName_19.1" xml:lang="en">
+                    <forename xml:lang="en">Stacy</forename>
+                    <surname xml:lang="en">Fahrenthold</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_19.1" type="flattened" xml:id="persName_19.1.1" xml:lang="en">StacyFahrenthold</tei:persName>
                 <idno type="jaraid">19</idno>
             </person>
             <person xml:id="person_4">
-                <persName change="#d9e336" ref="oape:pers:4312" xml:id="persName_4.1" xml:lang="de"> <forename xml:lang="en">Till</forename> <surname xml:lang="en">Grallert</surname> </persName>
+                <persName change="#d9e336" ref="oape:pers:4312" xml:id="persName_4.1" xml:lang="de">
+                    <forename xml:lang="en">Till</forename>
+                    <surname xml:lang="en">Grallert</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_4.1" type="flattened" xml:id="persName_4.1.1" xml:lang="de">TillGrallert</tei:persName>
                 <idno type="jaraid">4</idno>
                 <idno type="oape">4312</idno>
             </person>
             <person xml:id="person_390">
-                <persName xml:id="persName_390.1" xml:lang="de"> <surname>Hartmann</surname> </persName>
+                <persName xml:id="persName_390.1" xml:lang="de">
+                    <surname>Hartmann</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_390.1" type="flattened" xml:id="persName_390.1.1" xml:lang="de">Hartmann</tei:persName>
-                <persName change="#d3e179 #d9e336" ref="oape:pers:2445" xml:id="persName_390.2" xml:lang="de"> <forename>Martin</forename> <surname>Hartmann</surname> </persName>
+                <persName change="#d3e179 #d9e336" ref="oape:pers:2445" xml:id="persName_390.2" xml:lang="de">
+                    <forename>Martin</forename>
+                    <surname>Hartmann</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_390.2" type="flattened" xml:id="persName_390.2.1" xml:lang="de">MartinHartmann</tei:persName>
                 <persName change="#d2e154 #d9e336" ref="oape:pers:2445" xml:id="persName_390.3" xml:lang="ar">هرتمن</persName>
                 <tei:persName change="#d9e351" corresp="#persName_390.3" type="flattened" xml:id="persName_390.3.1" xml:lang="ar">هرتمن</tei:persName>
@@ -19587,76 +19627,122 @@
                 <idno type="oape">2445</idno>
             </person>
             <person xml:id="person_9">
-                <persName xml:id="persName_9.1" xml:lang="en"> <forename xml:lang="en">Rana</forename> <surname xml:lang="en">Issa</surname> </persName>
+                <persName xml:id="persName_9.1" xml:lang="en">
+                    <forename xml:lang="en">Rana</forename>
+                    <surname xml:lang="en">Issa</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_9.1" type="flattened" xml:id="persName_9.1.1" xml:lang="en">RanaIssa</tei:persName>
                 <idno type="jaraid">9</idno>
             </person>
             <person xml:id="person_14">
-                <persName xml:id="persName_14.1" xml:lang="en"> <forename xml:lang="en">Nicole</forename> <surname xml:lang="en">Khayat</surname> </persName>
+                <persName xml:id="persName_14.1" xml:lang="en">
+                    <forename xml:lang="en">Nicole</forename>
+                    <surname xml:lang="en">Khayat</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_14.1" type="flattened" xml:id="persName_14.1.1" xml:lang="en">NicoleKhayat</tei:persName>
                 <idno type="jaraid">14</idno>
             </person>
             <person xml:id="person_17">
-                <persName xml:id="persName_17.1" xml:lang="en"> <forename xml:lang="en">Peter</forename> <surname xml:lang="en">Magierski</surname> </persName>
+                <persName xml:id="persName_17.1" xml:lang="en">
+                    <forename xml:lang="en">Peter</forename>
+                    <surname xml:lang="en">Magierski</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_17.1" type="flattened" xml:id="persName_17.1.1" xml:lang="en">PeterMagierski</tei:persName>
                 <idno type="jaraid">17</idno>
             </person>
             <person xml:id="person_6">
-                <persName xml:id="persName_6.1" xml:lang="en"> <forename xml:lang="en">Christian</forename> <surname xml:lang="en">Meier</surname> </persName>
+                <persName xml:id="persName_6.1" xml:lang="en">
+                    <forename xml:lang="en">Christian</forename>
+                    <surname xml:lang="en">Meier</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_6.1" type="flattened" xml:id="persName_6.1.1" xml:lang="en">ChristianMeier</tei:persName>
                 <idno type="jaraid">6</idno>
             </person>
             <person xml:id="person_22">
-                <persName xml:id="persName_22.1" xml:lang="und-Latn"> <roleName subtype="military" type="rank">General</roleName> <surname xml:lang="fr">Menou</surname> </persName>
+                <persName xml:id="persName_22.1" xml:lang="und-Latn">
+                    <roleName subtype="military" type="rank">General</roleName>
+                    <surname xml:lang="fr">Menou</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_22.1" type="flattened" xml:id="persName_22.1.1" xml:lang="und-Latn">GeneralMenou</tei:persName>
-                <tei:persName change="#d9e351" type="noAddName" xml:id="persName_22.1.2" xml:lang="und-Latn"> <surname xml:lang="fr">Menou</surname> </tei:persName>
+                <tei:persName change="#d9e351" type="noAddName" xml:id="persName_22.1.2" xml:lang="und-Latn">
+                    <surname xml:lang="fr">Menou</surname>
+                </tei:persName>
                 <tei:persName change="#d9e351" corresp="#persName_22.1.2" type="flattened" xml:id="persName_22.1.3" xml:lang="und-Latn">Menou</tei:persName>
                 <idno type="jaraid">22</idno>
             </person>
             <person xml:id="person_5">
-                <persName xml:id="persName_5.1" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname> </persName>
+                <persName xml:id="persName_5.1" xml:lang="en">
+                    <forename xml:lang="en">Adam</forename>
+                    <surname xml:lang="en">Mestyan</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_5.1" type="flattened" xml:id="persName_5.1.1" xml:lang="en">AdamMestyan</tei:persName>
                 <idno type="jaraid">5</idno>
             </person>
             <person xml:id="person_12">
-                <persName xml:id="persName_12.1" xml:lang="en"> <forename xml:lang="en">Daniel</forename> <surname xml:lang="en">Newman</surname> </persName>
+                <persName xml:id="persName_12.1" xml:lang="en">
+                    <forename xml:lang="en">Daniel</forename>
+                    <surname xml:lang="en">Newman</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_12.1" type="flattened" xml:id="persName_12.1.1" xml:lang="en">DanielNewman</tei:persName>
                 <idno type="jaraid">12</idno>
             </person>
             <person xml:id="person_7">
-                <persName xml:id="persName_7.1" xml:lang="en"> <forename xml:lang="en">Geoffrey</forename> <surname xml:lang="en">Roper</surname> </persName>
+                <persName xml:id="persName_7.1" xml:lang="en">
+                    <forename xml:lang="en">Geoffrey</forename>
+                    <surname xml:lang="en">Roper</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_7.1" type="flattened" xml:id="persName_7.1.1" xml:lang="en">GeoffreyRoper</tei:persName>
                 <idno type="jaraid">7</idno>
             </person>
             <person xml:id="person_16">
-                <persName xml:id="persName_16.1" xml:lang="en"> <forename xml:lang="en">Sinai</forename> <surname xml:lang="en">Rusinek</surname> </persName>
+                <persName xml:id="persName_16.1" xml:lang="en">
+                    <forename xml:lang="en">Sinai</forename>
+                    <surname xml:lang="en">Rusinek</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_16.1" type="flattened" xml:id="persName_16.1.1" xml:lang="en">SinaiRusinek</tei:persName>
                 <idno type="jaraid">16</idno>
             </person>
             <person xml:id="person_1">
-                <persName xml:id="persName_1.1" xml:lang="en"> <forename xml:lang="en">Philip</forename> <surname xml:lang="en">Sadgrove</surname> </persName>
+                <persName xml:id="persName_1.1" xml:lang="en">
+                    <forename xml:lang="en">Philip</forename>
+                    <surname xml:lang="en">Sadgrove</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_1.1" type="flattened" xml:id="persName_1.1.1" xml:lang="en">PhilipSadgrove</tei:persName>
                 <idno type="jaraid">1</idno>
             </person>
             <person xml:id="person_8">
-                <persName xml:id="persName_8.1" xml:lang="en"> <forename xml:lang="en">Ola</forename> <surname xml:lang="en">Seif</surname> </persName>
+                <persName xml:id="persName_8.1" xml:lang="en">
+                    <forename xml:lang="en">Ola</forename>
+                    <surname xml:lang="en">Seif</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_8.1" type="flattened" xml:id="persName_8.1.1" xml:lang="en">OlaSeif</tei:persName>
                 <idno type="jaraid">8</idno>
             </person>
             <person xml:id="person_11">
-                <persName xml:id="persName_11.1" xml:lang="en"> <forename xml:lang="en">Rogier</forename> <surname xml:lang="en">Visser</surname> </persName>
+                <persName xml:id="persName_11.1" xml:lang="en">
+                    <forename xml:lang="en">Rogier</forename>
+                    <surname xml:lang="en">Visser</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_11.1" type="flattened" xml:id="persName_11.1.1" xml:lang="en">RogierVisser</tei:persName>
                 <idno type="jaraid">11</idno>
             </person>
             <person xml:id="person_18">
-                <persName xml:id="persName_18.1" xml:lang="de"> <forename xml:lang="en">Leyla</forename> <surname xml:lang="en">von Mende</surname> </persName>
+                <persName xml:id="persName_18.1" xml:lang="de">
+                    <forename xml:lang="en">Leyla</forename>
+                    <surname xml:lang="en">von Mende</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_18.1" type="flattened" xml:id="persName_18.1.1" xml:lang="de">LeylavonMende</tei:persName>
                 <idno type="jaraid">18</idno>
             </person>
             <person xml:id="person_39">
-                <persName xml:id="persName_39.1" xml:lang="und-Latn"> <roleName subtype="military" type="rank">General</roleName> <surname xml:lang="ar-Latn-x-ijmes">Ḥusayn</surname> </persName>
+                <persName xml:id="persName_39.1" xml:lang="und-Latn">
+                    <roleName subtype="military" type="rank">General</roleName>
+                    <surname xml:lang="ar-Latn-x-ijmes">Ḥusayn</surname>
+                </persName>
                 <tei:persName change="#d9e351" corresp="#persName_39.1" type="flattened" xml:id="persName_39.1.1" xml:lang="und-Latn">GeneralḤusayn</tei:persName>
-                <tei:persName change="#d9e351" type="noAddName" xml:id="persName_39.1.2" xml:lang="und-Latn"> <surname xml:lang="ar-Latn-x-ijmes">Ḥusayn</surname> </tei:persName>
+                <tei:persName change="#d9e351" type="noAddName" xml:id="persName_39.1.2" xml:lang="und-Latn">
+                    <surname xml:lang="ar-Latn-x-ijmes">Ḥusayn</surname>
+                </tei:persName>
                 <tei:persName change="#d9e351" corresp="#persName_39.1.2" type="flattened" xml:id="persName_39.1.3" xml:lang="und-Latn">Ḥusayn</tei:persName>
                 <idno type="jaraid">39</idno>
             </person>
@@ -20542,6 +20628,691 @@
                 <idno type="jaraid">23</idno>
             </org>
         </listOrg>
+        <listOrg>
+            <org xml:id="hAEK">
+                <orgName>Atıf Effendi (Yazma Eser) Kütüphanesi, Istanbul</orgName>
+                <orgName type="jaraid">AEK</orgName>
+                <idno type="jaraid">hAEK</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hAH">
+                <orgName>Arshīf ʿĀmm al-Ḥukūma, Tunis</orgName>
+                <orgName type="jaraid">AʿH</orgName>
+                <idno type="jaraid">hAH</idno>
+               <location>
+                    <placeName>Tunis</placeName>
+                </location>
+            </org>
+            <org xml:id="hAKI">
+                <orgName>Atatürk Kitapliği, Istanbul</orgName>
+                <orgName type="jaraid">AKI</orgName>
+                <idno type="jaraid">hAKI</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hAKID">
+                <orgName>Atatürk Kitapliği, Digital Collection (available only at computers in the AKI), Istanbul</orgName>
+                <orgName type="jaraid">AKID</orgName>
+                <idno type="jaraid">hAKID</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hAM">
+                <orgName>Municipality Library, Alexandria</orgName>
+                <orgName type="jaraid">Alex Mun</orgName>
+                <idno type="jaraid">hAM</idno>
+               <location>
+                    <placeName>Alexandria</placeName>
+                </location>
+            </org>
+            <org xml:id="hFUAS">
+                <orgName>Freie Universität Berlin, Library of the Seminar für Semitistik und Arabistik</orgName>
+                <orgName type="jaraid">FUAS</orgName>
+                <idno type="jaraid">hFUAS</idno>
+               <location>
+                    <placeName>Berlin</placeName>
+                </location>
+            </org>
+            <org xml:id="hAUB">
+                <orgName>The Library of the American University in Beirut</orgName>
+                <orgName type="jaraid">AUB</orgName>
+                <idno type="jaraid">hAUB</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hAUC">
+                <orgName>The Library of the American University in Cairo</orgName>
+                <orgName type="jaraid">AUC</orgName>
+                <idno type="jaraid">hAUC</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hAYN">
+                <orgName>Maktabat Sāmī al-ʿAyntābī, Aleppo </orgName>
+                <orgName type="jaraid">Ayn</orgName>
+                <idno type="jaraid">hAYN</idno>
+               <location>
+                    <placeName>Aleppo</placeName>
+                </location>
+            </org>
+            <org xml:id="hBDK">
+                <orgName>Beyazit Kütüphanesi, Istanbul</orgName>
+                <orgName type="jaraid">BDK</orgName>
+                <idno type="jaraid">hBDK</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hBL">
+                <orgName>British Library, London</orgName>
+                <orgName type="jaraid">BL</orgName>
+                <idno type="jaraid">hBL</idno>
+               <location>
+                    <placeName>London</placeName>
+                </location>
+            </org>
+            <org xml:id="hBOA">
+                <orgName>T.C. Başbakanlık – Osmanlı Arşıvı, İstanbul</orgName>
+                <orgName type="jaraid">BOA</orgName>
+                <idno type="jaraid">hBOA</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+                <note>
+                    <note xml:lang="und-Latn">no entries in the table match this holding</note>
+                </note>
+            </org>
+            <org xml:id="hBOSJ">
+                <orgName>Bibliothèque Orientale, Université de Saint Joseph, Beirut</orgName>
+                <orgName type="jaraid">BOSJ</orgName>
+                <idno type="jaraid">hBOSJ</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hBNA">
+                <orgName>Bibliothèque nationale d'Algerie, Algiers</orgName>
+                <orgName type="jaraid">BnA</orgName>
+                <idno type="jaraid">hBNA</idno>
+               <location>
+                    <placeName>Algiers</placeName>
+                </location>
+            </org>
+            <org xml:id="hBNF">
+                <orgName>Bibliothèque national de France, Paris</orgName>
+                <orgName type="jaraid">BnF</orgName>
+                <idno type="jaraid">hBNF</idno>
+               <location>
+                    <placeName>Paris</placeName>
+                </location>
+            </org>
+            <org xml:id="hBOD">
+                <orgName>Bodleian Library, Oxford</orgName>
+                <orgName type="jaraid">Bod</orgName>
+                <idno type="jaraid">hBOD</idno>
+               <location>
+                    <placeName>Oxford</placeName>
+                </location>
+            </org>
+            <org xml:id="hBS">
+                <orgName>Bayerische Staatsbibliothek, München</orgName>
+                <orgName type="jaraid">BS</orgName>
+                <idno type="jaraid">hBS</idno>
+               <location>
+                    <placeName>Munich</placeName>
+                </location>
+            </org>
+            <org xml:id="hCAM">
+                <orgName>Libraries of the University of Cambridge</orgName>
+                <orgName type="jaraid">Cam</orgName>
+                <idno type="jaraid">hCAM</idno>
+               <location>
+                    <placeName>Cambridge</placeName>
+                </location>
+            </org>
+            <org xml:id="hCEAL">
+                <orgName>Centre d'Études Alexandrines, Alexandria</orgName>
+                <orgName type="jaraid">CEALEX</orgName>
+                <idno type="jaraid">hCEAL</idno>
+               <location>
+                    <placeName>Alexandria</placeName>
+                </location>
+            </org>
+            <org xml:id="hCORN">
+                <orgName>Cornell University Library, Cornell University</orgName>
+                <orgName type="jaraid">Cornell</orgName>
+                <idno type="jaraid">hCORN</idno>
+            </org>
+            <org xml:id="hDM">
+                <orgName>Dayr al-Mukhlis, Lebanon</orgName>
+                <orgName type="jaraid">Dayr al-Mukh</orgName>
+                <idno type="jaraid">hDM</idno>
+               <location>
+                    <placeName>Dayr al-Mukhlis</placeName>
+                </location>
+            </org>
+            <org xml:id="hDKQ">
+                <orgName>Dār al-Kutub al-Qawmiyya (Egyptian National Library), Cairo</orgName>
+                <orgName type="jaraid">DKQ</orgName>
+                <idno type="jaraid">hDKQ</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hDKQM">
+                <orgName>Dār al-Kutub al-Qawmiyya Microfilm Collection (Egyptian National Library), Cairo</orgName>
+                <orgName type="jaraid">DKQM</orgName>
+                <idno type="jaraid">hDKQM</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hDKW">
+                <orgName>Dār al-Kutub al-Waṭaniyya (Lebanese National Library), Beirut (closed,
+                        its collections moved)</orgName>
+                <orgName type="jaraid">DKW</orgName>
+                <idno type="jaraid">hDKW</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hFUI">
+                <orgName>Freie Universität Berlin, Library of the Institut für Islamwissenschaft</orgName>
+                <orgName type="jaraid">FUI</orgName>
+                <idno type="jaraid">hFUI</idno>
+               <location>
+                    <placeName>Berlin</placeName>
+                </location>
+            </org>
+            <org xml:id="hHARV">
+                <orgName>Libraries of Harvard University, Cambridge, MA, USA</orgName>
+                <orgName type="jaraid">Harv</orgName>
+                <idno type="jaraid">hHARV</idno>
+               <location>
+                    <placeName>Cambridge, MA</placeName>
+                </location>
+            </org>
+            <org xml:id="hHTU">
+                <orgName>Hakkı Tarık Us Collection of Beyazit State Library, Istanbul</orgName>
+                <orgName type="jaraid">HTU</orgName>
+                <idno type="jaraid">hHTU</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+                <note>. The collection of periodicals was digitized by the Beyazit State Library and the Tokyo University of Foreign Studies and is available <ref
+                    target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/" xml:lang="und-Latn">online</ref>.</note>
+            </org>
+            <org xml:id="hIDEO">
+                <orgName>Institut Dominicain d'Études Orientales au Caire, Cairo</orgName>
+                <orgName type="jaraid">IDEO</orgName>
+                <idno type="jaraid">hIDEO</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hIE">
+                <orgName>Institut Egyptien, Cairo</orgName>
+                <orgName type="jaraid">IE</orgName>
+                <idno type="jaraid">hIE</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hIMA">
+                <orgName>Institut du Monde Arabe, Paris</orgName>
+                <orgName type="jaraid">IMA</orgName>
+                <idno type="jaraid">hIMA</idno>
+               <location>
+                    <placeName>Paris</placeName>
+                </location>
+            </org>
+            <org xml:id="hIM">
+                <orgName>Iraq Museum, Baghdād, Iraq</orgName>
+                <orgName type="jaraid">Ir Mus</orgName>
+                <idno type="jaraid">hIM</idno>
+               <location>
+                    <placeName>Baghdad</placeName>
+                </location>
+            </org>
+            <org xml:id="hINA">
+                <orgName>Bibliothèque interuniversitaire des langues orientales, INALCO (Institut National des Langues et Civilisations Orientales, Paris)</orgName>
+                <orgName type="jaraid">INALCO</orgName>
+                <idno type="jaraid">hINA</idno>
+               <location>
+                    <placeName>Paris</placeName>
+                </location>
+            </org>
+            <org xml:id="hIO">
+                <orgName>India Office Library, London</orgName>
+                <orgName type="jaraid">Ind Off</orgName>
+                <idno type="jaraid">hIO</idno>
+               <location>
+                    <placeName>London</placeName>
+                </location>
+            </org>
+            <org xml:id="hIU">
+                <orgName>Istanbul Üniversitesi Merkez Kütüphanesi, Istanbul</orgName>
+                <orgName type="jaraid">IÜ</orgName>
+                <idno type="jaraid">hIU</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hKEW">
+                <orgName>Kew Library, Royal Botanic Gardens, Kew</orgName>
+                <orgName type="jaraid">Kew</orgName>
+                <idno type="jaraid">hKEW</idno>
+               <location>
+                    <placeName>London</placeName>
+                </location>
+            </org>
+            <org xml:id="hNEST">
+                <orgName>Near East School of Theology / Maktabat Kulliyyat al-Lāhu­t li'l-Sharq al-Adnā, Beirut</orgName>
+                <orgName type="jaraid">NEST</orgName>
+                <idno type="jaraid">hNEST</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hLEN">
+                <orgName>Institute of Oriental Manuscripts, Russian Academy of Sciences, St.
+                        Petersburg</orgName>
+                <orgName type="jaraid">Len</orgName>
+                <idno type="jaraid">hLEN</idno>
+               <location>
+                    <placeName>St. Petersburg</placeName>
+                </location>
+            </org>
+            <org xml:id="hLOC">
+                <orgName>Library of Congress, Washington, DC</orgName>
+                <orgName type="jaraid">LoC</orgName>
+                <idno type="jaraid">hLOC</idno>
+               <location>
+                    <placeName>Washington, DC</placeName>
+                </location>
+            </org>
+            <org xml:id="hMB">
+                <orgName>Maktabat al-Būlīsiyya, Lebanon</orgName>
+                <orgName type="jaraid">Mak al-Bulisiyya</orgName>
+                <idno type="jaraid">hMB</idno>
+               <location>
+                    <placeName>Lebanon</placeName>
+                </location>
+            </org>
+            <org xml:id="hMJU">
+                <orgName>Maktabt al-Jāmiʿa al-Urduniyya, ʿAmmān, Jordan</orgName>
+                <orgName type="jaraid">MJU</orgName>
+                <idno type="jaraid">hMJU</idno>
+               <location>
+                    <placeName>Amman</placeName>
+                </location>
+            </org>
+            <org xml:id="hMEC">
+                <orgName>Middle East Centre Library, St Antony's College, Oxford</orgName>
+                <orgName type="jaraid">MEC</orgName>
+                <idno type="jaraid">hMEC</idno>
+               <location>
+                    <placeName>Oxford</placeName>
+                </location>
+            </org>
+            <org xml:id="hMK">
+                <orgName>Millet (Yazma Eser) Kütüphanesi, Istanbul</orgName>
+                <orgName type="jaraid">MK</orgName>
+                <idno type="jaraid">hMK</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hMKAD">
+                <orgName>Milli Kütüphanesi (National Library of Turkey), Digital Periodical Collection (available online), Ankara</orgName>
+                <orgName type="jaraid">MKAD</orgName>
+                <idno type="jaraid">hMKAD</idno>
+               <location>
+                    <placeName>Ankara</placeName>
+                </location>
+                <note>
+                    <note xml:lang="und-Latn">no entries in the table match this holding</note>
+                </note>
+            </org>
+            <org xml:id="hMTQ">
+                <orgName>Markaz al-Tawthīq al-Qawmī, Tunis</orgName>
+                <orgName type="jaraid">MTQ</orgName>
+                <idno type="jaraid">hMTQ</idno>
+               <location>
+                    <placeName>Tunis</placeName>
+                </location>
+            </org>
+            <org xml:id="hNYPL">
+                <orgName>Public Library of New York</orgName>
+                <orgName type="jaraid">NYPL</orgName>
+                <idno type="jaraid">hNYPL</idno>
+               <location>
+                    <placeName>New York</placeName>
+                </location>
+            </org>
+            <org xml:id="hOIB">
+                <orgName>Orient-Institut Beirut</orgName>
+                <orgName type="jaraid">OIB</orgName>
+                <idno type="jaraid">hOIB</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hPUL">
+                <orgName>Princeton University Library, Princeton</orgName>
+                <orgName type="jaraid">Prin</orgName>
+                <idno type="jaraid">hPUL</idno>
+               <location>
+                    <placeName>Princeton</placeName>
+                </location>
+            </org>
+            <org xml:id="hSBB">
+                <orgName>Staatsbibliothek zu Berlin, Preußischer Kulturbesitz, Berlin</orgName>
+                <orgName type="jaraid">SBB</orgName>
+                <idno type="jaraid">hSBB</idno>
+               <location>
+                    <placeName>Berlin</placeName>
+                </location>
+            </org>
+            <org xml:id="hSK">
+                <orgName>Süleymaniye Kütüphanesi, Istanbul</orgName>
+                <orgName type="jaraid">SK</orgName>
+                <idno type="jaraid">hSK</idno>
+               <location>
+                    <placeName>Istanbul</placeName>
+                </location>
+            </org>
+            <org xml:id="hSOAS">
+                <orgName>School of Oriental and African Studies Library, University of London</orgName>
+                <orgName type="jaraid">SOAS</orgName>
+                <idno type="jaraid">hSOAS</idno>
+               <location>
+                    <placeName>London</placeName>
+                </location>
+            </org>
+            <org xml:id="hTUB">
+                <orgName>Library of Tübingen University, Tübingen</orgName>
+                <orgName type="jaraid">TUB</orgName>
+                <idno type="jaraid">hTUB</idno>
+               <location>
+                    <placeName>Tübingen</placeName>
+                </location>
+            </org>
+            <org xml:id="hUH">
+                <orgName>University of Haifa</orgName>
+                <orgName type="jaraid">UH</orgName>
+                <idno type="jaraid">hUH</idno>
+               <location>
+                    <placeName>Haifa</placeName>
+                </location>
+            </org>
+            <org xml:id="hZAH">
+                <orgName>al-Maktaba al-Ẓāhiriyya, Damascus</orgName>
+                <orgName type="jaraid">Zāh</orgName>
+                <idno type="jaraid">hZAH</idno>
+               <location>
+                    <placeName>Damascus</placeName>
+                </location>
+            </org>
+            <org xml:id="hZAGH">
+                <orgName>Matḥaf Saʿd Zaghl­l (Bayt al-Umma), Cairo</orgName>
+                <orgName type="jaraid">Zagh</orgName>
+                <idno type="jaraid">hZAGH</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hDKWT">
+                <orgName>Dār al-Kutub al-Waṭaniyya, Tunis</orgName>
+                <orgName type="jaraid">DKWT</orgName>
+                <idno type="jaraid">hDKWT</idno>
+               <location>
+                    <placeName>Tunis</placeName>
+                </location>
+            </org>
+            <org xml:id="hBU">
+                <orgName>University of Baghdad</orgName>
+                <orgName type="jaraid">UBagh</orgName>
+                <idno type="jaraid">hBU</idno>
+               <location>
+                    <placeName>Baghdad</placeName>
+                </location>
+            </org>
+            <org xml:id="hCU">
+                <orgName>Library of Cairo University</orgName>
+                <orgName type="jaraid">CU</orgName>
+                <idno type="jaraid">hCU</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+                <note>
+                    <note xml:lang="und-Latn">this is our guess</note>
+                </note>
+            </org>
+            <org xml:id="hDUR">
+                <orgName>Durham University Library</orgName>
+                <orgName type="jaraid">Dur</orgName>
+                <idno type="jaraid">hDUR</idno>
+               <location>
+                    <placeName>Durham</placeName>
+                </location>
+            </org>
+            <org xml:id="hNLI">
+                <orgName>National Library of Israel</orgName>
+                <orgName type="jaraid">NLoI</orgName>
+                <idno type="jaraid">hNLI</idno>
+               <location>
+                    <placeName>Jerusalem</placeName>
+                </location>
+                <note> Their collection of Ottoman and mandate Arabic Palestinian newspapers are digitalized in a dedicated website: <ref
+                    target="https://web.nli.org.il/sites/nlis/en/jrayed/Pages/all-titles.aspx" xml:lang="und-Latn">Jrayed - Arabic Newspaper Archive of Ottoman and Mandatory Palestine</ref> </note>
+            </org>
+            <org xml:id="hTET">
+                <orgName>Bibliothèque Générale et Archives de Tétouan, Tetouan,
+                           Morocco</orgName>
+                <orgName type="jaraid">Tet</orgName>
+                <idno type="jaraid">hTET</idno>
+               <location>
+                    <placeName>Tetouan</placeName>
+                </location>
+            </org>
+            <org xml:id="hMJA">
+                <orgName>Maktabat Jāmiʿat al-Azhar, Cairo</orgName>
+                <orgName type="jaraid">MJA</orgName>
+                <idno type="jaraid">hMJA</idno>
+               <location>
+                    <placeName>Cairo</placeName>
+                </location>
+            </org>
+            <org xml:id="hEAP119">
+                <orgName>Periodical collections at the al-Aqṣā Mosque Library in East Jerusalem</orgName>
+                <orgName type="jaraid">Aqṣā</orgName>
+                <idno type="jaraid">hEAP119</idno>
+                <location>
+                    <placeName>Jerusalem</placeName>
+                </location>
+                <note>. The collection was digitized by the "Endangered Archives Program" of the British Library and is available <ref
+                    target="http://eap.bl.uk/database/overview_project.a4d?projID=EAP119" xml:lang="und-Latn">online</ref>.</note>
+            </org>
+            <org xml:id="hCOL">
+                <orgName>Columbia University Library</orgName>
+                <orgName type="jaraid">Col</orgName>
+                <idno type="jaraid">hCOL</idno>
+                <location>
+                    <placeName>New York</placeName>
+                </location>
+            </org>
+            <org xml:id="hUPEN">
+                <orgName>University of Pennsylvania Libraries</orgName>
+                <orgName type="jaraid">UPenn</orgName>
+                <idno type="jaraid">hUPEN</idno>
+                <location>
+                    <placeName>Philadelphia</placeName>
+                </location>
+            </org>
+            <org xml:id="hSTAN">
+                <orgName>Stanford University, Hoover Library</orgName>
+                <orgName type="jaraid">Stan</orgName>
+                <idno type="jaraid">hSTAN</idno>
+                <location>
+                    <placeName>Stanford</placeName>
+                </location>
+            </org>
+            <org xml:id="hUUL">
+                <orgName>University of Utah Library</orgName>
+                <orgName type="jaraid">Utah</orgName>
+                <idno type="jaraid">hUUL</idno>
+               <location>
+                    <placeName>Salt Lake City</placeName>
+                </location>
+            </org>
+            <org xml:id="hSPL">
+                <orgName>St. Petersburg University Library, Russia</orgName>
+                <orgName type="jaraid">StPL</orgName>
+                <idno type="jaraid">hSPL</idno>
+                <location>
+                    <placeName>St. Petersburg</placeName>
+                </location>
+            </org>
+            <org xml:id="hYL">
+                <orgName>Yale University Libraries</orgName>
+                <orgName type="jaraid">Yale</orgName>
+                <idno type="jaraid">hYL</idno>
+                <location>
+                    <placeName>New Haven</placeName>
+                </location>
+            </org>
+            <org xml:id="hINL">
+                <orgName>Iraqi National Library and Archives</orgName>
+                <orgName type="jaraid">INL</orgName>
+                <idno type="jaraid">hINL</idno>
+                <location>
+                    <placeName>Baghdad</placeName>
+                </location>
+                <note>. Some of its holdings were digitized and are available through the
+                        <ref target="http://www.wdl.org/en/search/?institution=iraqi-national-library-and-archives" xml:lang="und-Latn">World Digital Library</ref>.</note>
+            </org>
+            <org xml:id="hBIBAL">
+                <orgName>Bibliotheca Alexandrina</orgName>
+                <orgName type="jaraid">BibAlex</orgName>
+                <idno type="jaraid">hBIBAL</idno>
+                <location>
+                    <placeName>Alexandria</placeName>
+                </location>
+                <note>. Some holdings are currently in the process of digitization and are made availabe through the <ref target="http://dar.bibalex.org/webpages/advancedsearch.jsf"
+                    xml:lang="und-Latn">Digital Assets Repository</ref>.</note>
+            </org>
+            <org xml:id="hBONN">
+                <orgName>Translatio, Universität Bonn, Germany</orgName>
+                <orgName type="jaraid">Bonn</orgName>
+                <idno type="jaraid">hBONN</idno>
+               <location>
+                    <placeName>Bonn</placeName>
+                </location>
+                <note>. Holdings are constantly digitized and made publicly available <ref target="http://www.translatio.uni-bonn.de" xml:lang="und-Latn">online</ref>.</note>
+            </org>
+            <org xml:id="hCRL">
+                <orgName>Center for Research Libraries</orgName>
+                <orgName type="jaraid">CRL</orgName>
+                <idno type="jaraid">hCRL</idno>
+                <note>. Provides access to inter-library loan of microfilms as well as digital collections. Access to the <ref target="http://catalog.crl.edu/search~S3" xml:lang="und-Latn"
+                    >collection</ref> is restricted to member institutions.</note>
+            </org>
+            <org xml:id="hDMW">
+                <orgName>Dāʾirat al-Maktaba al-Waṭaniyya, al-Urdun (Administration of National Library, Jordan)</orgName>
+                <orgName type="jaraid">DMW</orgName>
+                <idno type="jaraid">hDMW</idno>
+               <location>
+                    <placeName>Amman</placeName>
+                </location>
+            </org>
+            <org xml:id="hLONA">
+                <orgName>League of Nations Archives (Geneva, Switzerland)</orgName>
+                <orgName type="jaraid">LONA</orgName>
+                <idno type="jaraid">hLONA</idno>
+               <location>
+                    <placeName>Geneva</placeName>
+                </location>
+            </org>
+            <org xml:id="hMKHC">
+                <orgName>Moise A. Khayrallah Center for Lebanese Diaspora Studies, NC State University</orgName>
+                <orgName type="jaraid">MKHC</orgName>
+                <idno type="jaraid">hMKHC</idno>
+               <location>
+                    <placeName>Raleigh</placeName>
+                </location>
+            </org>
+            <org xml:id="hIHRC">
+                <orgName>Immigration History Research Center Archives, University of Minnesota</orgName>
+                <orgName type="jaraid">IHRC</orgName>
+                <idno type="jaraid">hIHRC</idno>
+               <location>
+                    <placeName>Minneapolis</placeName>
+                </location>
+            </org>
+            <org xml:id="hMMWB">
+                <orgName>Muʾassasat al-Maḥfūẓāt al-Waṭaniyya, Beirut (Centre des Archives Nationales)</orgName>
+                <orgName type="jaraid">MMWB</orgName>
+                <idno type="jaraid">hMMWB</idno>
+               <location>
+                    <placeName>Beirut</placeName>
+                </location>
+            </org>
+            <org xml:id="hCADC">
+                <orgName>Centre des Archives Diplomatiques, la Courneuve, Paris</orgName>
+                <orgName type="jaraid">CADC</orgName>
+                <idno type="jaraid">hCADC</idno>
+               <location>
+                    <placeName>Paris</placeName>
+                </location>
+            </org>
+            <org xml:id="hDUL">
+                <orgName>Duke University Library</orgName>
+                <orgName type="jaraid">DUL</orgName>
+                <idno type="jaraid">hDUL</idno>
+               <location>
+                    <placeName>Durham, NC</placeName>
+                </location>
+            </org>
+            <org xml:id="hUTL">
+                <orgName>University of Tokio, General Library</orgName>
+                <orgName type="jaraid">UTL</orgName>
+                <idno type="jaraid">hUTL</idno>
+               <location>
+                    <placeName>Tokio</placeName>
+                </location>
+            </org>
+            <org xml:id="hAPESP">
+                <orgName>Arquivo Público do Estado de São Paulo</orgName>
+                <orgName type="jaraid">APESP</orgName>
+                <idno type="jaraid">hAPESP</idno>
+               <location>
+                    <placeName>São Paulo</placeName>
+                </location>
+            </org>
+            <org xml:id="hUWL">
+                <orgName>University of Washington Library</orgName>
+                <orgName type="jaraid">UWL</orgName>
+                <idno type="jaraid">hUWL</idno>
+               <location>
+                    <placeName>Seattle</placeName>
+                </location>
+            </org>
+            <org xml:id="hPN">
+                <orgName>Perpustakaan Nasional - Indonasian National Library</orgName>
+                <orgName type="jaraid">PN</orgName>
+                <idno type="jaraid">hPN</idno>
+               <location>
+                    <placeName>Jakarta</placeName>
+                </location>
+            </org>
+        </listOrg>
         <listPlace>
             <place xml:id="place_115">
                 <placeName type="city" xml:lang="ar-Latn-x-ijmes">al-Ḥawāmidiyya</placeName>
@@ -20589,7 +21360,9 @@
                 <idno type="jaraid">178</idno>
             </place>
             <place type="country" xml:id="place_61">
-                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en"> <country xml:lang="en">Argentina</country> </placeName>
+                <placeName change="#d6e157" ref="oape:place:361 geon:3865483" xml:lang="en">
+                    <country xml:lang="en">Argentina</country>
+                </placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الأرجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="ar">الارجنتين</placeName>
                 <placeName source="#org_geon" type="alt" xml:lang="fr">Argentine</placeName>
@@ -22705,7 +23478,7 @@
             <place type="town" xml:id="place_231">
                 <placeName xml:lang="ar-Latn-x-ijmes">Mardin</placeName>
                 <placeName change="#d2e154" xml:lang="ar">مردن</placeName>
-               <idno type="jaraid">231</idno>
+                <idno type="jaraid">231</idno>
                 <idno type="geon">304797</idno>
             </place>
             <place type="town" xml:id="place_12">
