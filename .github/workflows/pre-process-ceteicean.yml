@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # This step checks out a copy of your repository.
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       # This step references the directory that contains the action.
       - name: Publish Updates
         env: 
