@@ -1,7 +1,4 @@
-FROM debian:buster-slim
-# Hack to prevent openjdk-11 install failing
-# there is a new problem with this hack and testing shows it is'nt necessary anymore 
-# RUN mkdir /usr/share/man/man1/ 
+FROM ubuntu:latest
 RUN apt-get update && apt-get -y install openjdk-11-jdk-headless \
   rename \
   wget \
