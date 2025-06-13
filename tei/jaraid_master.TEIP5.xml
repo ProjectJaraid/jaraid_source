@@ -35,6 +35,7 @@
                <persName xml:lang="en"><forename xml:lang="en">Johannes</forename> <surname xml:lang="en">Makar</surname> </persName>
                <persName xml:lang="en"><forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
                <persName xml:lang="en"><forename xml:lang="en">Alan</forename> <surname xml:lang="en">Guenther</surname> </persName>
+               <persName xml:lang="en"><forename xml:lang="en">Basma</forename> <surname xml:lang="en">Chebani</surname> </persName>
                
             </respStmt>
          </titleStmt>
@@ -66,6 +67,8 @@
                <persName resp="#pAM" xml:id="pJM" xml:lang="en"> <forename xml:lang="en">Johannes</forename> <surname xml:lang="en">Makar</surname> </persName>
                <persName resp="#pAM" xml:id="pWH" xml:lang="en"> <forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
                <persName resp="#pAM" xml:id="pAG" xml:lang="en"> <forename xml:lang="en">Alan</forename> <surname xml:lang="en">Guenther</surname> </persName>
+               <persName resp="#pAM" xml:id="pBC" xml:lang="en"> <forename xml:lang="en">Basma</forename> <surname xml:lang="en">Chebani</surname> </persName>
+               
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed and a reference to the contributor's xml:id -->
             </respStmt>
             <respStmt xml:lang="en">
@@ -259,7 +262,7 @@
             <head xml:lang="en">A Chronology of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
-            <p xml:id="p3" xml:lang="en">Contributions from Hala Auji, Philippe Chevrant, Raph Cormack, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Ulrike Freitag, Till Grallert, Alan Guenther, Will Hanley, Rana Issa, Nicole Khayat, Peter Magierski, Johannes Makar, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
+            <p xml:id="p3" xml:lang="en">Contributions from Hala Auji, Basma Chebani, Philippe Chevrant, Raph Cormack, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Ulrike Freitag, Till Grallert, Alan Guenther, Will Hanley, Rana Issa, Nicole Khayat, Peter Magierski, Johannes Makar, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till Grallert</p>
@@ -2388,7 +2391,8 @@
                      <rs ref="#aghart1" xml:lang="und-Latn">+</rs>
                   </cell>
                   <cell n="9" xml:lang="und-Latn">
-                     <rs ref="#hBL" xml:lang="und-Latn">BL</rs>: 1874</cell>
+                     <rs ref="#hBL" xml:lang="und-Latn">BL</rs>: 1874; <rs ref="#hAUB">AUB</rs>
+                     <ref target="https://libraries.aub.edu.lb/digital-collections/collection/al-tabib" xml:lang="eng">online</ref></cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">اخبار طبية</title>
                   </cell>
@@ -2579,7 +2583,7 @@
                      <rs ref="#hDKW" xml:lang="und-Latn">DKW</rs>, <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs>, <rs ref="#hFUI" xml:lang="und-Latn">FUI:
                         1875-1908</rs>, <rs ref="#hHTU" xml:lang="und-Latn">HTU: 1 issue of 1887<add resp="#pTG" xml:lang="und-Latn">
                            <ref target="http://www.tufs.ac.jp/common/fs/asw/tur/htu/data/HTU1998/index.djvu"/></add></rs>
-                     <add resp="#pTG" xml:lang="und-Latn">, <rs ref="#hAUB" xml:lang="und-Latn">AUB</rs>: 1875-1908 (microfilm, n. 26),<rs ref="#hMEC" xml:lang="und-Latn">MEC</rs> microfilm: 1875-1908</add>, <add resp="#pTG" xml:lang="und-Latn">
+                     <add resp="#pTG" xml:lang="und-Latn">, <rs ref="#hAUB" xml:lang="und-Latn">AUB</rs>: 1875-1908 (microfilm, n. 26), also <ref target="https://libraries.aub.edu.lb/digital-collections/collection/thamarat-al-funun" xml:lang="eng">online</ref>; <rs ref="#hMEC" xml:lang="und-Latn">MEC</rs> microfilm: 1875-1908</add>, <add resp="#pTG" xml:lang="und-Latn">
                         <rs ref="#hOIB" xml:lang="und-Latn">OIB</rs>: digitized copies on DVD
                         (1886-1891, 1897-1901, 1904-1906, 1908)</add>, <rs ref="#hBL" xml:lang="und-Latn">BL</rs>: 1877</cell>
                   <cell change="#d2e947" n="10">
@@ -6063,7 +6067,7 @@
                   <cell n="8"/>
                   <cell n="9">
                      <rs ref="#hAUB">AUB</rs>
-                     <ref target="http://ddc.aub.edu.lb/projects/saab/S50T11v1/index.html" xml:lang="eng">online</ref>
+                     <ref target="https://libraries.aub.edu.lb/digital-collections/collection/al-tabib" xml:lang="eng">online</ref>
                   </cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">الطبيب</title>
@@ -80610,7 +80614,7 @@
                   <cell n="8" xml:lang="und-Latn">
                      <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
                   </cell>
-                  <cell n="9"/>
+                  <cell n="9"> <rs ref="#hAUB">AUB</rs>: <ref target="https://libraries.aub.edu.lb/digital-collections/collection/women-periodicals" xml:lang="eng">online: 1921-27</ref></cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">المرأة الجديدة</title>
                   </cell>
