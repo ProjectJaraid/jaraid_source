@@ -282,7 +282,7 @@
             <p xml:lang="en">Although it is meant to include all periodicals published in Arabic or in Arabic <hi rend="italic" xml:lang="en">and</hi> in another language (such as the usual pair of Arabic and Ottoman Turkish) or in Arabic written in a different script (such as Judeo-Arabic)
                during the period from 1800 to 1929, this chronology is certainly incomplete.
                Furthermore, there remain numerous problems with dating and locating individual publications as well as identifying their owners, editors, or publishers.</p>
-            <p xml:lang="en">Thus, at the moment we consciously publish a working draft with the purpose of making our information available to the scholarly community. We welcome all readers to submit any comment, corrections, and new data using <ref rend="external" target="https://scholars.duke.edu/person/Adam.Mestyan"><persName change="#d9e1084" ref="jaraid:pers:5" xml:id="persName_46.d3e859" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname>
+            <p xml:lang="en">Thus, at the moment we consciously publish a working draft with the purpose of making our information available to the scholarly community. We welcome all readers to submit any comment, corrections, and new data using <ref rend="external" target="https://nelc.fas.harvard.edu/people/adam-mestyan"><persName change="#d9e1084" ref="jaraid:pers:5" xml:id="persName_46.d3e859" xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname>
                </persName></ref>'s official email address. We would like to ask all contributors to always refer to the ID of each title – in case of comments on existing entries – and cite their sources, as otherwise we cannot consider the submission for being included in the table. Every contribution will be acknowledged.</p>
             <p xml:lang="en">We chose to present the core data as a table containing information on titles, dates of first and last issue published, place(s) of publication, names of publishers and editors, language(s) of publication, and available collections (so far only in English/transliteration but Arabic indexes are coming as well). In addition, we provide various indexes of holding institutions and locations, as well as a bibliography of the most important secondary sources and available union catalogues. To search any part of the website, simply the browser's search function should be invoked (Ctrl-F for Windows,
                Cmd-F for Mac OSX). </p>
@@ -394,6 +394,9 @@
                         (1863-66): A Neglected Field,” <hi rend="italic" xml:lang="en">Supplement of Semitic Studies</hi>, 24 (2008): 109-128.</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">ʿAbd al-ʿAzīz Sharaf, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-waḥda wa'l-tanawwuʿ fī tārīkh al-ṣiḥāfa al-ʿArabiyya</hi>, (Cairo: Al-Hayʾa al-Miṣriyya al-ʿĀmma li'l-Kitāb, 2002).</bibl> </p>
                <p xml:lang="en"> <bibl xml:lang="ar-Latn-x-ijmes">Hilāl al-Shāyijī, <hi rend="italic" xml:lang="ar-Latn-x-ijmes">Al-ṣiḥāfa fi'l-Kuwayt wa'l-Baḥrayn mundhū nashʾati-hā ḥattā ʿahd al-istiqlāl</hi> (Al-Manāma: Maṭbūʿāt Bānūrāmā al-Khalīj, 1989).</bibl> </p>
+               
+               <p xml:lang="en"> <bibl xml:lang="en">William R. Roff, <hi rend="italic" xml:lang="en">Bibliography of Malay and Arabic Periodicals Published in the Straits Settlements and Peninsular Malay States 1876-1941: With an Annotated Union List of Holdings in Malaysia, Singapore and the United Kingdom</hi> (London: Oxford University Press, 1972).</bibl> </p>
+               
             </div>
             <div xml:id="dCat" xml:lang="en">
                <head xml:lang="en">Union Catalogues</head>
@@ -5010,7 +5013,7 @@
                   <cell n="7"/>
                   <cell n="8" xml:lang="und-Latn">
                      <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>, <rs ref="#ags" xml:lang="und-Latn">S</rs></cell>
-                  <cell n="9" xml:lang="und-Latn">Printed (<placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:360630 jaraid:place:1" xml:lang="und-Latn">Cairo</placeName>: Al-Hayʾa al-Miṣriyya al-ʿĀmma
+                  <cell n="9" xml:lang="und-Latn"><ref target="https://archive.org/details/Heliopolis1957_gmail_20180718_2234/page/n79/mode/2up">Facsimile edition</ref> (<placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:360630 jaraid:place:1" xml:lang="und-Latn">Cairo</placeName>: Al-Hayʾa al-Miṣriyya al-ʿĀmma
                      li'l-Kitāb, 1994) and <rs ref="#hBL" xml:lang="und-Latn">BL</rs></cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">التنكيت والتبكيت </title>
@@ -12132,33 +12135,7 @@
                   
                   
                <cell n="11"><persName ref="jaraid:pers:363" xml:lang="ar">حجيب فضلي</persName> / <persName ref="jaraid:pers:210 oape:pers:2599" xml:lang="ar">نجيب غرغور</persName></cell><cell n="12"><placeName ref="geon:360630 jaraid:place:1" xml:lang="ar">القاهرة</placeName></cell></row>
-               <row n="483" role="data" xml:id="t1r483" xml:lang="und-Latn">
-                  <cell n="1" xml:lang="und-Latn">
-                     <date when="1895" xml:lang="und-Latn">1895</date>
-                  </cell>
-                  <cell n="2"/>
-                  <cell n="3" xml:lang="und-Latn">still <date when="1899" xml:lang="und-Latn">1899</date></cell>
-                  <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Anīs al-Jalīs</name>
-                  </cell>
-                  <cell n="5" xml:lang="und-Latn">
-                     <placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:361058 jaraid:place:4" xml:lang="und-Latn">Alexandria</placeName>
-                  </cell>
-                  <cell n="6" xml:lang="und-Latn">
-                     <persName ref="jaraid:pers:364" xml:lang="und-Latn">Alexandra
-                        Avierino</persName> and <persName change="#d9e1084" ref="jaraid:pers:365 oape:pers:2247" xml:lang="und-Latn">Labība
-                        Hāshim</persName></cell>
-                  <cell n="7"/>
-                  <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#aghart2" xml:lang="und-Latn">+!</rs>
-                  </cell>
-                  <cell n="9"/>
-                  <cell change="#d2e947" n="10">
-                     <title level="j" xml:lang="ar">انيس الجليس</title>
-                  </cell>
-                  
-                  
-               <cell n="11"><persName ref="jaraid:pers:364" xml:lang="und">Alexandra Avierino</persName> / <persName ref="jaraid:pers:365 oape:pers:2247" xml:lang="ar">لبيبة هاشم</persName></cell><cell n="12"><placeName ref="geon:361058 jaraid:place:4" xml:lang="ar">الاسكندرية</placeName></cell></row>
+               
                <row n="484" role="data" xml:id="t1r484" xml:lang="und-Latn">
                   <cell n="1" xml:lang="und-Latn">
                      <date when="1895-10-15" xml:lang="und-Latn">1895</date>
@@ -15148,29 +15125,7 @@
                   
                   
                <cell n="11"/><cell n="12"><placeName ref="geon:360630 jaraid:place:1" xml:lang="ar">القاهرة</placeName></cell></row>
-               <row n="599" role="data" xml:id="t1r599" xml:lang="und-Latn">
-                  <cell n="1" xml:lang="und-Latn">
-                     <date when="1897-10-24" xml:lang="und-Latn">1897</date>
-                  </cell>
-                  <cell n="2" xml:lang="und-Latn">24 Oct.</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Ḥulwān</name>
-                  </cell>
-                  <cell n="5"/>
-                  <cell n="6" xml:lang="und-Latn">
-                     <persName ref="jaraid:pers:473" xml:lang="und-Latn">Ḥamdī Yūsuf Bey
-                        Yakan</persName> and <persName ref="jaraid:pers:474" xml:lang="und-Latn">Maḥmūd/Muḥammad Effendi Ṭāhir</persName></cell>
-                  <cell n="7"/>
-                  <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#aghart2" xml:lang="und-Latn">+!</rs>, <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs></cell>
-                  <cell n="9"/>
-                  <cell change="#d2e947" n="10">
-                     <title level="j" xml:lang="ar">حلوان</title>
-                  </cell>
-                  
-                  
-               <cell n="11"><persName ref="jaraid:pers:473" xml:lang="ar">حمدي يوسف بك يكن</persName> / <persName ref="jaraid:pers:474" xml:lang="ar">محمود محمد افندي طاهر /</persName></cell><cell n="12"/></row>
+               
                <row n="600" role="data" xml:id="t1r600" xml:lang="und-Latn">
                   <cell n="1" xml:lang="und-Latn">
                      <date when="1897-11-22" xml:lang="und-Latn">1897</date>
@@ -16273,15 +16228,15 @@
                   </cell>
                   <cell n="6" xml:lang="und-Latn">
                      <persName ref="jaraid:pers:508" xml:lang="und-Latn">Aliksandrā Khūrī
-                        Afrīnūh/Alexandra Meltiyadi Aferino</persName>
+                        Afrīnūh/Alexandra Meltiyadi Aferino</persName>; <persName xml:lang="und-Latn">Labība Hāshim</persName>
                   </cell>
                   <cell n="7"/>
                   <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>, <rs ref="#ags" xml:lang="und-Latn">S</rs></cell>
+                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>, <rs ref="#ags" xml:lang="und-Latn">S</rs>, <rs ref="#aghart2" xml:lang="und-Latn">+!</rs></cell>
                   <cell n="9" xml:lang="und-Latn">
                      <rs ref="#hLOC" xml:lang="und-Latn">LOC</rs>, <rs ref="#hCU" xml:lang="und-Latn">CU</rs>, <rs ref="#hBNF" xml:lang="und-Latn">BnF</rs>,
                         <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs>?, <rs ref="#hIU" xml:lang="und-Latn">IÜ</rs>, <rs ref="#hAUC" xml:lang="und-Latn">AUC</rs>
-                     (microform)</cell>
+                     (microform), <rs ref="#hUHC" xml:lang="und-Latn">UHC</rs>: v1-6 (1898-1903)</cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">انيس الجليس</title>
                   </cell>
@@ -20710,7 +20665,7 @@
                   <cell n="2" xml:lang="und-Latn">1 Jan.</cell>
                   <cell n="3"/>
                   <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Al-Majmūʿa al-Rasmiyya li'l-Maḥākim al-Ahliyya</name>
+                     <name xml:lang="und-Latn">Al-Majmūʿa al-Rasmiyya li-l-Maḥākim al-Ahliyya</name>, <name xml:lang="en">Official Bulletin of the Native Courts</name>
                   </cell>
                   <cell n="5" xml:lang="und-Latn">
                      <placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:360630 jaraid:place:1" xml:lang="und-Latn">Cairo</placeName>
@@ -35056,7 +35011,7 @@
                         Yakan</persName> [Yeğen], <persName ref="jaraid:pers:528" xml:lang="und-Latn">Maḥmūd Ṭāhir</persName></cell>
                   <cell n="7" xml:lang="und-Latn"/>
                   <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
+                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>, <rs ref="#aghart2" xml:lang="und-Latn">+!</rs>
                   </cell>
                   <cell n="9" xml:lang="und-Latn"/>
                   <cell change="#d2e947" n="10">
@@ -52827,12 +52782,14 @@
                   <cell n="6" xml:lang="und-Latn">
                      <persName change="#d3e1000 #d9e1084" ref="viaf:306137154 jaraid:pers:1663 oape:pers:2805 wiki:Q12178968" xml:lang="und-Latn">Aḥmad ʿĀrif al-Zayn</persName>
                   </cell>
-                  <cell n="7" xml:lang="und-Latn"/>
+                  <cell n="7" xml:lang="und-Latn"><rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>: Shīʿī
+                     journal</cell>
                   <cell n="8" xml:lang="und-Latn">
-                     <rs xml:lang="und-Latn">first issue</rs>
+                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
                   </cell>
                   <cell n="9">
-                     <rs ref="#hBONN" xml:lang="und-Latn">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-73761" xml:lang="und-Latn">online, 1910-1946</ref></rs>
+                     <rs ref="#hBONN" xml:lang="und-Latn">BONN: <ref target="https://nbn-resolving.de/urn:nbn:de:hbz:5:1-73761" xml:lang="und-Latn">online, 1910-1946</ref></rs>, <rs ref="#hMJU" resp="#pAM" xml:lang="und-Latn">MJU</rs>:
+                     1920-84
                   </cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">العرفان</title>
@@ -55815,32 +55772,7 @@
                   
                   
                <cell n="11"><persName ref="jaraid:pers:1753" xml:lang="ar">الخوري افتيموس عفيش</persName> / <persName ref="jaraid:pers:1754" xml:lang="ar">حافظ عبد الملك</persName></cell><cell n="12"><placeName ref="geon:6077243 jaraid:place:136" xml:lang="ar">مونتريال</placeName></cell></row>
-               <row n="2134" resp="#pAM" role="data" xml:id="t1r2146" xml:lang="und-Latn">
-                  <cell n="1">
-                     <date when="1899-12-01" xml:lang="und-Latn">1899</date>
-                  </cell>
-                  <cell n="2" xml:lang="und-Latn">December/1</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Al-Waṭaniyya</name>
-                  </cell>
-                  <cell n="5" xml:lang="und-Latn">
-                     <placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:4560349 jaraid:place:47" xml:lang="und-Latn">Philadelphia</placeName>
-                  </cell>
-                  <cell n="6" xml:lang="und-Latn">
-                     <persName change="#d3e1000 #d9e1084" ref="viaf:44217468 jaraid:pers:335 oape:pers:935 wiki:Q12248715" xml:lang="und-Latn">Naʿūm Mukarzal</persName>
-                  </cell>
-                  <cell n="7" xml:lang="und-Latn"/>
-                  <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
-                  </cell>
-                  <cell n="9"/>
-                  <cell change="#d2e947" n="10">
-                     <title level="j" xml:lang="ar">الوطنية</title>
-                  </cell>
-                  
-                  
-               <cell n="11"><persName ref="viaf:44217468 jaraid:pers:335 oape:pers:935 wiki:Q12248715" xml:lang="ar">نعوم مكرزل</persName></cell><cell n="12"><placeName ref="geon:4560349 jaraid:place:47" xml:lang="ar">فيلادلفيا</placeName></cell></row>
+               
                <row n="2135" resp="#pAM" role="data" xml:id="t1r2147" xml:lang="und-Latn">
                   <cell n="1">
                      <date when="1905-01-07" xml:lang="und-Latn">1905</date>
@@ -81687,34 +81619,7 @@
                   
                   
                <cell n="11"><persName ref="jaraid:pers:2569" xml:lang="ar">عبد الحليم مراد</persName> / <persName ref="jaraid:pers:2570" xml:lang="ar">عبد الله الشامي</persName></cell><cell n="12"><placeName ref="geon:266826 jaraid:place:158" xml:lang="ar">طرابلس الشام</placeName></cell></row>
-               <row n="3109" resp="#pAM" role="data" xml:id="t1r3121" xml:lang="und-Latn">
-                  <cell n="1">
-                     <date when="1909-02-05" xml:lang="und-Latn">1909</date>
-                  </cell>
-                  <cell n="2" xml:lang="und-Latn">February/5</cell>
-                  <cell n="3"/>
-                  <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Al-ʿUrfān</name>
-                  </cell>
-                  <cell n="5" xml:lang="und-Latn">
-                     <placeName change="#d6e936 #d9e1057 #d9e1100" ref="geon:268064 jaraid:place:121" xml:lang="und-Latn">Sayda</placeName>
-                  </cell>
-                  <cell n="6" xml:lang="und-Latn">
-                     <persName change="#d3e1000 #d9e1084" ref="viaf:306137154 jaraid:pers:1663 oape:pers:2805 wiki:Q12178968" xml:lang="und-Latn">Aḥmad ʿĀrif al-Zayn</persName>
-                  </cell>
-                  <cell n="7" xml:lang="und-Latn"><rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>: Shīʿī
-                     journal</cell>
-                  <cell n="8" xml:lang="und-Latn">
-                     <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
-                  </cell>
-                  <cell n="9"><rs ref="#hMJU" resp="#pAM" xml:lang="und-Latn">MJU</rs>:
-                     1920-84</cell>
-                  <cell change="#d2e947" n="10">
-                     <title level="j" xml:lang="ar">العرفان</title>
-                  </cell>
-                  
-                  
-               <cell n="11"><persName ref="viaf:306137154 jaraid:pers:1663 oape:pers:2805 wiki:Q12178968" xml:lang="ar">احمد عارف الزين</persName></cell><cell n="12"><placeName ref="geon:268064 jaraid:place:121" xml:lang="ar">صيدى</placeName></cell></row>
+               
                <row n="3110" resp="#pAM" role="data" xml:id="t1r3122" xml:lang="und-Latn">
                   <cell n="1">
                      <date when="1913-01-01" xml:lang="und-Latn">1913</date>
@@ -86844,11 +86749,11 @@
                      <persName ref="jaraid:pers:2721" xml:lang="und-Latn">Muḥammad Sālim
                         al-Kalālī</persName>
                   </cell>
-                  <cell n="7" xml:lang="und-Latn"/>
+                  <cell n="7" xml:lang="und-Latn">Malay, only occasionally Arabic</cell>
                   <cell n="8" xml:lang="und-Latn">
                      <rs ref="#agt" xml:lang="und-Latn">Ṭ</rs>
                   </cell>
-                  <cell n="9"/>
+                  <cell n="9">online available at <rs ref="#hNUSL" xml:lang="und-Latn">NUSL</rs>: <ref resp="#pAM" target="https://linc.nus.edu.sg/record=b4535122">v1-7</ref></cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">الامام</title>
                   </cell>
@@ -87333,7 +87238,7 @@
                   <cell n="2" xml:lang="und-Latn">October</cell>
                   <cell n="3">still in 1931</cell>
                   <cell n="4" xml:lang="und-Latn">
-                     <name xml:lang="und-Latn">Barhūt</name>, </cell>
+                     <name xml:lang="und-Latn">Barhūt</name></cell>
                   <cell n="5" xml:lang="und-Latn">
                      <placeName change="#d9e1057 #d9e1100" ref="geon:1642911 jaraid:place:211" xml:lang="und-Latn">Batavia</placeName>, after n. 4 <placeName change="#d9e1057 #d9e1100" ref="geon:7772535 jaraid:place:241" xml:lang="und-Latn">Solo</placeName>
                   </cell>
@@ -87646,7 +87551,7 @@
                   </choice> </p>
                <p xml:id="hMJU"> <choice>
                   <abbr xml:lang="und-Latn">MJU</abbr>
-                  <expan xml:lang="ar-Latn-x-ijmes">Maktabt al-Jāmiʿa al-Urduniyya, ʿAmmān, Jordan</expan>
+                  <expan xml:lang="ar-Latn-x-ijmes">Maktabat al-Jāmiʿa al-Urduniyya, ʿAmmān, Jordan</expan>
                   </choice> </p>
                <p xml:id="hMEC" xml:lang="und-Latn"> <choice xml:lang="und-Latn">
                   <abbr xml:lang="und-Latn">MEC</abbr>
@@ -87850,6 +87755,14 @@
                   <p xml:id="hNAB" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2025-05-12"/>added</note> <choice xml:lang="und-Latn">
                         <abbr xml:lang="und-Latn">NAB</abbr>
                         <expan xml:lang="und-Latn">The National Archives of Britain</expan>
+                  </choice> </p>
+                  <p xml:id="hNUSL" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2025-12-07"/>added</note> <choice xml:lang="und-Latn">
+                        <abbr xml:lang="und-Latn">NUSL</abbr>
+                        <expan xml:lang="und-Latn">National University of Singapore Library</expan>
+                  </choice> </p>
+                  <p xml:id="hUCLA" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2025-12-07"/>added</note> <choice xml:lang="und-Latn">
+                        <abbr xml:lang="und-Latn">UCLA</abbr>
+                        <expan xml:lang="und-Latn">University of California - Los Angeles Library</expan>
                   </choice> </p>
                </div>
             </div>
