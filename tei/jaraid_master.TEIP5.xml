@@ -16242,7 +16242,7 @@
                   </cell>
                   
                   
-               <cell n="11"><persName ref="jaraid:pers:508" xml:lang="ar">الكسندرا خوري افرينوه</persName></cell><cell n="12"><placeName ref="geon:360630 jaraid:place:1" xml:lang="ar">القاهرة</placeName></cell></row>
+               <cell n="11"><persName ref="jaraid:pers:508" xml:lang="ar">الكسندرا خوري افرينوه</persName> / <persName xml:lang="ar">لبيبة هاشم</persName></cell><cell n="12"><placeName ref="geon:360630 jaraid:place:1" xml:lang="ar">القاهرة</placeName></cell></row>
                <row n="643" role="data" xml:id="t1r643" xml:lang="und-Latn">
                   <cell n="1" xml:lang="und-Latn">
                      <date when="1898-05-05" xml:lang="und-Latn">1898</date>
