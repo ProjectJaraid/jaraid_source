@@ -36,6 +36,7 @@
                <persName xml:lang="en"><forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
                <persName xml:lang="en"><forename xml:lang="en">Alan</forename> <surname xml:lang="en">Guenther</surname> </persName>
                <persName xml:lang="en"><forename xml:lang="en">Basma</forename> <surname xml:lang="en">Chebani</surname> </persName>
+               <persName xml:lang="en"><forename xml:lang="en">Mathias</forename> <surname xml:lang="en">Ghyoot</surname></persName>
                
             </respStmt>
          </titleStmt>
@@ -68,6 +69,8 @@
                <persName resp="#pAM" xml:id="pWH" xml:lang="en"> <forename xml:lang="en">Will</forename> <surname xml:lang="en">Hanley</surname> </persName>
                <persName resp="#pAM" xml:id="pAG" xml:lang="en"> <forename xml:lang="en">Alan</forename> <surname xml:lang="en">Guenther</surname> </persName>
                <persName resp="#pAM" xml:id="pBC" xml:lang="en"> <forename xml:lang="en">Basma</forename> <surname xml:lang="en">Chebani</surname> </persName>
+               <persName resp="#pAM" xml:id="pMG" xml:lang="en"> <forename xml:lang="en">Mathias</forename> <surname xml:lang="en">Ghyoot</surname> </persName>
+               
                
                <!-- all contributors should be included here and their contributions should be marked with the @resp attributed and a reference to the contributor's xml:id -->
             </respStmt>
@@ -142,6 +145,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-03-11" who="#pAM" xml:lang="en">added Mathia Ghyoot as contributor</change>
          <change when="2025-05-12" who="#pAM" xml:lang="en">added Alan Guenther as contributor</change>
          <change when="2023-11-03" who="#pAM" xml:lang="en">added Will Hanley as contributor</change>
          <change when="2022-12-02" who="#pAM" xml:lang="en">added Johannes Makar as contributor</change>
@@ -262,7 +266,7 @@
             <head xml:lang="en">A Chronology of Arabic Periodicals <hi rend="normalweight" xml:lang="en">(1800-1929)</hi>:</head>
             <head xml:lang="en">A Research Tool</head>
             <p xml:id="p1" xml:lang="en">2020 Edition</p>
-            <p xml:id="p3" xml:lang="en">Contributions from Hala Auji, Basma Chebani, Philippe Chevrant, Raph Cormack, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Ulrike Freitag, Till Grallert, Alan Guenther, Will Hanley, Rana Issa, Nicole Khayat, Peter Magierski, Johannes Makar, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
+            <p xml:id="p3" xml:lang="en">Contributions from Hala Auji, Basma Chebani, Philippe Chevrant, Raph Cormack, Marina Demetriadou, Lamia Eid, Stacy Fahrenthold, Ulrike Freitag, Mathias Ghyoot, Till Grallert, Alan Guenther, Will Hanley, Rana Issa, Nicole Khayat, Peter Magierski, Johannes Makar, Leyla von Mende, Adam Mestyan, Christian Meier, Daniel Newman, Geoffrey Roper, Sinai Rusinek, Philip Sadgrove, Ola Seif,
                and Rogier Visser</p>
             <p xml:id="p4" xml:lang="en">Prepared and supervised by Adam Mestyan</p>
             <p xml:id="p5" xml:lang="en"> Original 2012 Edition TEI XML-Markup, digital publication, concept and design of the website by Till Grallert</p>
@@ -3467,7 +3471,7 @@
                   <cell n="7"/>
                   <cell n="8"/>
                   <cell n="9" xml:lang="und-Latn">
-                     <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs>, <rs ref="#hBNF" xml:lang="und-Latn">BnF</rs></cell>
+                     <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs></cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">التجارة</title>
                   </cell>
