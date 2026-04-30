@@ -8658,7 +8658,8 @@
                   </cell>
                   <cell n="9" xml:lang="und-Latn">
                      <rs ref="#hDKQ" xml:lang="und-Latn">DKQ</rs>, <rs ref="#hAUB" xml:lang="und-Latn">AUB</rs>?, <rs ref="#hTUB" xml:lang="und-Latn">TUB</rs>:
-                     1891-1902</cell>
+                     1891-1902, <rs ref="#hHLSL" xml:lang="und-Latn">HLSL</rs>:
+                     1894, 1903</cell>
                   <cell change="#d2e947" n="10">
                      <title level="j" xml:lang="ar">المحاكم</title>
                   </cell>
@@ -87767,6 +87768,10 @@
                   <p xml:id="hUCLA" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2025-12-07"/>added</note> <choice xml:lang="und-Latn">
                         <abbr xml:lang="und-Latn">UCLA</abbr>
                         <expan xml:lang="und-Latn">University of California - Los Angeles Library</expan>
+                  </choice> </p>
+                  <p xml:id="hHLSL" xml:lang="und-Latn"> <note xml:lang="und-Latn"> <date when="2025-12-07"/>added</note> <choice xml:lang="und-Latn">
+                        <abbr xml:lang="und-Latn">HLSL</abbr>
+                        <expan xml:lang="und-Latn">Harvard Law School Library</expan>
                   </choice> </p>
                </div>
             </div>
